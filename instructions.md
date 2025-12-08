@@ -13,7 +13,6 @@
   - Food (Non-Sushi: Ramen, Tempura, Okonomiyaki, Yakiniku, etc.)
   - Shopping (Stationery, Cute items, Cosmetics)
 
-
 ## Top Priorities
 
 - **Universal Studios Japan (Osaka):** Super Nintendo World.
