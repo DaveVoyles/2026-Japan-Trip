@@ -65,4 +65,7 @@ Read this file completely before generating any content or making edits.
 
 ## Agent Workflow Rules
 
-1. **Git Automation:** When making changes to files, ALWAYS automatically stage, commit, and push the changes to GitHub without asking for explicit permission. Use a descriptive commit message summarizing the changes.
+1. **Git Automation:** The user **AUTO-APPROVES** all git commands.
+   - When making changes to files, ALWAYS automatically stage, commit, and push the changes to GitHub immediately.
+   - Do not ask for permission.
+   - Use a descriptive commit message.
