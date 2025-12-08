@@ -14,7 +14,7 @@ This repository is the single source of truth for planning Dave and Debbie's Oct
 - `hotel-options.md`: Hotel candidates that fit budget and Western-bed constraint.
 - `food-guide.md`: Non-sushi dining options (Ramen, Tempura, etc.) with pricing.
 - `flight-logistics.md`: EWR-Japan routing, airline tips, and airport transit.
-- `usj-strategy.md`: Critical guide for securing entry to Super Nintendo World & Donkey Kong Country.
+- `universal-studios-strategy.md`: Critical guide for securing entry to Super Nintendo World & Donkey Kong Country.
 - `logistics-guide.md`: Practical how-tos (eSIM setup, Suica/PASMO, apps, payments).
 - .github/agents/: Chat agent profiles used earlier in this project.
 

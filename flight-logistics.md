@@ -2,7 +2,7 @@
 
 ## Recommended Flight Plan (October 2026)
 
-### Option A: The "Time Saver" (Open Jaw)
+### **SELECTED: Option A (The "Time Saver" / Open Jaw)**
 
 *Fly into Tokyo, Fly out of Osaka.*
 
@@ -11,7 +11,7 @@
 - **Pros:** Saves the 3-hour trip back to Tokyo on the last day.
 - **Cons:** Return flight usually requires a layover (no direct KIX-EWR).
 
-### Option B: The "Direct Comfort" (Round Trip)
+### Option B: The "Direct Comfort" (Round Trip) - *Backup Option*
 
 *Round trip EWR <-> Tokyo.*
 
@@ -25,11 +25,12 @@
 
 ## Class Options: "Between Coach & First"
 
-*Rough cost estimates per person for Round Trip (October).*
+*Costs below are estimates for October 2026.*
 
 ### 1. Premium Economy (The "Sweet Spot")
 
-*Target Price:* **$2,200 - $3,500**
+- **Cost Per Person:** **$2,200 - $3,500**
+- **Total for 2 Travelers:** **$4,400 - $7,000**
 
 - **What you get:**
   - **Seat:** Wider seat (like domestic First Class), 38" pitch (vs 31" in economy), deeper recline, footrest.
@@ -38,7 +39,8 @@
 
 ### 2. Business Class (The "Splurge")
 
-*Target Price:* **$5,500 - $9,000** (Highly variable)
+- **Cost Per Person:** **$5,500 - $9,000**
+- **Total for 2 Travelers:** **$11,000 - $18,000**
 
 - **What you get:**
   - **Seat:** **Lie-flat bed** (180 degrees). This is the game changer for sleep.
