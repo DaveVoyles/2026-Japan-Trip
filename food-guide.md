@@ -123,10 +123,10 @@
 
 *Perfect for early 6:30 AM starts. 7-Eleven in Japan is a completely different tier of quality compared to the US. The food is delivered fresh multiple times a day, and the turnover is incredibly high.*
 
-| Est Cost | URL | Details | Availability | English Friendly |
-| :--- | :--- | :--- | :--- | :--- |
-| $ | N/A | **Egg Salad Sandwich:** (7-Eleven is king). The bread is impossibly soft and fluffy (shokupan), and the egg filling is rich and creamy without being heavy. It is a cult favorite for a reason. | Everywhere. | High |
-| $ | N/A | **Onigiri (Rice Balls):** The packaging is designed to keep the seaweed crisp until you open it. Try the "Tuna Mayo" (safe bet) or "Salmon." The rice quality is surprisingly high. | Everywhere. | High |
-| $ | N/A | **Hot Snacks (Counter):** "Nana-chiki" (Boneless fried chicken) is juicy and spiced perfectly. "American Dog" is a corn dog with a crisper batter. These are located next to the register. | Everywhere. | High |
-| $ | N/A | **Bento Boxes:** Look for the "Oyakodon" (Chicken and Egg bowl) or Pasta dishes. They will heat it up for you at the counter ("Atatamemasu ka?"). The quality rivals casual restaurants. | Everywhere. | High |
-| $ | N/A | **Desserts:** The "Double Cream Puff" (custard and whipped cream) is legendary. Also look for "Mochi" sweets with cream fillings. The refrigerated dessert section is high-quality patisserie level. | Everywhere. | High |
+| Est Cost | Details | Availability | English Friendly |
+| :--- | :--- | :--- | :--- |
+| $ | **Egg Salad Sandwich:** (7-Eleven is king). The bread is impossibly soft and fluffy (shokupan), and the egg filling is rich and creamy without being heavy. It is a cult favorite for a reason. | Everywhere. | High |
+| $ | **Onigiri (Rice Balls):** The packaging is designed to keep the seaweed crisp until you open it. Try the "Tuna Mayo" (safe bet) or "Salmon." The rice quality is surprisingly high. | Everywhere. | High |
+| $ | **Hot Snacks (Counter):** "Nana-chiki" (Boneless fried chicken) is juicy and spiced perfectly. "American Dog" is a corn dog with a crisper batter. These are located next to the register. | Everywhere. | High |
+| $ | **Bento Boxes:** Look for the "Oyakodon" (Chicken and Egg bowl) or Pasta dishes. They will heat it up for you at the counter ("Atatamemasu ka?"). The quality rivals casual restaurants. | Everywhere. | High |
+| $ | **Desserts:** The "Double Cream Puff" (custard and whipped cream) is legendary. Also look for "Mochi" sweets with cream fillings. The refrigerated dessert section is high-quality patisserie level. | Everywhere. | High |
