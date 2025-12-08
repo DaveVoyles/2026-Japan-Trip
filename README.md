@@ -2,7 +2,7 @@
 
 **ATTENTION CHAT AGENTS:** Start here.
 
-1. **Read [instructions.md](instructions.md) FIRST.** It contains the critical constraints (budget, travelers,
+1. **Read [chat-agent-instructions.md](chat-agent-instructions.md) FIRST.** It contains the critical constraints (budget, travelers,
    preferences) you must follow.
 2. Use this README to locate specific files for the task at hand.
 
@@ -18,7 +18,7 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 
 ## Key Files
 
-- [instructions.md](instructions.md): Core preferences, priorities, rules, and tech stack.
+- [chat-agent-instructions.md](chat-agent-instructions.md): Core preferences, priorities, rules, and tech stack.
 - [japan-itinerary.md](japan-itinerary.md): Day-by-day plan (target length: 8 days, early starts).
 - [hotel-options.md](hotel-options.md): Hotel candidates that fit budget and Western-bed constraint.
 - [food-guide.md](food-guide.md): Non-sushi dining options (Ramen, Tempura, etc.) with pricing.
@@ -49,7 +49,7 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 - Model in use: GitHub Copilot using GPT-5.
 - Autonomy: Agents may edit docs and perform Git actions without asking for permission.
 - Default flow:
-  1. Read instructions.md for constraints.
+  1. Read chat-agent-instructions.md for constraints.
   2. Update japan-itinerary.md or hotel-options.md to keep alignment with constraints.
   3. Add practical steps to logistics-guide.md when new logistics arise (e.g., transit tips, app usage).
   4. Commit with descriptive messages and push to main.
