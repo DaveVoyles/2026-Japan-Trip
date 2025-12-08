@@ -9,14 +9,15 @@ This repository is the single source of truth for planning Dave and Debbie's Oct
 - Maintain a clean, versioned history via GitHub.
 
 ## Key Files
-- instructions.md: Core preferences, priorities, rules, and tech stack.
-- `japan-itinerary.md`: Day-by-day plan (target length: 8 days, early starts).
-- `hotel-options.md`: Hotel candidates that fit budget and Western-bed constraint.
-- `food-guide.md`: Non-sushi dining options (Ramen, Tempura, etc.) with pricing.
-- `flight-logistics.md`: EWR-Japan routing, airline tips, and airport transit.
-- `universal-studios-strategy.md`: Critical guide for securing entry to Super Nintendo World & Donkey Kong Country.
-- `logistics-guide.md`: Practical how-tos (eSIM setup, Suica/PASMO, apps, payments).
-- .github/agents/: Chat agent profiles used earlier in this project.
+
+- [instructions.md](instructions.md): Core preferences, priorities, rules, and tech stack.
+- [japan-itinerary.md](japan-itinerary.md): Day-by-day plan (target length: 8 days, early starts).
+- [hotel-options.md](hotel-options.md): Hotel candidates that fit budget and Western-bed constraint.
+- [food-guide.md](food-guide.md): Non-sushi dining options (Ramen, Tempura, etc.) with pricing.
+- [flight-logistics.md](flight-logistics.md): EWR-Japan routing, airline tips, and airport transit.
+- [universal-studios-strategy.md](universal-studios-strategy.md): Critical guide for securing entry to Super Nintendo World & Donkey Kong Country.
+- [logistics-guide.md](logistics-guide.md): Practical how-tos (eSIM setup, Suica/PASMO, apps, payments).
+- [.github/agents/](.github/agents/): Chat agent profiles used earlier in this project.
 
 ## Trip Constraints (Quick Reference)
 - **Budget:**  total; hotels  /night; meals: breakfast/lunch <, dinner  .

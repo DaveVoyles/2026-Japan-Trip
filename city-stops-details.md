@@ -11,13 +11,13 @@
   - *Nintendo Tokyo:* Official merch store.
   - *Capcom Store:* Monster Hunter/Street Fighter goods.
 - **Nakano Broadway (Dave):** Old school anime cels and rare toys.
-- **Aoyama Flower Market Tea House (Wife):** Focus on the greenhouse ambience and flowers (Minato City).
-- **Nezu Museum (Wife):** Stunning private garden (near Aoyama).
-- **Kappabashi Street (Wife):** Buy realistic plastic food samples and Japanese ceramics.
-- **Depachika (Basement Food Halls) (Wife):**
+- **Aoyama Flower Market Tea House (Debbie):** Focus on the greenhouse ambience and flowers (Minato City).
+- **Nezu Museum (Debbie):** Stunning private garden (near Aoyama).
+- **Kappabashi Street (Debbie):** Buy realistic plastic food samples and Japanese ceramics.
+- **Depachika (Basement Food Halls) (Debbie):**
   - *Isetan Shinjuku:* The "king" of food halls. Incredible cakes/pastries.
   - *Ginza Mitsukoshi:* High-end fruits and sweets.
-- **Stationery Shopping (Wife):**
+- **Stationery Shopping (Debbie):**
   - *Itoya (Ginza):* 12 floors of stationery.
   - *Loft (Shibuya):* Massive variety of cute goods.
 
@@ -39,8 +39,8 @@
 - **Kinkaku-ji:** The Golden Pavilion. Iconic but crowded.
 - **Kiyomizu-dera:** Massive wooden stage with great views of the city.
 - **Arashiyama Bamboo Grove:** Magical early in the morning.
-- **Kyoto Botanical Gardens (Wife):** Great for autumn flowers (Cosmos, Roses).
-- **Nishiki Market (Wife):** "Kyoto's Kitchen" - soy milk donuts, skewers, knives/spices.
+- **Kyoto Botanical Gardens (Debbie):** Great for autumn flowers (Cosmos, Roses).
+- **Nishiki Market (Debbie):** "Kyoto's Kitchen" - soy milk donuts, skewers, knives/spices.
 - **Philosopher's Path:** Peaceful canal walk.
 
 ### Things to avoid

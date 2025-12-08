@@ -7,7 +7,7 @@
   - Foxes (Statues/Shrines or Real)
   - Temples & Shrines
   - Sushi
-- **Wife:**
+- **Debbie:**
   - Flowers / Gardens
   - Baked Goods / Pastries / Sweets
   - Food (Non-Sushi: Ramen, Tempura, Okonomiyaki, Yakiniku, etc.)
@@ -28,7 +28,7 @@
 
 1. **Currency:** ALWAYS list prices in both Japanese Yen (JPY) and US Dollars (USD).
    Use a conservative exchange rate (e.g., 150 JPY = $1 USD for easy math, or current rates).
-2. **Food:** Ensure dining options include non-sushi choices for the wife.
+2. **Food:** Ensure dining options include non-sushi choices for Debbie.
 3. **Locations:** Prioritize "Hub" locations for hotels to minimize travel friction during split activities.
 
 ## Logistics & Preferences
