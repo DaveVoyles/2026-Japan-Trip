@@ -55,20 +55,38 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 
 ## 🍄 Super Nintendo World: The Experience
 
-### Attractions
+*It's not just a theme park; it's a living video game.*
+
+### The Vibe
+
+- **Immersion:** You enter through a green warp pipe. The moment you exit, you are surrounded by spinning coins,
+  moving Thwomps, and walking Goombas.
+- **Sound:** The music changes as you move between areas (Peach's Castle, Underground, Bowser's Castle).
+- **Binoculars:** Look for AR binoculars on the upper deck. You can see Rosalina and Pikmin flying around!
+
+### Attractions (Detailed)
 
 1. **Mario Kart: Koopa's Challenge:**
    - **Type:** AR Dark Ride / Shooter.
-   - **Tip:** The steering wheel actually works! Steer with the arrows to earn coins.
+   - **Queue:** A walk through Bowser's Castle. You'll see his library, bomb-omb factory, and trophies.
+     *Look for the book "How to Date a Princess" in the library.*
+   - **The Ride:** You wear an AR visor (Mario cap). You steer a kart and shoot shells at Team Bowser.
+   - **Tip:** The steering wheel actually works! Steer with the arrows to earn coins. If you get hit, you spin out.
 2. **Yoshi's Adventure:**
    - **Type:** Slow-moving scenic ride (Omnimover).
    - **Best For:** Incredible views of the land and Donkey Kong Country. Great for photos.
+   - **Hidden Goal:** Find the 3 colored eggs during the ride to earn a stamp in your app.
 3. **Power-Up Band Key Challenges:**
-   - **The Gimmick:** Buy a band to interact with the land.
-   - **Cost:** ~4,200 JPY ($28 USD).
+   - **The Gimmick:** Buy a band (~$30) to interact with the land.
    - **The Goal:** Collect 3 Keys from mini-games to unlock the **Bowser Jr. Shadow Showdown**.
-   - **Mini-Games:** Goomba Crazy Crank, Piranha Plant Nap Mishap, Koopa Troopa POWer Punch, Bob-omb Kaboom Room,
-     Thwomp Panel Panic.
+   - **Mini-Games:**
+     - **Goomba Crazy Crank:** Spin a wheel fast to knock a Goomba off a roller.
+     - **Piranha Plant Nap Mishap:** Turn off alarm clocks before the plant wakes up. (Teamwork required!)
+     - **Koopa Troopa POWer Punch:** Time a POW block hit to launch a shell.
+     - **Bob-omb Kaboom Room:** Assemble a key puzzle before the bomb explodes.
+     - **Thwomp Panel Panic:** Flip tiles to match colors before time runs out.
+   - **Boss Battle:** **Bowser Jr. Shadow Showdown.** You use your body to dodge Bullet Bills and throw fireballs
+     (via your shadow) on a giant screen.
 
 ### Food & Drink 🍔
 
@@ -76,8 +94,10 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 
 - **Kinopio's Cafe (Toad Cafe):**
   - **Cost:** Mains ~2,500 JPY ($17 USD); Drinks ~800 JPY ($5 USD).
-  - **Must Order:** Super Mushroom Pizza Bowl, Piranha Plant Caprese, ? Block Tiramisu.
+  - **Must Order:** Super Mushroom Pizza Bowl (Bread bowl with tomato soup/pizza toppings), Piranha Plant Caprese,
+    ? Block Tiramisu.
   - **Strategy:** Get a "Timed Entry Ticket" for the restaurant immediately upon entering the land.
+    Scan the QR code at the entrance.
 - **Yoshi's Snack Island:**
   - **Cost:** ~800 JPY ($5 USD) per item.
   - **Must Try:** Green Shell Calzone (Yakisoba & Cheese filling), Yoshi's Lassi (Mango/Melon).
@@ -87,15 +107,37 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 
 ## 🦍 Donkey Kong Country Expansion
 
+*The Jungle is alive.*
+
 DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area with interactive drums and a coaster.
 
 ### Attractions
 
 1. **Mine Cart Madness:**
    - **Type:** Family Coaster (but thrilling).
-   - **Gimmick:** The cart "jumps" over broken tracks (simulated).
+   - **Gimmick:** The cart "jumps" over broken tracks (simulated). You launch out of a barrel cannon at the start.
+   - **Queue:** Walks through the Golden Temple. Look for Cranky Kong!
 2. **Interactive Drums:**
    - Use your Power-Up Band to play rhythm games with Conga drums scattered around the jungle.
+   - **Rambi the Rhino:** Look for the Rambi crate. Scan your band to summon him!
+
+### Food (Jungle Eats)
+
+- **Jungle Beat Shakes:** Banana-heavy treats.
+- **DK's Banana Coin:** A chocolate coin treat.
+
+## 🕵️ Hidden Secrets & Tips
+
+- **Underground Level:** There is a "hidden" underground area near the exit of the land. It has Bob-ombs and unique
+  blocks to punch.
+- **Pikmin:** Look closely at the scenery. There are tiny Pikmin carrying items in hidden spots (often high up or in
+  corners).
+- **M Blocks:** Punch the blocks! Even if you don't have a band, they make the coin sound. With a band, you collect
+  coins for the leaderboard.
+- **Stamps:** Check the USJ App. There are achievements for doing specific things (e.g., "Punch 100 blocks",
+  "Beat the Goomba game 3 times").
+- **Night Mode:** The land transforms at night. The lighting is spectacular, and the crowds often thin out slightly
+  in the last hour before closing.
 
 ## 🛍️ Merchandise & Souvenirs
 
