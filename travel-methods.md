@@ -2,90 +2,157 @@
 
 ## ✈️ International Flights (EWR <-> Japan)
 
-- **Route:** Newark (EWR) to Tokyo (NRT/HND).
-- **Duration:** ~14 hours direct.
-- **Return:** Ideally fly out of Osaka (KIX) to avoid backtracking. If round-trip Tokyo, add 3.5 hours travel on Day 8.
-- **Airlines:** United (Direct from EWR).
-- **Booking:** October is popular. Book ~11 months out (Nov 2025).
-- **Class:** Premium Economy recommended for legroom on the long haul.
+**Strategy:** "Open Jaw" (Multi-City) Ticket. Fly into Tokyo, fly out of Osaka. This saves ~4 hours of train travel and ~$100 USD on a return Shinkansen ticket.
 
-## 🚄 Inter-City (Shinkansen)
+| Est Cost (Round Trip) | Booking Method | Details | Availability | English Friendly |
+| :--- | :--- | :--- | :--- | :--- |
+| **Economy:** $1,200 - $1,600<br>(~180k - 240k JPY)<br>**Prem. Econ:** $2,200 - $3,000<br>(~330k - 450k JPY) | [United Airlines](https://www.united.com) | **Outbound:** EWR -> HND/NRT (Direct, ~14h)<br>**Return:** KIX -> SFO/LAX -> EWR (1 Stop, ~16h total) | Book 11 months out (Nov 2025) | High |
 
-- **Tokyo to Kyoto:** Tokaido Shinkansen (Nozomi is fastest, ~2h 15m).
-- **Kyoto to Osaka:** JR Special Rapid (~30 min) or Shinkansen (~15 min).
-- **Seat Types:**
-  - **Reserved:** Recommended for peace of mind.
-  - **Green Car:** First class, 2x2 seating, quieter (worth the upgrade).
-  - **Ordinary Car:** 3x2 seating, still very comfortable.
-- **Luggage:** 🧳 Use "Takkyubin" (Yamato Transport) to ship big bags from Tokyo hotel -> Kyoto hotel.
-  Travel light on the train.
+### 📝 Booking Tips
 
-## 💳 Local Transport Overview
+- **Airport Choice:**
+  - **Haneda (HND):** Much closer to Tokyo city center (30 min taxi/train). Preferred.
+  - **Narita (NRT):** Further out (60-90 min train). Often cheaper.
+- **Seat Selection:**
+  - **Premium Economy:** Highly recommended for the 14h flight. Includes wider seats, footrests, and priority boarding.
+  - **Economy Plus:** Good compromise for legroom.
 
-- **IC Cards (Essential):** Add **Suica** or **Pasmo** to your iPhone Apple Wallet *before* arrival. These work in ALL
-  cities listed below for trains, buses, and vending machines.
-- **Navigation App:** 🗺️ **Google Maps** is the gold standard. It tells you the platform number, cost, and best car to
-  board.
-- **Taxi Apps:** 🚕 **Uber** and **GO** work in major cities to hail licensed taxis.
+---
 
-## City-Specific Travel Guides
+## 🚄 Inter-City (Shinkansen & Trains)
+
+**Primary Route:** Tokyo -> Kyoto (Tokaido Shinkansen).
+
+| Ticket Type | Est Cost (One Way) | Where to Buy | Details |
+| :--- | :--- | :--- | :--- |
+| **Ordinary Car** | ~$93 USD<br>(14,000 JPY) | **SmartEx App** or Station Machines | 3x2 seating. Comfortable, plenty of legroom. |
+| **Green Car** | ~$126 USD<br>(19,000 JPY) | **SmartEx App** or Station Machines | **Recommended.** 2x2 seating, heated seats, quieter, dedicated luggage space. |
+
+### 📱 How to Buy Tickets
+
+1. **SmartEx App (Recommended):**
+   - **Download:** "SmartEx" App (iOS/Android).
+   - **Setup:** Link a credit card (Amex/Mastercard work best) and your Suica IC card number.
+   - **Usage:** Book seats on your phone. Tap your phone at the Shinkansen gate to enter. No paper ticket needed.
+   - **Timing:** Book 1 month in advance for best seats (especially Mt. Fuji side: **Seat E**).
+2. **Station Ticket Machines:**
+   - Look for green machines marked "Shinkansen".
+   - Select "English" -> "Purchase Ticket" -> "Tokaido Shinkansen".
+   - Pay with Credit Card.
+
+### 🧳 The "Baggage 160" Rule
+
+- **Rule:** If your luggage (Length + Width + Height) is **over 160cm** (approx 62 inches - standard large check-in size), you **MUST** reserve a seat with an "Oversized Baggage Area".
+- **Penalty:** If you bring a large bag without this reservation, you will be fined 1,000 JPY (~$7) and forced to move your bag.
+- **Solution:** In SmartEx, filter for "Seat with Oversized Baggage Area" (usually the last row of the car).
+
+---
+
+## 💳 Local Transport (IC Cards)
+
+**The "Suica" or "Pasmo" card is your key to the city.** It works on trains, subways, buses, and even vending machines/conbini.
+
+| Card Type | Cost | How to Get | Notes |
+| :--- | :--- | :--- | :--- |
+| **Mobile Suica**<br>(Recommended) | Free Deposit | **Apple Wallet:** Open Wallet App -> "+" -> "Transit Card" -> "Suica". | **Top-up:** Use Amex or Mastercard in Apple Wallet. Visa often fails due to foreign issuer restrictions. |
+| **Welcome Suica**<br>(Physical) | Free Deposit | **Haneda/Narita Airport:** Vending machines at arrival hall. | Valid for 28 days. No refund on balance. Good backup if phone dies. |
+
+### 💡 Usage Tips
+
+- **Tap In/Tap Out:** Tap your phone/card on the yellow reader at the ticket gate.
+- **Balance:** Keep ~2,000 JPY ($13) loaded. Max balance is 20,000 JPY ($133).
+- **Shopping:** Use it to pay at 7-Eleven, Lawson, FamilyMart, and vending machines. Look for the IC logo.
+
+---
+
+## 📦 Luggage Forwarding (Takkyubin)
+
+**Don't haul heavy bags on the train.** Ship them.
+
+| Service | Est Cost | Speed | How to Use |
+| :--- | :--- | :--- | :--- |
+| **Yamato Transport**<br>(Black Cat) | ~$15 - $25 USD<br>(2,000 - 3,500 JPY) per bag | **Next Day** delivery (usually). | Ask Hotel Front Desk: *"Takkyubin, please."* |
+
+### 📋 Procedure
+
+1. **Night Before:** Pack your large suitcase. Keep a small backpack/carry-on with essentials for 1 night.
+2. **Morning of Departure:** Bring bags to hotel lobby.
+3. **Form:** The staff will help fill out the waybill. You need the **address and phone number** of your *next* hotel.
+4. **Payment:** Usually cash only, or charged to room.
+5. **Arrival:** Your bags will be waiting in your room at the next hotel.
+
+---
+
+## 🚕 Taxi Apps
+
+| App | Availability | Payment | Notes |
+| :--- | :--- | :--- | :--- |
+| **Uber** | Tokyo, Kyoto, Osaka | In-App (Credit Card) | Hails standard taxis. Easy English interface. Slightly more expensive due to dispatch fee. |
+| **GO** | Nationwide | In-App (Credit Card) | The dominant local app. **Setup:** Requires SMS verification (can be tricky with foreign numbers). Try setting up in US first. |
+
+---
+
+## 🏙️ City-Specific Logistics
 
 ### 1. 🗼 Tokyo (The Metropolis)
 
-#### Best for: 🚃 Trains & 🚇 Subways
+#### ✈️ Airport to City
 
-- **Primary Transit:**
-  - **JR Yamanote Line (Green Loop):** Connects major hubs (Shinjuku, Shibuya, Tokyo Station).
-  - **Tokyo Metro:** Extensive subway network for inner-city travel.
-  - **Chuo Line (Orange):** Rapid cross-city travel (East-West).
-- **English Support:** Excellent. All signs and announcements are in English. Stations have alpha-numeric codes (e.g.,
-  **G-09** is Ginza Station on Ginza Line).
-- **Maps:** [Tokyo Metro Map (PDF)](https://www.tokyometro.jp/en/subwaymap/index.html)
-- **Tips:**
-  - Avoid rush hour (7:30-9:30 AM).
-  - Follow the yellow tactile paving if lost; it often leads to exits/gates.
-  - **Escalators:** Stand on the **LEFT**.
+- **Narita Express (N'EX):** Direct to Tokyo/Shinjuku/Shibuya. Covered by JR Pass (if you had one, but you don't need one). ~$20 USD.
+- **Limousine Bus:** Direct to major hotels. Best if you have lots of luggage and don't want to navigate stations. ~$20 USD. Book at airport arrival counter.
+
+#### 🚇 Getting Around
+
+- **Subway Tickets:** If you plan to ride the subway 4+ times a day, buy the **Tokyo Subway Ticket** (24/48/72 hours) at the airport or Bic Camera.
+  - **72-Hour Pass:** 1,500 JPY (~$10). Unlimited rides on Tokyo Metro & Toei Subway.
+- **Navigation:**
+  - **Exit Numbers:** CRITICAL. Google Maps will say "Exit C4". Follow signs for "C4" exactly.
+  - **Chiyoda Line (Green):** Good for Harajuku/Omotesando.
+  - **Ginza Line (Orange):** Good for Shibuya/Ginza/Asakusa.
 
 ### 2. ⛩️ Kyoto (The Cultural Capital)
 
-#### Best for: 🚇 Subway + 🚕 Taxi (Avoid Buses if possible)
+#### 🚕 The "Taxi Strategy"
 
-- **Primary Transit:**
-  - **Kyoto City Subway:** Two lines (North-South / East-West). Reliable and traffic-free.
-  - **Buses:** Comprehensive but often gridlocked.
-- **English Support:** Good. Bus stops display approaching buses in English.
-- **Maps:** [Kyoto Subway & Bus Map (PDF)](https://www2.city.kyoto.lg.jp/koho/eng/access/img/basunabieigo-rosenzu.pdf)
-- **Tips:**
-  - **Bus Warning:** 🚌 Buses are often overcrowded with tourists.
-  - **Strategy:** Take the subway to the nearest stop, then hail a taxi to the temple gate.
-  - **Walking:** The Higashiyama area (Kiyomizu-dera to Gion) is best explored on foot.
+Kyoto's trains are limited, and buses are miserable (crowded).
+
+- **Rule:** Take the Subway to the *closest* station, then hail a taxi for the "last mile" to the temple.
+- **MK Taxi:** A premium, English-friendly taxi fleet. Look for the heart logo on the roof.
+- **Cost:** Short rides are ~1,000 - 2,000 JPY ($7 - $13). Worth every penny to save energy.
+
+#### 🚶 Walking Routes
+
+- **Higashiyama:** Start at **Kiyomizu-dera** (top of hill) and walk *down* through Sannenzaka/Ninenzaka to Gion. Do not walk up.
+- **Fushimi Inari:** Go at 6:30 AM. Take JR Nara Line to Inari Station (right in front of gate).
 
 ### 3. 🐙 Osaka (The Kitchen of Japan)
 
-#### Best for: 🚇 Subway (Midosuji Line)
+#### 🎢 Universal Studios Japan (USJ) Access
 
-- **Primary Transit:**
-  - **Osaka Metro (Midosuji Red Line):** The main artery connecting Shin-Osaka (Shinkansen), Umeda (North), and Namba (South).
-  - **JR Loop Line:** Circles the city center.
-- **English Support:** Good.
-- **Maps:** [Osaka Metro Map](https://subway.osakametro.co.jp/en/guide/routemap.php)
-- **Tips:**
-  - **Escalators:** Stand on the **RIGHT** (Opposite of Tokyo!).
-  - **USJ Access:** Take the JR Loop Line to Nishikujo, transfer to the Yumesaki Line.
+- **Route:** Osaka Station -> (JR Osaka Loop Line) -> Nishikujo Station -> (Transfer to JR Yumesaki Line) -> Universal City Station.
+- **Time:** ~15-20 mins.
+- **Cost:** ~190 JPY ($1.25).
+- **Crowds:** The train *will* be packed with Mario/Harry Potter fans. Follow the crowd.
 
-### 4. 🦌 Nara (The Deer Park)
+#### 🚇 Osaka Metro
 
-#### Best for: 🚶 Walking
+- **Midosuji Line (Red):** The only line you really need.
+  - **Umeda:** North hub (Shopping, Pokemon Center).
+  - **Shinsaibashi:** Shopping arcade.
+  - **Namba:** Dotonbori (Food, Glico Man).
 
-- **Primary Transit:** Your feet. The park and temples are walkable from the stations.
-- **Access:**
-  - **Kintetsu Nara Station:** Closer to the park (Recommended). Walk up Sanjo-dori shopping street to reach the park.
-  - **JR Nara Station:** 15-20 min walk to the park.
-- **Maps:** [Nara Park Map (PDF)](https://www.visitnara.jp/assets/pdf/nara_park_map.pdf)
-- **Tips:**
-  - Use the **Kintetsu Line** from Kyoto for the fastest access (~35 mins).
+### 4. 🦌 Nara (Day Trip)
 
-## 🍂 October Specifics
+#### 🦌 Getting There
 
-- **Clothing:** 🧥 Layers. T-shirt + light jacket/cardigan. Comfortable sneakers are non-negotiable (15k+ steps/day).
-- **Daylight:** ☀️ Sun sets around 5:00 PM. Plan outdoor sights early.
+- **From Kyoto:**
+  - **Kintetsu Line (Recommended):** Express train to **Kintetsu-Nara Station**.
+  - **Cost:** ~1,200 JPY ($8) for Limited Express (Reserved Seat).
+  - **Why:** Station is 5 min walk to Deer Park.
+- **From Osaka:**
+  - **Kintetsu Line:** From Namba Station to Kintetsu-Nara. ~40 mins.
+
+#### 🍪 Deer Etiquette
+
+- **Shika Senbei (Deer Crackers):** 200 JPY ($1.30). Buy them at stalls.
+- **Warning:** The deer *will* bow for food, but they can also bite/headbutt if you tease them. Hide the crackers if you get swarmed.
