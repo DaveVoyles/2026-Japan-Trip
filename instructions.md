@@ -1,4 +1,7 @@
-# Trip Planning Instructions & Context
+# Chat Agent Instructions & Trip Context
+
+**ATTENTION AGENTS:** This file is your primary source of truth for trip preferences, constraints, and planning rules.
+Read this file completely before generating any content or making edits.
 
 ## Travelers & Interests
 
