@@ -1,19 +1,19 @@
 # Japan Trip Itinerary - October 2026
 
-## Overview
+## 📝 Overview
 
 - **Dates:** October 2026 (Target: Mid-October for pleasant weather/early autumn leaves).
 - **Duration:** 8 Days (Ideal target length).
 - **Travelers:** Dave (Gaming, Foxes, Temples, Sushi) & Debbie (Flowers, Baked Goods, Non-Sushi Food)
 - **Rhythm:** **Early Risers (6:30 AM Start)** to beat crowds.
 
-## Strategy: "Together & Apart"
+## 🤝 Strategy: "Together & Apart"
 
 To balance interests, some afternoons feature "Split Paths" where you pursue separate hobbies nearby and meet up for dinner.
 
 ---
 
-## Leg 1: Tokyo (Days 1-3)
+## 🗼 Leg 1: Tokyo (Days 1-3)
 
 - **City:** Tokyo
 - **Arrive:** Tuesday (Day 1) via NRT/HND
@@ -21,7 +21,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Key Stops:** Senso-ji, Akihabara, Meiji Shrine, Shibuya Parco, Harajuku, Ginza/Shinjuku.
 - **Details:** [See Tokyo City Stops](./city-stops-details.md#tokyo)
 
-### Day 1: Arrival in Tokyo (Tuesday)
+### 🛬 Day 1: Arrival in Tokyo (Tuesday)
 
 - **Morning/Afternoon:** Arrive NRT/HND from Newark (EWR).
 - **Transfer:** Hotel in **Ginza** (Recommended for Debbie's shopping) or **Shinjuku**.
@@ -31,7 +31,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Dinner:** Izakaya (Japanese Pub) - offers variety for both (Yakitori, fried foods, sashimi).
 - **Bed:** 9:00 PM (Force the schedule).
 
-### Day 2: Old Tokyo & The "Split" (Wednesday)
+### ⛩️ Day 2: Old Tokyo & The "Split" (Wednesday)
 
 - **06:30 AM (Together):** **Senso-ji Temple (Asakusa)**.
   - *Why:* Beat the massive crowds. Photos are better.
@@ -43,7 +43,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Late Afternoon (Together):** Meet in Akihabara or Ueno.
 - **Dinner:** Tonkatsu (Breaded Pork Cutlet) - safe for non-sushi eaters, delicious.
 
-### Day 3: Pop Culture & Flowers (Thursday)
+### 🌸 Day 3: Pop Culture & Flowers (Thursday)
 
 - **06:30 AM (Together):** **Meiji Shrine** (Forest in the city). Peaceful morning walk.
 - **Breakfast:** Pancakes in Harajuku (famous for fluffy pancakes).
@@ -55,7 +55,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 ---
 
-## Leg 2: Kyoto (Days 4-6)
+## 🍵 Leg 2: Kyoto (Days 4-6)
 
 - **City:** Kyoto
 - **Arrive:** Friday Morning (Day 4) via Shinkansen
@@ -63,7 +63,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Key Stops:** Fushimi Inari, Arashiyama Bamboo Grove, Kinkaku-ji, Gion, Nara Park (Day Trip).
 - **Details:** [See Kyoto City Stops](./city-stops-details.md#kyoto)
 
-### Day 4: Bullet Train to Foxes (Friday)
+### 🚄 Day 4: Bullet Train to Foxes (Friday)
 
 - **07:00 AM:** Shinkansen to Kyoto (~2.5 hrs). Buy "Ekiben" (station bento) - huge variety.
 - **Morning (Together):** **Fushimi Inari Shrine**.
@@ -72,7 +72,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Late Afternoon:** Check into Kyoto Hotel.
 - **Dinner:** Gion District. Try **Okonomiyaki** (Savory pancake) or Tempura.
 
-### Day 5: Bamboo & Gold (Saturday)
+### 🎋 Day 5: Bamboo & Gold (Saturday)
 
 - **06:30 AM (Together):** **Arashiyama Bamboo Grove**.
   - *Why:* It is magical at 6:30 AM and a nightmare at 10:00 AM.
@@ -82,7 +82,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Afternoon (Together):** **Kinkaku-ji (Golden Pavilion)**.
 - **Evening:** Pontocho Alley (atmospheric dining by the river).
 
-### Day 6: Deer & Shopping (Sunday)
+### 🦌 Day 6: Deer & Shopping (Sunday)
 
 - **07:30 AM (Together):** Train to **Nara Park** (45 min). [See Nara Details](./city-stops-details.md#nara-day-trip)
   - *Activity:* Bowing deer, Todai-ji Temple (Giant Buddha).
@@ -93,7 +93,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 ---
 
-## Leg 3: Osaka (Days 7-8)
+## 🐙 Leg 3: Osaka (Days 7-8)
 
 - **City:** Osaka
 - **Arrive:** Monday Morning (Day 7) via Train
@@ -101,7 +101,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Key Stops:** Universal Studios Japan (Super Nintendo World), Dotonbori.
 - **Details:** [See Osaka City Stops](./city-stops-details.md#osaka)
 
-### Day 7: SUPER NINTENDO WORLD (Monday)
+### 🍄 Day 7: SUPER NINTENDO WORLD (Monday)
 
 - **06:00 AM:** Train to Osaka (30 min). Drop bags at hotel.
 - **07:30 AM:** Arrive at **Universal Studios Japan** gates.
@@ -112,7 +112,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Evening:** **Dotonbori** neon lights.
 - **Dinner:** Kushikatsu (Deep fried skewers) - iconic Osaka food.
 
-### Day 8: Departure (Tuesday)
+### 🛫 Day 8: Departure (Tuesday)
 
 - **Morning:** Last minute shopping.
   - *Debbie:* Don Quijote for snacks/cosmetics.
@@ -121,7 +121,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 ---
 
-## Notes on October
+## 🍂 Notes on October
 
 - **Weather:** Highs 65-75F (18-24C). Perfect for walking.
 - **Flowers:** Cosmos flowers (Showa Kinen Park - Tokyo), Roses, early Autumn foliage in mountains.
