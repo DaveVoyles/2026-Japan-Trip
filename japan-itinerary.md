@@ -2,8 +2,8 @@
 
 ## Overview
 
-- **Dates:** October 2026 (Target: Mid-October for pleasant weather/early autumn leaves)
-- **Duration:** 8 Days (Consider extending to 10 if possible)
+- **Dates:** October 2026 (Target: Mid-October for pleasant weather/early autumn leaves).
+- **Duration:** 8 Days (Ideal target length).
 - **Travelers:** Dave (Gaming, Foxes, Temples, Sushi) & Wife (Flowers, Baked Goods, Non-Sushi Food)
 - **Rhythm:** **Early Risers (6:30 AM Start)** to beat crowds.
 
