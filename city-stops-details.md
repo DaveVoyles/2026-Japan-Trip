@@ -2,10 +2,10 @@
 
 | Cost | Description |
 | :--- | :--- |
-| $ | Cheapest |
-| $$ | More expensive |
-| $$$ | Expensive |
-| $$$$ | Most expensive |
+| $ | Under $15 USD (Budget) |
+| $$ | $15 - $50 USD (Moderate) |
+| $$$ | $50 - $150 USD (Expensive) |
+| $$$$ | $150+ USD (Luxury / Special Access) |
 
 ## Tokyo
 
