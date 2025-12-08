@@ -6,7 +6,7 @@
 - [ ] **Book Flights (CRITICAL)**
     -   **Window:** Open now (330 days in advance).
     -   **Action:** Monitor prices for EWR -> HND and KIX -> EWR.
-    -   **Target:** Premium Economy (~,400 - ,000 total).
+    -   **Target:** Premium Economy (~$4,400 - $7,000 total).
     -   *Note:* October is peak season. Book sooner rather than later.
 
 ## **Phase 2: Accommodation (Jan - April 2026)**
