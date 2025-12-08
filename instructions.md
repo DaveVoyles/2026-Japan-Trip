@@ -47,6 +47,7 @@ Read this file completely before generating any content or making edits.
 - **Daily Rhythm:** Early Risers (6:30 AM start to beat crowds). End day by 10:00 PM.
 - **Walking Tolerance:** High (6-8 miles/day). Happy to use public transit.
 - **Accommodation Style:** Western beds ONLY. No Tatami mats.
+- **Language:** English ONLY. Assume no Japanese speaking or reading ability.
 - **Connectivity:** eSIM (Primary for iPhone 15).
 
 ## Tech Stack
