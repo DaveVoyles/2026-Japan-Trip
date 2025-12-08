@@ -4,9 +4,9 @@
 
 **Note:** This is a high-level overview. For daily hour-by-hour plans, please refer to the detailed city itineraries:
 
-- [Tokyo Detailed Itinerary](./tokyo-detailed-itinerary.md)
-- [Kyoto Detailed Itinerary](./kyoto-detailed-itinerary.md)
-- [Osaka Detailed Itinerary](./osaka-detailed-itinerary.md)
+- [Tokyo Detailed Itinerary](./Detailed%20Itinerary/tokyo-detailed-itinerary.md)
+- [Kyoto Detailed Itinerary](./Detailed%20Itinerary/kyoto-detailed-itinerary.md)
+- [Osaka Detailed Itinerary](./Detailed%20Itinerary/osaka-detailed-itinerary.md)
 
 - **Dates:** October 2026 (Target: Mid-October for pleasant weather/early autumn leaves).
 - **Duration:** 8 Days (Ideal target length).
