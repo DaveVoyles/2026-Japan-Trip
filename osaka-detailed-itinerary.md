@@ -8,13 +8,13 @@
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |
 | **06:00** | **Train to Osaka** | Early train from Kyoto (~30 mins). Drop bags at hotel (Namba recommended). | $ |
-| **07:30** | **USJ Gates** | Arrive at **Universal Studios Japan**. Scan tickets immediately for *Area Timed Entry* to Nintendo World. | UTF8UTF8 |
+| **07:30** | **USJ Gates** | Arrive at **Universal Studios Japan**. Scan tickets immediately for *Area Timed Entry* to Nintendo World. | $$$$ |
 | **08:00** | **Nintendo World** | **Priority:** *Donkey Kong Country* & *Mario Kart*. Punch blocks with Power-Up Bands. | - |
-| **13:00** | **Lunch** | **Kinopio's Cafe** (Toad's Cafe) if you can get a ticket, or *Yoshi's Snack Island* for Green Shell Calzones. | UTF8 |
+| **13:00** | **Lunch** | **Kinopio's Cafe** (Toad's Cafe) if you can get a ticket, or *Yoshi's Snack Island* for Green Shell Calzones. | $$ |
 | **15:00** | **Explore USJ** | Visit *Harry Potter* area (Butterbeer) or *Jurassic Park*. | - |
 | **18:00** | **Leave USJ** | Train back to central Osaka (Namba/Dotonbori). | $ |
 | **19:00** | **Dotonbori** | See the **Glico Man** sign. Soak in the neon lights. | Free |
-| **20:00** | **Dinner** | **Kushikatsu** (Deep Fried Skewers).<br>*Recommendation:* **Kushikatsu Daruma** ("No Double Dipping!"). | UTF8 |
+| **20:00** | **Dinner** | **Kushikatsu** (Deep Fried Skewers).<br>*Recommendation:* **Kushikatsu Daruma** ("No Double Dipping!"). | $$ |
 | **21:30** | **Bed** | Crash after a long day of walking. | - |
 
 ##  Day 8: Last Bites & Departure (Tuesday)
@@ -22,7 +22,6 @@
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |
 | **08:00** | **Breakfast** | **Rikuro Ojisan** (Namba). Get the freshly baked jiggly cheesecake. | $ |
-| **09:30** | **Shopping** | **Don Quijote** (Dotonbori) for last-minute souvenirs/snacks (KitKats).<br>Or **Den Den Town** for anime goods. | UTF8 |
+| **09:30** | **Shopping** | **Don Quijote** (Dotonbori) for last-minute souvenirs/snacks (KitKats).<br>Or **Den Den Town** for anime goods. | $$ |
 | **12:00** | **Lunch** | **551 Horai** (Pork Buns). Grab a box to eat before heading to the airport. | $ |
-| **14:00** | **Departure** | Train to **KIX** (Kansai Airport) or Shinkansen back to Tokyo/NRT depending on flight. | UTF8 |
-
+| **14:00** | **Departure** | Train to **KIX** (Kansai Airport) or Shinkansen back to Tokyo/NRT depending on flight. | $$ |
