@@ -5,6 +5,8 @@
 
 ##  Day 1: Arrival & Reset (Tuesday)
 
+Arrive in Tokyo and settle into the hotel in Ginza or Shinjuku. Take a light evening walk to explore local arcades or basement food halls to get acclimated. End the day with a casual Izakaya dinner before getting an early night's sleep to adjust to the time zone.
+
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |
 | **14:00** | **Arrival** | Land at NRT/HND. Pick up Pocket Wi-Fi/Sim if needed. Take Narita Express or Limousine Bus to Hotel. | $$ |
@@ -14,6 +16,8 @@
 | **21:00** | **Bed** | Force sleep to adjust to time zone. | - |
 
 ##  Day 2: Old Tokyo & Akihabara (Wednesday)
+
+Start early at Senso-ji Temple to beat the crowds, then explore Nakamise Street. Split up in the afternoon for retro gaming in Akihabara and kitchenware shopping in Kappabashi. Regroup for a Tonkatsu dinner in the evening.
 
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |
@@ -28,6 +32,8 @@
 | **20:30** | **Return** | Back to hotel. Prepare for early morning. | - |
 
 ##  Day 3: Pop Culture & Fashion (Thursday)
+
+Begin with a peaceful morning walk at Meiji Shrine followed by fluffy pancakes in Harajuku. Spend the afternoon separately exploring pop culture at Shibuya Parco or floral cafes in Aoyama. Reunite for sunset views at Shibuya Sky and a Yakiniku dinner.
 
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |

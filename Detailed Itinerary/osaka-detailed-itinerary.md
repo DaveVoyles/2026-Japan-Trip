@@ -5,6 +5,8 @@
 
 ##  Day 7: Super Nintendo World (Monday)
 
+Travel to Osaka early and head straight to Universal Studios Japan to secure entry to Super Nintendo World. Spend the day enjoying rides like Mario Kart and exploring the park. Return to the city in the evening to soak in the neon lights and street food of Dotonbori.
+
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |
 | **06:00** | **Train to Osaka** | Early train from Kyoto (~30 mins). Drop bags at hotel (Namba recommended). | $ |
@@ -18,6 +20,8 @@
 | **21:30** | **Bed** | Crash after a long day of walking. | - |
 
 ##  Day 8: Last Bites & Departure (Tuesday)
+
+Start the final day with famous jiggly cheesecake in Namba. Do some last-minute shopping for souvenirs and anime goods in Dotonbori or Den Den Town. Grab some steamed pork buns for lunch before heading to the airport for departure.
 
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |

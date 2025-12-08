@@ -5,6 +5,8 @@
 
 ##  Day 4: Shinkansen & Foxes (Friday)
 
+Take the Shinkansen to Kyoto and head straight to Fushimi Inari Shrine to hike the Torii gates. Check into the hotel and spend the evening walking through the atmospheric Gion district. Enjoy a traditional Okonomiyaki dinner to wrap up the day.
+
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |
 | **07:00** | **Shinkansen** | Depart Tokyo for Kyoto (~2.5 hrs). Buy *Ekiben* (Bento) at station. | $$$ |
@@ -18,6 +20,8 @@
 
 ##  Day 5: Bamboo, Monkeys & Gold (Saturday)
 
+Experience the magic of Arashiyama Bamboo Grove early in the morning, then visit Tenryu-ji Temple. Split up to see monkeys or enjoy riverside coffee before reuniting for the Golden Pavilion. End the day with dinner in Pontocho Alley.
+
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |
 | **06:30** | **Arashiyama** | **Bamboo Grove**. Arrive early to hear the wind and get empty photos. | Free |
@@ -30,6 +34,8 @@
 | **20:30** | **Return** | Back to hotel. | - |
 
 ##  Day 6: Nara Day Trip & Market (Sunday)
+
+Take a day trip to Nara to feed the bowing deer and see the Giant Buddha at Todai-ji. Watch the famous mochi pounding show before returning to Kyoto for afternoon shopping at Nishiki Market or gaming stores. Conclude with a ramen dinner at Kyoto Station.
 
 | Time | Activity | Details | Cost |
 | :--- | :--- | :--- | :--- |
