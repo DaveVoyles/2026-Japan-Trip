@@ -1,31 +1,43 @@
 # Travel & Transportation Methods
 
-## International Flights (EWR <-> Japan)
+## ✈️ International Flights (EWR <-> Japan)
+
 - **Route:** Newark (EWR) to Tokyo (NRT/HND).
+- **Duration:** ~14 hours direct.
 - **Return:** Ideally fly out of Osaka (KIX) to avoid backtracking. If round-trip Tokyo, add 3.5 hours travel on Day 8.
 - **Airlines:** United (Direct from EWR).
 - **Booking:** October is popular. Book ~11 months out (Nov 2025).
+- **Class:** Premium Economy recommended for legroom on the long haul.
 
-## Inter-City (Shinkansen)
+## 🚄 Inter-City (Shinkansen)
+
 - **Tokyo to Kyoto:** Tokaido Shinkansen (Nozomi is fastest, ~2h 15m).
 - **Kyoto to Osaka:** JR Special Rapid (~30 min) or Shinkansen (~15 min).
-- **Luggage:** Use "Takkyubin" (Yamato Transport) to ship big bags from Tokyo hotel -> Kyoto hotel. Travel light on the train.
+- **Seat Types:**
+  - **Reserved:** Recommended for peace of mind.
+  - **Green Car:** First class, 2x2 seating, quieter (worth the upgrade).
+  - **Ordinary Car:** 3x2 seating, still very comfortable.
+- **Luggage:** 🧳 Use "Takkyubin" (Yamato Transport) to ship big bags from Tokyo hotel -> Kyoto hotel.
+  Travel light on the train.
 
-## Local Transport Overview
+## 💳 Local Transport Overview
 
 - **IC Cards (Essential):** Add **Suica** or **Pasmo** to your iPhone Apple Wallet *before* arrival. These work in ALL
   cities listed below for trains, buses, and vending machines.
-- **Navigation App:** **Google Maps** is the gold standard. It tells you the platform number, cost, and best car to
+- **Navigation App:** 🗺️ **Google Maps** is the gold standard. It tells you the platform number, cost, and best car to
   board.
-- **Taxi Apps:** **Uber** and **GO** work in major cities to hail licensed taxis.
+- **Taxi Apps:** 🚕 **Uber** and **GO** work in major cities to hail licensed taxis.
 
 ## City-Specific Travel Guides
 
-### 1. Tokyo (The Metropolis)
+### 1. 🗼 Tokyo (The Metropolis)
 
-#### Best for: Trains & Subways
+#### Best for: 🚃 Trains & 🚇 Subways
 
-- **Primary Transit:** **JR Yamanote Line** (Green Loop) & **Tokyo Metro**.
+- **Primary Transit:**
+  - **JR Yamanote Line (Green Loop):** Connects major hubs (Shinjuku, Shibuya, Tokyo Station).
+  - **Tokyo Metro:** Extensive subway network for inner-city travel.
+  - **Chuo Line (Orange):** Rapid cross-city travel (East-West).
 - **English Support:** Excellent. All signs and announcements are in English. Stations have alpha-numeric codes (e.g.,
   **G-09** is Ginza Station on Ginza Line).
 - **Maps:** [Tokyo Metro Map (PDF)](https://www.tokyometro.jp/en/subwaymap/index.html)
@@ -34,42 +46,46 @@
   - Follow the yellow tactile paving if lost; it often leads to exits/gates.
   - **Escalators:** Stand on the **LEFT**.
 
-### 2. Kyoto (The Cultural Capital)
+### 2. ⛩️ Kyoto (The Cultural Capital)
 
-#### Best for: Subway + Taxi (Avoid Buses if possible)
+#### Best for: 🚇 Subway + 🚕 Taxi (Avoid Buses if possible)
 
-- **Primary Transit:** **Kyoto City Subway** (North-South / East-West) & **Buses**.
+- **Primary Transit:**
+  - **Kyoto City Subway:** Two lines (North-South / East-West). Reliable and traffic-free.
+  - **Buses:** Comprehensive but often gridlocked.
 - **English Support:** Good. Bus stops display approaching buses in English.
 - **Maps:** [Kyoto Subway & Bus Map (PDF)](https://www2.city.kyoto.lg.jp/koho/eng/access/img/basunabieigo-rosenzu.pdf)
 - **Tips:**
-  - **Bus Warning:** Buses are often overcrowded with tourists.
+  - **Bus Warning:** 🚌 Buses are often overcrowded with tourists.
   - **Strategy:** Take the subway to the nearest stop, then hail a taxi to the temple gate.
   - **Walking:** The Higashiyama area (Kiyomizu-dera to Gion) is best explored on foot.
 
-### 3. Osaka (The Kitchen of Japan)
+### 3. 🐙 Osaka (The Kitchen of Japan)
 
-#### Best for: Subway (Midosuji Line)
+#### Best for: 🚇 Subway (Midosuji Line)
 
-- **Primary Transit:** **Osaka Metro** (Midosuji Red Line is the main artery) & **JR Loop Line**.
+- **Primary Transit:**
+  - **Osaka Metro (Midosuji Red Line):** The main artery connecting Shin-Osaka (Shinkansen), Umeda (North), and Namba (South).
+  - **JR Loop Line:** Circles the city center.
 - **English Support:** Good.
 - **Maps:** [Osaka Metro Map](https://subway.osakametro.co.jp/en/guide/routemap.php)
 - **Tips:**
   - **Escalators:** Stand on the **RIGHT** (Opposite of Tokyo!).
   - **USJ Access:** Take the JR Loop Line to Nishikujo, transfer to the Yumesaki Line.
 
-### 4. Nara (The Deer Park)
+### 4. 🦌 Nara (The Deer Park)
 
-#### Best for: Walking
+#### Best for: 🚶 Walking
 
 - **Primary Transit:** Your feet. The park and temples are walkable from the stations.
 - **Access:**
-  - **Kintetsu Nara Station:** Closer to the park (Recommended).
+  - **Kintetsu Nara Station:** Closer to the park (Recommended). Walk up Sanjo-dori shopping street to reach the park.
   - **JR Nara Station:** 15-20 min walk to the park.
 - **Maps:** [Nara Park Map (PDF)](https://www.visitnara.jp/assets/pdf/nara_park_map.pdf)
 - **Tips:**
-  - Use the **Kintetsu Line** from Kyoto for the fastest access.
+  - Use the **Kintetsu Line** from Kyoto for the fastest access (~35 mins).
 
-## October Specifics
+## 🍂 October Specifics
 
-- **Clothing:** Layers. T-shirt + light jacket/cardigan. Comfortable sneakers are non-negotiable (15k+ steps/day).
-- **Daylight:** Sun sets around 5:00 PM. Plan outdoor sights early.
+- **Clothing:** 🧥 Layers. T-shirt + light jacket/cardigan. Comfortable sneakers are non-negotiable (15k+ steps/day).
+- **Daylight:** ☀️ Sun sets around 5:00 PM. Plan outdoor sights early.
