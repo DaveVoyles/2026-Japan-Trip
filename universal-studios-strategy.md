@@ -5,13 +5,16 @@
 Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong Country (DKC)** expansion.
 *Warning:* Entry to the park does NOT guarantee entry to Nintendo World. Capacity is strictly limited.
 
-## 🎫 Ticket Strategy (The Plan: Express Pass)
+## 🎫 Ticket Strategy (You Need BOTH)
 
-*We are buying our way out of the lines.*
+**CRITICAL:** To execute this plan, you must purchase **TWO separate tickets** for each person.
 
-### 1. Studio Pass (Base Ticket)
+1. **Studio Pass:** Gets you *into* the park.
+2. **Express Pass:** Gets you *onto* the rides (and into Nintendo World) without waiting.
 
-- **What:** Standard entry to the park.
+### 1. Studio Pass (REQUIRED)
+
+- **What:** Standard entry ticket. **You cannot enter the park without this.**
 - **Cost:** ~8,600 - 10,400 JPY ($57 - $70 USD) per person (varies by date).
 - **When to Buy:** 2 months in advance.
 - **Where:**
@@ -19,9 +22,10 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
   - [Klook - Studio Pass](https://www.klook.com/activity/835-universal-studios-japan-ticket-osaka/)
     (**Recommended:** Accepts US cards, instant QR code).
 
-### 2. Universal Express Pass (The "Golden Ticket")
+### 2. Universal Express Pass (OPTIONAL but HIGHLY RECOMMENDED)
 
 - **What:** An add-on ticket that lets you skip lines AND gives you a **Guaranteed Timed Entry Slot** for Nintendo World.
+- **Note:** *This is NOT an entry ticket. You still need a Studio Pass.*
 - **Cost:** ~15,000 - 20,000+ JPY ($100 - $135+ USD) per person. *Yes, it often costs more than the entry ticket.*
 - **Where to Buy:**
   - [Klook - Express Pass](https://www.klook.com/activity/3407-universal-studios-japan-express-pass-osaka/)
