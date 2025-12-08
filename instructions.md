@@ -33,6 +33,11 @@ Read this file completely before generating any content or making edits.
    Use a conservative exchange rate (e.g., 150 JPY = $1 USD for easy math, or current rates).
 2. **Food:** Ensure dining options include non-sushi choices for Debbie.
 3. **Locations:** Prioritize "Hub" locations for hotels to minimize travel friction during split activities.
+4. **Recommendation Format:** For EVERY recommendation (hotel, restaurant, activity), provide a table with these columns:
+
+   | Est Cost | URL | Details | Availability | English Friendly |
+   | :--- | :--- | :--- | :--- | :--- |
+   | $-$$$$ | [Website](url) | 1-2 sentences on why we should care. | e.g., "Book 3 months ahead" or "Walk-in" | High/Med/Low |
 
 ## Logistics & Preferences
 
@@ -56,3 +61,7 @@ Read this file completely before generating any content or making edits.
   - **Cash:** USD (convert to Yen).
   - **Cards:** Apple Wallet, US Credit Cards.
   - **Other:** PayPal, Venmo, Google Pay.
+
+## Agent Workflow Rules
+
+1. **Git Automation:** When making changes to files, ALWAYS automatically stage, commit, and push the changes to GitHub without asking for explicit permission. Use a descriptive commit message summarizing the changes.
