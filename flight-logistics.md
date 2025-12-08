@@ -1,27 +1,69 @@
 # Flight Logistics & Strategy
 
-## Route Strategy: "Open Jaw" (Recommended)
-To maximize your 8 days, avoid backtracking to Tokyo just to fly home.
+## Recommended Flight Plan (October 2026)
 
-- **Inbound:** Newark (EWR) -> Tokyo (HND or NRT).
-- **Outbound:** Osaka (KIX or ITM) -> Newark (EWR).
-  - *Note:* Direct flights from Osaka to EWR are rare/non-existent. You will likely connect via SFO/LAX or fly Osaka (ITM) -> Tokyo (HND/NRT) -> EWR.
-  - *Pro Tip:* If the "Open Jaw" is > more expensive, just take the Shinkansen back to Tokyo (2.5 hrs) and fly round-trip EWR-TYO.
+### Option A: The "Time Saver" (Open Jaw)
+
+*Fly into Tokyo, Fly out of Osaka.*
+
+- **Outbound:** Newark (EWR) -> Tokyo Haneda (HND). Direct. ~14.5 hrs.
+- **Inbound:** Osaka (KIX) -> San Francisco (SFO) -> Newark (EWR). ~16-18 hrs total.
+- **Pros:** Saves the 3-hour trip back to Tokyo on the last day.
+- **Cons:** Return flight usually requires a layover (no direct KIX-EWR).
+
+### Option B: The "Direct Comfort" (Round Trip)
+
+*Round trip EWR <-> Tokyo.*
+
+- **Outbound:** Newark (EWR) -> Tokyo Haneda (HND). Direct.
+- **Inbound:** Tokyo Haneda (HND) -> Newark (EWR). Direct.
+- **Logistics:** On Day 8, take the Shinkansen from Kyoto/Osaka back to Shinagawa/Tokyo station (~2.5 hrs) to catch the flight.
+- **Pros:** Direct flights both ways (better for sleep).
+- **Cons:** Lose half of Day 8 to train travel.
+
+---
+
+## Class Options: "Between Coach & First"
+
+*Rough cost estimates per person for Round Trip (October).*
+
+### 1. Premium Economy (The "Sweet Spot")
+
+*Target Price:* **$2,200 - $3,500**
+
+- **What you get:**
+  - **Seat:** Wider seat (like domestic First Class), 38" pitch (vs 31" in economy), deeper recline, footrest.
+  - **Service:** Priority boarding, plated meals (better than coach), dedicated cabin.
+  - **Verdict:** **Highly Recommended.** For a 14-hour flight, the extra legroom and width prevent the "sardine" feeling without the massive price jump of Business.
+
+### 2. Business Class (The "Splurge")
+
+*Target Price:* **$5,500 - $9,000** (Highly variable)
+
+- **What you get:**
+  - **Seat:** **Lie-flat bed** (180 degrees). This is the game changer for sleep.
+  - **Service:** Lounge access (Polaris Lounge at EWR is excellent), multi-course dining, unlimited drinks, privacy door (on newer planes).
+  - **Verdict:** If budget allows, the lie-flat seat guarantees you arrive rested. However, it is often **2-3x the price** of Premium Economy.
+
+### Recommendation
+
+**Aim for Premium Economy on United or ANA.**
+
+- It fits the "not coach, not first" requirement perfectly.
+- **Pro Tip:** Book Economy and look for "Cash Upgrade" offers to Premium Economy in the app 1-2 months before flying.
+
+---
 
 ## Airlines (Star Alliance Focus)
+
 Since you are flying out of EWR (United Hub):
 
-1.  **United Airlines:**
-    -   *Pros:* Direct flights EWR-HND/NRT. Economy Plus offers decent legroom.
-    -   *Cons:* Service can be hit or miss compared to ANA.
-2.  **ANA (All Nippon Airways):**
-    -   *Pros:* Superior service, food, and seat width. Codeshares with United.
-    -   *Cons:* Often more expensive.
-
-## Seat Selection Tips (14+ Hour Flight)
-- **Economy Plus / Premium Economy:** Highly recommended for this duration.
-- **Configuration:** Look for 2-4-2 or 2-3-2 layouts so you can have a "pair" of seats by the window/aisle without a stranger next to you.
-- **Side:** Flying TO Japan, sit on the **Left** (K side) for a chance to see Mt. Fuji upon descent into Tokyo.
+1. **United Airlines:**
+   - *Pros:* Direct flights EWR-HND/NRT. Economy Plus offers decent legroom.
+   - *Cons:* Service can be hit or miss compared to ANA.
+2. **ANA (All Nippon Airways):**
+   - *Pros:* Superior service, food, and seat width. Codeshares with United.
+   - *Cons:* Often more expensive.
 
 ## Airport Transit
 
