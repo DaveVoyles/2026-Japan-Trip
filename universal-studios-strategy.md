@@ -14,12 +14,18 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 - **What:** Standard entry to the park.
 - **Cost:** ~8,600 - 10,400 JPY ($57 - $70 USD) per person (varies by date).
 - **When to Buy:** 2 months in advance.
-- **Where:** Official USJ Website or Klook (easier for foreigners).
+- **Where:**
+  - [Official USJ Ticketing](https://www.usj.co.jp/ticket/en/) (Note: Often rejects foreign credit cards).
+  - [Klook - Studio Pass](https://www.klook.com/activity/835-universal-studios-japan-ticket-osaka/)
+    (**Recommended:** Accepts US cards, instant QR code).
 
 ### 2. Universal Express Pass (The "Golden Ticket")
 
 - **What:** An add-on ticket that lets you skip lines AND gives you a **Guaranteed Timed Entry Slot** for Nintendo World.
 - **Cost:** ~15,000 - 20,000+ JPY ($100 - $135+ USD) per person. *Yes, it often costs more than the entry ticket.*
+- **Where to Buy:**
+  - [Klook - Express Pass](https://www.klook.com/activity/3407-universal-studios-japan-express-pass-osaka/)
+    (Check daily for inventory).
 - **Selection:** You MUST choose a pass that includes **"Mario Kart: Koopa's Challenge"** OR **"Donkey Kong: Mine Cart Madness"**.
   - *Target:* **"Universal Express Pass 4"** (Variety Choice) or **"Universal Express Pass 7"**.
   - *Critical:* These sell out within hours of release (2 months out). Set a calendar reminder.
@@ -51,7 +57,8 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 | **Comfortable Shoes** | You will walk 20k+ steps. Standing in line is hard on feet. |
 | **Small Daypack** | Avoid massive backpacks. Lockers are available but crowded. |
 | **Water Bottle** | You can bring one flask/bottle per person. Stay hydrated. |
-| **USJ App** | Download and link tickets *before* you arrive. |
+| **USJ App** | [iOS](https://apps.apple.com/us/app/universal-studios-japan/id532097000) \| [Android](https://play.google.com/store/apps/details?id=com.universalstudios.japanresort) - Link tickets *before* arrival. |
+| **Park Map** | [Download PDF](https://www.usj.co.jp/web/k/usj/en/common/studiomap_jpg.pdf) (Save to phone). |
 
 ## 🍄 Super Nintendo World: The Experience
 
@@ -162,6 +169,32 @@ DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area wit
    - Scan your party's Studio Passes into the app.
    - Go to "Area Timed Entry Ticket" -> "Super Nintendo World".
    - Select a time slot. *Do this before you even walk to the land.*
+
+## 📸 Best Photo Ops
+
+*Capture the magic without blocking the path.*
+
+1. **The Warp Pipe Entrance:** The classic shot. Wait for a gap in the crowd or go very early/late.
+2. **Pikmin Spots:** Look for the tiny Pikmin carrying coins near the entrance to Kinopio's Cafe.
+3. **Yoshi's Adventure (The Ride):** The outdoor portion offers the *only* high-angle view of the entire land
+   (and the best view of Donkey Kong's temple).
+4. **Bowser's Statue:** Inside the Mario Kart queue. It's massive and detailed.
+5. **Donkey Kong's House:** In the DKC expansion, you can pose with the DK barrel.
+
+## 🚻 Amenities & Logistics
+
+- **Restrooms:** Located near the entrance of SNW (inside the pipe area) and near Yoshi's Adventure. They are clean and themed.
+- **Lockers:** There are coin lockers outside the park entrance and inside near the turnstiles.
+  - *Tip:* Use the ones *outside* if you have luggage (though you should have shipped it!).
+- **Re-Entry:** **NOT ALLOWED** for standard ticket holders. Once you leave the park, you cannot come back in.
+- **Water:** There are water fountains near the restrooms. Refill your bottle here.
+
+## 🔗 Useful Resources
+
+- **Official Park Map:** [Interactive Map](https://www.usj.co.jp/web/en/us/service-guide/park-map)
+- **Wait Times:** Check [USJ Alert](https://usjinfo.com/en/) (Unofficial but accurate) or the official app.
+- **Crowd Calendar:** [USJ Real](https://usjreal.asumirai.info/monthly/monthly-real.html)
+  (Japanese, use Google Translate) - Predicts crowd levels.
 
 ## 📅 Timeline for October 2026
 
