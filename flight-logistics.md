@@ -87,3 +87,32 @@ Since you are flying out of EWR (United Hub):
 - Send large suitcases from your Tokyo hotel -> Kyoto hotel.
 - Cost: ~/bag. Takes 1 day (overnight).
 - Pack a small backpack for the travel day.
+
+## Local Transit Strategy: Best & Worst Times
+
+To avoid being crushed in rush hour or stuck in tourist gridlock, follow these timing rules.
+
+### Tokyo (The "Crush" Zone)
+*   **WORST Time (Rush Hour):**
+    *   **Morning:** 7:30 AM - 9:30 AM. (The famous "pushers" are real. Avoid trains with luggage at all costs).
+    *   **Evening:** 5:30 PM - 7:30 PM.
+*   **BEST Time:**
+    *   **Sightseeing:** 6:30 AM - 7:30 AM (Empty streets, great photos).
+    *   **Travel:** 10:00 AM - 4:00 PM (Mid-day lull).
+*   **Last Train:** ~12:00 AM (Midnight). Taxis after midnight are very expensive.
+
+### Kyoto (The "Tourist" Jam)
+*   **WORST Time:**
+    *   **Buses:** 9:00 AM - 5:00 PM. Buses to Kiyomizu-dera and Kinkaku-ji are often too full to board.
+    *   **Traffic:** Higashiyama streets are gridlocked on weekends.
+*   **BEST Time:**
+    *   **Temples:** Arrive by 7:00 AM. By 9:00 AM, the magic is gone.
+    *   **Travel:** Use **Subways** or **Taxis** to bypass surface traffic. Avoid buses for long distances.
+
+### Osaka (The "Commuter" Pulse)
+*   **WORST Time:**
+    *   **Midosuji Line (Red):** 8:00 AM - 9:00 AM. This is the main artery and gets packed.
+    *   **Universal Studios:** Arriving *at* opening time (you are already late).
+*   **BEST Time:**
+    *   **Universal Studios:** Arrive **60-90 minutes before** official opening. They often open the gates early.
+    *   **Dotonbori:** Evening (after 6:00 PM) is when the neon lights and food stalls come alive.

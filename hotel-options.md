@@ -7,66 +7,30 @@
 
 ## Tokyo Options (3 Nights)
 
-### 1. Ginza / Shimbashi Area (Recommended)
-*Why: High-end bakeries, stationery (Itoya), and shopping for Wife. Direct subway to Asakusa/Akihabara for Dave.*
+### Recommended Areas: Ginza (Shopping/Quiet) or Shinjuku (Nightlife/Transit)
 
-- **Hotel Musse Ginza Meitetsu**
-  - **Est. Price:**  -  USD
-  - **Bed Style:** Western (Simmons beds).
-  - **Pros:** Very modern, separate toilet/bath, right next to convenience stores.
-  
-- **The Royal Park Canvas Ginza 8**
-  - **Est. Price:**  -  USD
-  - **Bed Style:** Western.
-  - **Pros:** Trendy, great lounge, very close to Don Quijote (shopping).
-
-### 2. Shinjuku Area
-*Why: Nightlife, VR arcades, massive transport hub.*
-
-- **Hotel Gracery Shinjuku** (The "Godzilla" Hotel)
-  - **Est. Price:**  -  USD
-  - **Bed Style:** Western.
-  - **Pros:** Iconic, right in Kabukicho (nightlife), very central.
-  
-- **Century Southern Tower**
-  - **Est. Price:**  -  USD
-  - **Bed Style:** Western.
-  - **Pros:** Spectacular views, slightly quieter side of Shinjuku.
+| Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Hotel Musse Ginza Meitetsu** | [Website](https://www.m-inn.com/musse/ginza/) | High | Modern, separate toilet/bath, right next to convenience stores. Quiet area. | $$ | $150 - $250 | Book 5-6 months out. |
+| **The Royal Park Canvas Ginza 8** | [Website](https://www.royalparkhotels.co.jp/canvas/ginza8/) | High | Trendy, great lounge, very close to Don Quijote. | $$$ | $200 - $350 | Popular, book early. |
+| **Hotel Gracery Shinjuku** | [Website](https://shinjuku.gracery.com/) | Very High | The "Godzilla" hotel. Right in Kabukicho (nightlife). Very central. | $$ | $180 - $300 | Very popular with tourists. |
+| **Century Southern Tower** | [Website](https://en.southerntower.co.jp/) | High | Spectacular views, quieter side of Shinjuku (South Exit). | $$$ | $250 - $400 | Good availability if booked early. |
 
 ## Kyoto Options (3 Nights)
 
-### 1. Kyoto Station Area (Recommended for Early Risers)
-*Why: Immediate access to buses/trains for 6:30 AM starts. Easy for Shinkansen.*
+### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
-- **Miyako City Kintetsu Kyoto Station**
-  - **Est. Price:**  -  USD
-  - **Bed Style:** Western.
-  - **Pros:** Literally inside the station. Zero travel time to trains.
-
-- **The Thousand Kyoto**
-  - **Est. Price:**  -  USD (Watch for deals)
-  - **Bed Style:** Western Luxury.
-  - **Pros:** Stunning modern design, very quiet, high-end service.
-
-### 2. Gion / Kawaramachi (Downtown)
-*Why: Walkable to temples, shopping arcades, and Pontocho dining.*
-
-- **Cross Hotel Kyoto**
-  - **Est. Price:**  -  USD
-  - **Bed Style:** Western (Large beds).
-  - **Pros:** Stylish, huge bathrooms, right near the covered shopping arcades.
+| Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Miyako City Kintetsu Kyoto Station** | [Website](https://www.miyakohotels.ne.jp/kyoto-station/) | High | Literally inside the station. Zero travel time to trains. | $$ | $150 - $250 | High demand due to location. |
+| **The Thousand Kyoto** | [Website](https://www.keihanhotels-resorts.co.jp/the-thousand-kyoto/en/) | Very High | Luxury, modern zen design, quiet oasis near station. | $$$$ | $400 - $700 | Luxury tier, usually available. |
+| **Cross Hotel Kyoto** | [Website](https://www.crosshotel.com/kyoto/) | High | Stylish, huge bathrooms, right near the covered shopping arcades/Gion. | $$$ | $200 - $350 | Popular with Westerners. |
 
 ## Osaka Options (1 Night)
 
-### 1. Namba / Shinsaibashi
-*Why: Right in the middle of food (Dotonbori) and gaming (Den Den Town).*
+### Recommended Area: Namba (Food/Nightlife)
 
-- **Cross Hotel Osaka**
-  - **Est. Price:**  -  USD
-  - **Bed Style:** Western.
-  - **Pros:** Red neon exterior, right on Dotonbori canal.
-  
-- **Swissotel Nankai Osaka**
-  - **Est. Price:**  -  USD
-  - **Bed Style:** Western.
-  - **Pros:** 5-star luxury atop Namba station. Direct train to Airport (KIX).
+| Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Cross Hotel Osaka** | [Website](https://www.crosshotel.com/osaka/) | High | Right on Dotonbori. Stylish, very popular with foreigners. | $$$ | $200 - $350 | Books out fast. |
+| **Swissotel Nankai Osaka** | [Website](https://www.swissotel.com/hotels/nankai-osaka/) | Very High | 5-star luxury atop Namba station. Direct train to Airport (KIX). | $$$$ | $300 - $500 | Good availability. |
