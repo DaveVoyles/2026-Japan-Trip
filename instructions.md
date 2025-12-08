@@ -12,7 +12,7 @@
   - Baked Goods / Pastries / Sweets
   - Food (Non-Sushi: Ramen, Tempura, Okonomiyaki, Yakiniku, etc.)
   - Shopping (Stationery, Cute items, Cosmetics)
-  - **Note:** Tea is NOT a priority.
+
 
 ## Top Priorities
 
