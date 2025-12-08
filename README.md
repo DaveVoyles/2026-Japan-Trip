@@ -55,12 +55,25 @@ This repository is the single source of truth for planning Dave and Debbie's Oct
 - Owner: Dave Voyles (DaveVoyles).
 - Repository: https://github.com/DaveVoyles/2026-Japan-Trip
 
-## Agent Model Selection (Important)
-The repos workflow/profile labels (e.g., "gemini-pro-3-preview-beast mode") describe behavior patterns, not the actual LLM bound in your editor. Model selection is controlled by the host app/extension (e.g., GitHub Copilot in VS Code), not by files in this repo.
+## Switching Models
 
-### How to actually use Gemini 3 Pro
-- **Option A: VS Code extension that supports Gemini:** Install an extension that lets you choose Gemini as the backend and sign in with Google AI Studio credentials.
-- **Option B: OpenRouter or similar router:** Configure Copilot/another chat client to route to Gemini via OpenRouter, then select the Gemini model.
-- **Option C: MCP server:** Stand up a Model Context Protocol server that uses Gemini and connect it to an MCP-capable client; select the server/model at runtime.
+This repository is model-agnostic but optimized for high-reasoning models like GPT-5 or Gemini 1.5 Pro.
 
-Until one of these is configured, this workspace runs under GitHub Copilot (GPT-5). The .github/agents/ files are guidance templates; they do not switch the underlying model on their own.
+### Toggling in VS Code (GitHub Copilot)
+
+1. **Open Chat:** Click the Copilot icon in the sidebar.
+2. **Model Picker:** Click the model name (e.g., "GPT-4o") in the chat input area.
+3. **Select Model:** Choose **Gemini 1.5 Pro** (or "Gemini 3 Pro" if available in preview) from the dropdown list.
+   - *Note:* Availability depends on your Copilot subscription and active features.
+
+### Using External Agents
+
+If using a different client (Cursor, Windsurf, etc.):
+
+- Select the model in the respective settings or chat interface.
+- Ensure the `.github/copilot-instructions.md` or `.github/agents/` context is loaded.
+
+### Workflow vs. Model
+
+The `.github/agents/` files (e.g., "beast mode") describe *behavior patterns*, not the technical model.
+You must manually select the model in your editor to match the desired intelligence level.
