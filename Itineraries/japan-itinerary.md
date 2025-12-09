@@ -33,32 +33,40 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Morning/Afternoon:** Arrive NRT/HND from Newark (EWR).
 - **Transfer:** Hotel in **Ginza** (Recommended for Debbie's shopping) or **Shinjuku**.
 - **Evening:** Light walk to reset body clock.
-  - *Dave:* Check out a Taito Station arcade.
+  - *Dave:* Check out a [Taito Station](https://www.taito.co.jp/en/gc) arcade.
   - *Debbie:* Visit a "Depachika" (Department Store Basement) for high-end baked goods/fruit.
 - **Dinner:** Izakaya (Japanese Pub) - offers variety for both (Yakitori, fried foods, sashimi).
-- **Late Night:** **Golden Gai** (Shinjuku) for a quick drink in a tiny bar (if energy permits).
+- **Late Night:** [Golden Gai](http://www.goldengai.net/) (Shinjuku) for a quick drink in a tiny bar (if energy permits).
 - **Bed:** 9:00 PM (Force the schedule).
 
 ### ⛩️ Day 2: Old Tokyo & The "Split" (Wednesday)
 
-- **06:30 AM (Together):** **Senso-ji Temple (Asakusa)**.
+- **06:30 AM (Together):** [Senso-ji Temple](https://www.senso-ji.jp/english/) (Asakusa).
   - *Why:* Beat the massive crowds. Photos are better.
   - *Breakfast:* **Konbini Run** (7-Eleven/Lawson). Grab Onigiri (Salmon/Tuna Mayo) and Boss Coffee. Eat near the river.
-- **Morning:** Explore Nakamise Street as shops open (9:00 AM). Eat fresh Melonpan.
+- **Morning:** Explore [Nakamise Street](https://www.asakusa-nakamise.jp/english/) as shops open (9:00 AM). Eat fresh Melonpan.
 - **Afternoon (Split Path):**
-  - *Dave:* **Akihabara** (10 min subway). **Super Potato** (Retro), **Mandarake Complex** (Rare items), **Surugaya**.
-  - *Debbie:* **Kappabashi Kitchen Town** (plastic food samples, ceramics) OR **Ueno Park Museums**.
+  - *Dave:* [Akihabara](https://en.wikipedia.org/wiki/Akihabara) (10 min subway).
+    [Super Potato](https://www.superpotato.com/) (Retro),
+    [Mandarake Complex](https://www.mandarake.co.jp/dir/cmp/index-en.html) (Rare items),
+    [Surugaya](https://www.suruga-ya.jp/).
+  - *Debbie:* [Kappabashi Kitchen Town](https://www.kappabashi.or.jp/en/) (plastic food samples, ceramics) OR
+    [Ueno Park Museums](https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubu/ueno/en/index.html).
 - **Late Afternoon (Together):** Meet in Akihabara or Ueno.
 - **Dinner:** Tonkatsu (Breaded Pork Cutlet) - safe for non-sushi eaters, delicious.
 
 ### 🌸 Day 3: Pop Culture & Flowers (Thursday)
 
-- **06:30 AM (Together):** **Meiji Shrine** (Forest in the city). Peaceful morning walk.
+- **06:30 AM (Together):** [Meiji Shrine](https://www.meijijingu.or.jp/en/) (Forest in the city). Peaceful morning walk.
 - **Breakfast:** **Konbini Run** or quick bakery stop.
 - **Afternoon (Split Path):**
-  - *Dave:* **Shibuya Parco** (Nintendo Tokyo, Capcom Store, Pokemon Center).
-  - *Debbie:* **Aoyama Flower Market Tea House** (Focus on the *Flowers* and ambience, or visit nearby bakeries in Omotesando).
-- **Evening (Together):** **Shibuya Crossing** & Hachiko Statue.
+  - *Dave:* [Shibuya Parco](https://shibuya.parco.jp.e.aiv.hp.transer.com/)
+    ([Nintendo Tokyo](https://www.nintendo.co.jp/officialstore/index.html),
+    [Capcom Store](https://www.capcom.co.jp/amusement/capcomstore/index.html),
+    [Pokemon Center](https://www.pokemon.co.jp/shop/en/)).
+  - *Debbie:* [Aoyama Flower Market Tea House](https://www.afm-teahouse.com/)
+    (Focus on the *Flowers* and ambience, or visit nearby bakeries in Omotesando).
+- **Evening (Together):** [Shibuya Crossing](https://en.wikipedia.org/wiki/Shibuya_Crossing) & Hachiko Statue.
 - **Dinner:** Yakiniku (Japanese BBQ) - grill your own meat/veggies.
 
 ---
@@ -74,30 +82,33 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 ### 🚄 Day 4: Bullet Train to Foxes (Friday)
 
 - **07:00 AM:** Shinkansen to Kyoto (~2.5 hrs). Buy "Ekiben" (station bento) - huge variety.
-- **Morning (Together):** **Fushimi Inari Shrine** (The Fox Shrine).
+- **Morning (Together):** [Fushimi Inari Shrine](http://inari.jp/en/) (The Fox Shrine).
   - *Dave:* Thousands of Torii gates + Fox statues (Kitsune). **This is the primary Fox experience.**
   - *Strategy:* Go immediately upon arrival. Hike up to the "Yotsutsuji" intersection for views.
 - **Late Afternoon:** Check into Kyoto Hotel.
 - **Dinner:** Gion District. Try **Okonomiyaki** (Savory pancake) or Tempura.
-- **Evening:** **Pontocho Alley**. Narrow alleyway packed with bars and restaurants. Great for a whisky or sake.
+- **Evening:** [Pontocho Alley](https://www.ponto-cho.com/).
+  Narrow alleyway packed with bars and restaurants. Great for a whisky or sake.
 
 ### 🎋 Day 5: Bamboo & Gold (Saturday)
 
-- **06:30 AM (Together):** **Arashiyama Bamboo Grove**.
+- **06:30 AM (Together):** [Arashiyama Bamboo Grove](https://kyoto.travel/en/sightseeing_spots/sagano_arashiyama/bamboo_grove.html).
   - *Why:* It is magical at 6:30 AM and a nightmare at 10:00 AM.
-  - *Dave:* **Monkey Park Iwatayama** (hike up, see monkeys).
-  - *Debbie:* **Tenryu-ji Temple Gardens** or % Arabica Coffee (famous riverside cafe).
+  - *Dave:* [Monkey Park Iwatayama](http://www.monkeypark.jp/) (hike up, see monkeys).
+  - *Debbie:* [Tenryu-ji Temple Gardens](http://www.tenryuji.com/en/) or
+    [% Arabica Coffee](https://arabica.coffee/) (famous riverside cafe).
 - **Lunch:** Tofu/Yuba cuisine (Kyoto specialty) or Soba noodles.
-- **Afternoon (Together):** **Kinkaku-ji (Golden Pavilion)**.
+- **Afternoon (Together):** [Kinkaku-ji (Golden Pavilion)](https://www.shokoku-ji.jp/en/kinkakuji/).
 - **Evening:** Relax or explore hotel area.
 
 ### 🦌 Day 6: Deer & Shopping (Sunday)
 
-- **07:30 AM (Together):** Train to **Nara Park** (45 min). [See Nara Details](../Reference/city-stops-details.md#nara-day-trip)
-  - *Activity:* Bowing deer, Todai-ji Temple (Giant Buddha).
+- **07:30 AM (Together):** Train to [Nara Park](https://www3.pref.nara.jp/park/) (45 min). [See Nara Details](../Reference/city-stops-details.md#nara-day-trip)
+  - *Activity:* Bowing deer, [Todai-ji Temple](https://www.todaiji.or.jp/en/) (Giant Buddha).
 - **Afternoon (The Compromise):** Return to Kyoto.
-  - *Debbie:* **Nishiki Market** ("Kyoto's Kitchen") for snacks/shopping or **Kyoto Botanical Gardens**.
-  - *Dave:* **Kyoto Gaming Stores** (Surugaya, Book Off) or relax.
+  - *Debbie:* [Nishiki Market](https://www.kyoto-nishiki.or.jp/) ("Kyoto's Kitchen") for snacks/shopping or
+    [Kyoto Botanical Gardens](https://www.pref.kyoto.jp/plant/).
+  - *Dave:* **Kyoto Gaming Stores** ([Surugaya](https://www.suruga-ya.jp/), Book Off) or relax.
 - **Dinner:** Kyoto Station area (Ramen Street).
 
 ---
@@ -113,19 +124,19 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 ### 🍄 Day 7: SUPER NINTENDO WORLD (Monday)
 
 - **06:00 AM:** Train to Osaka (30 min). Drop bags at hotel.
-- **07:30 AM:** Arrive at **Universal Studios Japan** gates.
-  - *Priority:* **Super Nintendo World** & **Donkey Kong Country**.
+- **07:30 AM:** Arrive at [Universal Studios Japan](https://www.usj.co.jp/web/en/us) gates.
+  - *Priority:* [Super Nintendo World](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world) & **Donkey Kong Country**.
   - *Action:* Open App immediately to scan entry tickets and get "Area Timed Entry".
   - *Dave:* Ride Mario Kart & Mine Cart Madness.
   - *Debbie:* Enjoy the theming, snacks (Green Shell Calzone), and Harry Potter area if interested.
-- **Evening:** **Dotonbori** neon lights.
+- **Evening:** [Dotonbori](https://osaka-info.jp/en/spot/dotonbori/) neon lights.
 - **Dinner:** Kushikatsu (Deep fried skewers) - iconic Osaka food.
 
 ### 🛫 Day 8: Retro Games & Departure (Tuesday)
 
-- **Morning:** **Den Den Town (Nipponbashi)**.
-  - *Dave:* **Super Potato Osaka**, **Game Tanteidan** (Retro game hunting).
-  - *Debbie:* **Kuromon Ichiba Market** (Fresh seafood/fruit) nearby.
+- **Morning:** [Den Den Town (Nipponbashi)](https://osaka-info.jp/en/spot/nipponbashi-den-den-town/).
+  - *Dave:* **Super Potato Osaka**, [Game Tanteidan](https://www.tanteidan.cc/) (Retro game hunting).
+  - *Debbie:* [Kuromon Ichiba Market](https://kuromon.com/en/) (Fresh seafood/fruit) nearby.
 - **Afternoon:** Transfer to KIX (Kansai Airport) or Shinkansen back to Tokyo (NRT/HND) depending on flight.
 - **Flight:** EWR (Newark).
 
@@ -134,5 +145,6 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 ## 🍂 Notes on October
 
 - **Weather:** Highs 65-75F (18-24C). Perfect for walking.
-- **Flowers:** Cosmos flowers (Showa Kinen Park - Tokyo), Roses, early Autumn foliage in mountains.
+- **Flowers:** Cosmos flowers ([Showa Kinen Park](https://www.showakinen-koen.jp/en/) - Tokyo),
+  Roses, early Autumn foliage in mountains.
 - **Events:** Jidai Matsuri (Kyoto, Oct 22) - massive historical parade.
