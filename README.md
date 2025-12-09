@@ -48,6 +48,8 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 - [shopping-wishlist.md](Reference/shopping-wishlist.md): Items to buy (Anime, Electronics, etc.).
 - [tax-free-shopping.md](Reference/tax-free-shopping.md): Guide to saving 10% tax on purchases.
 - [cultural-etiquette.md](Reference/cultural-etiquette.md): Do's and Don'ts for trains, dining, and temples.
+- [coffee-breakfast-guide.md](Reference/coffee-breakfast-guide.md): Early morning coffee and breakfast options.
+- [gachapon-arcade-guide.md](Reference/gachapon-arcade-guide.md): Guide to capsule toys, claw machines, and purikura.
 - [survival-japanese.md](Reference/survival-japanese.md): Essential phrases for travelers.
 - [.github/agents/](.github/agents/): Chat agent profiles used earlier in this project.
 
