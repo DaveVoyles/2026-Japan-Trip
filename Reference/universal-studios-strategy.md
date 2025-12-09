@@ -78,17 +78,22 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 
 ### Attractions (Detailed)
 
-1. **Mario Kart: Koopa's Challenge:**
+1. **[Mario Kart: Koopa's Challenge](https://www.usj.co.jp/web/en/us/attractions/mario-kart-koopa-challenge):**
+
    - **Type:** AR Dark Ride / Shooter.
    - **Queue:** A walk through Bowser's Castle. You'll see his library, bomb-omb factory, and trophies.
      *Look for the book "How to Date a Princess" in the library.*
    - **The Ride:** You wear an AR visor (Mario cap). You steer a kart and shoot shells at Team Bowser.
    - **Tip:** The steering wheel actually works! Steer with the arrows to earn coins. If you get hit, you spin out.
-2. **Yoshi's Adventure:**
+
+2. **[Yoshi's Adventure](https://www.usj.co.jp/web/en/us/attractions/yoshis-adventure):**
+
    - **Type:** Slow-moving scenic ride (Omnimover).
    - **Best For:** Incredible views of the land and Donkey Kong Country. Great for photos.
    - **Hidden Goal:** Find the 3 colored eggs during the ride to earn a stamp in your app.
+
 3. **Power-Up Band Key Challenges:**
+
    - **The Gimmick:** Buy a band (~$30) to interact with the land.
    - **The Goal:** Collect 3 Keys from mini-games to unlock the **Bowser Jr. Shadow Showdown**.
    - **Mini-Games:**
@@ -125,13 +130,16 @@ DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area wit
 
 ### Attractions
 
-1. **Mine Cart Madness:**
-   - **Type:** Family Coaster (but thrilling).
-   - **Gimmick:** The cart "jumps" over broken tracks (simulated). You launch out of a barrel cannon at the start.
-   - **Queue:** Walks through the Golden Temple. Look for Cranky Kong!
+1. **[Mine Cart Madness](https://www.usj.co.jp/web/en/us/attractions/donkey-kong-country):**
+
+  - **Type:** Family Coaster (but thrilling).
+  - **Gimmick:** The cart "jumps" over broken tracks (simulated). You launch out of a barrel cannon at the start.
+  - **Queue:** Walks through the Golden Temple. Look for Cranky Kong!
+
 2. **Interactive Drums:**
-   - Use your Power-Up Band to play rhythm games with Conga drums scattered around the jungle.
-   - **Rambi the Rhino:** Look for the Rambi crate. Scan your band to summon him!
+
+     - Use your Power-Up Band to play rhythm games with Conga drums scattered around the jungle.
+     - **Rambi the Rhino:** Look for the Rambi crate. Scan your band to summon him!
 
 ### Food (Jungle Eats)
 
@@ -179,12 +187,16 @@ DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area wit
 
 *Capture the magic without blocking the path.*
 
-1. **The Warp Pipe Entrance:** The classic shot. Wait for a gap in the crowd or go very early/late.
-2. **Pikmin Spots:** Look for the tiny Pikmin carrying coins near the entrance to Kinopio's Cafe.
-3. **Yoshi's Adventure (The Ride):** The outdoor portion offers the *only* high-angle view of the entire land
-   (and the best view of Donkey Kong's temple).
-4. **Bowser's Statue:** Inside the Mario Kart queue. It's massive and detailed.
-5. **Donkey Kong's House:** In the DKC expansion, you can pose with the DK barrel.
+1. **[Warp Pipe Entrance](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world):**
+  The classic shot. Wait for a gap in the crowd or go very early/late.
+2. **[Pikmin Spots](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world):**
+  Look for the tiny Pikmin carrying coins near the entrance to Kinopio's Cafe.
+3. **[Yoshi's Adventure Viewpoint](https://www.usj.co.jp/web/en/us/attractions/yoshis-adventure):**
+  The outdoor portion offers the *only* high-angle view of the entire land (and the best view of Donkey Kong's temple).
+4. **[Bowser's Statue](https://www.usj.co.jp/web/en/us/attractions/mario-kart-koopa-challenge):**
+  Inside the Mario Kart queue. It's massive and detailed.
+5. **[Donkey Kong's House](https://www.usj.co.jp/web/en/us/attractions/donkey-kong-country):**
+  In the DKC expansion, you can pose with the DK barrel.
 
 ## 🚻 Amenities & Logistics
 
