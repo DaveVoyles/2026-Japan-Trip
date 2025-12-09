@@ -2,10 +2,10 @@
 
 | Cost | Description |
 | :--- | :--- |
-| $ | Under $15 USD (Budget) |
-| $$ | $15 - $50 USD (Moderate) |
-| $$$ | $50 - $150 USD (Expensive) |
-| $$$$ | $150+ USD (Luxury / Special Access) |
+| $ | Under 1,500 JPY / ~$10 USD (Budget) |
+| $$ | 1,500 - 4,000 JPY / ~$10 - $25 USD (Moderate) |
+| $$$ | 4,000 - 10,000 JPY / ~$25 - $65 USD (Expensive / Upscale) |
+| $$$$ | 10,000+ JPY / ~$65+ USD (Luxury / Special Access) |
 
 ## 🗼 Tokyo
 

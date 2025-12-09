@@ -6,6 +6,13 @@
 - [x] **Bed Style:** Western Beds ONLY (No Futons/Tatami).
 - [x] **Location:** Near major transit hubs (Ginza, Kyoto Station, Namba).
 
+### Cost Legend (per night, approximate)
+
+- **$** = Under $150
+- **$$** = $150 – $250
+- **$$$** = $250 – $400
+- **$$$$** = $400+
+
 ## 🗼 Tokyo Options (3 Nights)
 
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
@@ -54,10 +61,6 @@
 
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
-## Osaka Options (1 Night)
-
-### Recommended Area: Namba (Food/Nightlife) or Umeda (Universal Studios Access)
-
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Cross Hotel Osaka** | [Website](https://www.crosshotel.com/osaka/) | High | Its location is unbeatable, sitting right on the Dotonbori canal, immersing you in the neon lights and food culture of Osaka. The hotel is very foreigner-friendly, with English-speaking staff and spacious rooms designed for international luggage. It is the perfect base for a night of food tours and nightlife without needing a taxi. | $$$ | $200 - $350 | Books out fast. |
@@ -66,22 +69,6 @@
 | **Hotel Hankyu Respire Osaka** | [Website](https://www.hankyu-hotel.com/en/hotel/respire/osaka) | High | Located in the massive Umeda/Osaka Station complex, this hotel offers incredible access to shopping and the train to Universal Studios. It features a massive open-air garden deck, providing a rare green space in the concrete jungle. The airport bus stops right downstairs, simplifying your departure logistics. | $$ | $150 - $250 | Very large, good availability. |
 
 ### Osaka Amenities & Features
-
-| Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Airport Access |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Cross Hotel Osaka** | No | No | No | No | No | 10 min walk to OCAT Bus |
-| **Swissotel Nankai Osaka** | Yes (Full) | Yes (Indoor) | Sauna/Spa | Yes (Exec Floor) | No | Direct Train (Rapi:t) |
-## 🐙 Osaka Options (2 Nights)
-
-### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
-
-| Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Swissotel Nankai Osaka** | [Website](https://www.swissotel.com/hotels/nankai-osaka/) | Very High | This hotel sits directly on top of Nankai Namba Station, providing the absolute easiest access to/from Kansai Airport (KIX). The views from the upper floors are spectacular, and you are an elevator ride away from Takashimaya department store. It is the most convenient luxury option in Osaka. | $$$$ | $300 - $500 | Luxury tier. |
-| **Hotel Royal Classic Osaka** | [Website](https://hotel-royalclassic.jp/en/) | High | Designed by Kengo Kuma (who designed the Olympic Stadium), this hotel is an architectural masterpiece connected to Namba Station. It features a museum-quality art collection throughout the property. The rooms are high-tech and spacious, offering a very modern Japanese luxury experience. | $$$ | $250 - $400 | Unique property, book early. |
-| **Hotel Hankyu Respire Osaka** | [Website](https://www.hankyu-hotel.com/en/hotel/respire/osaka) | High | Located in the massive Umeda/Osaka Station complex, this hotel offers incredible access to shopping and the train to Universal Studios. It features a massive open-air garden deck, providing a rare green space in the concrete jungle. The airport bus stops right downstairs, simplifying your departure logistics. | $$ | $150 - $250 | Very large, good availability. |
-
-### 🐙 Osaka Amenities & Features
 
 | Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Airport Access |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

@@ -4,6 +4,13 @@
 
 **Strategy:** "Open Jaw" (Multi-City) Ticket. Fly into Tokyo, fly out of Osaka. This saves ~4 hours of train travel and ~$100 USD on a return Shinkansen ticket.
 
+### Cost Legend (per person unless noted)
+
+- **$** = Under $15
+- **$$** = $15 – $50
+- **$$$** = $50 – $150
+- **$$$$** = Over $150
+
 | Est Cost (Round Trip) | Booking Method | Details | Availability | English Friendly |
 | :--- | :--- | :--- | :--- | :--- |
 | **Economy:** $1,200 - $1,600<br>(~180k - 240k JPY)<br>**Prem. Econ:** $2,200 - $3,000<br>(~330k - 450k JPY) | [United Airlines](https://www.united.com) | **Outbound:** EWR -> HND/NRT (Direct, ~14h)<br>**Return:** KIX -> SFO/LAX -> EWR (1 Stop, ~16h total) | Book 11 months out (Nov 2025) | High |
@@ -43,7 +50,9 @@
 ### 🧳 The "Baggage 160" Rule
 
 - **Rule:** If your luggage (Length + Width + Height) is **over 160cm** (approx 62 inches - standard large check-in size), you **MUST** reserve a seat with an "Oversized Baggage Area".
-- **Penalty:** If you bring a large bag without this reservation, you will be fined 1,000 JPY (~$7) and forced to move your bag.
+  - **Shortcut:** In SmartEx, filter for "Seat with Oversized Baggage Area" (usually the last row).
+- **Penalty:** If you bring a large bag without this reservation, you will be fined 1,000 JPY (~$7).
+  - **Why:** Conductors strictly enforce this rule to keep aisles clear and will make you move your bag.
 - **Solution:** In SmartEx, filter for "Seat with Oversized Baggage Area" (usually the last row of the car).
 
 ---
