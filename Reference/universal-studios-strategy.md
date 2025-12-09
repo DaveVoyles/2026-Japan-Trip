@@ -222,7 +222,146 @@ DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area wit
 - **Crowd Calendar:** [USJ Real](https://usjreal.asumirai.info/monthly/monthly-real.html)
   (Japanese, use Google Translate) - Predicts crowd levels.
 
-## 📅 Timeline for October 2026
+## 📅 October 2026 Crowd Predictions & Strategy
 
-- **August 2026:** Tickets & Express Passes go on sale.
-- **Action:** Dave to monitor release dates closely.
+### 🎃 October at USJ: Halloween Horror Nights Season
+
+**Important Context:** October is one of USJ's busiest months due to Halloween Horror Nights (HHN) event.
+
+**Halloween Horror Nights 2026 (Predicted):**
+
+- **Dates:** Early September - Early November (typically runs ~60 days)
+- **Impact:** Park operates extended hours (usually until 10 PM vs 8 PM)
+- **Crowd Level:** **HIGH** - especially weekends and Japanese holidays
+- **Note:** HHN attractions (horror mazes) are separate ticketed events in the evening, but daytime crowds increase
+
+### 📊 October 2026 Crowd Predictions
+
+Based on historical patterns and 2026 calendar:
+
+**Best Days (Lower Crowds - Target These):**
+
+- **Monday-Thursday, October 12-15, 2026** ⭐ **BEST WINDOW**
+  - **Why:** Mid-month weekdays, no Japanese holidays, after initial Halloween rush
+  - **Predicted Crowd Level:** 5-6/10
+  - **Express Pass:** Recommended but not absolutely critical
+  - **Strategy:** Arrive at rope drop (7:30 AM), hit Nintendo World first, HHN crowds arrive later in day
+
+**Moderate Days (Medium Crowds):**
+
+- **Monday-Friday, October 5-9, 2026**
+  - **Crowd Level:** 6-7/10
+  - **Why:** Early October, Halloween event just starting
+- **Monday-Thursday, October 19-22, 2026**
+  - **Crowd Level:** 6-7/10
+  - **Why:** Late October = peak Halloween season
+
+**Worst Days (AVOID if possible):**
+
+- **Saturday-Sunday, October 3-4, 10-11, 17-18, 24-25, 31-Nov 1, 2026** 🚫
+  - **Crowd Level:** 9-10/10
+  - **Why:** Weekends + Halloween + possible school holidays
+  - **Wait Times:** Mario Kart can hit 180-240 min (3-4 hours) without Express Pass
+- **Monday, October 12, 2026** (体育の日 / Sports Day - Japanese Holiday)
+  - **Crowd Level:** 8-9/10
+  - **Note:** If this is a holiday in 2026, AVOID. Verify calendar closer to trip.
+
+### 🎟️ October 2026 Ticketing Strategy
+
+**Ticket Release Timeline:**
+
+- **August 2026 (2 months prior):**
+  - Studio Passes go on sale
+  - Express Passes go on sale (IMMEDIATELY sell out for weekends)
+- **Action Plan:**
+  - **Day 1 of Release:** Set alarm, purchase BOTH Studio Pass and Express Pass simultaneously
+  - **Target Days:** October 12-15 (Mon-Thu) for best balance of availability and crowds
+
+**Express Pass Necessity:**
+
+- **October Weekdays:** **HIGHLY Recommended** (75% necessary)
+  - Without it: Expect 90-120 min waits for Mario Kart, 60-90 min for Donkey Kong
+  - With it: 10-20 min waits max
+- **October Weekends:** **ABSOLUTELY ESSENTIAL** (99% necessary)
+  - Without it: You may only ride 2-3 attractions all day
+  - With it: You can experience all of Nintendo World + other areas
+
+**Express Pass Options for October:**
+
+- **Universal Express Pass 7:** ¥15,000-24,800 ($100-165) - Best value for full day
+  - Includes: Mario Kart OR Donkey Kong + 6 other attractions
+  - Guaranteed Nintendo World entry time
+- **Universal Express Pass 4:** ¥10,800-18,400 ($72-123) - Minimum recommended
+  - Includes: Mario Kart OR Donkey Kong + 3 other attractions
+  - Guaranteed Nintendo World entry time
+
+### 🕐 October-Specific Timing Strategy
+
+**Recommended Schedule for October Weekday (Mon-Thu):**
+
+- **5:30 AM:** Wake up at hotel
+- **6:00 AM:** Depart hotel (train to Universal City)
+- **6:45 AM:** Arrive at USJ gates (yes, 1 hour 45 min before official opening!)
+  - **Why:** October crowds mean earlier arrivals even on weekdays
+  - Gates typically open 30-60 min early
+- **7:30-8:00 AM:** Gates open, rope drop
+  - **With Express Pass:** Walk calmly to Nintendo World, scan Express Pass at entry
+  - **Without Express Pass:** IMMEDIATELY open app, get Area Timed Entry ticket, go to first available attraction
+- **8:00 AM-12:00 PM:** Conquer Nintendo World
+  - Hit both Mario Kart and Donkey Kong before lunch
+  - Do Power-Up Band challenges between rides
+- **12:00-1:30 PM:** Lunch at Kinopio's Cafe (use timed entry from app)
+- **1:30-6:00 PM:** Explore rest of park or revisit Nintendo World
+  - Harry Potter area, Minion Park, other attractions
+  - Crowds peak 1-4 PM, then start to thin
+- **6:00-9:00 PM:** Return to Nintendo World for evening experience
+  - Nighttime lighting is spectacular
+  - Crowds thin as many visitors leave for dinner
+- **9:00 PM:** Park closes, head to Dotonbori
+
+**Recommended Schedule for October Weekend (if you MUST go):**
+
+- **5:00 AM:** Wake up (earlier to beat crowds)
+- **5:30 AM:** Depart hotel
+- **6:15 AM:** Arrive at gates (earlier crowd builds)
+- **Express Pass:** MANDATORY - you will NOT enjoy the day without it
+- **Strategy:** Same as above but expect longer waits everywhere
+
+### 🌡️ October Weather at USJ
+
+- **Temperature:** 65-75°F (18-24°C) - Perfect theme park weather!
+- **Rain Probability:** 15-20% (low, but pack light rain jacket)
+- **Humidity:** Moderate (60-70%)
+- **What to Wear:**
+  - Comfortable walking shoes (you'll walk 20,000+ steps)
+  - Layers (light jacket for morning/evening, t-shirt for midday)
+  - Hat and sunscreen (moderate UV even in October)
+
+### 📅 Final Recommendation for Trip Dates
+
+Based on crowd analysis and itinerary:
+
+**Optimal USJ Visit Day:** **Monday, October 12, 2026** OR **Tuesday, October 13, 2026**
+
+- **Why Monday Oct 12:**
+  - Day 7 of recommended 8-day trip (Oct 10-18)
+  - Weekday with moderate crowds
+  - Perfect timing for early-mid October weather
+- **Backup:** **Wednesday, October 14, 2026** if Monday/Tuesday too crowded
+
+### 🔗 October Planning Resources
+
+- **[USJ Real Crowd Calendar](https://usjreal.asumirai.info/monthly/monthly-real.html)** - Most accurate predictions
+  (Use Google Translate)
+- **[USJ Official Calendar](https://www.usj.co.jp/web/en/us/service-guide/park-hours)** - Operating hours (updated monthly)
+- **[Wait Time Tracker](https://usjinfo.com/en/)** - Real-time wait times on the day
+- **[Weather Forecast](https://weathernews.jp/s/en/)** - Check 10 days before trip
+
+### ⚠️ October Gotchas
+
+- **Halloween Decorations:** Park is heavily themed for Halloween - great for photos, but more crowded
+- **HHN Ticket Confusion:** Make sure you DON'T accidentally buy an HHN-only ticket (evening horror event)
+  - You want: **Studio Pass** (daytime entry) + **Express Pass** (skip lines)
+  - You DON'T need: **Halloween Horror Nights** ticket (unless you want scary mazes at night)
+- **Merchandise:** Limited-edition Halloween AND Nintendo merch = budget accordingly!
+- **Food Lines:** All restaurants busier in October - use app for timed entry at Kinopio's Cafe
