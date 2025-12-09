@@ -54,8 +54,8 @@
 
 | Card Type | Cost | How to Get | Notes |
 | :--- | :--- | :--- | :--- |
-| **Mobile Suica**<br>(Recommended) | Free Deposit | **Apple Wallet:** Open Wallet App -> "+" -> "Transit Card" -> "Suica". | **Top-up:** Use Amex or Mastercard in Apple Wallet. Visa often fails due to foreign issuer restrictions. |
-| **Welcome Suica**<br>(Physical) | Free Deposit | **Haneda/Narita Airport:** Vending machines at arrival hall. | Valid for 28 days. No refund on balance. Good backup if phone dies. |
+| **Mobile Suica**<br>(Recommended) | Free Deposit | **Apple Wallet:** Open Wallet App -> "+" -> "Transit Card" -> "Suica". | **Top-up:** Use Amex or Mastercard in Apple Wallet. Visa often fails due to foreign issuer restrictions. [Official Guide](https://www.jreast.co.jp/e/pass/suica_mobile/) |
+| **Welcome Suica**<br>(Physical) | Free Deposit | **Haneda/Narita Airport:** Vending machines at arrival hall. | Valid for 28 days. No refund on balance. Good backup if phone dies. [More Info](https://www.jreast.co.jp/e/welcomesuica/welcomesuica.html) |
 
 ### 💡 Usage Tips
 
@@ -71,7 +71,7 @@
 
 | Service | Est Cost | Speed | How to Use |
 | :--- | :--- | :--- | :--- |
-| **Yamato Transport**<br>(Black Cat) | ~$15 - $25 USD<br>(2,000 - 3,500 JPY) per bag | **Next Day** delivery (usually). | Ask Hotel Front Desk: *"Takkyubin, please."* |
+| **Yamato Transport**<br>(Black Cat) | ~$15 - $25 USD<br>(2,000 - 3,500 JPY) per bag | **Next Day** delivery (usually). | Ask Hotel Front Desk: *"Takkyubin, please."* [Official Site](https://www.kuronekoyamato.co.jp/en/) |
 
 ### 📋 Procedure
 
@@ -87,8 +87,8 @@
 
 | App | Availability | Payment | Notes |
 | :--- | :--- | :--- | :--- |
-| **Uber** | Tokyo, Kyoto, Osaka | In-App (Credit Card) | Hails standard taxis. Easy English interface. Slightly more expensive due to dispatch fee. |
-| **GO** | Nationwide | In-App (Credit Card) | The dominant local app. **Setup:** Requires SMS verification (can be tricky with foreign numbers). Try setting up in US first. |
+| **Uber** | Tokyo, Kyoto, Osaka | In-App (Credit Card) | Hails standard taxis. Easy English interface. Slightly more expensive due to dispatch fee. [Download](https://www.uber.com/) |
+| **GO** | Nationwide | In-App (Credit Card) | The dominant local app. **Setup:** Requires SMS verification (can be tricky with foreign numbers). Try setting up in US first. [Download](https://go.mo-t.com/) |
 
 ---
 
@@ -98,13 +98,16 @@
 
 #### ✈️ Airport to City
 
-- **Narita Express (N'EX):** Direct to Tokyo/Shinjuku/Shibuya. Covered by JR Pass (if you had one, but you don't need one). ~$20 USD.
-- **Limousine Bus:** Direct to major hotels. Best if you have lots of luggage and don't want to navigate stations. ~$20 USD. Book at airport arrival counter.
+- **Narita Express (N'EX):** Direct to Tokyo/Shinjuku/Shibuya. Covered by JR Pass (if you had one, but you don't need one).
+  ~$20 USD. [Timetable](https://www.jreast.co.jp/e/nex/)
+- **Limousine Bus:** Direct to major hotels. Best if you have lots of luggage and don't want to navigate stations.
+  ~$20 USD. Book at airport arrival counter. [Book Here](https://www.limousinebus.co.jp/guide/en/)
 
 #### 🚇 Getting Around
 
-- **Subway Tickets:** If you plan to ride the subway 4+ times a day, buy the **Tokyo Subway Ticket** (24/48/72 hours) at the airport or Bic Camera.
-  - **72-Hour Pass:** 1,500 JPY (~$10). Unlimited rides on Tokyo Metro & Toei Subway.
+- **Subway Tickets:** If you plan to ride the subway 4+ times a day, buy the **Tokyo Subway Ticket** (24/48/72 hours)
+  at the airport or Bic Camera.
+  - **72-Hour Pass:** 1,500 JPY (~$10). Unlimited rides on Tokyo Metro & Toei Subway. [Details](https://www.tokyometro.jp/en/ticket/travel/index.html)
 - **Navigation:**
   - **Exit Numbers:** CRITICAL. Google Maps will say "Exit C4". Follow signs for "C4" exactly.
   - **Chiyoda Line (Green):** Good for Harajuku/Omotesando.
@@ -117,26 +120,28 @@
 Kyoto's trains are limited, and buses are miserable (crowded).
 
 - **Rule:** Take the Subway to the *closest* station, then hail a taxi for the "last mile" to the temple.
-- **MK Taxi:** A premium, English-friendly taxi fleet. Look for the heart logo on the roof.
+- **MK Taxi:** A premium, English-friendly taxi fleet. Look for the heart logo on the roof. [Website](https://www.mktaxi-japan.com/)
 - **Cost:** Short rides are ~1,000 - 2,000 JPY ($7 - $13). Worth every penny to save energy.
 
 #### 🚶 Walking Routes
 
-- **Higashiyama:** Start at **Kiyomizu-dera** (top of hill) and walk *down* through Sannenzaka/Ninenzaka to Gion. Do not walk up.
+- **Higashiyama:** Start at **Kiyomizu-dera** (top of hill) and walk *down* through Sannenzaka/Ninenzaka to Gion.
+  Do not walk up.
 - **Fushimi Inari:** Go at 6:30 AM. Take JR Nara Line to Inari Station (right in front of gate).
 
 ### 3. 🐙 Osaka (The Kitchen of Japan)
 
 #### 🎢 Universal Studios Japan (USJ) Access
 
-- **Route:** Osaka Station -> (JR Osaka Loop Line) -> Nishikujo Station -> (Transfer to JR Yumesaki Line) -> Universal City Station.
+- **Route:** Osaka Station -> (JR Osaka Loop Line) -> Nishikujo Station -> (Transfer to JR Yumesaki Line) ->
+  Universal City Station.
 - **Time:** ~15-20 mins.
 - **Cost:** ~190 JPY ($1.25).
-- **Crowds:** The train *will* be packed with Mario/Harry Potter fans. Follow the crowd.
+- **Crowds:** The train *will* be packed with Mario/Harry Potter fans. Follow the crowd. [USJ Access Guide](https://www.usj.co.jp/web/en/us/access)
 
 #### 🚇 Osaka Metro
 
-- **Midosuji Line (Red):** The only line you really need.
+- **Midosuji Line (Red):** The only line you really need. [Map](https://subway.osakametro.co.jp/en/guide/routemap.php)
   - **Umeda:** North hub (Shopping, Pokemon Center).
   - **Shinsaibashi:** Shopping arcade.
   - **Namba:** Dotonbori (Food, Glico Man).
@@ -150,9 +155,10 @@ Kyoto's trains are limited, and buses are miserable (crowded).
   - **Cost:** ~1,200 JPY ($8) for Limited Express (Reserved Seat).
   - **Why:** Station is 5 min walk to Deer Park.
 - **From Osaka:**
-  - **Kintetsu Line:** From Namba Station to Kintetsu-Nara. ~40 mins.
+  - **Kintetsu Line:** From Namba Station to Kintetsu-Nara. ~40 mins. [Kintetsu Info](https://www.kintetsu.co.jp/foreign/english/)
 
 #### 🍪 Deer Etiquette
 
 - **Shika Senbei (Deer Crackers):** 200 JPY ($1.30). Buy them at stalls.
-- **Warning:** The deer *will* bow for food, but they can also bite/headbutt if you tease them. Hide the crackers if you get swarmed.
+- **Warning:** The deer *will* bow for food, but they can also bite/headbutt if you tease them.
+  Hide the crackers if you get swarmed.
