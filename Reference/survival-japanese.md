@@ -1,6 +1,6 @@
 # Survival Japanese for Gamers & Travelers
 
-##  Retro Gaming Terms
+## 🎮 Retro Gaming Terms
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
@@ -12,7 +12,7 @@
 | **免税** | *Menzei* | Tax Free | Look for this sign at counters. |
 | **見せてください** | *Misete kudasai* | Please show me | Point at a game in the case. |
 
-##  Dining & Drinking
+## 🍜 Dining & Drinking
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@
 | **おすすめは？** | *Osusume wa?* | Recommendation? | When you don't know what to order. |
 | **二人です** | *Futari desu* | Two people | When entering a restaurant. |
 
-##  Konbini (Convenience Store)
+## 🏪 Konbini (Convenience Store)
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
@@ -32,7 +32,7 @@
 | **お箸** | *O-hashi* | Chopsticks | "O-hashi kudasai" (Chopsticks please). |
 | **スプーン** | *Supuun* | Spoon | For pudding or curry. |
 
-##  Travel Basics
+## ✈️ Travel Basics
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@
 | **駅** | *Eki* | Station | "Shinjuku-eki". |
 | **英語** | *Eigo* | English | "Eigo OK?" |
 
-## Directions & Help
+## 🗺️ Directions & Help
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
@@ -51,7 +51,7 @@
 | **手伝ってください** | *Tetsudatte kudasai* | Please help me | General help request. |
 | **写真を撮ってください** | *Shashin o totte kudasai* | Please take a photo | Hand over phone and ask politely. |
 
-## Trains & Navigation
+## 🚆 Trains & Navigation
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
@@ -61,7 +61,7 @@
 | **乗り換え** | *Norikae* | Transfer | Signs for connections. |
 | **終点** | *Shuuten* | Last stop / Terminus | Avoid overshooting your station. |
 
-## Money & Shopping
+## 💴 Money & Shopping
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
@@ -71,7 +71,7 @@
 | **試着できますか？** | *Shichaku dekimasu ka?* | Can I try it on? | Clothing stores. |
 | **サイズ** | *Saizu* | Size | "M saizu arimasu ka?" |
 
-## Health & Emergencies
+## 🏥 Health & Emergencies
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
@@ -82,7 +82,7 @@
 | **アレルギーがあります** | *Arerugii ga arimasu* | I have an allergy | Follow with the item name. |
 | **ナッツ / 貝 / 乳製品** | *Nattsu / Kai / Nyuuseihin* | Nuts / Shellfish / Dairy | Pair with the allergy phrase. |
 
-## Politeness Boosters
+## 🙇 Politeness Boosters
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
@@ -91,7 +91,7 @@
 | **すごい！** | *Sugoi!* | Amazing! | Positive reaction. |
 | **かわいい！** | *Kawaii!* | Cute! | Shopping or cafes. |
 
-## Numbers & Time (Quick)
+## 🔢 Numbers & Time (Quick)
 
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
