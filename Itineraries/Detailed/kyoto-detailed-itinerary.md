@@ -3,7 +3,7 @@
 **Schedule:** 06:30 AM - 09:30 PM
 **Hotel Hub:** Kyoto Station or Gion/Kawaramachi
 
-##  Day 4: Shinkansen & Foxes (Friday)
+## 🚄 Day 4: Shinkansen & Foxes (Friday)
 
 Take the Shinkansen to Kyoto and head straight to Fushimi Inari Shrine to hike the Torii gates. Check into the hotel and spend the evening walking through the atmospheric Gion district. Enjoy a traditional Okonomiyaki dinner to wrap up the day.
 
@@ -18,7 +18,7 @@ Take the Shinkansen to Kyoto and head straight to Fushimi Inari Shrine to hike t
 | **18:30** | **Dinner** | **Okonomiyaki**.<br>*Recommendation:* **[Gion Tanto](https://tabelog.com/en/kyoto/A2601/A260301/26005066/)** (Teppan grill in tatami setting). | $$ |
 | **20:30** | **Night Walk** | Walk along the [Kamo River](https://kyoto.travel/en/nature/kamogawa.html) or [Pontocho Alley](https://www.japan-guide.com/e/e3921.html). | - |
 
-##  Day 5: Bamboo, Monkeys & Gold (Saturday)
+## 🎋 Day 5: Bamboo, Monkeys & Gold (Saturday)
 
 Experience the magic of Arashiyama Bamboo Grove early in the morning, then visit Tenryu-ji Temple. Split up to see monkeys or enjoy riverside coffee before reuniting for the Golden Pavilion. End the day with dinner in Pontocho Alley.
 
@@ -33,7 +33,7 @@ Experience the magic of Arashiyama Bamboo Grove early in the morning, then visit
 | **18:30** | **Dinner** | **[Pontocho Alley](https://www.japan-guide.com/e/e3921.html)**.<br>Find a restaurant with a river view (if season allows) or cozy atmosphere. | $$$ |
 | **20:30** | **Return** | Back to hotel. | - |
 
-##  Day 6: Nara Day Trip & Market (Sunday)
+## 🦌 Day 6: Nara Day Trip & Market (Sunday)
 
 Take a day trip to Nara to feed the bowing deer and see the Giant Buddha at Todai-ji. Watch the famous mochi pounding show before returning to Kyoto for afternoon shopping at Nishiki Market or gaming stores. Conclude with a ramen dinner at Kyoto Station.
 
