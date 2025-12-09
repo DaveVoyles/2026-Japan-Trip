@@ -17,6 +17,18 @@ Since you are buying Retro Games and Ceramics, you need space.
 - [ ] **Power Bank:** 10,000mAh+ (You will use Google Maps all day).
 - [ ] **eSIM:** Install Ubigi or Airalo *before* you fly.
 
+## 🎒 Daily Carry (Day Pack)
+
+**The "Always On You" Kit:**
+
+- [ ] **Passport:** Legally required to carry at all times as a tourist.
+- [ ] **Power Bank & Cable:** 10,000mAh. You will be stranded without Google Maps.
+- [ ] **Hand Towel / Handkerchief:** Public restrooms have no paper towels.
+- [ ] **Hand Sanitizer:** Soap is rare in public parks/stations.
+- [ ] **Plastic Bag:** For your trash (no public bins).
+- [ ] **Coin Purse:** You will accumulate massive amounts of 100/500 yen coins.
+- [ ] **Water Bottle:** Stay hydrated. Vending machines are everywhere though.
+
 ## 👕 Clothing (October: 65-75F)
 
 - [ ] **Comfortable Walking Shoes:** You will walk 20k+ steps/day. Break them in now.

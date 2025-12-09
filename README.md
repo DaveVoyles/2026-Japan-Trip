@@ -31,6 +31,8 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 - [travel-methods.md](Logistics/travel-methods.md): Transport options (Shinkansen, local trains).
 - [packing-list.md](Logistics/packing-list.md): Comprehensive packing checklist.
 - [emergency-contacts.md](Logistics/emergency-contacts.md): Critical numbers and embassy info.
+- [reservation-tracker.md](Logistics/reservation-tracker.md): Track flights, hotels, and ticket confirmations.
+- [budget-tracker.md](Logistics/budget-tracker.md): Estimate and track trip expenses.
 
 ### 📚 Reference
 
