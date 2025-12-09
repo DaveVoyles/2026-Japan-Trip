@@ -42,9 +42,9 @@ Read this file completely before generating any content or making edits.
 3. **Locations:** Prioritize "Hub" locations for hotels to minimize travel friction during split activities.
 4. **Recommendation Format:** For EVERY recommendation (hotel, restaurant, activity), provide a table with these columns:
 
-   | Est Cost | URL | Details | Availability | English Friendly |
-   | :--- | :--- | :--- | :--- | :--- |
-   | $-$$$$ | [Website](url) | 1-2 sentences on why we should care. | e.g., "Book 3 months ahead" or "Walk-in" | High/Med/Low |
+| Est Cost | URL | Details | Availability | English Friendly |
+| :--- | :--- | :--- | :--- | :--- |
+| $$$$ | [Website](url) | Why it matters (1-2 sentences). | e.g., "Book 3 months ahead" or "Walk-in" | High/Med/Low |
 
 5. **Visual Style & Links:**
    - **Emojis/Icons:** Use emojis 📍, 💴, 🚄, 🍣, etc., as visual anchors for headers and key list items.

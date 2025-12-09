@@ -77,7 +77,7 @@ Since we are starting at 6:30 AM, convenience stores are your best friend.
 
 | Est Cost | URL | Details | Availability | English Friendly |
 | :--- | :--- | :--- | :--- | :--- |
-| $$-$$$ | [Rengatei](http://ginzarengatei.com/) | **Rengatei (Ginza):** One of the oldest Yoshoku restaurants in Japan, credited with inventing the modern Tonkatsu and Omurice. The interior feels like a time capsule from the Meiji era. Their Omurice is unique because the egg is mixed into the rice rather than wrapped around it. | Historic spot, lines at lunch. | Low/Medium |
+| $$$ | [Rengatei](http://ginzarengatei.com/) | **Rengatei (Ginza):** One of the oldest Yoshoku restaurants in Japan, credited with inventing the modern Tonkatsu and Omurice. The interior feels like a time capsule from the Meiji era. Their Omurice is unique because the egg is mixed into the rice rather than wrapped around it. | Historic spot, lines at lunch. | Low/Medium |
 | $$ | [Taimeiken](https://www.taimeiken.co.jp/) | **Taimeiken (Nihonbashi):** Famous for its "Dampopo Omurice" (dandelion omelet rice) where a fluffy, runny omelet sits atop the rice and splits open when cut. It is a classic comfort food spot with a casual first floor and formal second floor. | Popular lunch spot. | Medium |
 
 ### 🥐 Bakeries & Sweets
@@ -109,7 +109,7 @@ Since we are starting at 6:30 AM, convenience stores are your best friend.
 
 | Est Cost | URL | Details | Availability | English Friendly |
 | :--- | :--- | :--- | :--- | :--- |
-| $$-$$$ | [Menami](http://www.menami.jp/) | **Menami (Near Sanjo):** A classic Obanzai counter restaurant where large bowls of fresh, seasonal vegetable dishes line the counter. You can point to what looks good, making it easy to order. It offers a warm, authentic taste of Kyoto's daily home cooking in a refined izakaya atmosphere. | Reservations recommended. | Medium |
+| $$$ | [Menami](http://www.menami.jp/) | **Menami (Near Sanjo):** A classic Obanzai counter restaurant where large bowls of fresh, seasonal vegetable dishes line the counter. You can point to what looks good, making it easy to order. It offers a warm, authentic taste of Kyoto's daily home cooking in a refined izakaya atmosphere. | Reservations recommended. | Medium |
 | $$ | [Omen](https://www.omen.co.jp/en/) | **Omen (Ginkakuji/Pontocho):** Famous for its dipping udon served with a beautiful array of seasonal vegetables and sesame seeds. The noodles are smooth and the broth is flavorful, emphasizing the natural taste of the ingredients. It is a healthy, refreshing meal that feels very "Kyoto." | Popular lunch spot. | High |
 
 ### 🍤 Tempura & Tofu

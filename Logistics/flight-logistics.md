@@ -94,7 +94,7 @@ Before booking, check these resources for the latest seat configurations and ser
 
 - **Distance:** 30 mins to Ginza/Shimbashi.
 - **Transport:**
-  - **Taxi:** ~¥8,000 - ¥10,000 ($55-$70). Easiest with luggage.
+  - **Taxi:** ~¥8,000 - ¥10,000 ($55–$70). Easiest with luggage.
   - **Monorail/Train:** ~¥600 ($4). Requires transfers.
   - **Limousine Bus:** ~¥1,300 ($9). Direct to major hotels. [Official Site](https://www.limousinebus.co.jp/guide/en/)
 
