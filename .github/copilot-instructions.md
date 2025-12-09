@@ -108,6 +108,7 @@ To minimize user interruption and permission prompts:
 
 - **Execution Context:** Run `git` commands **LOCALLY** on the Mac (in `/Volumes/docker`), NOT on the NAS. The git repository exists on the mounted volume, and the Mac has the correct credentials/keys.
 - **Ignored Paths:** Ignore the `#recycle/` directory when searching or listing files.
+- **Auto-Push Policy:** After EVERY successful file update or task completion, you MUST immediately run `git add <file>; git commit -m "<message>"; git push`. Do not wait for user permission.
 
 ## 14. Path Verification
 
