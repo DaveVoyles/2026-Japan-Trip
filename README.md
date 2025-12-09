@@ -18,14 +18,30 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 
 ## Key Files
 
+### Itineraries
+
+- [japan-itinerary.md](Itineraries/japan-itinerary.md): Day-by-day plan (target length: 8 days, early starts).
+- [timeline.md](Itineraries/timeline.md): High-level trip timeline.
+- [Detailed Itineraries](Itineraries/Detailed/): City-specific daily breakdowns.
+
+### Logistics
+
+- [flight-logistics.md](Logistics/flight-logistics.md): EWR-Japan routing, airline tips, and airport transit.
+- [logistics-guide.md](Logistics/logistics-guide.md): Practical how-tos (eSIM setup, Suica/PASMO, apps, payments).
+- [travel-methods.md](Logistics/travel-methods.md): Transport options (Shinkansen, local trains).
+- [packing-list.md](Logistics/packing-list.md): Comprehensive packing checklist.
+- [emergency-contacts.md](Logistics/emergency-contacts.md): Critical numbers and embassy info.
+
+### Reference
+
 - [chat-agent-instructions.md](chat-agent-instructions.md): Core preferences, priorities, rules, and tech stack.
-- [japan-itinerary.md](japan-itinerary.md): Day-by-day plan (target length: 8 days, early starts).
-- [hotel-options.md](hotel-options.md): Hotel candidates that fit budget and Western-bed constraint.
-- [food-guide.md](food-guide.md): Non-sushi dining options (Ramen, Tempura, etc.) with pricing.
-- [flight-logistics.md](flight-logistics.md): EWR-Japan routing, airline tips, and airport transit.
-- [universal-studios-strategy.md](universal-studios-strategy.md): Critical guide for securing entry to Super Nintendo
+- [hotel-options.md](Reference/hotel-options.md): Hotel candidates that fit budget and Western-bed constraint.
+- [food-guide.md](Reference/food-guide.md): Non-sushi dining options (Ramen, Tempura, etc.) with pricing.
+- [universal-studios-strategy.md](Reference/universal-studios-strategy.md): Critical guide for securing entry to Super Nintendo
   World & Donkey Kong Country.
-- [logistics-guide.md](logistics-guide.md): Practical how-tos (eSIM setup, Suica/PASMO, apps, payments).
+- [city-stops-details.md](Reference/city-stops-details.md): Detailed info on specific city stops.
+- [shopping-wishlist.md](Reference/shopping-wishlist.md): Items to buy (Anime, Electronics, etc.).
+- [survival-japanese.md](Reference/survival-japanese.md): Essential phrases for travelers.
 - [.github/agents/](.github/agents/): Chat agent profiles used earlier in this project.
 
 ## Trip Constraints (Quick Reference)
