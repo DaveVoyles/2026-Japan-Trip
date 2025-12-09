@@ -3,6 +3,7 @@
 ## 1. 📶 Connectivity & Power
 
 ### eSIM Setup (iPhone 15)
+
 Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 
 | Feature | [Ubigi](https://apps.apple.com/us/app/ubigi-esim-internet-data/id1435567041) | [Airalo (Moshi Moshi)](https://apps.apple.com/us/app/airalo-esim-phone-internet/id1475911720) |
@@ -12,11 +13,12 @@ Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 | **Pros** | Often faster; easy app setup. | Very popular; user-friendly app. |
 
 **Setup Steps (Do 1-2 days before flying):**
-1.  Download App & Create Account.
-2.  Purchase "Japan" plan (10GB is plenty).
-3.  **Install eSIM:** Label it "Japan Travel".
-4.  **Turn OFF:** Keep it OFF until you land.
-5.  **On Arrival:** Turn "Japan Travel" ON -> Turn "Data Roaming" ON for that line.
+
+1. Download App & Create Account.
+2. Purchase "Japan" plan (10GB is plenty).
+3. **Install eSIM:** Label it "Japan Travel".
+4. **Turn OFF:** Keep it OFF until you land.
+5. **On Arrival:** Turn "Japan Travel" ON -> Turn "Data Roaming" ON for that line.
 
 ### 🔋 Power & Charging
 
@@ -56,6 +58,7 @@ Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 ### 📦 Luggage Forwarding (Takkyubin)
 
 *The ultimate travel hack.* Do not haul big bags on the Shinkansen.
+
 - **Service:** **Yamato Transport** (Black Cat logo).
 - **How:** Ask your hotel front desk: *"Can I send my luggage to my next hotel?"*
 - **Cost:** ~$20 USD per bag.
@@ -172,7 +175,6 @@ Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 - **Koban:** Small police boxes found near major intersections/stations. Ask them for directions if lost.
 - **Earthquakes:** If you feel shaking, stay calm. Stay away from glass. Follow local instructions.
   Phones will emit a loud alarm ("J-Alert") seconds before strong shaking.
-- **Earthquakes:** If you feel shaking, stay calm. Stay away from glass. Follow local instructions. Phones will emit a loud alarm ("J-Alert") seconds before strong shaking.
 
 ## Essential Apps Checklist
 
