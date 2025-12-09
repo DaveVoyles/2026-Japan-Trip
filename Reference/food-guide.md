@@ -14,6 +14,41 @@
 
 ---
 
+## 🏪 Konbini Breakfast Tier List (Grab & Go)
+
+Since we are starting at 6:30 AM, convenience stores are your best friend.
+
+### 🥇 7-Eleven (The Gold Standard)
+- **Coffee:** "Seven Cafe" (Iced Latte is surprisingly good).
+- **Onigiri:** Tuna Mayo (Classic), Salmon (Safe), Soft-Boiled Egg (Rich).
+- **Hot Food:** "Nana-Chiki" (Fried Chicken) - yes, for breakfast.
+- **Bakery:** Egg Salad Sandwich (Legendary), Sugar Butter Tree cookies.
+
+### 🥈 Lawson (The Dessert King)
+- **Coffee:** "Machi Cafe".
+- **Hot Food:** "Kara-age Kun" (Nuggets) - Red is spicy, Regular is savory.
+- **Bakery:** **Premium Roll Cake** (Must try).
+
+### 🥉 Family Mart (The Fried Chicken King)
+- **Hot Food:** **Famichiki** (Boneless fried chicken). Best in class.
+
+---
+
+## 🍺 Drinking & Nightlife (Enthusiast Level)
+
+### 🥃 Whisky & Cocktails
+- **Bar High Five (Ginza):** Legendary cocktails. No menu; tell the bartender your mood.
+- **Bar Ben Fiddich (Shinjuku):** Farm-to-bar concept. Uses herbs grown by the owner.
+- **Suntory Whisky House (Osaka):** Dedicated to Suntory spirits.
+
+### 🏮 Izakaya & Yokocho (Alleys)
+- **Golden Gai (Shinjuku):** 200+ tiny bars in 6 alleys. Cover charges apply (~1000 JPY).
+- **Omoide Yokocho (Shinjuku):** "Piss Alley". Yakitori smoke and cheap beer.
+- **Pontocho (Kyoto):** Narrow alley along the river. High-end dining mixed with bars.
+- **Hoppy Dori (Asakusa):** Outdoor seating, stewed beef, and "Hoppy" (beer-flavored drink).
+
+---
+
 ## Tokyo (Ginza & Shinjuku)
 
 ### 🍜 Ramen & Noodles

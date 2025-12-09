@@ -1,25 +1,41 @@
-# Japan Trip Packing List
+# Japan Packing List (October 2026)
 
-##  Documents & Essentials
-- [ ] **Passport** (Must be valid for 6+ months)
-- [ ] **Physical Suica/Pasmo** (If you have old ones, otherwise use Apple Wallet)
-- [ ] **Credit Cards** (Visa/Mastercard - notify bank)
-- [ ] **Yen Cash** (Start with ~ USD worth)
+##  Strategy: The "Empty Suitcase"
 
-##  Tech Pouch
-- [ ] **Power Bank** (10,000mAh+ recommended for USJ)
-- [ ] **Cables** (USB-C for iPhone 15, Lightning if needed for older accessories)
-- [ ] **Travel Adapter** (Japan uses Type A, same as US, but usually no 3rd ground pin)
-- [ ] **eSIM QR Codes** (Printed backup)
+Since you are buying Retro Games and Ceramics, you need space.
 
-##  Clothing (October)
-- [ ] **Comfortable Walking Shoes** (Broken in!)
-- [ ] **Light Jacket/Cardigan** (Layers for evening)
-- [ ] **Rain Jacket** (Lightweight)
-- [ ] **Socks** (Clean & hole-free - you take shoes off often)
+- **Dave:** Bring a large checked bag that is **half empty** (or pack a duffel bag inside it).
+- **Debbie:** Leave space for kitchenware/snacks.
+- **Laundry:** Plan to do laundry once (Day 4 or 5 in Kyoto). Hotels have coin laundry.
+
+##  Essentials
+
+- [ ] **Passport** (Valid for 6+ months).
+- [ ] **Physical Suica/Pasmo** (if you have old ones) OR **iPhone** (Add Suica to Wallet).
+- [ ] **Credit Cards** (Visa/Mastercard - No foreign transaction fees).
+- [ ] **Cash (Yen):** Bring ~ USD worth of Yen for arrival. Withdraw the rest at 7-Eleven ATMs.
+- [ ] **Power Bank:** 10,000mAh+ (You will use Google Maps all day).
+- [ ] **eSIM:** Install Ubigi or Airalo *before* you fly.
+
+##  Clothing (October: 65-75F)
+
+- [ ] **Comfortable Walking Shoes:** You will walk 20k+ steps/day. Break them in now.
+- [ ] **Light Jacket/Hoodie:** Evenings can be cool.
+- [ ] **Rain Shell:** Light rain is possible.
+- [ ] **Jeans/Chinos:** 2-3 pairs.
+- [ ] **T-Shirts:** 5-6.
+- [ ] **Socks/Underwear:** 7 days worth.
 
 ##  Toiletries & Meds
-- [ ] **Prescriptions** (Bring copy of Rx)
-- [ ] **Pain Relievers** (Ibuprofen/Tylenol)
-- [ ] **Hand Sanitizer**
-- [ ] **Small Hand Towel** (Public restrooms often lack dryers)
+
+- [ ] **Deodorant:** Japanese deodorant is weak. Bring your own.
+- [ ] **Painkillers:** Ibuprofen/Tylenol (Japanese versions are weak).
+- [ ] **Hand Sanitizer / Wet Wipes:** Public restrooms often lack soap/towels.
+- [ ] **Small Trash Bag:** Public trash cans are rare. Carry your trash.
+
+##  Gaming Specifics
+
+- [ ] **Bubble Wrap:** For protecting loose cartridges/consoles.
+- [ ] **Tote Bag:** For carrying loot around Akihabara.
+- [ ] **Power Strip:** Japanese outlets are 2-prong (Type A). 3-prong plugs need an adapter.
+
