@@ -28,6 +28,8 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 
 - [flight-logistics.md](Logistics/flight-logistics.md): EWR-Japan routing, airline tips, and airport transit.
 - [logistics-guide.md](Logistics/logistics-guide.md): Practical how-tos (eSIM setup, Suica/PASMO, apps, payments).
+- [tech-setup.md](Logistics/tech-setup.md): Step-by-step guide for setting up Suica, SmartEx, and eSIM.
+- [weather-clothing.md](Logistics/weather-clothing.md): October weather forecast and layering strategy.
 - [travel-methods.md](Logistics/travel-methods.md): Transport options (Shinkansen, local trains).
 - [packing-list.md](Logistics/packing-list.md): Comprehensive packing checklist.
 - [emergency-contacts.md](Logistics/emergency-contacts.md): Critical numbers and embassy info.
