@@ -3,7 +3,7 @@
 **Schedule:** 06:30 AM - 09:30 PM
 **Hotel Hub:** Ginza or Shinjuku
 
-##  Day 1: Arrival & Reset (Tuesday)
+## 🛬 Day 1: Arrival & Reset (Tuesday)
 
 Arrive in Tokyo and settle into the hotel in Ginza or Shinjuku. Take a light evening walk to explore local arcades or basement food halls to get acclimated. End the day with a casual Izakaya dinner before getting an early night's sleep to adjust to the time zone.
 
@@ -15,7 +15,7 @@ Arrive in Tokyo and settle into the hotel in Ginza or Shinjuku. Take a light eve
 | **19:00** | **Dinner** | **[Izakaya](https://www.japan-guide.com/e/e2036.html)** (Japanese Pub).<br>*Recommendation:* A local spot near the hotel. Order Yakitori (skewers), Karaage (fried chicken), and Edamame. | $$ |
 | **21:00** | **Bed** | Force sleep to adjust to time zone. | - |
 
-##  Day 2: Old Tokyo & Akihabara (Wednesday)
+## ⛩️ Day 2: Old Tokyo & Akihabara (Wednesday)
 
 Start early at Senso-ji Temple to beat the crowds, then explore Nakamise Street. Split up in the afternoon for retro gaming in Akihabara and kitchenware shopping in Kappabashi. Regroup for a Tonkatsu dinner in the evening.
 
@@ -31,7 +31,7 @@ Start early at Senso-ji Temple to beat the crowds, then explore Nakamise Street.
 | **18:30** | **Dinner** | **Tonkatsu** (Pork Cutlet).<br>*Recommendation:* **[Katsukura](https://www.katsukura.jp/en/)** (Shinjuku) or **[Rengatei](http://ginzarengatei.com/)** (Ginza). | $$ |
 | **20:30** | **Return** | Back to hotel. Prepare for early morning. | - |
 
-##  Day 3: Pop Culture & Fashion (Thursday)
+## 🌸 Day 3: Pop Culture & Fashion (Thursday)
 
 Begin with a peaceful morning walk at Meiji Shrine followed by fluffy pancakes in Harajuku. Spend the afternoon separately exploring pop culture at Shibuya Parco or floral cafes in Aoyama. Reunite for sunset views at Shibuya Sky and a Yakiniku dinner.
 
