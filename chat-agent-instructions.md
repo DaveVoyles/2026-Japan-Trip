@@ -46,6 +46,12 @@ Read this file completely before generating any content or making edits.
    | :--- | :--- | :--- | :--- | :--- |
    | $-$$$$ | [Website](url) | 1-2 sentences on why we should care. | e.g., "Book 3 months ahead" or "Walk-in" | High/Med/Low |
 
+5. **Visual Style & Links:**
+   - **Emojis/Icons:** Use emojis 📍, 💴, 🚄, 🍣, etc., as visual anchors for headers and key list items.
+     This helps break up walls of text.
+   - **Hyperlinks:** Link **EVERYTHING**. If you mention an app, a pass, a location, or a service, provide a URL.
+     The user should never have to Google a term.
+
 ## Logistics & Preferences
 
 - **Budget:** Mid-High Tier ($10-15k Total Trip).
