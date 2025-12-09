@@ -43,14 +43,18 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 
 ### From Osaka (Umeda/Namba)
 
-- **Route:** Take the **JR Osaka Loop Line** to **Nishikujo Station**.
-- **Transfer:** Switch to the **JR Yumesaki Line** (trains are often painted with Mario/Harry Potter characters).
-- **Stop:** Get off at **Universal City Station**.
-- **Walk:** Follow the massive crowd through Universal CityWalk to the park gates (5 mins). [Map](https://www.usj.co.jp/web/en/us/access)
+- **Route:** Take the **[JR Osaka Loop Line](https://www.westjr.co.jp/global/en/timetable/pdf/map_osaka.pdf)**
+  to **[Nishikujo Station](https://www.google.com/maps/search/?api=1&query=Nishikujo+Station)**.
+- **Transfer:** Switch to the **[JR Yumesaki Line](https://www.westjr.co.jp/global/en/timetable/pdf/map_osaka.pdf)**
+  (trains are often painted with Mario/Harry Potter characters).
+- **Stop:** Get off at **[Universal City Station](https://www.google.com/maps/search/?api=1&query=Universal+City+Station)**.
+- **Walk:** Follow the massive crowd through [Universal CityWalk](https://ucw.jp/en/) to the park gates (5 mins).
+  [Map](https://www.usj.co.jp/web/en/us/access)
 
 ### From Kyoto
 
-- **Route:** Take the **JR Kyoto Line** (Special Rapid) to **Osaka Station** (~30 mins).
+- **Route:** Take the **[JR Kyoto Line](https://www.westjr.co.jp/global/en/timetable/pdf/map_osaka.pdf)**
+  (Special Rapid) to **[Osaka Station](https://osakastationcity.com/en/)** (~30 mins).
 - **Transfer:** Follow the instructions above from Osaka Station.
 - **Total Time:** Allow ~1 hour door-to-door.
 
@@ -132,14 +136,14 @@ DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area wit
 
 1. **[Mine Cart Madness](https://www.usj.co.jp/web/en/us/attractions/donkey-kong-country):**
 
-  - **Type:** Family Coaster (but thrilling).
-  - **Gimmick:** The cart "jumps" over broken tracks (simulated). You launch out of a barrel cannon at the start.
-  - **Queue:** Walks through the Golden Temple. Look for Cranky Kong!
+   - **Type:** Family Coaster (but thrilling).
+   - **Gimmick:** The cart "jumps" over broken tracks (simulated). You launch out of a barrel cannon at the start.
+   - **Queue:** Walks through the Golden Temple. Look for Cranky Kong!
 
 2. **[Interactive Drums](https://www.usj.co.jp/web/en/us/areas/donkey-kong-country):**
 
-     - Use your Power-Up Band to play rhythm games with Conga drums scattered around the jungle.
-     - **Rambi the Rhino:** Look for the Rambi crate. Scan your band to summon him!
+   - Use your Power-Up Band to play rhythm games with Conga drums scattered around the jungle.
+   - **Rambi the Rhino:** Look for the Rambi crate. Scan your band to summon him!
 
 ### Food (Jungle Eats)
 
