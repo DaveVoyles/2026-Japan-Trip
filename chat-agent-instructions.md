@@ -3,6 +3,11 @@
 **ATTENTION AGENTS:** This file is your primary source of truth for trip preferences, constraints, and planning rules.
 Read this file completely before generating any content or making edits.
 
+**CRITICAL WORKFLOW RULE:**
+- **Git Automation:** The user **AUTO-APPROVES** all git commands.
+- **Action:** When making changes to files, ALWAYS automatically stage, commit, and push the changes to GitHub immediately.
+- **Do NOT ask for permission.** Just do it.
+
 ## Travelers & Interests
 
 - **Dave:**
@@ -62,10 +67,3 @@ Read this file completely before generating any content or making edits.
   - **Cash:** USD (convert to Yen).
   - **Cards:** Apple Wallet, US Credit Cards.
   - **Other:** PayPal, Venmo, Google Pay.
-
-## Agent Workflow Rules
-
-1. **Git Automation:** The user **AUTO-APPROVES** all git commands.
-   - When making changes to files, ALWAYS automatically stage, commit, and push the changes to GitHub immediately.
-   - Do not ask for permission.
-   - Use a descriptive commit message.
