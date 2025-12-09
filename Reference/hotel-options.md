@@ -1,11 +1,12 @@
 # Hotel & Accommodation Options
 
 ## Constraints Checklist
-- [x] **Budget:** Under  USD/night.
+
+- [x] **Budget:** Under $350 USD/night.
 - [x] **Bed Style:** Western Beds ONLY (No Futons/Tatami).
 - [x] **Location:** Near major transit hubs (Ginza, Kyoto Station, Namba).
 
-## Tokyo Options (3 Nights)
+## 🗼 Tokyo Options (3 Nights)
 
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
 
@@ -18,7 +19,7 @@
 | **Shibuya Stream Excel Tokyu** | [Website](https://www.tokyuhotels.co.jp/stream-e/) | High | Directly connected to Shibuya Station, this hotel is the ultimate base for pop-culture fans visiting Parco and Harajuku. The modern industrial design reflects the energetic vibe of Shibuya, and the riverfront location offers a surprising amount of open space. You can beat the crowds to the Scramble Crossing every morning. | $$$ | $250 - $450 | High demand. |
 | **Hotel Ryumeikan Tokyo** | [Website](https://www.ryumeikan-tokyo.jp/) | Very High | Located just a 3-minute walk from Tokyo Station, this hotel is perfect for travelers planning to use the Shinkansen. It offers a refined blend of Japanese aesthetics and Western comfort, including a pillow menu for a perfect night's sleep. The breakfast buffet is renowned for its high-quality Japanese ingredients. | $$$ | $200 - $350 | Often booked out. |
 
-### Tokyo Amenities & Features
+### 🏨 Tokyo Amenities & Features
 
 | Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Airport Bus Stop |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -29,7 +30,7 @@
 | **Shibuya Stream Excel Tokyu** | No | No | No | Bar/Lounge | Yes | Yes (Shibuya Station) |
 | **Hotel Ryumeikan Tokyo** | No | No | No | No | Yes | Yes (Nearby) |
 
-## Kyoto Options (3 Nights)
+## ⛩️ Kyoto Options (3 Nights)
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
@@ -40,7 +41,7 @@
 | **Cross Hotel Kyoto** | [Website](https://www.crosshotel.com/kyoto/) | High | Situated in the heart of the Kawaramachi/Gion district, this hotel is perfect for those who want to walk to dinner and temples. The rooms are spacious by Japanese standards and feature large, spa-like bathrooms. Its stylish, boutique atmosphere appeals to younger travelers and couples looking for a lively neighborhood. | $$$ | $200 - $350 | Popular with Westerners. |
 | **Hotel The Celestine Kyoto Gion** | [Website](https://www.celestinehotels.jp/kyoto-gion/) | High | Located in the historic Gion district, this hotel offers a sophisticated, serene experience within walking distance of Kiyomizu-dera. It features a guest-only public bath (onsen style) which is perfect for relaxing after a day of walking. The property balances modern luxury with traditional Kyoto aesthetics, making it feel very special. | $$$ | $250 - $450 | Book early for Autumn. |
 
-### Kyoto Amenities & Features
+### 🍵 Kyoto Amenities & Features
 
 | Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Concierge |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -48,6 +49,10 @@
 | **The Thousand Kyoto** | Yes | No | Yes (Spa - Paid) | Yes | No (Service only) | Excellent |
 | **Cross Hotel Kyoto** | No | No | No | Lobby Lounge | No | Good |
 | **Hotel The Celestine Gion** | No | No | Yes (Free for guests) | Yes | No | Good |
+
+## 🐙 Osaka Options (2 Nights)
+
+### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
 ## Osaka Options (1 Night)
 
@@ -61,6 +66,22 @@
 | **Hotel Hankyu Respire Osaka** | [Website](https://www.hankyu-hotel.com/en/hotel/respire/osaka) | High | Located in the massive Umeda/Osaka Station complex, this hotel offers incredible access to shopping and the train to Universal Studios. It features a massive open-air garden deck, providing a rare green space in the concrete jungle. The airport bus stops right downstairs, simplifying your departure logistics. | $$ | $150 - $250 | Very large, good availability. |
 
 ### Osaka Amenities & Features
+
+| Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Airport Access |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Cross Hotel Osaka** | No | No | No | No | No | 10 min walk to OCAT Bus |
+| **Swissotel Nankai Osaka** | Yes (Full) | Yes (Indoor) | Sauna/Spa | Yes (Exec Floor) | No | Direct Train (Rapi:t) |
+## 🐙 Osaka Options (2 Nights)
+
+### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
+
+| Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Swissotel Nankai Osaka** | [Website](https://www.swissotel.com/hotels/nankai-osaka/) | Very High | This hotel sits directly on top of Nankai Namba Station, providing the absolute easiest access to/from Kansai Airport (KIX). The views from the upper floors are spectacular, and you are an elevator ride away from Takashimaya department store. It is the most convenient luxury option in Osaka. | $$$$ | $300 - $500 | Luxury tier. |
+| **Hotel Royal Classic Osaka** | [Website](https://hotel-royalclassic.jp/en/) | High | Designed by Kengo Kuma (who designed the Olympic Stadium), this hotel is an architectural masterpiece connected to Namba Station. It features a museum-quality art collection throughout the property. The rooms are high-tech and spacious, offering a very modern Japanese luxury experience. | $$$ | $250 - $400 | Unique property, book early. |
+| **Hotel Hankyu Respire Osaka** | [Website](https://www.hankyu-hotel.com/en/hotel/respire/osaka) | High | Located in the massive Umeda/Osaka Station complex, this hotel offers incredible access to shopping and the train to Universal Studios. It features a massive open-air garden deck, providing a rare green space in the concrete jungle. The airport bus stops right downstairs, simplifying your departure logistics. | $$ | $150 - $250 | Very large, good availability. |
+
+### 🐙 Osaka Amenities & Features
 
 | Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Airport Access |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
