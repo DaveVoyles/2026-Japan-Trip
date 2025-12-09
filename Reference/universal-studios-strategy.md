@@ -92,7 +92,7 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
    - **Best For:** Incredible views of the land and Donkey Kong Country. Great for photos.
    - **Hidden Goal:** Find the 3 colored eggs during the ride to earn a stamp in your app.
 
-3. **Power-Up Band Key Challenges:**
+3. **[Power-Up Band Key Challenges](https://www.usj.co.jp/web/en/us/attractions/power-up-band-key-challenges):**
 
    - **The Gimmick:** Buy a band (~$30) to interact with the land.
    - **The Goal:** Collect 3 Keys from mini-games to unlock the **Bowser Jr. Shadow Showdown**.
@@ -109,16 +109,16 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 
 *Note: Food is themed impeccably but lines are long.*
 
-- **Kinopio's Cafe (Toad Cafe):**
+- **[Kinopio's Cafe (Toad Cafe)](https://www.usj.co.jp/web/en/us/restaurants/kinopios-cafe):**
   - **Cost:** Mains ~2,500 JPY ($17 USD); Drinks ~800 JPY ($5 USD).
   - **Must Order:** Super Mushroom Pizza Bowl (Bread bowl with tomato soup/pizza toppings), Piranha Plant Caprese,
     ? Block Tiramisu.
   - **Strategy:** Get a "Timed Entry Ticket" for the restaurant immediately upon entering the land.
     Scan the QR code at the entrance.
-- **Yoshi's Snack Island:**
+- **[Yoshi's Snack Island](https://www.usj.co.jp/web/en/us/restaurants/yoshis-snack-island):**
   - **Cost:** ~800 JPY ($5 USD) per item.
   - **Must Try:** Green Shell Calzone (Yakisoba & Cheese filling), Yoshi's Lassi (Mango/Melon).
-- **Pit Stop Popcorn:**
+- **[Pit Stop Popcorn](https://www.usj.co.jp/web/en/us/restaurants/pit-stop-popcorn):**
   - **Cost:** Regular ~500 JPY ($3.50 USD); Bucket ~4,500 - 5,000 JPY ($30 - $35 USD).
   - **Souvenir:** This is where you get the light-up Star popcorn bucket (Limit 1 per person).
 
@@ -136,27 +136,32 @@ DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area wit
   - **Gimmick:** The cart "jumps" over broken tracks (simulated). You launch out of a barrel cannon at the start.
   - **Queue:** Walks through the Golden Temple. Look for Cranky Kong!
 
-2. **Interactive Drums:**
+2. **[Interactive Drums](https://www.usj.co.jp/web/en/us/areas/donkey-kong-country):**
 
      - Use your Power-Up Band to play rhythm games with Conga drums scattered around the jungle.
      - **Rambi the Rhino:** Look for the Rambi crate. Scan your band to summon him!
 
 ### Food (Jungle Eats)
 
-- **Jungle Beat Shakes:** Banana-heavy treats.
-- **DK's Banana Coin:** A chocolate coin treat.
+- **[Jungle Beat Shakes](https://www.usj.co.jp/web/en/us/areas/donkey-kong-country):** Banana-heavy treats.
+- **[DK's Banana Coin](https://www.usj.co.jp/web/en/us/areas/donkey-kong-country):** A chocolate coin treat.
 
 ## 🕵️ Hidden Secrets & Tips
 
-- **Underground Level:** There is a "hidden" underground area near the exit of the land. It has Bob-ombs and unique
+- **[Underground Level](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world):**
+  There is a "hidden" underground area near the exit of the land. It has Bob-ombs and unique
   blocks to punch.
-- **Pikmin:** Look closely at the scenery. There are tiny Pikmin carrying items in hidden spots (often high up or in
+- **[Pikmin](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world):**
+  Look closely at the scenery. There are tiny Pikmin carrying items in hidden spots (often high up or in
   corners).
-- **M Blocks:** Punch the blocks! Even if you don't have a band, they make the coin sound. With a band, you collect
+- **[M Blocks](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world/power-up-band):**
+  Punch the blocks! Even if you don't have a band, they make the coin sound. With a band, you collect
   coins for the leaderboard.
-- **Stamps:** Check the USJ App. There are achievements for doing specific things (e.g., "Punch 100 blocks",
+- **[Stamps](https://www.usj.co.jp/web/en/us/service-guide/app):**
+  Check the USJ App. There are achievements for doing specific things (e.g., "Punch 100 blocks",
   "Beat the Goomba game 3 times").
-- **Night Mode:** The land transforms at night. The lighting is spectacular, and the crowds often thin out slightly
+- **[Night Mode](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world):**
+  The land transforms at night. The lighting is spectacular, and the crowds often thin out slightly
   in the last hour before closing.
 
 ## 🛍️ Merchandise & Souvenirs
