@@ -1,4 +1,4 @@
-# USJ Strategy: Super Nintendo World & Donkey Kong Country
+# 🎢 USJ Strategy: Super Nintendo World & Donkey Kong Country
 
 ## 🎯 The Goal
 
@@ -30,7 +30,8 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 - **Where to Buy:**
   - [Klook - Express Pass](https://www.klook.com/activity/3407-universal-studios-japan-express-pass-osaka/)
     (Check daily for inventory).
-- **Selection:** You MUST choose a pass that includes **"Mario Kart: Koopa's Challenge"** OR **"Donkey Kong: Mine Cart Madness"**.
+- **Selection:** You MUST choose a pass that includes **"Mario Kart: Koopa's Challenge"** OR
+  **"Donkey Kong: Mine Cart Madness"**.
   - *Target:* **"Universal Express Pass 4"** (Variety Choice) or **"Universal Express Pass 7"**.
   - *Critical:* These sell out within hours of release (2 months out). Set a calendar reminder.
 - **How it Works:**
@@ -45,7 +46,7 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 - **Route:** Take the **JR Osaka Loop Line** to **Nishikujo Station**.
 - **Transfer:** Switch to the **JR Yumesaki Line** (trains are often painted with Mario/Harry Potter characters).
 - **Stop:** Get off at **Universal City Station**.
-- **Walk:** Follow the massive crowd through Universal CityWalk to the park gates (5 mins).
+- **Walk:** Follow the massive crowd through Universal CityWalk to the park gates (5 mins). [Map](https://www.usj.co.jp/web/en/us/access)
 
 ### From Kyoto
 
