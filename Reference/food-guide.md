@@ -1,12 +1,13 @@
-# Japan Food Guide (Non-Sushi Focus)
+# 🍱 Japan Food Guide (Non-Sushi Focus)
 
-## Overview
+## 📝 Overview
 
 - **Focus:** High-quality non-sushi options for Debbie (Ramen, Tempura, Okonomiyaki, Yakiniku, Bakeries).
 - **Budget:** Breakfast/Lunch < $50 USD (7,500 JPY); Dinner < $150 USD (22,500 JPY).
 - **Locations:** Aligned with hotel hubs (Ginza, Kyoto Station, Namba).
 
-### Price Breakdown
+### 💰 Price Breakdown
+
 - **$** = **Cheap / Budget** (Under 1,500 JPY / ~$10 USD)
 - **$$** = **Moderate** (1,500 - 4,000 JPY / ~$10 - $25 USD)
 - **$$$** = **Expensive / Upscale** (4,000 - 10,000 JPY / ~$25 - $65 USD)
@@ -18,18 +19,21 @@
 
 Since we are starting at 6:30 AM, convenience stores are your best friend.
 
-### 🥇 7-Eleven (The Gold Standard)
+### 🥇 [7-Eleven](https://www.sej.co.jp/in/en.html) (The Gold Standard)
+
 - **Coffee:** "Seven Cafe" (Iced Latte is surprisingly good).
 - **Onigiri:** Tuna Mayo (Classic), Salmon (Safe), Soft-Boiled Egg (Rich).
 - **Hot Food:** "Nana-Chiki" (Fried Chicken) - yes, for breakfast.
 - **Bakery:** Egg Salad Sandwich (Legendary), Sugar Butter Tree cookies.
 
-### 🥈 Lawson (The Dessert King)
+### 🥈 [Lawson](https://www.lawson.jp/en/) (The Dessert King)
+
 - **Coffee:** "Machi Cafe".
 - **Hot Food:** "Kara-age Kun" (Nuggets) - Red is spicy, Regular is savory.
 - **Bakery:** **Premium Roll Cake** (Must try).
 
-### 🥉 Family Mart (The Fried Chicken King)
+### 🥉 [Family Mart](https://www.family.co.jp/english.html) (The Fried Chicken King)
+
 - **Hot Food:** **Famichiki** (Boneless fried chicken). Best in class.
 
 ---
@@ -37,15 +41,18 @@ Since we are starting at 6:30 AM, convenience stores are your best friend.
 ## 🍺 Drinking & Nightlife (Enthusiast Level)
 
 ### 🥃 Whisky & Cocktails
-- **Bar High Five (Ginza):** Legendary cocktails. No menu; tell the bartender your mood.
-- **Bar Ben Fiddich (Shinjuku):** Farm-to-bar concept. Uses herbs grown by the owner.
-- **Suntory Whisky House (Osaka):** Dedicated to Suntory spirits.
+
+- **[Bar High Five](https://www.barhighfive.com/) (Ginza):** Legendary cocktails. No menu; tell the bartender your mood.
+- **[Bar Ben Fiddich](https://ameblo.jp/kayama0927/) (Shinjuku):** Farm-to-bar concept. Uses herbs grown by the owner.
+- **[Suntory Whisky House](https://www.suntory.com/whisky/en/house/) (Osaka):** Dedicated to Suntory spirits.
 
 ### 🏮 Izakaya & Yokocho (Alleys)
-- **Golden Gai (Shinjuku):** 200+ tiny bars in 6 alleys. Cover charges apply (~1000 JPY).
-- **Omoide Yokocho (Shinjuku):** "Piss Alley". Yakitori smoke and cheap beer.
-- **Pontocho (Kyoto):** Narrow alley along the river. High-end dining mixed with bars.
-- **Hoppy Dori (Asakusa):** Outdoor seating, stewed beef, and "Hoppy" (beer-flavored drink).
+
+- **[Golden Gai](http://www.goldengai.net/) (Shinjuku):** 200+ tiny bars in 6 alleys. Cover charges apply (~1000 JPY).
+- **[Omoide Yokocho](http://shinjuku-omoide.com/english/) (Shinjuku):** "Piss Alley". Yakitori smoke and cheap beer.
+- **[Pontocho](https://www.ponto-cho.com/) (Kyoto):** Narrow alley along the river. High-end dining mixed with bars.
+- **[Hoppy Dori](https://www.asakusa-hoppy-dori.com/) (Asakusa):** Outdoor seating, stewed beef, and "Hoppy"
+  (beer-flavored drink).
 
 ---
 
@@ -156,7 +163,8 @@ Since we are starting at 6:30 AM, convenience stores are your best friend.
 
 ## 🏪 Convenience Store (Konbini) Favorites
 
-*Perfect for early 6:30 AM starts. 7-Eleven in Japan is a completely different tier of quality compared to the US. The food is delivered fresh multiple times a day, and the turnover is incredibly high.*
+*Perfect for early 6:30 AM starts. 7-Eleven in Japan is a completely different tier of quality compared to the US.
+The food is delivered fresh multiple times a day, and the turnover is incredibly high.*
 
 | Est Cost | Details | Availability | English Friendly |
 | :--- | :--- | :--- | :--- |
