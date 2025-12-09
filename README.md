@@ -9,22 +9,22 @@
 This repository is the single source of truth for planning Dave and Debbie's October 2026 trip to Japan. It centralizes
 itinerary, hotels, logistics, and tooling so any assistant (human or chat agent) can contribute consistently.
 
-## Purpose
+## 🎯 Purpose
 
 - Consolidate all planning docs (itinerary, hotels, logistics, preferences).
 - Track constraints and rules (budget, early starts, Western beds, non-sushi options).
 - Provide repeatable guidance for trip tech setup (eSIM, Suica/PASMO in Apple Wallet, essential apps).
 - Maintain a clean, versioned history via GitHub.
 
-## Key Files
+## 📂 Key Files
 
-### Itineraries
+### 🗓️ Itineraries
 
 - [japan-itinerary.md](Itineraries/japan-itinerary.md): Day-by-day plan (target length: 8 days, early starts).
 - [timeline.md](Itineraries/timeline.md): High-level trip timeline.
 - [Detailed Itineraries](Itineraries/Detailed/): City-specific daily breakdowns.
 
-### Logistics
+### 🧳 Logistics
 
 - [flight-logistics.md](Logistics/flight-logistics.md): EWR-Japan routing, airline tips, and airport transit.
 - [logistics-guide.md](Logistics/logistics-guide.md): Practical how-tos (eSIM setup, Suica/PASMO, apps, payments).
@@ -32,7 +32,7 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 - [packing-list.md](Logistics/packing-list.md): Comprehensive packing checklist.
 - [emergency-contacts.md](Logistics/emergency-contacts.md): Critical numbers and embassy info.
 
-### Reference
+### 📚 Reference
 
 - [chat-agent-instructions.md](chat-agent-instructions.md): Core preferences, priorities, rules, and tech stack.
 - [hotel-options.md](Reference/hotel-options.md): Hotel candidates that fit budget and Western-bed constraint.
@@ -44,7 +44,7 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 - [survival-japanese.md](Reference/survival-japanese.md): Essential phrases for travelers.
 - [.github/agents/](.github/agents/): Chat agent profiles used earlier in this project.
 
-## Trip Constraints (Quick Reference)
+## ⚠️ Trip Constraints (Quick Reference)
 
 - **Budget:**  total; hotels  /night; meals: breakfast/lunch <, dinner  .
 - **Rhythm:** Early risers (start 6:30 AM), end by 10:00 PM.
