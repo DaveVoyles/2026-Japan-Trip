@@ -30,44 +30,156 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 ### 🛬 Day 1: Arrival in Tokyo (Tuesday)
 
-- **Morning/Afternoon:** Arrive NRT/HND from Newark (EWR).
-- **Transfer:** Hotel in **Ginza** (Recommended for Debbie's shopping) or **Shinjuku**.
-- **Evening:** Light walk to reset body clock.
-  - *Dave:* Check out a [Taito Station](https://www.taito.co.jp/en/gc) arcade.
-  - *Debbie:* Visit a "Depachika" (Department Store Basement) for high-end baked goods/fruit.
-- **Dinner:** Izakaya (Japanese Pub) - offers variety for both (Yakitori, fried foods, sashimi).
-- **Late Night:** [Golden Gai](http://www.goldengai.net/) (Shinjuku) for a quick drink in a tiny bar (if energy permits).
-- **Bed:** 9:00 PM (Force the schedule).
+**⏱️ Timeline:**
+
+- **~3:00 PM:** Arrive [NRT (Narita)](https://www.narita-airport.jp/en/) or
+  [HND (Haneda)](https://www.tokyo-airport-bldg.co.jp/en/) from Newark (EWR)
+- **3:00-4:30 PM:** Immigration, baggage claim, airport transfer
+  - *NRT Option:* [Narita Express (N'EX)](https://www.jreast.co.jp/e/nex/) to Tokyo/Shinjuku (~60 min, ¥3,200/$21)
+  - *HND Option:* [Tokyo Monorail](https://www.tokyo-monorail.co.jp/english/) to Hamamatsucho → JR to Ginza (~30 min, ¥500/$3)
+  - **Activate eSIM on the train!** Turn on "Japan Travel" line in settings
+- **5:00 PM:** Check into hotel in **Ginza** (Shopping hub) or **Shinjuku** (Transit/nightlife hub)
+  - **Walking Distance from Station:** 5-10 min (most hotels)
+- **6:00 PM:** Light walk to reset body clock (30-45 min stroll)
+  - *Dave:* Check out [Taito Station](https://www.taito.co.jp/en/gc) arcade (Ginza/Shinjuku branches)
+  - *Debbie:* Visit "Depachika" (Department Store Basement) -
+    [Mitsukoshi Ginza](https://www.mitsukoshi.mistore.jp/ginza.html) or
+    [Isetan Shinjuku](https://www.imhds.co.jp/english/store/shinjuku.html) for baked goods/fruit
+- **7:30 PM - Dinner:** Izakaya (Japanese Pub) - variety for both (Yakitori, fried foods, sashimi)
+  - **Budget:** ¥6,000-8,000 ($40-$53) for 2 people
+  - **Walking Distance:** 5-10 min from hotel
+- **9:00 PM (Optional):** [Golden Gai](http://www.goldengai.net/) (Shinjuku) - tiny bar crawl (if energy permits)
+  - **Cover Charge:** ¥500-1,000 ($3-7) per bar
+  - **15 min walk** from Shinjuku hotel or **5 min taxi**
+- **10:00 PM:** Return to hotel, **Bed by 10:30 PM** (Force early sleep for jet lag recovery)
+
+**🎒 Backup Plan (If Exhausted):** Skip Golden Gai, grab konbini dinner, sleep early for Day 2 temple run
 
 ### ⛩️ Day 2: Old Tokyo & The "Split" (Wednesday)
 
-- **06:30 AM (Together):** [Senso-ji Temple](https://www.senso-ji.jp/english/) (Asakusa).
-  - *Why:* Beat the massive crowds. Photos are better.
-  - *Breakfast:* **Konbini Run** (7-Eleven/Lawson). Grab Onigiri (Salmon/Tuna Mayo) and Boss Coffee. Eat near the river.
-- **Morning:** Explore [Nakamise Street](https://www.asakusa-nakamise.jp/english/) as shops open (9:00 AM). Eat fresh Melonpan.
-- **Afternoon (Split Path):**
-  - *Dave:* [Akihabara](https://en.wikipedia.org/wiki/Akihabara) (10 min subway).
-    [Super Potato](https://www.superpotato.com/) (Retro),
-    [Mandarake Complex](https://www.mandarake.co.jp/dir/cmp/index-en.html) (Rare items),
-    [Surugaya](https://www.suruga-ya.jp/).
-  - *Debbie:* [Kappabashi Kitchen Town](https://www.kappabashi.or.jp/en/) (plastic food samples, ceramics) OR
-    [Ueno Park Museums](https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubu/ueno/en/index.html).
-- **Late Afternoon (Together):** Meet in Akihabara or Ueno.
-- **Dinner:** Tonkatsu (Breaded Pork Cutlet) - safe for non-sushi eaters, delicious.
+**⏱️ Timeline:**
+
+- **06:30 AM (Together):** Depart hotel for [Senso-ji Temple](https://www.senso-ji.jp/english/) (Asakusa)
+  - **Travel Time:** 15-20 min subway from Ginza, 25-30 min from Shinjuku
+  - **Station:** [Asakusa Station](https://www.tokyometro.jp/en/station/asakusa/) (Ginza Line exit 1)
+  - *Why Early:* Beat massive crowds (temple is open 24/7), best morning light for photos
+- **06:45 AM - Breakfast:** **Konbini Run** at [7-Eleven](https://www.sej.co.jp/in/en.html) or
+  [Lawson](https://www.lawson.jp/en/) near station
+  - Grab Onigiri (Salmon ¥130/$0.87, Tuna Mayo ¥140/$0.93) and Boss Coffee (¥140/$0.93)
+  - **Eat near Sumida River** with view of [Tokyo Skytree](https://www.tokyo-skytree.jp/en/)
+  - **Total:** ¥800-1,000 ($5-7) for 2 people
+- **07:00-08:30 AM:** Explore Senso-ji Temple grounds
+  - **Walking Distance:** 5 min from river to main gate
+  - **Photo Stops:** Kaminarimon Gate (Thunder Gate), Five-Story Pagoda, Main Hall
+  - **Prayer:** ¥100 ($0.67) coin offering at main hall
+- **08:30-10:00 AM:** [Nakamise Street](https://www.asakusa-nakamise.jp/english/) shopping as stores open
+  - **Opens:** 9:00 AM (arrive early to beat tour groups)
+  - **Walking Distance:** 250m covered shopping street
+  - **Must Try:** Fresh Melonpan (¥200/$1.33), Senbei (rice crackers), handmade crafts
+  - **Budget:** ¥2,000-3,000 ($13-20) for snacks and small souvenirs
+- **10:00 AM-3:00 PM (Split Path):** - **Afternoon (Split Path):**
+  - *Dave:* [Akihabara](https://akihabara.or.jp/en/) (Electric Town)
+    - **Travel:** 10 min subway (Ginza Line: Asakusa → Suehirocho, or Tsukuba Express to Akihabara)
+    - **Walking Tour:** [Super Potato](https://www.superpotato.com/) (Retro games, 5 floors),
+      [Mandarake Complex](https://www.mandarake.co.jp/dir/cmp/index-en.html) (Anime/manga),
+      [Surugaya](https://www.suruga-ya.jp/) (Used games)
+    - **Walking Distance:** All within 10-15 min walk radius
+    - **Budget:** ¥10,000-20,000 ($67-133) for gaming finds
+  - *Debbie:* [Kappabashi Kitchen Town](https://www.kappabashi.or.jp/en/) (Plastic food samples, ceramics)
+    - **Travel:** 15 min walk from Senso-ji OR 5 min subway
+    - **Shopping:** Fake food souvenirs, cookware, unique ceramics
+    - **Budget:** ¥3,000-8,000 ($20-53)
+    - **Alternative:** [Ueno Park Museums](https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubu/ueno/en/index.html)
+      (Tokyo National Museum ¥1,000/$6.67, 20 min walk from Asakusa)
+- **3:30 PM (Meet Up):** Akihabara or Ueno Station
+- **4:00-5:30 PM (Together):** Explore meeting point area or return to hotel to rest
+- **6:30 PM - Dinner:** Tonkatsu (Breaded Pork Cutlet) - delicious and non-sushi friendly
+  - **Recommendation:** [Katsukura](https://www.katsukura.jp/en/) or
+    [Maisen](https://mai-sen.com/en/) (¥2,500-4,000/$17-27 for set meal)
+  - **Budget:** ¥6,000-8,000 ($40-53) for 2 people
+- **8:30 PM:** Return to hotel
+
+**📊 Daily Stats:**
+
+- **Walking:** 6-8 miles (10,000-13,000 steps)
+- **Transport:** 4-6 subway rides (¥1,000-1,500/$7-10 total on Suica)
+- **Budget:** ¥9,000-12,000 ($60-80) excluding shopping
+
+**🎒 Backup Plans:**
+
+- **If Tired:** Skip Kappabashi/Ueno, meet at Akihabara cafe for lunch instead
+- **If Rain:** All activities work indoors (temples have covered areas, Akihabara is mostly indoor)
+- **Dave Backup:** If Super Potato sold out, hit [Trader](https://www.trader.co.jp/) or
+  [Retro Game Camp](https://retrogamecamp.com/) nearby
 
 ### 🌸 Day 3: Pop Culture & Flowers (Thursday)
 
-- **06:30 AM (Together):** [Meiji Shrine](https://www.meijijingu.or.jp/en/) (Forest in the city). Peaceful morning walk.
-- **Breakfast:** **Konbini Run** or quick bakery stop.
-- **Afternoon (Split Path):**
-  - *Dave:* [Shibuya Parco](https://shibuya.parco.jp.e.aiv.hp.transer.com/)
-    ([Nintendo Tokyo](https://www.nintendo.co.jp/officialstore/index.html),
-    [Capcom Store](https://www.capcom.co.jp/amusement/capcomstore/index.html),
-    [Pokemon Center](https://www.pokemon.co.jp/shop/en/)).
-  - *Debbie:* [Aoyama Flower Market Tea House](https://www.afm-teahouse.com/)
-    (Focus on the *Flowers* and ambience, or visit nearby bakeries in Omotesando).
-- **Evening (Together):** [Shibuya Crossing](https://en.wikipedia.org/wiki/Shibuya_Crossing) & Hachiko Statue.
-- **Dinner:** Yakiniku (Japanese BBQ) - grill your own meat/veggies.
+**⏱️ Timeline:**
+
+- **06:30 AM (Together):** Depart for [Meiji Shrine](https://www.meijijingu.or.jp/en/) (Meiji Jingu)
+  - **Travel Time:** 10 min from Shinjuku, 25 min from Ginza
+  - **Station:** [Harajuku Station](https://www.jreast.co.jp/e/stations/e656.html) (JR Yamanote Line) or
+    Meiji-jingumae (Tokyo Metro)
+  - **Opens:** Sunrise (~5:30 AM in October) - we're arriving slightly later but still early
+- **06:45 AM - Breakfast:** Quick **Konbini Run** at FamilyMart or Lawson near Harajuku Station
+  - **Total:** ¥800-1,000 ($5-7) for coffee and pastries
+- **07:00-08:30 AM:** [Meiji Shrine](https://www.meijijingu.or.jp/en/) peaceful forest walk
+  - **Walking Distance:** 10 min forest path from entrance to main shrine
+  - **Experience:** Traditional Shinto shrine in 170-acre forest (feels like countryside in city center)
+  - **Photo Ops:** Torii gates, Main Hall, Wine Barrels, Iris Garden (may have late blooms in early October)
+  - **Entry:** FREE (Treasure Museum ¥500/$3.33 optional)
+- **08:30-09:30 AM:** Walk through [Yoyogi Park](https://www.tokyo-park.or.jp/park/format/index039.html) to Harajuku
+  - **Walking Distance:** 15 min scenic route
+  - **October Bonus:** May catch early morning tai chi or dance groups practicing
+- **09:30 AM-2:00 PM (Split Path):**
+  - *Dave:* [Shibuya Parco](https://shibuya.parco.jp.e.aiv.hp.transer.com/) (Opens 10 AM)
+    - **Travel:** 5 min subway from Harajuku (Yamanote Line) or 20 min walk
+    - **Stores:**
+      - [Nintendo Tokyo](https://www.nintendo.co.jp/officialstore/index.html) (6F) - Exclusive merch, photo ops
+      - [Pokémon Center Shibuya](https://www.pokemon.co.jp/shop/en/) (6F) - Full line of Pokémon goods
+      - [Capcom Store](https://www.capcom.co.jp/amusement/capcomstore/index.html) (6F) - Street Fighter, Monster Hunter
+      - [Jump Shop](https://www.jumpshop.com/) (6F) - Shonen Jump anime/manga
+    - **Walking:** All on same floor, 2-3 hour browsing session
+    - **Budget:** ¥15,000-30,000 ($100-200) for exclusive Nintendo/gaming goods
+  - *Debbie:* [Aoyama Flower Market Tea House](https://www.afm-teahouse.com/) & Omotesando Shopping
+    - **Travel:** 10 min walk from Harajuku through scenic Omotesando Avenue
+    - **Tea House:** Beautiful flower-filled cafe, lunch sets ¥1,500-2,500 ($10-17)
+    - **Shopping:** [Omotesando Hills](https://www.omotesandohills.com/en/),
+      [Laforet Harajuku](https://www.laforet.ne.jp/en/) (cosmetics, cute goods, stationery)
+    - **Bakeries:** [Path](https://path-antwerp.com/) (Antwerp style bread), nearby cafes
+    - **Budget:** ¥5,000-10,000 ($33-67) for tea, bakery items, cosmetics
+- **2:30 PM (Meet Up):** [Shibuya Crossing](https://en.wikipedia.org/wiki/Shibuya_Crossing) &
+  [Hachiko Statue](https://www.gotokyo.org/en/spot/39/index.html)
+  - **Walking Distance:** Right outside Shibuya Station (Hachiko Exit)
+  - **Photo Time:** 15-30 min for crossing and statue
+  - **Magnet Building Tip:** Go to [Shibuya Sky](https://www.shibuya-scramble-square.com/sky/) observation deck for
+    aerial crossing view (¥2,000/$13, optional)
+- **3:00-5:30 PM (Together):** Explore Shibuya shopping district
+  - **Options:**
+    - [Shibuya 109](https://www.shibuya109.jp/contents/SHIBUYA109/) - Fashion (mostly women's)
+    - [Tower Records Shibuya](https://tower.jp/store/shibuya) - Music, merch, pop culture
+    - [Tokyu Hands](https://hands.net/en/) - Stationery, crafts, unique goods
+  - **Walking:** All within 10 min radius of station
+- **6:00-7:30 PM - Dinner:** Yakiniku (Japanese BBQ) - grill your own meat and veggies
+  - **Recommendation:** [Jojoen](https://www.jojoen.co.jp/en/) or
+    [Gyukaku](https://www.gyukaku.ne.jp/) (Shibuya branches)
+  - **Budget:** ¥8,000-15,000 ($53-100) for 2 people with premium cuts
+  - **Reservation:** Book ahead via [TableCheck](https://www.tablecheck.com/en/shops) if possible
+- **8:00 PM:** Return to hotel
+
+**📊 Daily Stats:**
+
+- **Walking:** 7-9 miles (11,000-14,500 steps) - Lots of shopping exploration
+- **Transport:** 3-4 subway/train rides (¥800-1,200/$5-8 on Suica)
+- **Budget:** ¥11,000-17,000 ($73-113) excluding shopping
+
+**🎒 Backup Plans:**
+
+- **If Rainy:** All activities are indoor-friendly (Parco, cafes, covered shopping streets)
+- **If Parco Crowded:** Split time between [Don Quijote Shibuya](https://www.donki.com/) (discount shopping) and
+  [Mega Web/Toyota City Showcase](https://www.megaweb.gr.jp/en/) (free, car-themed entertainment)
+- **Dinner Backup:** If Yakiniku reservations fail, hit [Ichiran Ramen](https://en.ichiran.com/)
+  (solo booth ramen, ¥1,000-1,500/$7-10 per person)
 
 ---
 
