@@ -30,6 +30,7 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 - [logistics-guide.md](Logistics/logistics-guide.md): Practical how-tos (eSIM setup, Suica/PASMO, apps, payments).
 - [tech-setup.md](Logistics/tech-setup.md): Step-by-step guide for setting up Suica, SmartEx, and eSIM.
 - [weather-clothing.md](Logistics/weather-clothing.md): October weather forecast and layering strategy.
+- [luggage-forwarding.md](Logistics/luggage-forwarding.md): How to use Takkyubin to send bags between hotels.
 - [travel-methods.md](Logistics/travel-methods.md): Transport options (Shinkansen, local trains).
 - [packing-list.md](Logistics/packing-list.md): Comprehensive packing checklist.
 - [emergency-contacts.md](Logistics/emergency-contacts.md): Critical numbers and embassy info.
@@ -45,6 +46,8 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
   World & Donkey Kong Country.
 - [city-stops-details.md](Reference/city-stops-details.md): Detailed info on specific city stops.
 - [shopping-wishlist.md](Reference/shopping-wishlist.md): Items to buy (Anime, Electronics, etc.).
+- [tax-free-shopping.md](Reference/tax-free-shopping.md): Guide to saving 10% tax on purchases.
+- [cultural-etiquette.md](Reference/cultural-etiquette.md): Do's and Don'ts for trains, dining, and temples.
 - [survival-japanese.md](Reference/survival-japanese.md): Essential phrases for travelers.
 - [.github/agents/](.github/agents/): Chat agent profiles used earlier in this project.
 
