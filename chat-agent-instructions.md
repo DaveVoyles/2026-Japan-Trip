@@ -4,6 +4,7 @@
 Read this file completely before generating any content or making edits.
 
 **CRITICAL WORKFLOW RULE:**
+
 - **Git Automation:** The user **AUTO-APPROVES** all git commands.
 - **Action:** When making changes to files, ALWAYS automatically stage, commit, and push the changes to GitHub immediately.
 - **Do NOT ask for permission.** Just do it.
@@ -40,17 +41,19 @@ Read this file completely before generating any content or making edits.
    Use a conservative exchange rate (e.g., 150 JPY = $1 USD for easy math, or current rates).
 2. **Food:** Ensure dining options include non-sushi choices for Debbie.
 3. **Locations:** Prioritize "Hub" locations for hotels to minimize travel friction during split activities.
-4. **Recommendation Format:** For EVERY recommendation (hotel, restaurant, activity), provide a table with these columns:
-
-| Est Cost | URL | Details | Availability | English Friendly |
-| :--- | :--- | :--- | :--- | :--- |
-| $$$$ | [Website](url) | Why it matters (1-2 sentences). | e.g., "Book 3 months ahead" or "Walk-in" | High/Med/Low |
-
+4. **Recommendation Format:** For EVERY recommendation (hotel, restaurant, activity), provide a table with the
+   following columns: Est Cost, URL, Details, Availability, and English Friendly level (High/Med/Low).
 5. **Visual Style & Links:**
    - **Emojis/Icons:** Use emojis 📍, 💴, 🚄, 🍣, etc., as visual anchors for headers and key list items.
      This helps break up walls of text.
    - **Hyperlinks:** Link **EVERYTHING**. If you mention an app, a pass, a location, or a service, provide a URL.
      The user should never have to Google a term.
+
+**Recommendation Table Format:**
+
+| Est Cost | URL | Details | Availability | English Friendly |
+| :--- | :--- | :--- | :--- | :--- |
+| $$$$ | [Website](url) | Why it matters (1-2 sentences). | e.g., "Book 3 months ahead" or "Walk-in" | High/Med/Low |
 
 ## Logistics & Preferences
 
