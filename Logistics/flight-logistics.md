@@ -1,6 +1,6 @@
-# Flight Logistics & Strategy
+# ✈️ Flight Logistics & Strategy
 
-## Recommended Flight Plan (October 2026)
+## 🛫 Recommended Flight Plan (October 2026)
 
 ### **SELECTED: Option A (The "Time Saver" / Open Jaw)**
 
@@ -23,7 +23,7 @@
 
 ---
 
-## Class Options: "Between Coach & First"
+## 💺 Class Options: "Between Coach & First"
 
 *Costs below are estimates for October 2026.*
 
