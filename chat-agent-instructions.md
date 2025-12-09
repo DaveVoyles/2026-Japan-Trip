@@ -7,6 +7,8 @@ Read this file completely before generating any content or making edits.
 - **Git Automation:** The user **AUTO-APPROVES** all git commands.
 - **Action:** When making changes to files, ALWAYS automatically stage, commit, and push the changes to GitHub immediately.
 - **Do NOT ask for permission.** Just do it.
+- **Linting:** After EVERY update, check `.markdownlint.json` and fix any linting errors (line length, headers, lists)
+  before committing.
 
 ## Travelers & Interests
 
