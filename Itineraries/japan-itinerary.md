@@ -77,7 +77,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
   - **Walking Distance:** 250m covered shopping street
   - **Must Try:** Fresh Melonpan (¥200/$1.33), Senbei (rice crackers), handmade crafts
   - **Budget:** ¥2,000-3,000 ($13-20) for snacks and small souvenirs
-- **10:00 AM-3:00 PM (Split Path):** - **Afternoon (Split Path):**
+- **10:00 AM-3:00 PM (Split Path):**
   - *Dave:* [Akihabara](https://akihabara.or.jp/en/) (Electric Town)
     - **Travel:** 10 min subway (Ginza Line: Asakusa → Suehirocho, or Tsukuba Express to Akihabara)
     - **Walking Tour:** [Super Potato](https://www.superpotato.com/) (Retro games, 5 floors),
