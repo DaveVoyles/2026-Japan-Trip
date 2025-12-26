@@ -76,11 +76,21 @@
 | Japanese | Pronunciation | Meaning | Context |
 | :--- | :--- | :--- | :--- |
 | **助けて！** | *Tasukete!* | Help! | Emergency only. |
+| **警察** | *Keisatsu* | Police | "Keisatsu yonde!" (Call the police!) |
+| **救急車** | *Kyuukyuusha* | Ambulance | Dial 119 for ambulance/fire. |
 | **病院** | *Byouin* | Hospital | "Byouin wa doko desu ka?" |
 | **薬局** | *Yakkyoku* | Pharmacy | Look for the green cross sign. |
 | **頭が痛い** | *Atama ga itai* | I have a headache | Useful at a pharmacy. |
+| **お腹が痛い** | *Onaka ga itai* | I have a stomachache | For digestive issues. |
+| **熱があります** | *Netsu ga arimasu* | I have a fever | At a clinic or pharmacy. |
 | **アレルギーがあります** | *Arerugii ga arimasu* | I have an allergy | Follow with the item name. |
 | **ナッツ / 貝 / 乳製品** | *Nattsu / Kai / Nyuuseihin* | Nuts / Shellfish / Dairy | Pair with the allergy phrase. |
+| **英語を話せる医者** | *Eigo o hanaseru isha* | English-speaking doctor | At reception desk. |
+| **保険証** | *Hoken-shou* | Insurance card | They may ask for this. |
+| **パスポート** | *Pasupooto* | Passport | Always carry when seeing a doctor. |
+| **盗まれました** | *Nusumaremashita* | It was stolen | Report to police: "Saifu ga nusumaremashita" (wallet stolen). |
+| **落としました** | *Otoshimashita* | I dropped/lost it | Lost item report. |
+| **交番** | *Koban* | Police box | Small police stations everywhere. Ask for "Koban". |
 
 ## 🙇 Politeness Boosters
 
@@ -99,3 +109,70 @@
 | **何時ですか？** | *Nanji desu ka?* | What time is it? | Basic time check. |
 | **今から** | *Ima kara* | From now | E.g., "Ima kara arimasu" (available now). |
 | **何分？** | *Nan-pun?* | How many minutes? | Ask about wait times. |
+| **何時まで？** | *Nanji made?* | Until what time? | Check closing times. |
+| **開いていますか？** | *Aite imasu ka?* | Are you open? | Before entering a shop. |
+
+## 📱 Technology & Connectivity
+
+| Japanese | Pronunciation | Meaning | Context |
+| :--- | :--- | :--- | :--- |
+| **WiFi ありますか？** | *WiFi arimasu ka?* | Do you have WiFi? | At cafes or hotels. |
+| **パスワード** | *Pasuwaado* | Password | Follow up after WiFi question. |
+| **充電できますか？** | *Juuden dekimasu ka?* | Can I charge (my phone)? | At cafes or rest areas. |
+| **コンセント** | *Konsento* | Power outlet | Looking for a place to plug in. |
+
+## 🚽 Bathroom Essentials
+
+| Japanese | Pronunciation | Meaning | Context |
+| :--- | :--- | :--- | :--- |
+| **お手洗い** | *O-tearai* | Restroom (polite) | More formal than "toire". |
+| **化粧室** | *Keshousitsu* | Powder room | Seen on signs in department stores. |
+| **男性 / 女性** | *Dansei / Josei* | Men / Women | On bathroom doors. |
+| **トイレットペーパー** | *Toiretto peepaa* | Toilet paper | If you need to ask for some. |
+
+## 🎫 Tickets & Reservations
+
+| Japanese | Pronunciation | Meaning | Context |
+| :--- | :--- | :--- | :--- |
+| **予約** | *Yoyaku* | Reservation | "Yoyaku ga arimasu" (I have a reservation). |
+| **名前** | *Namae* | Name | They'll ask for your name. |
+| **キャンセル** | *Kyanseru* | Cancel | To cancel a reservation. |
+| **満席** | *Manseki* | Full/Sold out | Sign at restaurants or venues. |
+| **空いています** | *Aite imasu* | Available/Open | Seats or rooms available. |
+| **何名様ですか？** | *Nan-mei sama desu ka?* | How many people? | Host will ask this. |
+
+## 📝 Common Signs to Recognize
+
+| Japanese | Meaning | Where You'll See It |
+| :--- | :--- | :--- |
+| **入口** (Iriguchi) | Entrance | Buildings, stations |
+| **出口** (Deguchi) | Exit | Stations, malls |
+| **営業中** (Eigyou-chuu) | Open for business | Shop windows |
+| **定休日** (Teikyuubi) | Regular holiday/Closed | On shop doors |
+| **準備中** (Junbi-chuu) | Preparing to open | Before opening hours |
+| **禁煙** (Kin'en) | No smoking | Restaurants, public areas |
+| **喫煙** (Kitsuen) | Smoking allowed | Designated areas |
+| **自動販売機** (Jidou hanbaiki) | Vending machine | Everywhere! |
+| **両替** (Ryougae) | Currency exchange | Airports, major stations |
+| **荷物預かり** (Nimotsu azukari) | Luggage storage | Stations, hotels |
+
+## 🆘 Emergency Numbers
+
+| Number | Service | Notes |
+| :--- | :--- | :--- |
+| **110** | Police | For crimes, theft, lost passport |
+| **119** | Fire/Ambulance | Clearly state "Kyuukyusha" (ambulance) or "Kaji" (fire) |
+| **118** | Coast Guard | Maritime emergencies only |
+| **#9110** | Police Consultation | Non-emergency police advice |
+
+## 🏥 Medical Phrases (Expanded)
+
+| Japanese | Pronunciation | Meaning |
+| :--- | :--- | :--- |
+| **薬をください** | *Kusuri o kudasai* | Please give me medicine |
+| **処方箋** | *Shohoussen* | Prescription |
+| **痛み止め** | *Itami-dome* | Painkiller |
+| **胃薬** | *I-gusuri* | Stomach medicine |
+| **風邪薬** | *Kaze-gusuri* | Cold medicine |
+| **絆創膏** | *Bansoukou* | Band-aid |
+| **保険は効きますか？** | *Hoken wa kikimasu ka?* | Does insurance cover this? |

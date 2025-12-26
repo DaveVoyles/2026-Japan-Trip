@@ -46,11 +46,12 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
   World & Donkey Kong Country.
 - [city-stops-details.md](Reference/city-stops-details.md): Detailed info on specific city stops.
 - [shopping-wishlist.md](Reference/shopping-wishlist.md): Items to buy (Anime, Electronics, etc.).
-- [tax-free-shopping.md](Reference/tax-free-shopping.md): Guide to saving 10% tax on purchases.
+- [tax-free-shopping.md](Reference/tax-free-shopping.md): Comprehensive guide to saving 10% tax on purchases with step-by-step procedures.
 - [cultural-etiquette.md](Reference/cultural-etiquette.md): Do's and Don'ts for trains, dining, and temples.
 - [coffee-breakfast-guide.md](Reference/coffee-breakfast-guide.md): Early morning coffee and breakfast options.
 - [gachapon-arcade-guide.md](Reference/gachapon-arcade-guide.md): Guide to capsule toys, claw machines, and purikura.
-- [survival-japanese.md](Reference/survival-japanese.md): Essential phrases for travelers.
+- [survival-japanese.md](Reference/survival-japanese.md): Essential phrases for travelers, emergency contacts, and signs to recognize.
+- [quick-reference-cards.md](Reference/quick-reference-cards.md): 🆕 Print-friendly quick reference for each city with station exits, ATMs, emergency info, and cultural tips.
 - [.github/agents/](.github/agents/): Chat agent profiles used earlier in this project.
 
 ## ⚠️ Trip Constraints (Quick Reference)
