@@ -1,5 +1,25 @@
 # High-Level Japan Trip Itinerary - October 2026
 
+## 📋 Table of Contents
+
+- [Overview](#-overview)
+- [Strategy: "Together & Apart"](#-strategy-together--apart)
+- **Leg 1: Tokyo (Days 1-4)**
+  - [Day 1: Arrival in Tokyo](#-day-1-arrival-in-tokyo-tuesday)
+  - [Day 2: Old Tokyo & The "Split"](#%EF%B8%8F-day-2-old-tokyo--the-split-wednesday)
+  - [Day 3: Pop Culture & Flowers](#-day-3-pop-culture--flowers-thursday)
+  - [Day 4: Ghibli Magic & Kichijoji](#-day-4-ghibli-magic--kichijoji-friday)
+- **Leg 2: Kyoto (Days 5-7)**
+  - [Day 5: Bullet Train to Foxes](#-day-5-bullet-train-to-foxes-saturday)
+  - [Day 6: Bamboo & Gold](#-day-6-bamboo--gold-sunday)
+  - [Day 7: Deer & Shopping](#-day-7-deer--shopping-monday)
+- **Leg 3: Osaka (Days 8-9)**
+  - [Day 8: SUPER NINTENDO WORLD](#-day-8-super-nintendo-world-tuesday)
+  - [Day 9: Retro Games & Departure](#-day-9-retro-games--departure-wednesday)
+- [October 2026 Specific Notes](#-october-2026-specific-notes)
+
+---
+
 ## 📝 Overview
 
 **Note:** This is a high-level overview. For daily hour-by-hour plans, please refer to the detailed city itineraries:
