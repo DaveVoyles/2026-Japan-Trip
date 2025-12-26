@@ -1,21 +1,22 @@
 # 💰 Trip Budget Tracker
 
-**Total Budget Goal:** $10,000 - $15,000 USD (1,500,000 - 2,250,000 JPY)  
+**Total Budget Goal:** $10,500 - $15,750 USD (1,575,000 - 2,362,500 JPY)  
 **Exchange Rate:** 1 USD = ~150 JPY (Conservative Estimate)
+**Trip Duration:** 9 Days (Extended to include Ghibli Museum day)
 
 ## 📊 Estimated vs Actual
 
 | Category | Estimated Cost (USD) | Estimated Cost (JPY) | Actual Cost (USD) | Actual Cost (JPY) | Difference |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Flights** | $2,000 - $3,000 | ¥300,000 - ¥450,000 | - | - | - |
-| **Hotels (7 Nights)** | $1,750 - $2,450 ($250-$350/night) | ¥262,500 - ¥367,500 | - | - | - |
-| **Transport (Trains)** | $500 - $700 | ¥75,000 - ¥105,000 | - | - | - |
-| **Food & Drink** | $1,500 - $2,000 | ¥225,000 - ¥300,000 | - | - | - |
+| **Hotels (8 Nights)** | $2,000 - $2,800 ($250-$350/night) | ¥300,000 - ¥420,000 | - | - | - |
+| **Transport (Trains)** | $550 - $750 | ¥82,500 - ¥112,500 | - | - | - |
+| **Food & Drink** | $1,700 - $2,300 | ¥255,000 - ¥345,000 | - | - | - |
 | **Shopping** | $1,500 - $2,500 | ¥225,000 - ¥375,000 | - | - | - |
-| **Activities/Tickets** | $800 - $1,200 | ¥120,000 - ¥180,000 | - | - | - |
+| **Activities/Tickets** | $850 - $1,250 | ¥127,500 - ¥187,500 | - | - | - |
 | **eSIM/Tech/Misc** | $300 - $500 | ¥45,000 - ¥75,000 | - | - | - |
 | **Emergency Fund** | $500 - $1,000 | ¥75,000 - ¥150,000 | - | - | - |
-| **TOTAL** | **$8,850 - $13,350** | **¥1,327,500 - ¥2,002,500** | **$0** | **¥0** | **-** |
+| **TOTAL** | **$9,400 - $14,100** | **¥1,410,000 - ¥2,115,000** | **$0** | **¥0** | **-** |
 
 ## 📝 Detailed Category Breakdown
 
@@ -29,15 +30,25 @@
   - [JAL (Japan Airlines)](https://www.jal.co.jp/en/) - Premium experience
 - **Tips:** Use Google Flights price alerts, consider premium economy for comfort
 
-### 🏨 Hotels ($1,750 - $2,450 for 7 nights)
+### 🏨 Hotels ($2,000 - $2,800 for 8 nights)
 
-- **Tokyo (3 nights):** $750 - $1,050 ($250-$350/night)
+- **Tokyo (4 nights):** $1,000 - $1,400 ($250-$350/night)
 - **Kyoto (3 nights):** $750 - $1,050 ($250-$350/night)
-- **Osaka (2 nights):** $500 - $700 ($250-$350/night)
+- **Osaka (1 night):** $250 - $350 ($250-$350/night)
 - **Booking:** Use booking.com, hotels.com, or direct booking for best rates
 - **See:** [hotel-options.md](../Reference/hotel-options.md) for detailed recommendations
 
-### 🚄 Transport ($500 - $700)
+### 🚄 Transport ($550 - $750)
+
+| Item | Cost (USD) | Cost (JPY) | Notes |
+| :--- | :--- | :--- | :--- |
+| **JR Pass (7-Day)** | $280 - $320 | ¥42,000 - ¥48,000 | Optional - calculate if worthwhile |
+| **Shinkansen Tokyo-Kyoto** | $120 | ¥18,000 | One-way reserved seat |
+| **Shinkansen Kyoto-Osaka** | $25 | ¥3,500 | One-way |
+| **Suica/PASMO Top-ups** | $120 | ¥18,000 | For subways, trains, konbini (extra day) |
+| **Airport Transfers** | $50 - $80 | ¥7,500 - ¥12,000 | Narita Express or limousine bus |
+| **Luggage Forwarding** | $40 - $60 | ¥6,000 - ¥9,000 | Tokyo→Kyoto, optional Kyoto→Osaka |
+| **Taxis/Local Transport** | $50 - $100 | ¥7,500 - ¥15,000 | Buffer for convenience |
 
 | Item | Cost (USD) | Cost (JPY) | Notes |
 | :--- | :--- | :--- | :--- |
@@ -49,9 +60,9 @@
 | **Luggage Forwarding** | $40 - $60 | ¥6,000 - ¥9,000 | Tokyo→Kyoto, optional Kyoto→Osaka |
 | **Taxis/Local Transport** | $50 - $100 | ¥7,500 - ¥15,000 | Buffer for convenience |
 
-### 🍱 Food & Drink ($1,500 - $2,000)
+### 🍱 Food & Drink ($1,700 - $2,300)
 
-**Daily Budget:** $185 - $250 per day for 2 people
+**Daily Budget:** $185 - $250 per day for 2 people (9 days total)
 
 | Meal Type | Budget Per Person | Budget for 2 (USD) | Budget for 2 (JPY) |
 | :--- | :--- | :--- | :--- |
@@ -76,10 +87,12 @@
 
 **Remember:** Tax-free shopping available for purchases over ¥5,500 (~$37) - bring passport!
 
-### 🎢 Activities & Tickets ($800 - $1,200)
+### 🎢 Activities & Tickets ($850 - $1,250)
 
 | Activity | Cost Per Person (USD) | Cost for 2 (USD) | Cost for 2 (JPY) | Notes |
 | :--- | :--- | :--- | :--- | :--- |
+| **Ghibli Museum** | $7 | $14 | ¥2,000 | Must book 2 months ahead! |
+| **Ghibli Museum Shop** | $20 - $50 | $40 - $100 | ¥6,000 - ¥15,000 | Exclusive merchandise |
 | **USJ Studio Pass** | $60 - $70 | $120 - $140 | ¥18,000 - ¥21,000 | Required for park entry |
 | **USJ Express Pass** | $100 - $135 | $200 - $270 | ¥30,000 - ¥40,500 | HIGHLY recommended |
 | **USJ Power-Up Bands** | $28 | $56 | ¥8,400 | Optional but enhances experience |
