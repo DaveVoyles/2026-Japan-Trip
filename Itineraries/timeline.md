@@ -17,6 +17,7 @@
 - [ ] **Book Hotels**
   - **Tokyo:** 4 Nights (Ginza or Shinjuku).
   - **Kyoto:** 3 Nights (Near Kyoto Station or Gion).
+  - **Osaka:** 1 Night (Near Namba or Osaka Station).
   - *Strategy:* Book refundable rates now to lock in price/availability. You can cancel later if you find a better deal.
 
 ## 🎫 Phase 3: The "Hard" Tickets (August 2026)
@@ -25,10 +26,13 @@
 
 - [ ] **[USJ Express Pass](https://www.usj.co.jp/web/en/us/tickets)** (CRITICAL)
   - **Window:** Tickets release exactly **2 months** before the date.
-  - **Action:** If visiting Oct 15, be on the website Aug 15 at midnight JST (which is morning EST).
+  - **Action:** If visiting Oct 16, be on the website Aug 16 at midnight JST (which is morning EST).
   - **Why:** Required for Super Nintendo World & Donkey Kong Country entry without 3-hour lines.
-- [ ] **[Ghibli Park](https://ghibli-park.jp/en/ticket/) / [Ghibli Museum](https://www.ghibli-museum.jp/en/tickets/)** (Optional)
-  - **Window:** Releases on the 10th of the month, 2 months prior.
+- [ ] **[Ghibli Museum](https://www.ghibli-museum.jp/en/tickets/)** (CRITICAL)
+  - **Window:** Tickets release on the 10th of the month at 10:00 AM JST, 2 months prior.
+  - **Action:** If visiting Oct 17 (Day 4), be ready on Aug 10 at 10:00 AM JST.
+  - **Booking:** Via [Lawson Tickets](https://l-tike.com/en/) online or at Loppi kiosks in Japan.
+  - **Why:** Tickets sell out within minutes. Have backup plan ready.
 
 ## 🍽️ Phase 4: Dining & Specifics (September 2026)
 

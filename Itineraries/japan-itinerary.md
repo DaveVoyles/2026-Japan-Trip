@@ -9,7 +9,7 @@
 - [Osaka Detailed Itinerary](Detailed/osaka-detailed-itinerary.md)
 
 - **Dates:** October 2026 (Target: Mid-October for pleasant weather/early autumn leaves).
-- **Duration:** 8 Days (Ideal target length).
+- **Duration:** 9 Days (Extended to include Ghibli Museum).
 - **Travelers:** Dave (Retro Gaming, Foxes, Temples, Sushi) & Debbie (Flowers, Baked Goods, Non-Sushi Food)
 - **Rhythm:** **Early Risers (6:30 AM Start)** to beat crowds.
 - **Breakfast Style:** **Konbini Run** (Onigiri/Coffee on the go).
@@ -20,12 +20,12 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 ---
 
-## 🗼 Leg 1: Tokyo (Days 1-3)
+## 🗼 Leg 1: Tokyo (Days 1-4)
 
 - **City:** Tokyo
 - **Arrive:** Tuesday (Day 1) via NRT/HND
-- **Leave:** Friday Morning (Day 4) via Shinkansen
-- **Key Stops:** Senso-ji, Akihabara, Meiji Shrine, Shibuya Parco, Harajuku, Ginza/Shinjuku.
+- **Leave:** Saturday Morning (Day 5) via Shinkansen
+- **Key Stops:** Senso-ji, Akihabara, Meiji Shrine, Shibuya Parco, Harajuku, Ghibli Museum, Kichijoji, Ginza/Shinjuku.
 - **Details:** [See Tokyo City Stops](../Reference/city-stops-details.md#tokyo)
 
 ### 🛬 Day 1: Arrival in Tokyo (Tuesday)
@@ -181,17 +181,98 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Dinner Backup:** If Yakiniku reservations fail, hit [Ichiran Ramen](https://en.ichiran.com/)
   (solo booth ramen, ¥1,000-1,500/$7-10 per person)
 
+### 🎬 Day 4: Ghibli Magic & Kichijoji (Friday)
+
+**⏱️ Timeline:**
+
+- **06:30 AM:** Wake up, konbini breakfast at hotel
+  - **Budget:** ¥800-1,000 ($5-7) for 2 people
+- **07:30 AM:** Check out of Tokyo hotel, luggage forwarding to Kyoto hotel OR store in coin lockers at Shinjuku Station
+  - **Forwarding Cost:** ¥2,000-3,000 ($13-20) per bag via [Yamato Transport](https://www.kuronekoyamato.co.jp/ytc/en/)
+  - **Locker Cost:** ¥400-700 ($3-5) for large size
+  - Pack day bag with essentials
+- **08:30 AM:** Depart for [Mitaka Station](https://www.jreast.co.jp/e/stations/e656.html)
+  - **From Shinjuku:** [JR Chuo Line](https://www.jreast.co.jp/e/) (Rapid service) to Mitaka (20 min, ¥230/$1.53)
+  - **From Ginza:** Subway to Shinjuku, then JR Chuo Line (35 min total, ¥400/$2.67)
+- **09:00 AM:** Arrive Mitaka, walk through [Inokashira Park](https://www.gotokyo.org/en/spot/624/) to museum
+  - **Walking Route:** 15 min scenic path through park (follow signs)
+  - **Alternative:** Community Bus from Mitaka Station (¥210/$1.40, departs every 20 min, stops at museum)
+  - **October Bonus:** Early autumn foliage in park, peaceful morning atmosphere
+- **10:00 AM-1:00 PM (Together):** [Studio Ghibli Museum](https://www.ghibli-museum.jp/en/)
+  - **Entry Time:** Timed entry (10:00 AM slot recommended for first visitors)
+  - **Entry Fee:** ¥1,000 ($6.67) per adult
+  - **CRITICAL:** Must book 2 months in advance via [Lawson Tickets](https://l-tike.com/en/)
+    - Tickets release on 10th of month at 10:00 AM JST for following month
+    - Example: August 10 at 10 AM for October visits
+    - Have backup plan if sold out - tickets competitive!
+  - **Experience Highlights:**
+    - **Saturn Theater:** Exclusive Ghibli short film (changes monthly, can't see anywhere else)
+    - **Animation Exhibits:** Original storyboards, sketches, animation process displays
+    - **Totoro Zoetrope:** Spinning 3D animation device brings characters to life
+    - **Rooftop Garden:** Life-sized Robot Soldier from *Laputa: Castle in the Sky* (perfect photo op!)
+    - **Catbus Play Area:** For kids (and kids at heart)
+  - **Shopping:** [Mamma Aiuto! Gift Shop](https://www.ghibli-museum.jp/en/) - Exclusive Ghibli merch
+    - **Budget:** ¥3,000-8,000 ($20-53) for exclusive items, plushies, art books
+    - **Tip:** Shop early, popular items sell out by afternoon
+  - **Rules:** No photos inside (except rooftop/designated areas), creates more immersive experience
+- **1:00 PM - Lunch:** [Straw Hat Café](https://www.ghibli-museum.jp/en/) inside museum
+  - **Options:** Fresh pasta, sandwiches, Ghibli-themed desserts
+  - **Budget:** ¥2,500-4,000 ($17-27) for 2 people
+  - **Alternative:** Leave museum, eat at Inokashira Park cafes or Kichijoji restaurants
+- **2:00 PM (Split Path):**
+  - *Dave:* Return through Inokashira Park, explore [Kichijoji](https://www.gotokyo.org/en/spot/157/) neighborhood
+    - **Vintage Shopping:** [Harmonica Yokocho](https://www.gotokyo.org/en/spot/624/) - Narrow alleys with retro shops
+    - **Cafes:** Blue Sky Coffee (¥600/$4 for latte with pond view)
+    - **Used Books/Games:** Several shops in Kichijoji's shopping arcades
+    - **Budget:** ¥2,000-5,000 ($13-33) for finds and coffee
+  - *Debbie:* Stay at Inokashira Park or explore Kichijoji boutiques
+    - **Park Activities:** Swan boat ride on pond (¥800/$5.33 per 30 min, romantic autumn views)
+    - **Shopping:** Petit Village (Ghibli-like whimsical shops), cute goods stores in Sunroad Shopping District
+    - **Tea/Sweets:** Local cafes with seasonal autumn treats (matcha lattes, sweet potato desserts)
+    - **Budget:** ¥2,000-4,000 ($13-27) for boat, snacks, shopping
+- **4:00 PM (Meet Up):** Kichijoji Station area
+  - **Travel Back:** JR Chuo Line to Shinjuku (20 min, ¥230/$1.53)
+- **4:30 PM:** Arrive Shinjuku, pick up luggage if stored (or already forwarded to Kyoto)
+- **5:00-6:30 PM:** Rest at hotel or final Tokyo shopping
+  - **Options:** If staying at Shinjuku, explore department stores one last time
+  - **Don Quijote:** Last-minute souvenir run (discount variety store)
+- **7:00 PM - Dinner:** Farewell Tokyo meal - your choice of favorite from previous days
+  - **Options:**
+    - Sushi at [Sushizanmai](https://www.kiyomura.co.jp/shops/brand/sushizanmai) (¥3,000-5,000/$20-33 per person)
+    - Ramen at [Ichiran](https://en.ichiran.com/) (¥1,000-1,500/$7-10 per person)
+    - Tempura at local shop (¥2,500-4,000/$17-27 per person)
+  - **Budget:** ¥5,000-10,000 ($33-67) for 2 people
+- **9:00 PM:** Return to hotel, pack for Shinkansen tomorrow
+  - **Early Night:** Rest for 6:30 AM Kyoto departure
+
+**📊 Daily Stats:**
+
+- **Walking:** 5-7 miles (8,000-11,000 steps) - Moderate with park walks
+- **Transport:** 4-6 train rides (¥1,000-1,500/$7-10 total on Suica)
+- **Budget:** ¥12,000-18,000 ($80-120) excluding shopping and luggage forwarding
+
+**🎒 Backup Plans:**
+
+- **If Ghibli Tickets Sold Out:** Visit [Nakano Broadway](https://nakano-broadway.com/) for anime/manga shopping instead
+  - Multiple Mandarake stores, similar retro/otaku vibe
+  - 15 min from Shinjuku on JR Chuo Line
+- **If Rainy:** Museum is indoor (perfect!), but bring umbrella for park walk
+  - Community bus eliminates outdoor walk if heavy rain
+- **If Exhausted:** Skip split path, relax together at Inokashira Park with boat ride and cafes
+- **Lunch Alternative:** [Iseya Yakitori](https://www.iseya.co.jp/) near Kichijoji Station
+  (¥1,000-2,000/$7-13 for casual grilled skewers, local favorite since 1928)
+
 ---
 
-## 🍵 Leg 2: Kyoto (Days 4-6)
+## 🍵 Leg 2: Kyoto (Days 5-7)
 
 - **City:** Kyoto
-- **Arrive:** Friday Morning (Day 4) via Shinkansen
-- **Leave:** Monday Morning (Day 7) via Train to Osaka
+- **Arrive:** Saturday Morning (Day 5) via Shinkansen
+- **Leave:** Tuesday Morning (Day 8) via Train to Osaka
 - **Key Stops:** Fushimi Inari, Arashiyama Bamboo Grove, Kinkaku-ji, Gion, Nara Park (Day Trip).
 - **Details:** [See Kyoto City Stops](../Reference/city-stops-details.md#kyoto)
 
-### 🚄 Day 4: Bullet Train to Foxes (Friday)
+### 🚄 Day 5: Bullet Train to Foxes (Saturday)
 
 **⏱️ Timeline:**
 
@@ -253,7 +334,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Lunch Alternative:** [Kyoto Station Cube](https://www.kyoto-station-building.co.jp/gourmet_the_cube/)
   (multiple restaurants, 11F)
 
-### 🎋 Day 5: Bamboo & Gold (Saturday)
+### 🎋 Day 6: Bamboo & Gold (Sunday)
 
 **⏱️ Timeline:**
 
@@ -324,7 +405,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
   ¥500/$3.33, usually quieter)
 - **Lunch Backup:** [Arashiyama Yoshimura](https://yoshimura-gr.com/) for quick soba near bamboo grove
 
-### 🦌 Day 6: Deer & Shopping (Sunday)
+### 🦌 Day 7: Deer & Shopping (Monday)
 
 **⏱️ Timeline:**
 
@@ -400,15 +481,15 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 ---
 
-## 🐙 Leg 3: Osaka (Days 7-8)
+## 🐙 Leg 3: Osaka (Days 8-9)
 
 - **City:** Osaka
-- **Arrive:** Monday Morning (Day 7) via Train
-- **Leave:** Tuesday (Day 8) via KIX or Shinkansen
+- **Arrive:** Tuesday Morning (Day 8) via Train
+- **Leave:** Wednesday (Day 9) via KIX or Shinkansen
 - **Key Stops:** Universal Studios Japan (Super Nintendo World), Dotonbori, Den Den Town.
 - **Details:** [See Osaka City Stops](../Reference/city-stops-details.md#osaka)
 
-### 🍄 Day 7: SUPER NINTENDO WORLD (Monday)
+### 🍄 Day 8: SUPER NINTENDO WORLD (Tuesday)
 
 **⏱️ Timeline:**
 
@@ -488,7 +569,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 - **Dinner Backup:** [Ichiran Ramen](https://en.ichiran.com/shop/kinki/osaka-dotonbori/) in Dotonbori
   (¥1,000-1,500/$7-10 per person, open until 3 AM)
 
-### 🛫 Day 8: Retro Games & Departure (Tuesday)
+### 🛫 Day 9: Retro Games & Departure (Wednesday)
 
 **⏱️ Timeline:**
 

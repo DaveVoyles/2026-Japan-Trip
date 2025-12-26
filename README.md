@@ -20,7 +20,7 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 
 ### 🗓️ Itineraries
 
-- [japan-itinerary.md](Itineraries/japan-itinerary.md): Day-by-day plan (target length: 8 days, early starts).
+- [japan-itinerary.md](Itineraries/japan-itinerary.md): Day-by-day plan (target length: 9 days, early starts).
 - [timeline.md](Itineraries/timeline.md): High-level trip timeline.
 - [Detailed Itineraries](Itineraries/Detailed/): City-specific daily breakdowns.
 
