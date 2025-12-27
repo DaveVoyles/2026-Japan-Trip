@@ -2,7 +2,8 @@
 
 ## ✈️ International Flights (EWR <-> Japan)
 
-**Strategy:** "Open Jaw" (Multi-City) Ticket. Fly into Tokyo, fly out of Osaka. This saves ~4 hours of train travel and ~$100 USD on a return Shinkansen ticket.
+**Strategy:** "Open Jaw" (Multi-City) Ticket. Fly into Tokyo, fly out of Osaka. This saves ~4 hours
+of train travel and ~$100 USD on a return Shinkansen ticket.
 
 ### Cost Legend (per person unless noted)
 
@@ -32,8 +33,127 @@
 
 | Ticket Type | Est Cost (One Way) | Where to Buy | Details |
 | :--- | :--- | :--- | :--- |
-| **Ordinary Car** | ~$93 USD<br>(14,000 JPY) | **SmartEx App** or Station Machines | 3x2 seating. Comfortable, plenty of legroom. |
-| **Green Car** | ~$126 USD<br>(19,000 JPY) | **SmartEx App** or Station Machines | **Recommended.** 2x2 seating, heated seats, quieter, dedicated luggage space. |
+| **Ordinary Car** | ~$93 USD<br>(14,000 JPY) | **SmartEx App**<br>or Station Machines | 3x2 seating. Comfortable, plenty of legroom. |
+| **Green Car** | ~$126 USD<br>(19,000 JPY) | **SmartEx App**<br>or Station Machines | **Recommended.** 2x2 seating, heated seats,<br>quieter, dedicated luggage space. |
+
+### 🎫 The Shinkansen Experience: What to Expect
+
+**Before You Board:**
+
+1. **Platform Location:**
+   - Shinkansen platforms are **separate** from regular JR lines (look for "Shinkansen" signs)
+   - At Tokyo Station, Shinkansen platforms are on the **Yaesu side** (opposite from main JR gates)
+   - **Tip:** Arrive 15-20 minutes early to find your platform (stations are HUGE)
+
+2. **Platform Markings:**
+   - Each car has a **designated boarding area** marked on the platform floor
+     - Look for numbers: Car 1, Car 2, etc.
+   - Stand in the **colored box** corresponding to your car number
+     - **Ordinary Cars:** Usually Cars 1-10 (Blue markings)
+     - **Green Cars:** Usually Cars 8-10 (Yellow/Green markings)
+   - **Doors align PERFECTLY** with these boxes (within inches)
+
+3. **Boarding Queue:**
+   - **Lines form early** (Japanese efficiency is real)
+   - **Two lines per door:** One for each side of the aisle (Window vs. Aisle seats)
+   - **Boarding starts:** 10 minutes before departure
+   - **No pushing, no rushing** - everyone boards calmly
+
+**On the Train:**
+
+**Seating:**
+
+- **Ordinary Car (Standard Class):**
+  - **Configuration:** 3 seats (A-B-C) + Aisle + 2 seats (D-E)
+  - **Pitch (Legroom):** 39 inches (similar to Premium Economy on planes)
+  - **Recline:** Yes, but limited (don't recline during meals)
+  - **Seats:** Comfortable, rotate 180° so groups can face each other
+  - **Power Outlets:** Available at **every row** (between seats)
+
+- **Green Car (First Class):**
+  - **Configuration:** 2 seats (A-B) + Aisle + 2 seats (C-D)
+  - **Pitch:** 43 inches (more legroom than most airline business class)
+  - **Recline:** Deep recline with footrest
+  - **Seats:** Leather, heated, wider armrests
+  - **Perks:** Free blankets, attendant service, quieter atmosphere
+  - **Luggage:** Dedicated overhead racks (larger than Ordinary Car)
+
+**Best Seats for Mt. Fuji Views:**
+
+- **Seat E (Right side, Window)** on Tokyo → Kyoto route
+- **Fuji appears ~45 minutes into journey** (between Shin-Yokohama and Atami)
+  - **Weather Dependent:** Best visibility on clear mornings (not guaranteed)
+  - [Mt. Fuji Viewing Guide](https://www.japan-guide.com/e/e2359.html)
+
+**Speed & Smoothness:**
+
+- **Top Speed:** 285 km/h (177 mph)
+- **Feel:** Incredibly smooth - you can balance a coin on the tray table
+- **Noise:** Very quiet (quieter than most planes)
+- **Motion:** Minimal swaying, easy to read/work on laptop
+
+**Food & Drink:**
+
+**On the Platform (Before Boarding):**
+
+- **Ekiben (Station Bento Boxes):** ¥1,000-1,500 ($7-10)
+  - **Must Try:** Tokyo Chicken Teriyaki Bento, Kyoto Sushi Bento
+  - **Tip:** Buy at Tokyo Station's "Ekiben-ya Matsuri" shop (100+ varieties)
+  - [Ekiben Guide](https://www.jreast.co.jp/e/customer_support/ekiben/)
+- **Drinks:** Vending machines on platforms (hot/cold drinks, beer, sake)
+
+**On the Train:**
+
+- **Food Cart Service:**
+  - Attendants push carts through cars ~2-3 times during journey
+  - Available: Snacks, bento boxes, drinks (including beer, sake, whisky)
+  - **Prices:** Slightly marked up (15-20% vs. platform purchases)
+- **No Outside Food Restrictions:** You can bring your own snacks/meals
+
+**What NOT to Do:**
+
+- ❌ **Don't talk on your phone** (Text only - talking is considered rude)
+  - If you must take a call, step into the vestibule between cars
+- ❌ **Don't recline during meal times** (be mindful of person behind you)
+- ❌ **Don't eat smelly food** (avoid strong-smelling fish, curry)
+- ❌ **Don't play music/videos without headphones**
+
+**Restrooms:**
+
+- **Location:** One per car (at the end, near doors)
+- **Quality:** Spotlessly clean, Western-style toilets
+- **Amenities:** Sink, soap, hand dryer, changing table
+- **Accessibility:** Wheelchair-accessible restrooms in designated cars
+
+**WiFi & Connectivity:**
+
+- **Free WiFi:** Available on most Tokaido Shinkansen trains
+  - **SSID:** "JR-EAST_FREE_Wi-Fi" or "Shinkansen_Free_Wi-Fi"
+  - **Speed:** Adequate for email/messaging, spotty for video streaming
+- **Signal:** Cell reception works even at high speed (270+ km/h)
+
+**Journey Duration & Schedule:**
+
+| Route | Duration | Frequency | Last Train |
+| :--- | :--- | :--- | :--- |
+| **Tokyo → Kyoto** | 2h 15m (Nozomi)<br>2h 45m (Hikari) | Every 10-15 min | ~9:30 PM |
+| **Kyoto → Osaka** | 15 min | Every 10 min | ~11:00 PM |
+| **Kyoto → Tokyo** | 2h 15m | Every 10-15 min | ~9:30 PM |
+
+**Punctuality:**
+
+- **Average Delay:** Less than **1 minute** per year (seriously)
+- **If Delayed:** Announcements in English, station staff will assist
+- **Missed Connection:** JR staff will re-book you on next train (free)
+
+**The Experience (What It Feels Like):**
+
+- **Boarding:** Feels like airport boarding (orderly, calm, no stress)
+- **Acceleration:** Gentle push into seat, then smooth glide
+- **Cruising:** So smooth you forget you're moving at 180 mph
+- **Passing Stations:** Silent whoosh through intermediate stations
+- **Mt. Fuji Moment:** Everyone rushes to the right-side windows (if visible)
+- **Arrival:** Gentle deceleration, perfect platform alignment
 
 ### 📱 How to Buy Tickets
 
@@ -49,7 +169,8 @@
 
 ### 🧳 The "Baggage 160" Rule
 
-- **Rule:** If your luggage (Length + Width + Height) is **over 160cm** (approx 62 inches - standard large check-in size), you **MUST** reserve a seat with an "Oversized Baggage Area".
+- **Rule:** If your luggage (Length + Width + Height) is **over 160cm** (approx 62 inches - standard
+  large check-in size), you **MUST** reserve a seat with an "Oversized Baggage Area".
   - **Shortcut:** In SmartEx, filter for "Seat with Oversized Baggage Area" (usually the last row).
 - **Penalty:** If you bring a large bag without this reservation, you will be fined 1,000 JPY (~$7).
   - **Why:** Conductors strictly enforce this rule to keep aisles clear and will make you move your bag.

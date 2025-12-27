@@ -27,37 +27,109 @@
 
 *Costs below are estimates for October 2026.*
 
-### 1. Premium Economy (The "Sweet Spot")
+### 1. Premium Economy (The "Sweet Spot" for Tall Travelers)
 
 - **Cost Per Person:** **$2,200 - $3,500** (approx. ¥330,000 - ¥525,000)
 - **Total for 2 Travelers:** **$4,400 - $7,000** (approx. ¥660,000 - ¥1,050,000)
 
-- **What you get:**
-  - **Seat:** Wider seat (like domestic First Class), 38" pitch (vs 31" in economy), deeper recline, footrest.
-  - **Service:** Priority boarding, plated meals (better than coach), dedicated cabin.
-  - **Lounge Access:** ANA often allows Premium Economy passengers into their lounges (check specific ticket rules),
-    whereas United Premium Plus does *not* grant Polaris lounge access.
-  - **Verdict:** **Highly Recommended.** For a 14-hour flight, the extra legroom and width prevent the "sardine"
-    feeling without the massive price jump of Business.
+#### **What You Get (Detailed for Tall Travelers):**
+
+**Seating Dimensions:**
+
+- **Seat Width:** 18.5 - 19.5 inches (vs. 17-17.5" in Economy)
+- **Seat Pitch (Legroom):** **38 - 40 inches** (vs. 31-32" in Economy)
+  - *Translation:* You can actually stretch your legs without hitting the seat in front
+- **Recline Angle:** 7-8 inches (40-degree recline vs. 3-4" in Economy)
+- **Footrest:** Adjustable footrest included (critical for long flights)
+- **Headrest:** Adjustable wings for neck support
+
+**Service & Perks:**
+
+- **Boarding:** Zone 2 or Priority (board after Business/First, before main cabin)
+- **Baggage:** Usually 2 checked bags included (vs. 1 in Economy)
+- **Meals:** Multi-course plated service with real dishes (not plastic trays)
+  - Choice of 3-4 entrees (including Japanese options)
+  - Complimentary beer, wine, sake, and spirits throughout flight
+- **Amenity Kit:** Travel socks, eye mask, earplugs, toothbrush
+- **Power/USB:** Available at every seat (Universal AC outlet + USB-A/C)
+- **Entertainment Screen:** 12-13 inch touchscreen (vs. 10-11" in Economy)
+
+**Lounge Access:**
+
+- **ANA Premium Economy:** Often includes lounge access (verify at booking)
+  - [ANA Lounge at Narita](https://www.ana.co.jp/en/jp/international/departure/guide/lounge/)
+- **United Premium Plus:** Does **NOT** include Polaris Lounge access
+  - *Workaround:* Purchase United Club day pass ($59) or use Priority Pass
+
+**For Tall Travelers (6'2"+):**
+
+- ✅ **You can sit comfortably without knees touching the seat in front**
+- ✅ **You can recline without guilt** (cabin designed with recline in mind)
+- ✅ **You can sleep in a semi-reclined position** (with footrest extended)
+- ❌ **You cannot lie flat** (save 3x the cost vs. Business for this feature)
+
+**Verdict:** **Highly Recommended.** For a 14-hour flight, Premium Economy is the perfect balance.
+You avoid the "sardine can" feeling of Economy without paying Business Class prices.
 
 ### 2. Business Class (The "Splurge")
 
 - **Cost Per Person:** **$5,500 - $9,000** (approx. ¥825,000 - ¥1,350,000)
 - **Total for 2 Travelers:** **$11,000 - $18,000** (approx. ¥1,650,000 - ¥2,700,000)
 
-- **What you get:**
-  - **Seat:** **Lie-flat bed** (180 degrees). This is the game changer for sleep.
-  - **Service:** Lounge access (Polaris Lounge at EWR is excellent), multi-course dining, unlimited drinks,
-    privacy door (on newer planes).
-  - **Verdict:** If budget allows, the lie-flat seat guarantees you arrive rested. However, it is often
-    **2-3x the price** of Premium Economy.
+#### **What You Get:**
 
-### Recommendation
+**Seating:**
 
-**Aim for Premium Economy on United or ANA.**
+- **Seat Configuration:** 1-2-1 or 2-2-2 (direct aisle access for most seats)
+- **Lie-Flat Capability:** **180-degree flat bed** (turns into a 6'6" long mattress)
+- **Privacy:** Sliding door on newer planes (Boeing 787-10, 777-300ER)
+- **Storage:** Large side bins for personal items, coat closet
 
-- It fits the "not coach, not first" requirement perfectly.
-- **Pro Tip:** Book Economy and look for "Cash Upgrade" offers to Premium Economy in the app 1-2 months before flying.
+**Service:**
+
+- **Lounge Access:** [United Polaris Lounge at EWR](https://www.united.com/en/us/fly/travel/airport/lounges/polaris.html)
+  (showers, hot meals, quiet zones)
+- **Dining:** Multi-course menu designed by restaurant chefs, tablecloth service
+- **Bar:** Unlimited premium spirits, wine list, Japanese whisky selection
+- **Amenity Kit:** Saks Fifth Avenue kit (moisturizer, lip balm, eye mask, socks)
+- **Bedding:** Duvet, full-size pillow, mattress pad
+
+**For Tall Travelers:**
+
+- ✅ **You can lie completely flat and sleep like a real bed**
+- ✅ **No need to worry about height restrictions** (bed is 6'6" long)
+- ✅ **Arrive rested and skip the first day jet lag**
+- ❌ **Price is 2-3x Premium Economy**
+
+**Verdict:** If budget is flexible, Business Class is the ultimate comfort for long-haul.
+However, **for most travelers, Premium Economy offers 80% of the comfort at 40% of the price.**
+
+### 💡 Booking Strategy & Upgrade Tips
+
+#### Option 1: Book Premium Economy Directly
+
+- **Best For:** Guaranteed comfort without breaking the bank
+- **When to Book:** 330 days before departure (when seats open)
+- **Price Tracking:** Use [Google Flights](https://www.google.com/flights) price alerts
+
+#### Option 2: Economy + Paid Upgrade
+
+- **United:** Book Economy Y-class fare, then watch for paid upgrade offers
+  - Check app 60-90 days before departure
+  - Upgrade cost: $500-$1,200 per person (vs. $1,500+ at booking)
+- **ANA:** Check for "Upgrade Offers" via ANA app
+  - Requires ANA Mileage Club account (free to join)
+
+#### Option 3: Miles/Points Upgrade
+
+- **United MileagePlus:** Economy to Premium Plus upgrade costs 20,000-30,000 miles
+- **ANA Mileage Club:** Economy to Premium Economy upgrade costs 15,000-25,000 miles
+- **Tip:** If you have credit card points (Chase, Amex), this is the cheapest path
+
+**Avoid:**
+
+- ❌ **Booking Basic Economy** (no upgrades allowed, no seat selection)
+- ❌ **Waiting until check-in** (upgrade prices spike at the gate)
 
 ---
 
