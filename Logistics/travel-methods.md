@@ -31,6 +31,9 @@ of train travel and ~$100 USD on a return Shinkansen ticket.
 
 **Primary Route:** Tokyo -> Kyoto (Tokaido Shinkansen).
 
+**📚 For English Speakers:** See the [English Speaker's Essential Guide](../Reference/english-speaker-guide.md)
+for navigation tips, IC card usage, and how to read station signs.
+
 | Ticket Type | Est Cost (One Way) | Where to Buy | Details |
 | :--- | :--- | :--- | :--- |
 | **Ordinary Car** | ~$93 USD<br>(14,000 JPY) | **SmartEx App**<br>or Station Machines | 3x2 seating. Comfortable, plenty of legroom. |
@@ -66,6 +69,7 @@ of train travel and ~$100 USD on a return Shinkansen ticket.
 - **Ordinary Car (Standard Class):**
   - **Configuration:** 3 seats (A-B-C) + Aisle + 2 seats (D-E)
   - **Pitch (Legroom):** 39 inches (similar to Premium Economy on planes)
+  - **For Tall Travelers (6'2"+):** ✅ Comfortable - more legroom than most domestic first-class seats
   - **Recline:** Yes, but limited (don't recline during meals)
   - **Seats:** Comfortable, rotate 180° so groups can face each other
   - **Power Outlets:** Available at **every row** (between seats)
@@ -73,6 +77,7 @@ of train travel and ~$100 USD on a return Shinkansen ticket.
 - **Green Car (First Class):**
   - **Configuration:** 2 seats (A-B) + Aisle + 2 seats (C-D)
   - **Pitch:** 43 inches (more legroom than most airline business class)
+  - **For Tall Travelers (6'2"+):** ✅✅ Excellent - can fully stretch legs without touching seat in front
   - **Recline:** Deep recline with footrest
   - **Seats:** Leather, heated, wider armrests
   - **Perks:** Free blankets, attendant service, quieter atmosphere

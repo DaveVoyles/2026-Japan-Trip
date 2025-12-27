@@ -104,6 +104,22 @@ You avoid the "sardine can" feeling of Economy without paying Business Class pri
 **Verdict:** If budget is flexible, Business Class is the ultimate comfort for long-haul.
 However, **for most travelers, Premium Economy offers 80% of the comfort at 40% of the price.**
 
+### 📊 Quick Comparison: Economy vs. Premium Economy vs. Business
+
+| Feature | Economy | Premium Economy | Business Class |
+| :--- | :--- | :--- | :--- |
+| **Seat Width** | 17-17.5" | 18.5-19.5" | 21-22" |
+| **Legroom (Pitch)** | 31-32" | 38-40" | 60-78" (Lie-flat) |
+| **Can You Sleep?** | ❌ Difficult | ✅ Yes (reclined) | ✅✅ Yes (flat bed) |
+| **Priority Boarding** | ❌ No | ✅ Yes (Zone 2) | ✅ Yes (Zone 1) |
+| **Lounge Access** | ❌ No | ⚠️ Sometimes (ANA) | ✅ Yes (Polaris) |
+| **Meal Quality** | Basic tray | Multi-course plated | Restaurant-style |
+| **For Tall Travelers** | ❌ Cramped | ✅ Comfortable | ✅✅ Spacious |
+| **Cost (Round Trip/2)** | ~$2,400-3,200 | ~$4,400-7,000 | ~$11,000-18,000 |
+| **Value Rating** | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
+**Recommendation for This Trip:** Premium Economy on United or ANA. Perfect balance of comfort and cost.
+
 ### 💡 Booking Strategy & Upgrade Tips
 
 #### Option 1: Book Premium Economy Directly
@@ -136,6 +152,9 @@ However, **for most travelers, Premium Economy offers 80% of the comfort at 40% 
 ## Airlines (Star Alliance Focus)
 
 Since you are flying out of EWR (United Hub):
+
+**📚 For First-Time Travelers:** Check the [English Speaker's Essential Guide](../Reference/english-speaker-guide.md)
+for tips on navigating airports, using translation apps, and communication strategies.
 
 1. **United Airlines:**
    - *Pros:* Direct flights EWR-HND/NRT. Economy Plus offers decent legroom.

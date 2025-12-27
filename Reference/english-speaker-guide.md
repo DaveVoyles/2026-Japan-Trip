@@ -5,6 +5,31 @@
 This guide covers everything non-Japanese speakers need to know to navigate Japan confidently,
 from language barriers to payment methods and cultural nuances.
 
+## 🎯 Quick Tips Summary (TL;DR)
+
+**Before You Go:**
+
+- ✅ Download: Google Translate (with offline Japanese), Japan Travel by Navitime, VoiceTra
+- ✅ Add Suica card to Apple Wallet (use Mastercard/Amex to top up, NOT Visa)
+- ✅ Notify your bank of travel dates
+- ✅ Bring at least ¥10,000-20,000 cash ($70-130) - many places are cash-only
+
+**In Japan:**
+
+- ✅ **Trains:** Tap Suica card in/out, screenshot exit numbers before going underground
+- ✅ **Restaurants:** Point at pictures, use Google Translate camera, pay at register when leaving
+- ✅ **ATMs:** Use 7-Eleven (24/7, English available, ¥110 fee)
+- ✅ **Emergency English Help:** Call 03-3501-0110 (Japan Helpline, 24/7, free)
+- ✅ **Lost Items:** Report immediately - 80% recovery rate in Japan!
+
+**Key Phrases:**
+
+- "Sumimasen" (Sue-me-ma-sen) = Excuse me / Sorry (most useful word)
+- "O-kaikei" (Oh-kai-keh) = Check please
+- "Eigo OK?" (Eh-go OK?) = English OK?
+
+---
+
 ## 📱 Communication & Translation Tools
 
 ### Essential Apps (Download Before You Go)
