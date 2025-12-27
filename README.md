@@ -2,12 +2,13 @@
 
 **ATTENTION CHAT AGENTS:** Start here.
 
-1. **Read [chat-agent-instructions.md](chat-agent-instructions.md) FIRST.** It contains the critical constraints (budget, travelers,
-   preferences) you must follow.
+1. **Read [chat-agent-instructions.md](chat-agent-instructions.md) FIRST.** It contains the critical
+   constraints (budget, travelers, preferences) you must follow.
 2. Use this README to locate specific files for the task at hand.
 
-This repository is the single source of truth for planning Dave and Debbie's October 2026 trip to Japan. It centralizes
-itinerary, hotels, logistics, and tooling so any assistant (human or chat agent) can contribute consistently.
+This repository is the single source of truth for planning Dave and Debbie's October 2026 trip to Japan.
+It centralizes itinerary, hotels, logistics, and tooling so any assistant (human or chat agent) can
+contribute consistently.
 
 ## 🎯 Purpose
 
@@ -42,16 +43,22 @@ itinerary, hotels, logistics, and tooling so any assistant (human or chat agent)
 - [chat-agent-instructions.md](chat-agent-instructions.md): Core preferences, priorities, rules, and tech stack.
 - [hotel-options.md](Reference/hotel-options.md): Hotel candidates that fit budget and Western-bed constraint.
 - [food-guide.md](Reference/food-guide.md): Non-sushi dining options (Ramen, Tempura, etc.) with pricing.
-- [universal-studios-strategy.md](Reference/universal-studios-strategy.md): Critical guide for securing entry to Super Nintendo
-  World & Donkey Kong Country.
+- [universal-studios-strategy.md](Reference/universal-studios-strategy.md): Critical guide for securing entry
+  to Super Nintendo World & Donkey Kong Country.
 - [city-stops-details.md](Reference/city-stops-details.md): Detailed info on specific city stops.
 - [shopping-wishlist.md](Reference/shopping-wishlist.md): Items to buy (Anime, Electronics, etc.).
-- [tax-free-shopping.md](Reference/tax-free-shopping.md): Comprehensive guide to saving 10% tax on purchases with step-by-step procedures.
+- [tax-free-shopping.md](Reference/tax-free-shopping.md): Comprehensive guide to saving 10% tax on purchases
+  with step-by-step procedures.
 - [cultural-etiquette.md](Reference/cultural-etiquette.md): Do's and Don'ts for trains, dining, and temples.
 - [coffee-breakfast-guide.md](Reference/coffee-breakfast-guide.md): Early morning coffee and breakfast options.
-- [gachapon-arcade-guide.md](Reference/gachapon-arcade-guide.md): Guide to capsule toys, claw machines, and purikura.
-- [survival-japanese.md](Reference/survival-japanese.md): Essential phrases for travelers, emergency contacts, and signs to recognize.
-- [quick-reference-cards.md](Reference/quick-reference-cards.md): 🆕 Print-friendly quick reference for each city with station exits, ATMs, emergency info, and cultural tips.
+- [gachapon-arcade-guide.md](Reference/gachapon-arcade-guide.md): Guide to capsule toys, claw machines,
+  and purikura.
+- [survival-japanese.md](Reference/survival-japanese.md): Essential phrases for travelers, emergency contacts,
+  and signs to recognize.
+- [english-speaker-guide.md](Reference/english-speaker-guide.md): 🆕 Comprehensive guide for English-only speakers:
+  navigation, payment methods, language barriers, and cultural tips.
+- [quick-reference-cards.md](Reference/quick-reference-cards.md): Print-friendly quick reference for each city
+  with station exits, ATMs, emergency info, and cultural tips.
 - [.github/agents/](.github/agents/): Chat agent profiles used earlier in this project.
 
 ## ⚠️ Trip Constraints (Quick Reference)
