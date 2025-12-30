@@ -16,6 +16,7 @@ Since you are buying Retro Games and Ceramics, you need space.
 - [ ] **Cash (Yen):** Bring ~ USD worth of Yen for arrival. Withdraw the rest at 7-Eleven ATMs.
 - [ ] **Power Bank:** 10,000mAh+ (You will use Google Maps all day).
 - [ ] **eSIM:** Install Ubigi or Airalo *before* you fly.
+- [ ] **3-to-2-prong adapter:** For laptop chargers with grounded (3-prong) plugs. Japanese outlets typically lack the ground pin.
 
 ## 🎒 Daily Carry (Day Pack)
 
@@ -49,4 +50,5 @@ Since you are buying Retro Games and Ceramics, you need space.
 
 - [ ] **Bubble Wrap:** For protecting loose cartridges/consoles.
 - [ ] **Tote Bag:** For carrying loot around Akihabara.
-- [ ] **Power Strip:** Japanese outlets are 2-prong (Type A). 3-prong plugs need an adapter.
+- [ ] **Power Strip:** Japanese outlets are 2-prong (Type A).
+- [ ] **3-to-2-prong adapter:** Essential if your laptop or other chargers have 3-prong grounded plugs.
