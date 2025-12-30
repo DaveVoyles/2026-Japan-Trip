@@ -16,6 +16,7 @@
 ## 🗼 Tokyo Options (3 Nights)
 
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
+[📖 View Tokyo Neighborhood Guide](../Itineraries/Detailed/Tokyo/neighborhoods.md)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -40,6 +41,7 @@
 ## ⛩️ Kyoto Options (3 Nights)
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
+[📖 View Kyoto Neighborhood Guide](../Itineraries/Detailed/Kyoto/neighborhoods.md)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -60,6 +62,7 @@
 ## 🐙 Osaka Options (2 Nights)
 
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
+[📖 View Osaka Neighborhood Guide](../Itineraries/Detailed/Osaka/neighborhoods.md)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
