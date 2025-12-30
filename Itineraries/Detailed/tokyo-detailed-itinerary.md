@@ -2,10 +2,10 @@
 
 Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscrapers stand alongside ancient shrines.
 
-*   🏙️ **City Exploration:** Settle into the vibrant hubs of Ginza or Shinjuku and explore the city's famous basement food halls.
-*   ⛩️ **Old Meets New:** Visit the historic Senso-ji Temple in Asakusa before diving into the electronics and retro gaming paradise of Akihabara.
-*   🌸 **Pop Culture & Fashion:** Walk through the serene Meiji Shrine, enjoy fluffy pancakes in Harajuku, and experience the organized chaos of Shibuya Crossing.
-*   🎨 **Ghibli & Gardens:** Venture to the magical Ghibli Museum and relax in the beautiful Inokashira Park.
+*   🏙️ **City Exploration:** Settle into the vibrant hubs of [Ginza](https://www.japan-guide.com/e/e3005.html) or [Shinjuku](https://www.japan-guide.com/e/e3011.html) and explore the city's famous basement food halls.
+*   ⛩️ **Old Meets New:** Visit the historic [Senso-ji Temple](https://www.senso-ji.jp/english/) in [Asakusa](https://www.japan-guide.com/e/e3004.html) before diving into the electronics and retro gaming paradise of [Akihabara](https://www.japan-guide.com/e/e3003.html).
+*   🌸 **Pop Culture & Fashion:** Walk through the serene [Meiji Shrine](https://www.meijijingu.or.jp/en/), enjoy fluffy pancakes in [Harajuku](https://www.japan-guide.com/e/e3006.html), and experience the organized chaos of [Shibuya Crossing](https://www.japan-guide.com/e/e3007.html).
+*   🎨 **Ghibli & Gardens:** Venture to the magical [Ghibli Museum](https://www.ghibli-museum.jp/en/) and relax in the beautiful [Inokashira Park](https://www.japan-guide.com/e/e3024.html).
 
 This four-day introduction provides the perfect blend of Tokyo's high-energy urban life and its quiet, traditional corners.
 
@@ -167,19 +167,19 @@ Begin your extended Tokyo stay with a pilgrimage to the Studio Ghibli Museum in 
   - **Plan C:** Day trip to [Kamakura](https://www.japan-guide.com/e/e2166.html) (Great Buddha, temples, beach town)
     - JR Yokosuka Line from Tokyo Station (60 min)
 
-- **If Rainy:** 
+- **If Rainy:**
   - Museum is fully indoor (perfect!)
   - Community bus eliminates outdoor walking if heavy rain
   - Skip Inokashira Park walk; take bus both ways
   - Kichijoji shopping arcades are mostly covered
 
-- **If Exhausted:** 
+- **If Exhausted:**
   - Skip split path entirely
   - Relax together at Inokashira Park: boat ride + cafes
   - Shorter museum visit (1.5-2 hrs vs 3 hrs)
   - Return to hotel early, skip dinner out (konbini meal in room)
 
-- **Lunch Alternative:** 
+- **Lunch Alternative:**
   - **[Iseya Yakitori](https://www.iseya.co.jp/)** near Kichijoji Station ([Location](https://goo.gl/maps/iseya-kichijoji))
     - ¥1,000-2,000 ($7-13) for yakitori set
     - Local favorite since 1928

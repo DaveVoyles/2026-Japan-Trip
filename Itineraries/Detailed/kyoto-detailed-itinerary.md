@@ -2,12 +2,12 @@
 
 This leg of the journey takes you to the cultural heart of Japan, balancing ancient traditions with modern discoveries.
 
-*   ⛩️ **Kyoto Icons:** Walk through the vermillion gates of Fushimi Inari, explore the atmospheric streets of Gion, and witness the shimmering Golden Pavilion.
-*   🎋 **Natural Beauty:** Experience the serene Arashiyama bamboo groves and peaceful riverside walks along the Kamo River.
-*   🦌 **Nara Day Trip:** Meet the famous bowing deer and stand in awe of the Great Buddha at Todai-ji.
-*   🍱 **Culinary & Culture:** Dive into the flavors of Nishiki Market and Pontocho Alley, or hunt for retro gaming treasures in Kawaramachi.
+*   ⛩️ **Kyoto Icons:** Walk through the vermillion gates of [Fushimi Inari](https://inari.jp/en/), explore the atmospheric streets of [Gion](https://www.japan-guide.com/e/e3902.html), and witness the shimmering [Golden Pavilion](https://www.shokoku-ji.jp/en/kinkakuji/).
+*   🎋 **Natural Beauty:** Experience the serene [Arashiyama](https://kyoto.travel/en/nature/bamboogrove.html) bamboo groves and peaceful riverside walks along the [Kamo River](https://kyoto.travel/en/nature/kamogawa.html).
+*   🦌 **[Nara](https://www.visitnara.jp/venues/A00659/) Day Trip:** Meet the famous bowing deer and stand in awe of the [Great Buddha](https://www.todaiji.or.jp/en/) at [Todai-ji](https://www.todaiji.or.jp/en/).
+*   🍱 **Culinary & Culture:** Dive into the flavors of [Nishiki Market](https://www.kyoto-nishiki.or.jp/) and [Pontocho Alley](https://www.japan-guide.com/e/e3921.html), or hunt for retro gaming treasures in [Kawaramachi](https://goo.gl/maps/surugaya-kyoto).
 
-These three days offer a deep dive into the Kansai region before transitioning to the neon lights of Osaka.
+These three days offer a deep dive into the [Kansai region](https://www.japan-guide.com/e/e2158.html) before transitioning to the neon lights of Osaka.
 
 **Schedule:** 06:30 AM - 09:30 PM
 **Hotel Hub:** Kyoto Station or Gion/Kawaramachi

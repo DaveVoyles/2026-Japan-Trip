@@ -2,10 +2,10 @@
 
 The final leg of your trip brings you to Osaka, Japan's energetic culinary capital and home to world-class entertainment.
 
-*   🍄 **Universal Studios Japan:** Spend a full day at USJ, featuring the immersive Super Nintendo World and the Wizarding World of Harry Potter.
-*   🌃 **Neon Nights:** Soak in the vibrant atmosphere of Dotonbori, famous for its giant mechanical signs and the iconic Glico Running Man.
+*   🍄 **Universal Studios Japan:** Spend a full day at [USJ](https://www.usj.co.jp/web/en/us), featuring the immersive [Super Nintendo World](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world) and the [Wizarding World of Harry Potter](https://www.usj.co.jp/web/en/us/areas/the-wizarding-world-of-harry-potter).
+*   🌃 **Neon Nights:** Soak in the vibrant atmosphere of [Dotonbori](https://osaka-info.jp/en/spot/dotonbori/), famous for its giant mechanical signs and the iconic [Glico Running Man](https://osaka-info.jp/en/spot/ebisubashi-bridge/).
 *   🍢 **Street Food Feast:** Indulge in Osaka's "Kuidaore" (eat until you drop) culture with kushikatsu, takoyaki, and jiggly cheesecake.
-*   🎮 **Final Finds:** Wrap up your trip with last-minute shopping in Den Den Town's electronics district or the massive Don Quijote megastore.
+*   🎮 **Final Finds:** Wrap up your trip with last-minute shopping in [Den Den Town](https://insideosaka.com/den-den-town-guide/)'s electronics district or the massive [Don Quijote](https://www.donki.com/en/) megastore.
 
 These final two days ensure you leave Japan with a full stomach and a suitcase full of unique memories.
 
