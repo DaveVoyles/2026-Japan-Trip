@@ -217,3 +217,20 @@ Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 ## Pre-Trip Essentials Checklist
 
 - [ ] **3-to-2-prong adapter:** Most Japanese outlets lack the 3rd ground pin. Essential if your laptop charger has a grounded plug.
+
+---
+
+## 💡 Pro Tips
+
+- **Shopping Backup:** If Den Den Town is overwhelming, hit **Yodobashi Umeda** (massive electronics/games store near Osaka Station).
+- **Luggage:** If overpacked, buy an extra cheap suitcase at **Don Quijote** (¥3,000-5,000/$20-33).
+- **Final Cash:** Spend remaining yen at the airport on Kit Kats, Royce chocolates, or last-minute gifts.
+- **Airport Timing:** KIX can be slow during busy times—don't cut it close!
+
+## 🔗 Useful Planning Resources
+
+- [Japan Guide October Page](https://www.japan-guide.com/e/e2273.html) - Month-specific travel info.
+- [Hyperdia Train Schedule](http://www.hyperdia.com/) - Plan train routes with October timetables.
+- [Weathernews Japan](https://weathernews.jp/s/topics/) - Most accurate forecasts (check 10 days out).
+- [USJ Crowd Calendar](https://www.usj.co.jp/web/en/us/service-guide/crowd-calendar) - Unofficial crowd predictions.
+- [Japan National Tourism Org](https://www.japan.travel/en/) - Official October events calendar.

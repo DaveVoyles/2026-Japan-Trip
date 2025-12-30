@@ -45,3 +45,21 @@
 |  | Pokemon Cafe | Tokyo | Oct XX | - | - | Hard to get |
 |  | Kichi Kichi Omurice | Kyoto | Oct XX | - | - | 4 weeks out |
 
+---
+
+## 📅 Booking Timeline & Ticket Notes
+
+### 🏨 Hotel Booking Timeline
+- **NOW-Feb 2026:** Research and create shortlist.
+- **March-May 2026:** Book hotels (6-7 months out for best selection).
+- **June 2026:** Final hotel confirmation deadline (prices rise after this).
+- **Cancellation:** Most hotels allow free cancellation until 1-2 weeks before.
+
+### 🎟️ Activity Ticket Notes
+- **Universal Studios Japan (October):**
+  - **Moderate Crowds:** Weekdays (Mon-Thu) are lower; Weekends and holidays are higher.
+  - **Halloween Horror Nights:** Late October (avoid if you want Nintendo focus).
+  - **Express Pass:** **ESSENTIAL** for October. Tickets release **2 months prior** (August 2026).
+- **Shinkansen Reservations:**
+  - **Peak Season:** Autumn foliage travel begins in October.
+  - **Strategy:** Reserve seats **1 month in advance** (opens at 10 AM JST) via SmartEx App.

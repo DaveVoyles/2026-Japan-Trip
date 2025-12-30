@@ -4,7 +4,17 @@
 
 ---
 
-## 🛫 Day Before Departure from US
+## �️ Pre-Trip Booking Checklist
+- [ ] **Visit Japan Web:** QR codes saved for Immigration & Customs
+- [ ] **Universal Studios Japan:** Tickets & Express Pass (2 months out)
+- [ ] **TeamLab Borderless/Planets:** Tickets booked (2 months out)
+- [ ] **Ghibli Museum:** Tickets booked (10th of previous month!)
+- [ ] **Shibuya Sky:** Tickets booked (4 weeks out)
+- [ ] **Warner Bros. Studio Tour (Harry Potter):** Tickets booked (if going)
+
+---
+
+## �🛫 Day Before Departure from US
 
 ### 48 Hours Before Flight:
 - [ ] **Confirm Flight:** Check airline app/email for any changes
