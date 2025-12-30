@@ -71,7 +71,7 @@
 - **Vibe:** Kyoto's main shopping and dining district, lively and central.
 - **Evening Walk:** [4K Kawaramachi Evening Walking Tour](https://www.youtube.com/watch?v=XJSstz9peq8)
 
-[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22The+Celestine+Kyoto+Gion%22)
+[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22Hotel+The+Celestine+Kyoto+Gion%22)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -90,7 +90,6 @@
 - **Vibe:** Sleek skyscrapers, massive underground malls, and a major transit hub.
 - **Evening Walk:** [4K Umeda Evening Walking Tour](https://www.youtube.com/watch?v=O3fRnBQkaEE)
 
-[📍 View all Osaka hotels on Google Maps](https://www.google.com/maps/search/%22Cross+Hotel+Osaka%22+OR+%22Swissotel+Nankai+Osaka%22+OR+%22Hotel+Royal+Classic+Osaka%22+OR+%22Hotel+Hankyu+Respire+Osaka%22
 ### 🍵 Kyoto Amenities & Features
 
 | Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Concierge |
