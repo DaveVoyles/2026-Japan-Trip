@@ -12,7 +12,7 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 
 ##  Day 5: Shinkansen & Foxes (Friday  Saturday)
 
-** Day Map:** [View all locations for this day](https://www.google.com/maps/search/Fushimi%20Inari%20Taisha%2C%20Kyoto%2C%20Japan%20OR%20Gion%20Tanto%2C%20Kyoto%2C%20Japan%20OR%20Gransta%2C%20Kyoto%2C%20Japan%20OR%20Massive%20complex%2C%20Kyoto%2C%20Japan%20OR%20Kyoto%20Station%20Building%202F%2C%20Japan%20OR%20JR%20Nara%20Line%20to%20Inari%20Station%2C%20Kyoto%2C%20Japan%20OR%20Vermillion%20Cafe%2C%20Kyoto%2C%20Japan%20OR%20Kyo-Udon%20Ikkyuan%2C%20Kyoto%2C%20Japan%20OR%20Recommended%20Gion%20walking%20path%2C%20Kyoto%2C%20Japan%20OR%20Hanami-koji%20Street%2C%20Kyoto%2C%20Japan)
+**Day Map:** [View all locations for this day](https://www.google.com/maps/search/Fushimi%20Inari%20Taisha%2C%20Kyoto%2C%20Japan%20OR%20Gion%20Tanto%2C%20Kyoto%2C%20Japan%20OR%20Gransta%2C%20Kyoto%2C%20Japan%20OR%20Massive%20complex%2C%20Kyoto%2C%20Japan%20OR%20Kyoto%20Station%20Building%202F%2C%20Japan%20OR%20JR%20Nara%20Line%20to%20Inari%20Station%2C%20Kyoto%2C%20Japan%20OR%20Vermillion%20Cafe%2C%20Kyoto%2C%20Japan%20OR%20Kyo-Udon%20Ikkyuan%2C%20Kyoto%2C%20Japan%20OR%20Recommended%20Gion%20walking%20path%2C%20Kyoto%2C%20Japan%20OR%20Hanami-koji%20Street%2C%20Kyoto%2C%20Japan)
 
 | Time | Activity | Cost |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 | **18:30** | **Okonomiyaki Dinner** | $content |
 | **20:30** | **Pontocho Alley Night Walk** | - |
 
-** Quick Logistics:**
+**Quick Logistics:**
 - **Tokyo  Kyoto:** Nozomi Shinkansen (2 hrs 15 min). Sit on **RIGHT (E seat)** for Mt. Fuji.
 - **Kyoto Station  Fushimi Inari:** JR Nara Line to Inari Station (5 min).
 
@@ -33,7 +33,7 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 
 ##  Day 6: Bamboo, Monkeys & Gold (Saturday  Sunday)
 
-** Day Map:** [View all locations for this day](https://www.google.com/maps/search/Bamboo%20Grove%2C%20Kyoto%2C%20Japan%20OR%20%25%20Arabica%20Coffee%2C%20Kyoto%2C%20Japan%20OR%20Tousuiro%2C%20Kyoto%2C%20Japan%20OR%20Golden%20Pavilion%2C%20Kyoto%2C%20Japan%20OR%20Malebranche%2C%20Kyoto%2C%20Japan%20OR%20Pontocho%20Alley%2C%20Kyoto%2C%20Japan%20OR%20JR%20Sagano%20Line%2C%20Kyoto%2C%20Japan%20OR%20Keifuku%20Randen%20Tram%2C%20Kyoto%2C%20Japan%20OR%20500m%20walking%20path%2C%20Kyoto%2C%20Japan%20OR%20UNESCO%20World%20Heritage%20Site%2C%20Kyoto%2C%20Japan)
+**Day Map:** [View all locations for this day](https://www.google.com/maps/search/Bamboo%20Grove%2C%20Kyoto%2C%20Japan%20OR%20%25%20Arabica%20Coffee%2C%20Kyoto%2C%20Japan%20OR%20Tousuiro%2C%20Kyoto%2C%20Japan%20OR%20Golden%20Pavilion%2C%20Kyoto%2C%20Japan%20OR%20Malebranche%2C%20Kyoto%2C%20Japan%20OR%20Pontocho%20Alley%2C%20Kyoto%2C%20Japan%20OR%20JR%20Sagano%20Line%2C%20Kyoto%2C%20Japan%20OR%20Keifuku%20Randen%20Tram%2C%20Kyoto%2C%20Japan%20OR%20500m%20walking%20path%2C%20Kyoto%2C%20Japan%20OR%20UNESCO%20World%20Heritage%20Site%2C%20Kyoto%2C%20Japan)
 
 | Time | Activity | Cost |
 | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 | **16:00** | **Matcha Tea Break** | $content |
 | **18:30** | **Dinner in Pontocho Alley** | $content$ |
 
-** Quick Logistics:**
+**Quick Logistics:**
 - **Kyoto  Arashiyama:** JR Sagano Line to Saga-Arashiyama (15 min).
 - **Arashiyama  Kinkaku-ji:** City Bus 93 (40 min).
 
@@ -53,7 +53,7 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 
 ##  Day 7: Nara Day Trip & Market (Sunday  Monday)
 
-** Day Map:** [View all locations for this day](https://www.google.com/maps/search/Deer%20%26%20Todai-ji%2C%20Nara%2C%20Japan%20OR%20Nishiki%20Market%2C%20Nara%2C%20Japan%20OR%20Kyoto%20Ramen%20Koji%2C%20Nara%2C%20Japan%20OR%20From%20Kyoto%20Station%2C%20Nara%2C%20Japan%20OR%20Kintetsu%20Nara%20Station%2C%20Japan%20OR%20JR%20Nara%20Station%2C%20Japan%20OR%20Free%201%2C300-acre%20park%2C%20Nara%2C%20Japan%20OR%20UNESCO%20World%20Heritage%2C%20Nara%2C%20Japan%20OR%20Massive%20entrance%20gate%2C%20Nara%2C%20Japan%20OR%20Famous%20mochi%20shop%2C%20Nara%2C%20Japan)
+**Day Map:** [View all locations for this day](https://www.google.com/maps/search/Deer%20%26%20Todai-ji%2C%20Nara%2C%20Japan%20OR%20Nishiki%20Market%2C%20Nara%2C%20Japan%20OR%20Kyoto%20Ramen%20Koji%2C%20Nara%2C%20Japan%20OR%20From%20Kyoto%20Station%2C%20Nara%2C%20Japan%20OR%20Kintetsu%20Nara%20Station%2C%20Japan%20OR%20JR%20Nara%20Station%2C%20Japan%20OR%20Free%201%2C300-acre%20park%2C%20Nara%2C%20Japan%20OR%20UNESCO%20World%20Heritage%2C%20Nara%2C%20Japan%20OR%20Massive%20entrance%20gate%2C%20Nara%2C%20Japan%20OR%20Famous%20mochi%20shop%2C%20Nara%2C%20Japan)
 
 | Time | Activity | Cost |
 | :--- | :--- | :--- |
@@ -66,6 +66,6 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 | **18:00** | **Ramen Dinner at Kyoto Station** | $ |
 | **20:00** | **Packing & Prep for Osaka** | - |
 
-** Quick Logistics:**
+**Quick Logistics:**
 - **Kyoto  Nara:** Kintetsu Nara Line (35 min). Kintetsu station is closer to the deer!
 - **Nara  Kyoto:** Return via Kintetsu or JR.
