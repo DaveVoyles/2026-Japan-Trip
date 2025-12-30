@@ -28,11 +28,11 @@
 - [Kyoto Detailed Itinerary](Detailed/kyoto-detailed-itinerary.md)
 - [Osaka Detailed Itinerary](Detailed/osaka-detailed-itinerary.md)
 
-Dates: October 2026 (Target: Mid-October for pleasant weather/early autumn leaves).
-Duration: 9 Days (Extended to include Ghibli Museum).
-Travelers: Dave (Retro Gaming, Foxes, Temples, Sushi) & Debbie (Flowers, Baked Goods, Non-Sushi Food)
-Rhythm: Early Risers (6:30 AM Start) to beat crowds.
-Breakfast Style: Konbini Run (Onigiri/Coffee on the go).
+***Dates:*** October 2026 (Target: Mid-October for pleasant weather/early autumn leaves).
+***Duration:*** 9 Days (Extended to include Ghibli Museum).
+***Travelers:*** Dave (Retro Gaming, Foxes, Temples, Sushi) & Debbie (Flowers, Baked Goods, Non-Sushi Food)
+***Rhythm:*** Early Risers (6:30 AM Start) to beat crowds.
+***Breakfast Style:*** Konbini Run (Onigiri/Coffee on the go).
 
 ## 🤝 Strategy: "Together & Apart"
 
