@@ -43,6 +43,8 @@
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
+[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/Miyako+City+Kintetsu+Kyoto+Station+OR+The+Thousand+Kyoto+OR+Cross+Hotel+Kyoto+OR+Hotel+The+Celestine+Kyoto+Gion)
+
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Kyoto Station] Miyako City Kintetsu Kyoto Station** | [Website](https://www.miyakohotels.ne.jp/kyoto-station/) | High | This hotel is physically connected to Kyoto Station, meaning you can go from your room to the Shinkansen platform in under 10 minutes. It is the ultimate choice for early risers who want to beat the crowds to Fushimi Inari or Arashiyama. The rooms are simple but soundproofed, ensuring a quiet rest despite the busy location. | $$ | $150 - $250 | High demand due to location. |  |  |
@@ -60,6 +62,8 @@
 | **Hotel The Celestine Gion** | No | No | Yes (Free for guests) | Yes | No | Good |
 
 ## 🐙 Osaka Options (2 Nights)
+
+[📍 View all Osaka hotels on Google Maps](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
 
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
