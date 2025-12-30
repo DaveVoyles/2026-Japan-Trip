@@ -19,28 +19,35 @@
 
 ### Neighborhood Guide
 
+[📍 View all Tokyo hotels on Google Maps](https://www.google.com/maps/search/%21Hotel+Musse+Ginza+Meitetsu%22+OR+%22The+Royal+Park+Canvas+Ginza+8%22+OR+%22Hotel+Gracery+Shinjuku%22+OR+%22Century+Southern+Tower%22+OR+%22Shibuya+Stream+Excel+Tokyu%22+OR+%22Hotel+Ryumeikan+Tokyo%22)
+
 #### Ginza
+
 - **Vibe:** Luxury shopping, fine dining, and a more sophisticated, quiet atmosphere.
 - **Evening Walk:** [4K Ginza Evening Walking Tour](https://www.youtube.com/watch?v=Uf7S49_S-pM)
 
 #### Shinjuku
+
 - **Vibe:** Neon lights, massive transit hub, vibrant nightlife (Kabukicho), and endless dining options.
 - **Evening Walk:** [4K Shinjuku Evening Walking Tour](https://www.youtube.com/watch?v=3FUIYAwQ7Xs)
 
 #### Shibuya
+
 - **Vibe:** Youth culture, the famous Scramble Crossing, trendy fashion, and energetic street life.
 - **Evening Walk:** [4K Shibuya Evening Walking Tour](https://www.youtube.com/watch?v=6_pn97yl-2g)
 
-[📍 View all Tokyo hotels on Google Maps](https://www.google.com/maps/search/%22Hotel+Musse+Ginza+Meitetsu%22+OR+%22The+Royal+Park+Canvas+Ginza+8%22+OR+%22Hotel+Gracery+Shinjuku%22+OR+%22Century+Southern+Tower%22+OR+%22Shibuya+Stream+Excel+Tokyu%22+OR+%22Hotel+Ryumeikan+Tokyo%22)
+#### Overall Comparison
 
 Shinjuku, Shibuya, and Ginza are all strong hotel bases, but they optimize for different “Tokyo versions”: Shinjuku is the most convenient all-around transit hub, Shibuya is trendier and very “in the action,” and Ginza is central, polished, and more upscale/quiet (especially at night). If you want the simplest logistics for a first Tokyo stay (especially when stacking day trips and moving onward), Shinjuku is usually the safest pick, while Ginza fits a calmer, nicer-home-base style and Shibuya fits a nightlife/shopping-forward trip.
 ​
 
-Location access
+#### Location access
+
 Shinjuku is one of Tokyo’s biggest rail hubs, making it efficient for moving around the city and for connecting to other regions from major stations. Shibuya is also extremely well-connected (including the Yamanote Line), so it’s quick to reach popular west-side areas like Harajuku and other major Tokyo neighborhoods. Ginza is centrally located and is served by multiple Tokyo Metro lines with several stations in/around the neighborhood, plus it’s close to Tokyo Station—useful if you’ll ride Shinkansen or want easy “central Tokyo” access.
 ​
 
-Vibes and crowds
+#### Vibes and crowds
+
 Shinjuku is “Tokyo-at-full-volume”: neon, skyscrapers, constant motion, and a major nightlife scene—awesome if you like energy, but it can feel chaotic late-day and late-night. Shibuya leans youthful and stylish with dense shopping/dining and a lively street scene centered around Shibuya Crossing, which many travelers find exciting but busy. Ginza is known for a refined, luxury-shopping atmosphere with a more elegant streetscape; it’s typically calmer than the west-side nightlife hubs, while still offering upscale bars and dining if you want a nicer night out.
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
@@ -70,14 +77,17 @@ Shinjuku is “Tokyo-at-full-volume”: neon, skyscrapers, constant motion, and 
 ### Neighborhood Guide
 
 #### Kyoto Station
+
 - **Vibe:** Modern transit hub, massive shopping complexes, and convenient for day trips.
 - **Evening Walk:** [4K Kyoto Station Evening Walking Tour](https://www.youtube.com/watch?v=hhzMWm9Ol8Q)
 
 #### Gion
+
 - **Vibe:** Traditional wooden machiya houses, geisha culture, and historic atmosphere.
 - **Evening Walk:** [4K Gion Evening Walking Tour](https://www.youtube.com/watch?v=kd-OLM-6GRE)
 
 #### Kawaramachi
+
 - **Vibe:** Kyoto's main shopping and dining district, lively and central.
 - **Evening Walk:** [4K Kawaramachi Evening Walking Tour](https://www.youtube.com/watch?v=XJSstz9peq8)
 
@@ -106,11 +116,13 @@ Shinjuku is “Tokyo-at-full-volume”: neon, skyscrapers, constant motion, and 
 ### Neighborhood Guide
 
 #### Namba / Dotonbori
+
 - **Vibe:** The heart of Osaka's food and nightlife, famous for neon signs and street food.
 - **Evening Walk (Namba):** [4K Namba Evening Walking Tour](https://www.youtube.com/watch?v=bYjRu_M_5qw)
 - **Evening Walk (Dotonbori):** [4K Dotonbori Evening Walking Tour](https://www.youtube.com/watch?v=8qN_3YsEUvU)
 
 #### Umeda
+
 - **Vibe:** Sleek skyscrapers, massive underground malls, and a major transit hub.
 - **Evening Walk:** [4K Umeda Evening Walking Tour](https://www.youtube.com/watch?v=O3fRnBQkaEE)
 
@@ -130,4 +142,4 @@ Shinjuku is “Tokyo-at-full-volume”: neon, skyscrapers, constant motion, and 
 | **Cross Hotel Osaka** | No | No | No | No | No | 10 min walk to OCAT Bus |
 | **Swissotel Nankai Osaka** | Yes (Full) | Yes (Indoor) | Sauna/Spa | Yes (Exec Floor) | No | Direct Train (Rapi:t) |
 | **Hotel Royal Classic Osaka** | No | No | No | Yes (Bar) | No | Direct Subway to Train |
-| **Hotel Hankyu Respire** | Yes (Small) | No | No | Lobby Lounge | Yes | Direct Bus Stop |
+| Hotel Hankyu Respire | Yes (Small) | No | No | Lobby Lounge | Yes | Direct Bus Stop |
