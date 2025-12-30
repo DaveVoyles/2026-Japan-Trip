@@ -22,11 +22,11 @@
 
 ## 📝 Overview
 
-**Note:** This is a high-level overview. For daily hour-by-hour plans, please refer to the detailed city itineraries:
+**Note:** This is a high-level overview. For daily hour-by-hour plans and deep-dive neighborhood guides, please refer to the detailed city itineraries:
 
-- [Tokyo Detailed Itinerary](Detailed/tokyo-detailed-itinerary.md)
-- [Kyoto Detailed Itinerary](Detailed/kyoto-detailed-itinerary.md)
-- [Osaka Detailed Itinerary](Detailed/osaka-detailed-itinerary.md)
+- **Tokyo:** [Detailed Itinerary](Detailed/Tokyo/tokyo-detailed-itinerary.md) | [Neighborhoods & Reference](Detailed/Tokyo/neighborhoods.md)
+- **Kyoto:** [Detailed Itinerary](Detailed/Kyoto/kyoto-detailed-itinerary.md) | [Neighborhoods & Reference](Detailed/Kyoto/neighborhoods.md)
+- **Osaka:** [Detailed Itinerary](Detailed/Osaka/osaka-detailed-itinerary.md) | [Neighborhoods & Reference](Detailed/Osaka/neighborhoods.md)
 
 ***Dates:*** October 2026 (Target: Mid-October for pleasant weather/early autumn leaves).
 ***Duration:*** 9 Days (Extended to include Ghibli Museum).

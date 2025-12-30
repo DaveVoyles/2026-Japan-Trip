@@ -17,39 +17,6 @@
 
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
 
-### Neighborhood Guide
-
-[📍 View all Tokyo hotels on Google Maps](https://www.google.com/maps/search/%21Hotel+Musse+Ginza+Meitetsu%22+OR+%22The+Royal+Park+Canvas+Ginza+8%22+OR+%22Hotel+Gracery+Shinjuku%22+OR+%22Century+Southern+Tower%22+OR+%22Shibuya+Stream+Excel+Tokyu%22+OR+%22Hotel+Ryumeikan+Tokyo%22)
-
-#### Ginza
-
-- **Vibe:** Luxury shopping, fine dining, and a more sophisticated, quiet atmosphere.
-- **Evening Walk:** [4K Ginza Evening Walking Tour](https://www.youtube.com/watch?v=Uf7S49_S-pM)
-
-#### Shinjuku
-
-- **Vibe:** Neon lights, massive transit hub, vibrant nightlife (Kabukicho), and endless dining options.
-- **Evening Walk:** [4K Shinjuku Evening Walking Tour](https://www.youtube.com/watch?v=3FUIYAwQ7Xs)
-
-#### Shibuya
-
-- **Vibe:** Youth culture, the famous Scramble Crossing, trendy fashion, and energetic street life.
-- **Evening Walk:** [4K Shibuya Evening Walking Tour](https://www.youtube.com/watch?v=6_pn97yl-2g)
-
-#### Overall Comparison
-
-Shinjuku, Shibuya, and Ginza are all strong hotel bases, but they optimize for different “Tokyo versions”: Shinjuku is the most convenient all-around transit hub, Shibuya is trendier and very “in the action,” and Ginza is central, polished, and more upscale/quiet (especially at night). If you want the simplest logistics for a first Tokyo stay (especially when stacking day trips and moving onward), Shinjuku is usually the safest pick, while Ginza fits a calmer, nicer-home-base style and Shibuya fits a nightlife/shopping-forward trip.
-​
-
-#### Location access
-
-Shinjuku is one of Tokyo’s biggest rail hubs, making it efficient for moving around the city and for connecting to other regions from major stations. Shibuya is also extremely well-connected (including the Yamanote Line), so it’s quick to reach popular west-side areas like Harajuku and other major Tokyo neighborhoods. Ginza is centrally located and is served by multiple Tokyo Metro lines with several stations in/around the neighborhood, plus it’s close to Tokyo Station—useful if you’ll ride Shinkansen or want easy “central Tokyo” access.
-​
-
-#### Vibes and crowds
-
-Shinjuku is “Tokyo-at-full-volume”: neon, skyscrapers, constant motion, and a major nightlife scene—awesome if you like energy, but it can feel chaotic late-day and late-night. Shibuya leans youthful and stylish with dense shopping/dining and a lively street scene centered around Shibuya Crossing, which many travelers find exciting but busy. Ginza is known for a refined, luxury-shopping atmosphere with a more elegant streetscape; it’s typically calmer than the west-side nightlife hubs, while still offering upscale bars and dining if you want a nicer night out.
-
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Ginza] Hotel Musse Ginza Meitetsu** | [Website](https://www.m-inn.com/musse/ginza/) | High | Located in a quieter part of Ginza, this hotel offers a peaceful retreat while being steps away from luxury shopping. The separate toilet and bath layout is a rare find at this price point, making it very comfortable for couples. It is an excellent choice if you prioritize a modern, clean room over a large lobby. | $$ | $150 - $250 | Book 5-6 months out. | ❌ |  |
@@ -74,36 +41,6 @@ Shinjuku is “Tokyo-at-full-volume”: neon, skyscrapers, constant motion, and 
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
-### Neighborhood Guide
-
-[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22Hotel+The+Celestine+Kyoto+Gion%22)
-
-#### Kyoto Station
-
-- **Vibe:** Modern transit hub, massive shopping complexes, and convenient for day trips.
-- **Evening Walk:** [4K Kyoto Station Evening Walking Tour](https://www.youtube.com/watch?v=hhzMWm9Ol8Q)
-
-#### Gion
-
-- **Vibe:** Traditional wooden machiya houses, geisha culture, and historic atmosphere.
-- **Evening Walk:** [4K Gion Evening Walking Tour](https://www.youtube.com/watch?v=kd-OLM-6GRE)
-
-#### Kawaramachi
-
-- **Vibe:** Kyoto's main shopping and dining district, lively and central.
-- **Evening Walk:** [4K Kawaramachi Evening Walking Tour](https://www.youtube.com/watch?v=XJSstz9peq8)
-
-#### Overall Comparison
-Kyoto Station is the functional heart of the city, ideal for those prioritizing easy arrivals, departures, and day trips to Nara or Osaka. Gion and Kawaramachi offer the "classic Kyoto" experience, where you can walk out of your hotel directly into historic streets, traditional architecture, and the city's best dining scenes. If you want maximum efficiency for a short stay, Kyoto Station is the winner; if you want to soak in the atmosphere and don't mind a short bus or subway ride to the station, Gion/Kawaramachi is the way to go.
-​
-
-#### Location access
-Kyoto Station is the primary hub for Shinkansen, JR lines, and the city's main bus terminal, making it the most connected point in the city. Kawaramachi is centrally located and served by the Hankyu and Keihan lines, which are excellent for reaching Osaka and the eastern temple districts. Gion is slightly more tucked away but still walkable to many major sites and well-served by city buses.
-​
-
-#### Vibes and crowds
-Kyoto Station is modern, busy, and functional, with a massive underground mall and plenty of quick dining options. Kawaramachi is lively and commercial, serving as the city's main shopping district with a mix of modern department stores and traditional markets like Nishiki. Gion is the most atmospheric, featuring preserved wooden buildings and a quieter, more refined feel in the evenings, though it can be very crowded with tourists during the day.
-
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Kyoto Station] Miyako City Kintetsu Kyoto Station** | [Website](https://www.miyakohotels.ne.jp/kyoto-station/) | High | This hotel is physically connected to Kyoto Station, meaning you can go from your room to the Shinkansen platform in under 10 minutes. It is the ultimate choice for early risers who want to beat the crowds to Fushimi Inari or Arashiyama. The rooms are simple but soundproofed, ensuring a quiet rest despite the busy location. | $$ | $150 - $250 | High demand due to location. |  |  |
@@ -123,32 +60,6 @@ Kyoto Station is modern, busy, and functional, with a massive underground mall a
 ## 🐙 Osaka Options (2 Nights)
 
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
-
-### Neighborhood Guide
-
-[📍 View all Osaka hotels on Google Maps](https://www.google.com/maps/search/%22Cross+Hotel+Osaka%22+OR+%22Swissotel+Nankai+Osaka%22+OR+%22Hotel+Royal+Classic+Osaka%22+OR+%22Hotel+Hankyu+Respire+Osaka%22)
-
-#### Namba / Dotonbori
-
-- **Vibe:** The heart of Osaka's food and nightlife, famous for neon signs and street food.
-- **Evening Walk (Namba):** [4K Namba Evening Walking Tour](https://www.youtube.com/watch?v=bYjRu_M_5qw)
-- **Evening Walk (Dotonbori):** [4K Dotonbori Evening Walking Tour](https://www.youtube.com/watch?v=8qN_3YsEUvU)
-
-#### Umeda
-
-- **Vibe:** Sleek skyscrapers, massive underground malls, and a major transit hub.
-- **Evening Walk:** [4K Umeda Evening Walking Tour](https://www.youtube.com/watch?v=O3fRnBQkaEE)
-
-#### Overall Comparison
-Namba and Dotonbori are the soul of Osaka, perfect for those who want to be in the middle of the neon lights, street food, and nightlife. Umeda is the city's sleek, modern business and transit hub, offering a more polished atmosphere with high-end shopping and direct access to regional trains. For a first-time visitor looking for the "Osaka vibe," Namba is the top choice, while Umeda is better for those who prefer a more organized, upscale base with easier connections to Kyoto and Kobe.
-​
-
-#### Location access
-Namba is the gateway to southern Osaka and the airport (via the Nankai Rapi:t), and it's the best spot for exploring the city's famous food districts on foot. Umeda (Osaka Station) is the massive northern hub where JR, Hankyu, and Hanshin lines converge, making it the most efficient base for day trips across the Kansai region and for reaching Universal Studios Japan.
-​
-
-#### Vibes and crowds
-Namba is energetic, loud, and unpretentious, with a focus on "kuidaore" (eating until you drop) and vibrant street life that stays active late into the night. Umeda is more sophisticated and vertical, characterized by towering skyscrapers, massive department stores, and a labyrinthine underground city that can be both impressive and overwhelming.
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
