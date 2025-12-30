@@ -31,7 +31,7 @@
 - **Vibe:** Youth culture, the famous Scramble Crossing, trendy fashion, and energetic street life.
 - **Evening Walk:** [4K Shibuya Evening Walking Tour](https://www.youtube.com/watch?v=6_pn97yl-2g)
 
-[📍 View all Tokyo hotels on Google Maps](https://www.google.com/maps/search/%22Hotel+Musse+Ginza+Meitetsu%22+OR+%22The+Royal+Park+Canvas+Ginza+8%22+OR+%22Hotel+Gracery+Shinjuku%22+OR+%22Century+Southern+Tower%22+OR+%22Shibuya+Stream+Excel+Tokyu%22+OR+%22Hotel+Ryumeikan+Tokyo%22)
+[📍 View all Tokyo hotels on Google Maps](https://www.google.com/maps/dir/Hotel+Musse+Ginza+Meitetsu/The+Royal+Park+Canvas+Ginza+8/Hotel+Gracery+Shinjuku/Century+Southern+Tower/Shibuya+Stream+Excel+Tokyu/Hotel+Ryumeikan+Tokyo)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -57,7 +57,7 @@
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
-[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22Hotel+The+Celestine+Kyoto+Gion%22)
+[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/dir/Miyako+City+Kintetsu+Kyoto+Station/The+Thousand+Kyoto/Cross+Hotel+Kyoto/Hotel+The+Celestine+Kyoto+Gion)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -77,7 +77,7 @@
 
 ## 🐙 Osaka Options (2 Nights)
 
-[📍 View all Osaka hotels on Google Maps](https://www.google.com/maps/search/%22Cross+Hotel+Osaka%22+OR+%22Swissotel+Nankai+Osaka%22+OR+%22Hotel+Royal+Classic+Osaka%22+OR+%22Hotel+Hankyu+Respire+Osaka%22)
+[📍 View all Osaka hotels on Google Maps](https://www.google.com/maps/dir/Cross+Hotel+Osaka/Swissotel+Nankai+Osaka/Hotel+Royal+Classic+Osaka/Hotel+Hankyu+Respire+Osaka)
 
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
