@@ -57,15 +57,40 @@
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
+### Neighborhood Guide
+
+#### Kyoto Station
+- **Vibe:** Modern transit hub, massive shopping complexes, and convenient for day trips.
+- **Evening Walk:** [4K Kyoto Station Evening Walking Tour](https://www.youtube.com/watch?v=hhzMWm9Ol8Q)
+
+#### Gion
+- **Vibe:** Traditional wooden machiya houses, geisha culture, and historic atmosphere.
+- **Evening Walk:** [4K Gion Evening Walking Tour](https://www.youtube.com/watch?v=kd-OLM-6GRE)
+
+#### Kawaramachi
+- **Vibe:** Kyoto's main shopping and dining district, lively and central.
+- **Evening Walk:** [4K Kawaramachi Evening Walking Tour](https://www.youtube.com/watch?v=XJSstz9peq8)
+
 [📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22The+Celestine+Kyoto+Gion%22)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Kyoto Station] Miyako City Kintetsu Kyoto Station** | [Website](https://www.miyakohotels.ne.jp/kyoto-station/) | High | This hotel is physically connected to Kyoto Station, meaning you can go from your room to the Shinkansen platform in under 10 minutes. It is the ultimate choice for early risers who want to beat the crowds to Fushimi Inari or Arashiyama. The rooms are simple but soundproofed, ensuring a quiet rest despite the busy location. | $$ | $150 - $250 | High demand due to location. |  |  |
 | **[Kyoto Station] The Thousand Kyoto** | [Website](https://www.keihanhotels-resorts.co.jp/the-thousand-kyoto/en/) | Very High | A true luxury sanctuary, this hotel uses minimalist Zen design to create a calming atmosphere immediately upon entering. It is located steps from the station but feels worlds away from the noise, offering impeccable concierge service to help with restaurant bookings. The open-air courtyard and modern tea room provide a perfect place to decompress. | $$$$ | $400 - $700 | Luxury tier, usually available. |  |  |
-| **[Kawaramachi/Gion] Cross Hotel Kyoto** | [Website](https://www.crosshotel.com/kyoto/) | High | Situated in the heart of the Kawaramachi/Gion district, this hotel is perfect for those who want to walk to dinner and temples. The rooms are spacious by Japanese standards and feature large, spa-like bathrooms. Its stylish, boutique atmosphere appeals to younger travelers and couples looking for a lively neighborhood. | $$$ | $200 - $350 | Popular with Westerners. |  |  |
-| **[Gion] Hotel The Celestine Kyoto Gion** | [Website](https://www.celestinehotels.jp/kyoto-gion/) | High | Located in the historic Gion district, this hotel offers a sophisticated, serene experience within walking distance of Kiyomizu-dera. It features a guest-only public bath (onsen style) which is perfect for relaxing after a day of walking. The property balances modern luxury with traditional Kyoto aesthetics, making it feel very special. | $$$ | $250 - $450 | Book early for Autumn. |  |  |
+### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
+### Neighborhood Guide
+
+#### Namba / Dotonbori
+- **Vibe:** The heart of Osaka's food and nightlife, famous for neon signs and street food.
+- **Evening Walk (Namba):** [4K Namba Evening Walking Tour](https://www.youtube.com/watch?v=bYjRu_M_5qw)
+- **Evening Walk (Dotonbori):** [4K Dotonbori Evening Walking Tour](https://www.youtube.com/watch?v=8qN_3YsEUvU)
+
+#### Umeda
+- **Vibe:** Sleek skyscrapers, massive underground malls, and a major transit hub.
+- **Evening Walk:** [4K Umeda Evening Walking Tour](https://www.youtube.com/watch?v=O3fRnBQkaEE)
+
+[📍 View all Osaka hotels on Google Maps](https://www.google.com/maps/search/%22Cross+Hotel+Osaka%22+OR+%22Swissotel+Nankai+Osaka%22+OR+%22Hotel+Royal+Classic+Osaka%22+OR+%22Hotel+Hankyu+Respire+Osaka%22
 ### 🍵 Kyoto Amenities & Features
 
 | Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Concierge |
