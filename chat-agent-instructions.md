@@ -34,6 +34,14 @@ Read this file completely before generating any content or making edits.
 - **Dates:** October 2026 (Targeting mid-October for weather/flowers).
 - **Style:** "Together & Apart" - Shared mornings/evenings, split afternoons for specific hobbies.
 - **Pace:** Moderate. Padding included for travel/rest.
+- **Audience:** Optimized for **First-Time Visitors** to Japan (high detail on logistics/etiquette).
+
+## Architecture: The Three-Tier System
+
+Maintain the following hierarchy for all itinerary content:
+1.  **Tier 1 (High-Level):** `Itineraries/japan-itinerary.md` - A bird's-eye view of the entire trip.
+2.  **Tier 2 (Daily):** `Itineraries/Detailed/[City]/[city]-detailed-itinerary.md` - Streamlined daily schedules.
+3.  **Tier 3 (Deep Dive):** `Itineraries/Detailed/[City]/neighborhoods.md` - Reference guides for specific areas.
 
 ## Planning Rules
 
@@ -45,15 +53,16 @@ Read this file completely before generating any content or making edits.
    following columns: Est Cost, URL, Details, Availability, and English Friendly level (High/Med/Low).
 5. **Visual Style & Links:**
    - **Emojis/Icons:** Use emojis 📍, 💴, 🚄, 🍣, etc., as visual anchors for headers and key list items.
-     This helps break up walls of text.
+   - **Pro/Con Formatting:** Use 🟢 **Pro:** and 🔴 **Con:** for all recommendations.
    - **Hyperlinks:** Link **EVERYTHING**. If you mention an app, a pass, a location, or a service, provide a URL.
-     The user should never have to Google a term.
 
 **Recommendation Table Format:**
 
 | Est Cost | URL | Details | Availability | English Friendly |
 | :--- | :--- | :--- | :--- | :--- |
-| $$$$ | [Website](url) | Why it matters (1-2 sentences). | e.g., "Book 3 months ahead" or "Walk-in" | High/Med/Low |
+| $$$$ | [Website](url) | **Description:** 1-2 sentences about the location.<br><br>🟢 **Pro:** Highlight a major benefit.<br>🔴 **Con:** Mention a potential drawback. | e.g., "Book 3 months ahead" | High/Med/Low |
+
+*Note: Use `<br><br>` within table cells to force line breaks for readability.*
 
 ## Logistics & Preferences
 
