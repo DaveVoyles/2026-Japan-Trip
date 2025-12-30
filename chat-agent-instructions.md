@@ -55,6 +55,8 @@ Maintain the following hierarchy for all itinerary content:
    - **Emojis/Icons:** Use emojis 📍, 💴, 🚄, 🍣, etc., as visual anchors for headers and key list items.
    - **Pro/Con Formatting:** Use 🟢 **Pro:** and 🔴 **Con:** for all recommendations.
    - **Hyperlinks:** Link **EVERYTHING**. If you mention an app, a pass, a location, or a service, provide a URL.
+   - **Location Details:** Always include **Google Maps links**, **official website links**, and **operating hours** for all attractions and restaurants.
+   - **Cost Transparency:** Always provide prices in both **¥ and USD**.
 
 **Recommendation Table Format:**
 
