@@ -9,6 +9,7 @@
 ### 📍 Hotel Area Navigation
 
 **If Staying in Ginza:**
+
 - **Nearest Station:** Ginza Station (Ginza/Hibiya/Marunouchi Lines)
 - **Konbini:** 7-Eleven, Lawson, FamilyMart within 2-min walk of any hotel
 - **ATM (Foreign Cards):** 7-Eleven ATM, SMBC Prestia Bank (1-chome)
@@ -20,6 +21,7 @@
   - C9: Kabuki-za Theater side
 
 **If Staying in Shinjuku:**
+
 - **Nearest Station:** Shinjuku Station (JR/Metro - MASSIVE!)
 - **Konbini:** Everywhere (literally every corner)
 - **ATM (Foreign Cards):** 7-Eleven, SMBC at station, Post Office (West Exit)
@@ -37,25 +39,28 @@
 | :--- | :--- | :--- | :--- |
 | **Senso-ji Temple** | Asakusa (Ginza Line) | Exit 1 | 5 min |
 | **Tokyo Skytree** | Oshiage | Exit B3 | Direct to mall |
-| **Akihabara Electric Town** | Akihabara (JR) | Electric Town Exit | 1 min to main street |
-| **Shibuya Crossing** | Shibuya (JR) | Hachiko Exit | 30 seconds |
+| **[Akihabara Electric Town](city-stops-details.md#-akihabara-dave)** | Akihabara (JR) | Electric Town Exit | 1 min to main street |
+| **[Shibuya Crossing](city-stops-details.md#-shibuyaparco-dave)** | Shibuya (JR) | Hachiko Exit | 30 seconds |
 | **Meiji Shrine** | Harajuku (JR) | Omotesando Exit | 5 min walk |
-| **Ghibli Museum** | Mitaka (JR) | South Exit | 15 min walk OR bus stop |
+| **[Ghibli Museum](city-stops-details.md#-studio-ghibli-museum--kichijoji-dave--debbie)** | Mitaka (JR) | South Exit | 15 min walk OR bus stop |
 | **Tsukiji Outer Market** | Tsukiji (Hibiya Line) | Exit 1 | 2 min |
 
 ### 💴 Money & ATMs
 
 **Where to Get Cash:**
+
 - **7-Eleven ATMs:** Accept all foreign cards (Visa, Mastercard, Plus, Cirrus)
 - **Post Office ATMs:** "JP BANK" - Reliable for international cards
 - **SMBC Prestia:** Dedicated international ATM (Ginza, Shibuya, major stations)
 - **Avoid:** Most Japanese bank ATMs DON'T accept foreign cards!
 
 **ATM Fees:**
+
 - International withdrawal: ~¥220 ($1.50) + your bank's fee
 - Withdraw larger amounts less frequently (e.g., ¥30,000-50,000 at a time)
 
 **Hours:**
+
 - 7-Eleven ATMs: **24/7** (most reliable!)
 - Post Office: Usually 7 AM - 11 PM (varies by location)
 - Bank ATMs: 8 AM - 9 PM (closed late night)
@@ -63,6 +68,7 @@
 ### 🚽 Public Restrooms
 
 **Always Clean & Free:**
+
 - **Train Stations:** Every major station has restrooms (look for 🚻 sign)
 - **Konbini:** 7-Eleven, Lawson, FamilyMart (technically for customers, but usually okay)
 - **Department Stores:** Isetan, Mitsukoshi, Takashimaya (fancy toilets!)
@@ -70,6 +76,7 @@
 - **Temples/Shrines:** Usually have facilities near entrance
 
 **Signs to Know:**
+
 - 男性 (Dansei) = Men
 - 女性 (Josei) = Women
 - お手洗い (O-tearai) / トイレ (Toire) = Restroom
@@ -77,6 +84,7 @@
 ### 📱 WiFi Hotspots
 
 **Free WiFi:**
+
 - **7-Eleven:** "7SPOT" (free after registration)
 - **Lawson:** "LAWSON_Free_Wi-Fi"
 - **Starbucks:** "at_STARBUCKS_Wi2"
@@ -92,6 +100,7 @@
 ### 📍 Key Locations
 
 **Kyoto Station Area:**
+
 - **Info Center:** 2F, English staff, free maps
 - **Coin Lockers:** B1 floor near Shinkansen gates (¥400-700)
 - **ATM:** Post Office ATM on B1, 7-Eleven outside station
@@ -100,13 +109,15 @@
 ### 🚇 Kyoto Transit Tips
 
 **Lines to Know:**
-- **JR Nara Line:** Kyoto Station → Inari (Fushimi Inari)  
-- **Keihan Line:** Gion → Fushimi Inari (alternative)  
-- **JR Sagano Line:** Kyoto → Saga-Arashiyama (bamboo grove)  
-- **Subway Karasuma Line:** North-south through city  
+
+- **JR Nara Line:** Kyoto Station → Inari (Fushimi Inari)
+- **Keihan Line:** Gion → Fushimi Inari (alternative)
+- **JR Sagano Line:** Kyoto → Saga-Arashiyama (bamboo grove)
+- **Subway Karasuma Line:** North-south through city
 - **Subway Tozai Line:** East-west, connects to Keihan
 
 **Bus Tips:**
+
 - **Bus #100:** Kyoto Station loop (tourist sights)
 - **Bus #206:** Circle route (Kiyomizu, Gion, Kyoto Station)
 - **Flat Fare:** ¥230 per ride (tap Suica when exiting back door)
@@ -115,11 +126,13 @@
 ### 🚕 When to Use Taxi
 
 Taxis are expensive but sometimes worth it in Kyoto:
+
 - **Station → Arashiyama:** ~¥2,500-3,000 ($17-20), saves 20+ min
 - **Hotel → Fushimi Inari:** ~¥1,500-2,000 ($10-13) if luggage
 - **Between Temples:** ¥1,000-1,500 ($7-10) to save walking
 
 **Taxi Apps:**
+
 - **JapanTaxi (GO):** English app, credit card payment
 - **Uber:** Available but more expensive than regular taxis
 
@@ -127,11 +140,11 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 | Temple/Sight | Station | Exit | Walk Time |
 | :--- | :--- | :--- | :--- |
-| **Fushimi Inari** | Inari (JR Nara Line) | Only exit | 2 min |
-| **Arashiyama Bamboo** | Saga-Arashiyama (JR) | North Exit | 10 min |
-| **Kinkaku-ji (Golden)** | Bus stop "Kinkakuji-michi" | N/A | 5 min from stop |
+| **[Fushimi Inari](city-stops-details.md#-temples--shrines)** | Inari (JR Nara Line) | Only exit | 2 min |
+| **[Arashiyama Bamboo](city-stops-details.md#-nature--culture)** | Saga-Arashiyama (JR) | North Exit | 10 min |
+| **[Kinkaku-ji (Golden)](city-stops-details.md#-temples--shrines)** | Bus stop "Kinkakuji-michi" | N/A | 5 min from stop |
 | **Gion District** | Gion-Shijo (Keihan) | Exit 6 | 2 min to Hanamikoji |
-| **Nishiki Market** | Karasuma (Hankyu) | Exit 13 | 3 min |
+| **[Nishiki Market](city-stops-details.md#-shopping--food)** | Karasuma (Hankyu) | Exit 13 | 3 min |
 
 ---
 
@@ -140,11 +153,13 @@ Taxis are expensive but sometimes worth it in Kyoto:
 ### 📍 Namba/Dotonbori Navigation
 
 **From Namba Station:**
+
 - **North Exit:** Straight to Dotonbori (5 min walk)
 - **Central Exit:** Takashimaya Department Store
 - **South Exit:** Exit 14 = Best for Dotonbori Glico sign
 
 **Dotonbori Key Landmarks:**
+
 - **Glico Running Man:** Main photo spot (right on canal)
 - **Kani Doraku Crab:** Giant moving crab sign (famous restaurant)
 - **Don Quijote:** Yellow building with Ferris wheel
@@ -153,15 +168,17 @@ Taxis are expensive but sometimes worth it in Kyoto:
 ### 🚇 Osaka Station Names (Confusing!)
 
 **Same Location, Different Names:**
+
 - **Osaka Station** (JR) = **Umeda Station** (Metro)
 - **Namba Station** (Metro) = **Nankai Namba** (Nankai Line, different building!)
 - **Shin-Osaka** (Shinkansen) ≠ **Osaka** (city center) - 10 min apart!
 
 **Important:** When taking Shinkansen, go to **Shin-Osaka** (not Osaka Station!)
 
-### 🎢 Universal Studios Japan (USJ)
+### 🎢 [Universal Studios Japan (USJ)](city-stops-details.md#-entertainment)
 
 **Route from Namba:**
+
 1. Namba → Nishikujo (Subway Sennichimae Line, ~15 min)
 2. Transfer to JR Yumesaki Line (look for "Universal City" train)
 3. Nishikujo → Universal City (5 min)
@@ -186,13 +203,16 @@ Taxis are expensive but sometimes worth it in Kyoto:
 ### 🏥 Nearest Hospitals
 
 **Tokyo (Ginza/Shinjuku):**
+
 - St. Luke's International: [03-3541-5151](tel:+81-3-3541-5151)
 - Address: 9-1 Akashi-cho, Chuo-ku (Tsukiji Station)
 
 **Kyoto:**
+
 - Kyoto City Hospital: [075-311-5311](tel:+81-75-311-5311)
 
 **Osaka (Namba):**
+
 - Yodogawa Christian Hospital: [06-6322-2250](tel:+81-6-6322-2250)
 
 ### 🚓 Lost Item Procedure
@@ -215,16 +235,19 @@ Taxis are expensive but sometimes worth it in Kyoto:
 ### Ordering at Restaurants
 
 **Entrance:**
+
 1. Wait to be seated (don't seat yourself!)
 2. Say: "Futari desu" (Two people)
 3. Follow staff to table/counter
 
 **Ordering:**
+
 - Point at menu: "Kore onegaishimasu" (This please)
 - Ask recommendation: "Osusume wa?" (What do you recommend?)
 - Water is free: "O-mizu kudasai" (Water please)
 
 **Paying:**
+
 - **Most places:** Pay at register when leaving (bring bill to front)
 - **Say:** "O-kaikei onegaishimasu" (Check please) OR just say "Sumimasen" with bill
 - **Tipping:** NOT required! Don't tip. It's considered rude.
@@ -248,11 +271,13 @@ Taxis are expensive but sometimes worth it in Kyoto:
 ### Dietary Restrictions
 
 **Allergies:**
+
 - "Arerugii ga arimasu" = I have an allergy
 - Common: Nattsu (nuts), Kai (shellfish), Tamago (eggs)
 - **Print and show:** Screenshot Japanese text from Google Translate
 
 **Vegetarian/Vegan:**
+
 - Very difficult in Japan! Many dishes have fish broth (dashi)
 - Say: "Niku to sakana nashi de" (No meat and fish)
 - Best bet: Indian restaurants, specialized vegan cafes
@@ -261,7 +286,7 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 ## 🎌 Cultural Quick Reference
 
-### Do's ✅
+### Do's
 
 - ✅ Bow slightly when greeting or thanking
 - ✅ Remove shoes at temples, traditional restaurants, some hotels
@@ -273,7 +298,7 @@ Taxis are expensive but sometimes worth it in Kyoto:
 - ✅ Be quiet on trains (no phone calls!)
 - ✅ Sort trash properly (burnable, plastic, bottles)
 
-### Don'ts ❌
+### Don'ts
 
 - ❌ Don't eat while walking (finish before leaving shop)
 - ❌ Don't tip (it's considered rude)
@@ -316,7 +341,7 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 ## 📸 Photo Etiquette & Best Spots
 
-### Where Photos Are RESTRICTED:
+### Where Photos Are RESTRICTED
 
 - ❌ Inside Ghibli Museum (except rooftop/designated areas)
 - ❌ Private streets in Gion (look for "No Photo" signs)
@@ -324,33 +349,37 @@ Taxis are expensive but sometimes worth it in Kyoto:
 - ❌ Geishas on the street (ask politely first)
 - ❌ Inside most stores (unless explicitly allowed)
 
-### Best Photo Spots:
+### Best Photo Spots
 
 **Tokyo:**
-- 📸 Shibuya Crossing (from Starbucks 2F or pedestrian overpass)
+
+- 📸 **[Shibuya Crossing](city-stops-details.md#-shibuyaparco-dave)** (from Starbucks 2F or pedestrian overpass)
 - 📸 Senso-ji Temple (early morning, 6:30 AM for empty shots)
-- 📸 Ghibli Museum Rooftop (Robot Soldier)
+- 📸 **[Ghibli Museum Rooftop](city-stops-details.md#-studio-ghibli-museum--kichijoji-dave--debbie)** (Robot Soldier)
 - 📸 Meiji Shrine Entrance (massive torii gates)
 - 📸 Tokyo Skytree from Sumida River
 
 **Kyoto:**
-- 📸 Fushimi Inari torii tunnel (6:30 AM for no crowds!)
-- 📸 Kinkaku-ji Golden Pavilion (reflection in pond)
-- 📸 Arashiyama Bamboo Grove (6:30 AM only!)
+
+- 📸 **[Fushimi Inari](city-stops-details.md#-temples--shrines)** torii tunnel (6:30 AM for no crowds!)
+- 📸 **[Kinkaku-ji](city-stops-details.md#-temples--shrines)** Golden Pavilion (reflection in pond)
+- 📸 **[Arashiyama Bamboo Grove](city-stops-details.md#-nature--culture)** (6:30 AM only!)
 - 📸 Gion's Shirakawa Canal at sunset
-- 📸 Nishiki Market food stalls
+- 📸 **[Nishiki Market](city-stops-details.md#-shopping--food)** food stalls
 
 **Osaka:**
+
 - 📸 Dotonbori Glico Running Man (night with neon!)
 - 📸 Dotonbori from bridge over canal (full neon reflection)
-- 📸 Super Nintendo World (everywhere is photogenic!)
+- 📸 **[Super Nintendo World](city-stops-details.md#-entertainment)** (everywhere is photogenic!)
 - 📸 Osaka Castle exterior
 
 ---
 
 ## 🧳 Packing Quick Checklist
 
-### Tech (Already Listed, But Quick Reminder):
+### Tech (Already Listed, But Quick Reminder)
+
 - [ ] Phone + charger
 - [ ] Portable battery (20,000mAh+)
 - [ ] Headphones
@@ -358,7 +387,8 @@ Taxis are expensive but sometimes worth it in Kyoto:
 - [ ] AirTag in luggage
 - [ ] Memory cards (if using camera)
 
-### Documents:
+### Documents
+
 - [ ] Passport (check expiration: must be valid 6+ months)
 - [ ] Passport photocopy (separate from original)
 - [ ] Travel insurance card
@@ -368,13 +398,15 @@ Taxis are expensive but sometimes worth it in Kyoto:
 - [ ] Flight confirmations
 - [ ] Emergency contact list (printed)
 
-### Money:
+### Money
+
 - [ ] Notify credit cards of Japan travel
 - [ ] Bring 2+ credit cards (Visa + Mastercard recommended)
 - [ ] $100-200 USD cash to exchange at airport
 - [ ] Empty wallet/pouch for Japanese yen coins (you'll accumulate them!)
 
-### Clothing (October):
+### Clothing (October)
+
 - [ ] Light jacket/cardigan (mornings/evenings 55-60°F)
 - [ ] T-shirts (days are 65-75°F)
 - [ ] Long pants (jeans okay, breathable better)
@@ -383,7 +415,8 @@ Taxis are expensive but sometimes worth it in Kyoto:
 - [ ] Small umbrella (compact, fits in bag)
 - [ ] Layers! (Temperature varies throughout day)
 
-### Toiletries:
+### Toiletries
+
 - [ ] Prescriptions (bring extra in case of delays)
 - [ ] Pain reliever (or buy at drugstore in Japan)
 - [ ] Allergy medicine
@@ -392,7 +425,8 @@ Taxis are expensive but sometimes worth it in Kyoto:
 - [ ] Face masks (optional, but some wear them)
 - [ ] Contact lens solution (if needed)
 
-### Other:
+### Other
+
 - [ ] Daypack/backpack (comfortable for all-day wear)
 - [ ] Ziploc bags (for wet umbrella, snacks, etc.)
 - [ ] Reusable water bottle (stay hydrated!)
@@ -434,4 +468,4 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 ---
 
-**Print this guide or save screenshots for offline reference! 🎌**
+Print this guide or save screenshots for offline reference! 🎌
