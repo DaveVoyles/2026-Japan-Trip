@@ -43,7 +43,7 @@
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
-[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/Miyako+City+Kintetsu+Kyoto+Station+OR+The+Thousand+Kyoto+OR+Cross+Hotel+Kyoto+OR+Hotel+The+Celestine+Kyoto+Gion)
+[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/Miyako+City+Kintetsu+Kyoto+Station,+The+Thousand+Kyoto,+Cross+Hotel+Kyoto,+Hotel+The+Celestine+Kyoto+Gion)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
