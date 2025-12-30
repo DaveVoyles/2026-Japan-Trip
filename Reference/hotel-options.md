@@ -77,6 +77,20 @@
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Kyoto Station] Miyako City Kintetsu Kyoto Station** | [Website](https://www.miyakohotels.ne.jp/kyoto-station/) | High | This hotel is physically connected to Kyoto Station, meaning you can go from your room to the Shinkansen platform in under 10 minutes. It is the ultimate choice for early risers who want to beat the crowds to Fushimi Inari or Arashiyama. The rooms are simple but soundproofed, ensuring a quiet rest despite the busy location. | $$ | $150 - $250 | High demand due to location. |  |  |
 | **[Kyoto Station] The Thousand Kyoto** | [Website](https://www.keihanhotels-resorts.co.jp/the-thousand-kyoto/en/) | Very High | A true luxury sanctuary, this hotel uses minimalist Zen design to create a calming atmosphere immediately upon entering. It is located steps from the station but feels worlds away from the noise, offering impeccable concierge service to help with restaurant bookings. The open-air courtyard and modern tea room provide a perfect place to decompress. | $$$$ | $400 - $700 | Luxury tier, usually available. |  |  |
+| **[Kawaramachi/Gion] Cross Hotel Kyoto** | [Website](https://www.crosshotel.com/kyoto/) | High | Situated in the heart of the Kawaramachi/Gion district, this hotel is perfect for those who want to walk to dinner and temples. The rooms are spacious by Japanese standards and feature large, spa-like bathrooms. Its stylish, boutique atmosphere appeals to younger travelers and couples looking for a lively neighborhood. | $$$ | $200 - $350 | Popular with Westerners. |  |  |
+| **[Gion] Hotel The Celestine Kyoto Gion** | [Website](https://www.celestinehotels.jp/kyoto-gion/) | High | Located in the historic Gion district, this hotel offers a sophisticated, serene experience within walking distance of Kiyomizu-dera. It features a guest-only public bath (onsen style) which is perfect for relaxing after a day of walking. The property balances modern luxury with traditional Kyoto aesthetics, making it feel very special. | $$$ | $250 - $450 | Book early for Autumn. |  |  |
+
+### 🍵 Kyoto Amenities & Features
+
+| Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Concierge |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Miyako City Kintetsu** | No | No | No | No | Yes | Basic |
+| **The Thousand Kyoto** | Yes | No | Yes (Spa - Paid) | Yes | No (Service only) | Excellent |
+| **Cross Hotel Kyoto** | No | No | No | Lobby Lounge | No | Good |
+| **Hotel The Celestine Gion** | No | No | Yes (Free for guests) | Yes | No | Good |
+
+## 🐙 Osaka Options (2 Nights)
+
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
 ### Neighborhood Guide
@@ -90,20 +104,7 @@
 - **Vibe:** Sleek skyscrapers, massive underground malls, and a major transit hub.
 - **Evening Walk:** [4K Umeda Evening Walking Tour](https://www.youtube.com/watch?v=O3fRnBQkaEE)
 
-### 🍵 Kyoto Amenities & Features
-
-| Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Concierge |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Miyako City Kintetsu** | No | No | No | No | Yes | Basic |
-| **The Thousand Kyoto** | Yes | No | Yes (Spa - Paid) | Yes | No (Service only) | Excellent |
-| **Cross Hotel Kyoto** | No | No | No | Lobby Lounge | No | Good |
-| **Hotel The Celestine Gion** | No | No | Yes (Free for guests) | Yes | No | Good |
-
-## 🐙 Osaka Options (2 Nights)
-
 [📍 View all Osaka hotels on Google Maps](https://www.google.com/maps/search/%22Cross+Hotel+Osaka%22+OR+%22Swissotel+Nankai+Osaka%22+OR+%22Hotel+Royal+Classic+Osaka%22+OR+%22Hotel+Hankyu+Respire+Osaka%22)
-
-### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
