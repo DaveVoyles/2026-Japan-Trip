@@ -17,6 +17,8 @@
 
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
 
+[📍 View all Tokyo hotels on Google Maps](https://www.google.com/maps/search/Hotel+Musse+Ginza+Meitetsu+OR+The+Royal+Park+Canvas+Ginza+8+OR+Hotel+Gracery+Shinjuku+OR+Century+Southern+Tower+OR+Shibuya+Stream+Excel+Tokyu+OR+Hotel+Ryumeikan+Tokyo)
+
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Ginza] Hotel Musse Ginza Meitetsu** | [Website](https://www.m-inn.com/musse/ginza/) | High | Located in a quieter part of Ginza, this hotel offers a peaceful retreat while being steps away from luxury shopping. The separate toilet and bath layout is a rare find at this price point, making it very comfortable for couples. It is an excellent choice if you prioritize a modern, clean room over a large lobby. | $$ | $150 - $250 | Book 5-6 months out. |  |  |
