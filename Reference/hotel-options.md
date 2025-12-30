@@ -17,7 +17,21 @@
 
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
 
-[📍 View all Tokyo hotels on Google Maps](https://www.google.com/maps/search/Hotel+Musse+Ginza+Meitetsu+OR+The+Royal+Park+Canvas+Ginza+8+OR+Hotel+Gracery+Shinjuku+OR+Century+Southern+Tower+OR+Shibuya+Stream+Excel+Tokyu+OR+Hotel+Ryumeikan+Tokyo)
+### Neighborhood Guide
+
+#### Ginza
+- **Vibe:** Luxury shopping, fine dining, and a more sophisticated, quiet atmosphere.
+- **Evening Walk:** [4K Ginza Evening Walking Tour](https://www.youtube.com/watch?v=Uf7S49_S-pM)
+
+#### Shinjuku
+- **Vibe:** Neon lights, massive transit hub, vibrant nightlife (Kabukicho), and endless dining options.
+- **Evening Walk:** [4K Shinjuku Evening Walking Tour](https://www.youtube.com/watch?v=3FUIYAwQ7Xs)
+
+#### Shibuya
+- **Vibe:** Youth culture, the famous Scramble Crossing, trendy fashion, and energetic street life.
+- **Evening Walk:** [4K Shibuya Evening Walking Tour](https://www.youtube.com/watch?v=6_pn97yl-2g)
+
+[📍 View all Tokyo hotels on Google Maps](https://www.google.com/maps/search/%22Hotel+Musse+Ginza+Meitetsu%22+OR+%22The+Royal+Park+Canvas+Ginza+8%22+OR+%22Hotel+Gracery+Shinjuku%22+OR+%22Century+Southern+Tower%22+OR+%22Shibuya+Stream+Excel+Tokyu%22+OR+%22Hotel+Ryumeikan+Tokyo%22)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -43,7 +57,7 @@
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
-[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/Miyako+City+Kintetsu+Kyoto+Station,+The+Thousand+Kyoto,+Cross+Hotel+Kyoto,+Hotel+The+Celestine+Kyoto+Gion)
+[📍 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22Hotel+The+Celestine+Kyoto+Gion%22)
 
 | Hotel | URL | English Friendly | Details | Cost | Est. Cost | Availability | Dave | Debbie |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -63,7 +77,7 @@
 
 ## 🐙 Osaka Options (2 Nights)
 
-[📍 View all Osaka hotels on Google Maps](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
+[📍 View all Osaka hotels on Google Maps](https://www.google.com/maps/search/%22Cross+Hotel+Osaka%22+OR+%22Swissotel+Nankai+Osaka%22+OR+%22Hotel+Royal+Classic+Osaka%22+OR+%22Hotel+Hankyu+Respire+Osaka%22)
 
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
