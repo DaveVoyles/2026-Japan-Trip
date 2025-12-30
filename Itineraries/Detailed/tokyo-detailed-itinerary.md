@@ -6,6 +6,8 @@
 
 ## 🛬 Day 1: Arrival & Reset (Tuesday)
 
+**🗺️ Day Map:** [View all locations for this day](https://www.google.com/maps/search/Izakaya%2C%20Tokyo%2C%20Japan)
+
 Arrive in Tokyo and settle into the hotel in Ginza or Shinjuku. Take a light evening walk to explore local arcades or basement food halls to get acclimated. End the day with a casual Izakaya dinner before getting an early night's sleep to adjust to the time zone.
 
 **🚇 Airport Transportation:**
@@ -39,6 +41,8 @@ Arrive in Tokyo and settle into the hotel in Ginza or Shinjuku. Take a light eve
 - **Emergency:** Call 110 (Police) or 119 (Ambulance/Fire) - operators have English support
 
 ## ⛩️ Day 2: Old Tokyo & Akihabara (Wednesday)
+
+**🗺️ Day Map:** [View all locations for this day](https://www.google.com/maps/search/Akihabara%2C%20Tokyo%2C%20Japan%20OR%20Kappabashi%2C%20Tokyo%2C%20Japan%20OR%20Ueno%2C%20Tokyo%2C%20Japan%20OR%20Ginza%2C%20Tokyo%2C%20Japan%20OR%20Shinjuku%2C%20Tokyo%2C%20Japan%20OR%20Katsukura%2C%20Tokyo%2C%20Japan%20OR%20Asakusa%20Station%2C%20Tokyo%2C%20Japan%20OR%20Kaminarimon%20Gate%2C%20Tokyo%2C%20Japan%20OR%20Street%20location%2C%20Tokyo%2C%20Japan%20OR%20Sometaro%20Okonomiyaki%2C%20Tokyo%2C%20Japan)
 
 Start early at Senso-ji Temple to beat the crowds, then explore Nakamise Street. Split up in the afternoon for retro gaming in Akihabara and kitchenware shopping in Kappabashi. Regroup for a Tonkatsu dinner in the evening.
 
@@ -74,6 +78,8 @@ Start early at Senso-ji Temple to beat the crowds, then explore Nakamise Street.
 
 ## 🌸 Day 3: Pop Culture & Fashion (Thursday)
 
+**🗺️ Day Map:** [View all locations for this day](https://www.google.com/maps/search/Shibuya%20Parco%2C%20Tokyo%2C%20Japan%20OR%20Shibuya%20Crossing%2C%20Tokyo%2C%20Japan%20OR%20Jojoen%2C%20Tokyo%2C%20Japan%20OR%20JR%20Harajuku%20Station%2C%20Tokyo%2C%20Japan%20OR%20Shibuya%20Station%20conbini%20breakfast%2C%20Tokyo%2C%20Japan%20OR%206F%20Location%2C%20Tokyo%2C%20Japan%20OR%20Separate%20building%2C%20Tokyo%2C%20Japan%20OR%20Parco%206F%2C%20Tokyo%2C%20Japan%20OR%20Omotesando%20Hills%2C%20Tokyo%2C%20Japan%20OR%20Kiddy%20Land%2C%20Tokyo%2C%20Japan)
+
 Begin with a peaceful morning walk at Meiji Shrine followed by fluffy pancakes in Harajuku. Spend the afternoon separately exploring pop culture at Shibuya Parco or floral cafes in Aoyama. Reunite for sunset views at Shibuya Sky and a Yakiniku dinner.
 
 **🚇 Transportation:**
@@ -106,6 +112,8 @@ Begin with a peaceful morning walk at Meiji Shrine followed by fluffy pancakes i
 - **English Support:** Tourist info at Shibuya Station (weekdays only)
 
 ## 🎬 Day 4: Ghibli Magic & Kichijoji (Friday)
+
+**🗺️ Day Map:** [View all locations for this day](https://www.google.com/maps/search/Yamato%20Transport%2C%20Tokyo%2C%20Japan%20OR%20JR%20Chuo%20Line%2C%20Tokyo%2C%20Japan%20OR%20Inokashira%20Park%2C%20Tokyo%2C%20Japan%20OR%20Community%20Bus%2C%20Tokyo%2C%20Japan%20OR%20Studio%20Ghibli%20Museum%2C%20Tokyo%2C%20Japan%20OR%20Straw%20Hat%20Caf%C3%A9%2C%20Tokyo%2C%20Japan%20OR%20Kichijoji%2C%20Tokyo%2C%20Japan%20OR%20Petit%20Village%2C%20Tokyo%2C%20Japan%20OR%20Nakano%20Broadway%2C%20Tokyo%2C%20Japan%20OR%20Iseya%20Yakitori%2C%20Tokyo%2C%20Japan)
 
 Begin your extended Tokyo stay with a pilgrimage to the Studio Ghibli Museum in Mitaka, surrounded by the beautiful Inokashira Park. Experience exclusive Ghibli short films and immerse yourself in the world of Miyazaki's beloved animations. Spend the afternoon exploring the charming Kichijoji neighborhood with its retro shops, autumn scenery, and cozy cafes.
 
