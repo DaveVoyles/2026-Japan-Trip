@@ -1,5 +1,7 @@
 # Kyoto Detailed Itinerary
 
+This leg of the journey takes you to the cultural heart of Japan, starting with the iconic vermillion gates of Fushimi Inari and the atmospheric streets of Gion. You'll experience the serene beauty of Arashiyama's bamboo groves and the shimmering Golden Pavilion before heading to Nara to meet the famous bowing deer and the Great Buddha. The trip balances traditional temple visits with modern interests, including retro gaming hunts and culinary explorations through Nishiki Market and Pontocho Alley. From high-speed Shinkansen rides to peaceful riverside walks, these three days offer a deep dive into the history and flavors of the Kansai region. It concludes with a transition to Osaka, ensuring a comprehensive experience of Kyoto's timeless charm and Nara's historic wonders.
+
 **Schedule:** 06:30 AM - 09:30 PM
 **Hotel Hub:** Kyoto Station or Gion/Kawaramachi
 
