@@ -29,14 +29,14 @@
 
 ### 🏨 Tokyo Amenities & Features
 
-| Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Airport Bus Stop |
+| 🏨 Hotel | 🏋️ Gym | 🏊 Pool | ♨️ Public Bath | 🛋️ Lounge | 🧺 Laundry | 🚌 Airport Bus |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Hotel Musse Ginza Meitetsu** | No | No | No | No | Yes | No (Walk to Courtyard Marriott) |
-| **The Royal Park Canvas Ginza 8** | Yes (Small) | No | No | Yes (Excellent) | Yes | No |
-| **Hotel Gracery Shinjuku** | No | No | No | Yes (Guest only) | Yes | Yes (Nearby) |
-| **Century Southern Tower** | Yes (Small) | No | No | No | Yes | Yes (Direct) |
-| **Shibuya Stream Excel Tokyu** | No | No | No | Bar/Lounge | Yes | Yes (Shibuya Station) |
-| **Hotel Ryumeikan Tokyo** | No | No | No | No | Yes | Yes (Nearby) |
+| **Hotel Musse Ginza Meitetsu** | ❌ No | ❌ No | ❌ No | ❌ No | ✅ Yes | ❌ No (Walk to Courtyard Marriott) |
+| **The Royal Park Canvas Ginza 8** | ✅ Yes (Small) | ❌ No | ❌ No | ✅ Yes (Excellent) | ✅ Yes | ❌ No |
+| **Hotel Gracery Shinjuku** | ❌ No | ❌ No | ❌ No | ✅ Yes (Guest only) | ✅ Yes | ✅ Yes (Nearby) |
+| **Century Southern Tower** | ✅ Yes (Small) | ❌ No | ❌ No | ❌ No | ✅ Yes | ✅ Yes (Direct) |
+| **Shibuya Stream Excel Tokyu** | ❌ No | ❌ No | ❌ No | ✅ Bar/Lounge | ✅ Yes | ✅ Yes (Shibuya Station) |
+| **Hotel Ryumeikan Tokyo** | ❌ No | ❌ No | ❌ No | ❌ No | ✅ Yes | ✅ Yes (Nearby) |
 
 ## ⛩️ Kyoto Options (3 Nights)
 
@@ -52,12 +52,12 @@
 
 ### 🍵 Kyoto Amenities & Features
 
-| Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Concierge |
+| 🏨 Hotel | 🏋️ Gym | 🏊 Pool | ♨️ Public Bath | 🛋️ Lounge | 🧺 Laundry | 🛎️ Concierge |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Miyako City Kintetsu** | No | No | No | No | Yes | Basic |
-| **The Thousand Kyoto** | Yes | No | Yes (Spa - Paid) | Yes | No (Service only) | Excellent |
-| **Cross Hotel Kyoto** | No | No | No | Lobby Lounge | No | Good |
-| **Hotel The Celestine Gion** | No | No | Yes (Free for guests) | Yes | No | Good |
+| **Miyako City Kintetsu** | ❌ No | ❌ No | ❌ No | ❌ No | ✅ Yes | 🛎️ Basic |
+| **The Thousand Kyoto** | ✅ Yes | ❌ No | ✅ Yes (Spa - Paid) | ✅ Yes | ❌ No (Service only) | 🛎️ Excellent |
+| **Cross Hotel Kyoto** | ❌ No | ❌ No | ❌ No | 🛋️ Lobby Lounge | ❌ No | 🛎️ Good |
+| **Hotel The Celestine Gion** | ❌ No | ❌ No | ✅ Yes (Free for guests) | ✅ Yes | ❌ No | 🛎️ Good |
 
 ## 🐙 Osaka Options (2 Nights)
 
@@ -73,9 +73,9 @@
 
 ### Osaka Amenities & Features
 
-| Hotel | Gym | Pool | Public Bath / Onsen | Guest Lounge | Coin Laundry | Airport Access |
+| 🏨 Hotel | 🏋️ Gym | 🏊 Pool | ♨️ Public Bath | 🛋️ Lounge | 🧺 Laundry | 🚌 Airport Access |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Cross Hotel Osaka** | No | No | No | No | No | 10 min walk to OCAT Bus |
-| **Swissotel Nankai Osaka** | Yes (Full) | Yes (Indoor) | Sauna/Spa | Yes (Exec Floor) | No | Direct Train (Rapi:t) |
-| **Hotel Royal Classic Osaka** | No | No | No | Yes (Bar) | No | Direct Subway to Train |
-| Hotel Hankyu Respire | Yes (Small) | No | No | Lobby Lounge | Yes | Direct Bus Stop |
+| **Cross Hotel Osaka** | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | 🚌 10 min walk to OCAT |
+| **Swissotel Nankai Osaka** | ✅ Yes (Full) | ✅ Yes (Indoor) | ♨️ Sauna/Spa | ✅ Yes (Exec Floor) | ❌ No | 🚆 Direct Train (Rapi:t) |
+| **Hotel Royal Classic Osaka** | ❌ No | ❌ No | ❌ No | ✅ Yes (Bar) | ❌ No | 🚆 Direct Subway to Train |
+| **Hotel Hankyu Respire** | ✅ Yes (Small) | ❌ No | ❌ No | 🛋️ Lobby Lounge | ✅ Yes | 🚌 Direct Bus Stop |
