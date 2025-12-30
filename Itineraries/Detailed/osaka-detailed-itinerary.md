@@ -13,6 +13,8 @@
 
 ## 🍄 Day 8: Super Nintendo World (Monday → Tuesday)
 
+**🗺️ Day Map:** [View all locations for this day](https://www.google.com/maps/search/Universal%20Studios%20Japan%2C%20Osaka%2C%20Japan%20OR%20Kinopio%27s%20Cafe%2C%20Osaka%2C%20Japan%20OR%20Halloween%20Horror%20Nights%2C%20Osaka%2C%20Japan%20OR%20Glico%20Man%2C%20Osaka%2C%20Japan%20OR%20Kushikatsu%20Daruma%2C%20Osaka%2C%20Japan%20OR%20JR%20Special%20Rapid%2C%20Osaka%2C%20Japan%20OR%20JR%20Yumesaki%20Line%20from%20Osaka%20Station%2C%20Japan%20OR%20Iconic%20entertainment%20district%2C%20Osaka%2C%20Japan%20OR%20Namba%20Station%20Exit%2014%2C%20Osaka%2C%20Japan%20OR%20Glico%20Running%20Man%20Sign%2C%20Osaka%2C%20Japan)
+
 Travel to Osaka early and head straight to Universal Studios Japan to secure entry to Super Nintendo World. Spend the day enjoying rides like Mario Kart and exploring the park. Return to the city in the evening to soak in the neon lights and street food of Dotonbori.
 
 **🚇 Transportation:**
@@ -66,6 +68,8 @@ Travel to Osaka early and head straight to Universal Studios Japan to secure ent
 - **Souvenir Shopping:** Last 30 min before leaving; stores near exit
 
 ## 🛫 Day 9: Last Bites & Departure (Tuesday → Wednesday)
+
+**🗺️ Day Map:** [View all locations for this day](https://www.google.com/maps/search/Don%20Quijote%2C%20Osaka%2C%20Japan%20OR%20Den%20Den%20Town%2C%20Osaka%2C%20Japan%20OR%20551%20Horai%2C%20Osaka%2C%20Japan%20OR%20Namba%20location%2C%20Osaka%2C%20Japan%20OR%20Komeda%20Coffee%2C%20Osaka%2C%20Japan%20OR%2024-hour%20megastore%2C%20Osaka%2C%20Japan%20OR%20Osaka%27s%20electronics%20district%2C%20Japan%20OR%20Super%20Potato%20Osaka%2C%20Japan%20OR%20Mandarake%20Grandchaos%2C%20Osaka%2C%20Japan%20OR%20Surugaya%2C%20Osaka%2C%20Japan)
 
 Start the final day with famous jiggly cheesecake in Namba. Do some last-minute shopping for souvenirs and anime goods in Dotonbori or Den Den Town. Grab some steamed pork buns for lunch before heading to the airport for departure.
 
