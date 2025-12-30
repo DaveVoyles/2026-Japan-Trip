@@ -1,5 +1,14 @@
 # Osaka Detailed Itinerary
 
+The final leg of your trip brings you to Osaka, Japan's energetic culinary capital and home to world-class entertainment.
+
+*   🍄 **Universal Studios Japan:** Spend a full day at USJ, featuring the immersive Super Nintendo World and the Wizarding World of Harry Potter.
+*   🌃 **Neon Nights:** Soak in the vibrant atmosphere of Dotonbori, famous for its giant mechanical signs and the iconic Glico Running Man.
+*   🍢 **Street Food Feast:** Indulge in Osaka's "Kuidaore" (eat until you drop) culture with kushikatsu, takoyaki, and jiggly cheesecake.
+*   🎮 **Final Finds:** Wrap up your trip with last-minute shopping in Den Den Town's electronics district or the massive Don Quijote megastore.
+
+These final two days ensure you leave Japan with a full stomach and a suitcase full of unique memories.
+
 **Schedule:** 06:00 AM - 09:30 PM
 **Hotel Hub:** Namba or near USJ
 
