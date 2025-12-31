@@ -39,10 +39,10 @@
 | :--- | :--- | :--- | :--- |
 | **Senso-ji Temple** | Asakusa (Ginza Line) | Exit 1 | 5 min |
 | **Tokyo Skytree** | Oshiage | Exit B3 | Direct to mall |
-| **[Akihabara Electric Town](city-stops-details.md#-akihabara-dave)** | Akihabara (JR) | Electric Town Exit | 1 min to main street |
-| **[Shibuya Crossing](city-stops-details.md#-shibuyaparco-dave)** | Shibuya (JR) | Hachiko Exit | 30 seconds |
+| **[Akihabara Electric Town](../Itineraries/Detailed/Tokyo/neighborhoods.md#-akihabara-dave)** | Akihabara (JR) | Electric Town Exit | 1 min to main street |
+| **[Shibuya Crossing](../Itineraries/Detailed/Tokyo/neighborhoods.md#-shibuyaparco-dave)** | Shibuya (JR) | Hachiko Exit | 30 seconds |
 | **Meiji Shrine** | Harajuku (JR) | Omotesando Exit | 5 min walk |
-| **[Ghibli Museum](city-stops-details.md#-studio-ghibli-museum--kichijoji-dave--debbie)** | Mitaka (JR) | South Exit | 15 min walk OR bus stop |
+| **[Ghibli Museum](../Itineraries/Detailed/Tokyo/neighborhoods.md#-studio-ghibli-museum--kichijoji-dave--debbie)** | Mitaka (JR) | South Exit | 15 min walk OR bus stop |
 | **Tsukiji Outer Market** | Tsukiji (Hibiya Line) | Exit 1 | 2 min |
 
 ### 💴 Money & ATMs
@@ -140,11 +140,11 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 | Temple/Sight | Station | Exit | Walk Time |
 | :--- | :--- | :--- | :--- |
-| **[Fushimi Inari](city-stops-details.md#-temples--shrines)** | Inari (JR Nara Line) | Only exit | 2 min |
-| **[Arashiyama Bamboo](city-stops-details.md#-nature--culture)** | Saga-Arashiyama (JR) | North Exit | 10 min |
-| **[Kinkaku-ji (Golden)](city-stops-details.md#-temples--shrines)** | Bus stop "Kinkakuji-michi" | N/A | 5 min from stop |
+| **[Fushimi Inari](../Itineraries/Detailed/Kyoto/neighborhoods.md#-temples--shrines)** | Inari (JR Nara Line) | Only exit | 2 min |
+| **[Arashiyama Bamboo](../Itineraries/Detailed/Kyoto/neighborhoods.md#-nature--culture)** | Saga-Arashiyama (JR) | North Exit | 10 min |
+| **[Kinkaku-ji (Golden)](../Itineraries/Detailed/Kyoto/neighborhoods.md#-temples--shrines)** | Bus stop "Kinkakuji-michi" | N/A | 5 min from stop |
 | **Gion District** | Gion-Shijo (Keihan) | Exit 6 | 2 min to Hanamikoji |
-| **[Nishiki Market](city-stops-details.md#-shopping--food)** | Karasuma (Hankyu) | Exit 13 | 3 min |
+| **[Nishiki Market](../Itineraries/Detailed/Kyoto/neighborhoods.md#-shopping--food)** | Karasuma (Hankyu) | Exit 13 | 3 min |
 
 ---
 
@@ -175,7 +175,7 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 **Important:** When taking Shinkansen, go to **Shin-Osaka** (not Osaka Station!)
 
-### 🎢 [Universal Studios Japan (USJ)](city-stops-details.md#-entertainment)
+### 🎢 [Universal Studios Japan (USJ)](../Itineraries/Detailed/Osaka/neighborhoods.md#-entertainment)
 
 **Route from Namba:**
 
@@ -184,7 +184,7 @@ Taxis are expensive but sometimes worth it in Kyoto:
 3. Nishikujo → Universal City (5 min)
 4. Walk through CityWalk to park gates (5 min)
 
-**Total Time:** 30-35 minutes door-to-door  
+**Total Time:** 30-35 minutes door-to-door
 **Cost:** ~¥400-500 one way on Suica
 
 ---
@@ -353,25 +353,29 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 **Tokyo:**
 
-- 📸 **[Shibuya Crossing](city-stops-details.md#-shibuyaparco-dave)** (from Starbucks 2F or pedestrian overpass)
+- 📸 **[Shibuya Crossing](../Itineraries/Detailed/Tokyo/neighborhoods.md#-shibuyaparco-dave)** (from Starbucks 2F or
+  pedestrian overpass)
 - 📸 Senso-ji Temple (early morning, 6:30 AM for empty shots)
-- 📸 **[Ghibli Museum Rooftop](city-stops-details.md#-studio-ghibli-museum--kichijoji-dave--debbie)** (Robot Soldier)
+- 📸 **[Ghibli Museum Rooftop](../Itineraries/Detailed/Tokyo/neighborhoods.md#-studio-ghibli-museum--kichijoji-dave--debbie)**
+  (Robot Soldier)
 - 📸 Meiji Shrine Entrance (massive torii gates)
 - 📸 Tokyo Skytree from Sumida River
 
 **Kyoto:**
 
-- 📸 **[Fushimi Inari](city-stops-details.md#-temples--shrines)** torii tunnel (6:30 AM for no crowds!)
-- 📸 **[Kinkaku-ji](city-stops-details.md#-temples--shrines)** Golden Pavilion (reflection in pond)
-- 📸 **[Arashiyama Bamboo Grove](city-stops-details.md#-nature--culture)** (6:30 AM only!)
+- 📸 **[Fushimi Inari](../Itineraries/Detailed/Kyoto/neighborhoods.md#-temples--shrines)** torii tunnel (6:30 AM for no
+  crowds!)
+- 📸 **[Kinkaku-ji](../Itineraries/Detailed/Kyoto/neighborhoods.md#-temples--shrines)** Golden Pavilion (reflection in
+  pond)
+- 📸 **[Arashiyama Bamboo Grove](../Itineraries/Detailed/Kyoto/neighborhoods.md#-nature--culture)** (6:30 AM only!)
 - 📸 Gion's Shirakawa Canal at sunset
-- 📸 **[Nishiki Market](city-stops-details.md#-shopping--food)** food stalls
+- 📸 **[Nishiki Market](../Itineraries/Detailed/Kyoto/neighborhoods.md#-shopping--food)** food stalls
 
 **Osaka:**
 
 - 📸 Dotonbori Glico Running Man (night with neon!)
 - 📸 Dotonbori from bridge over canal (full neon reflection)
-- 📸 **[Super Nintendo World](city-stops-details.md#-entertainment)** (everywhere is photogenic!)
+- 📸 **[Super Nintendo World](../Itineraries/Detailed/Osaka/neighborhoods.md#-entertainment)** (everywhere is photogenic!)
 - 📸 Osaka Castle exterior
 
 ---

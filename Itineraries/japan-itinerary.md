@@ -6,7 +6,7 @@
 - [Strategy: "Together & Apart"](#-strategy-together--apart)
 - **Leg 1: Tokyo (Days 1-4)**
   - [Day 1: Arrival in Tokyo](#-day-1-arrival-in-tokyo-tuesday)
-  - [Day 2: Old Tokyo & The "Split"](#%EF%B8%8F-day-2-old-tokyo--the-split-wednesday)
+  - [Day 2: Old Tokyo & The "Split"](#day-2-old-tokyo--the-split-wednesday)
   - [Day 3: Pop Culture & Flowers](#-day-3-pop-culture--flowers-thursday)
   - [Day 4: Ghibli Magic & Kichijoji](#-day-4-ghibli-magic--kichijoji-friday)
 - **Leg 2: Kyoto (Days 5-7)**
@@ -22,7 +22,8 @@
 
 ## 📝 Overview
 
-**Note:** This is a high-level overview. For daily hour-by-hour plans and deep-dive neighborhood guides, please refer to the detailed city itineraries:
+**Note:** This is a high-level overview. For daily hour-by-hour plans and deep-dive neighborhood guides, please refer to
+the detailed city itineraries:
 
 - **Tokyo:** [Detailed Itinerary](Detailed/Tokyo/tokyo-detailed-itinerary.md) | [Neighborhoods & Reference](Detailed/Tokyo/neighborhoods.md)
 - **Kyoto:** [Detailed Itinerary](Detailed/Kyoto/kyoto-detailed-itinerary.md) | [Neighborhoods & Reference](Detailed/Kyoto/neighborhoods.md)
@@ -44,18 +45,25 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscrapers stand alongside ancient shrines.
 
-*   🏙️ **City Exploration:** Settle into the vibrant hubs of [Ginza](https://www.japan-guide.com/e/e3005.html) or [Shinjuku](https://www.japan-guide.com/e/e3011.html) and explore the city's famous basement food halls.
-*   ⛩️ **Old Meets New:** Visit the historic [Senso-ji Temple](https://www.senso-ji.jp/english/) in [Asakusa](https://www.japan-guide.com/e/e3004.html) before diving into the electronics and retro gaming paradise of [Akihabara](https://www.japan-guide.com/e/e3003.html).
-*   🌸 **Pop Culture & Fashion:** Walk through the serene [Meiji Shrine](https://www.meijijingu.or.jp/en/), enjoy fluffy pancakes in [Harajuku](https://www.japan-guide.com/e/e3006.html), and experience the organized chaos of [Shibuya Crossing](https://www.japan-guide.com/e/e3007.html).
-*   🎨 **Ghibli & Gardens:** Venture to the magical [Ghibli Museum](https://www.ghibli-museum.jp/en/) and relax in the beautiful [Inokashira Park](https://www.japan-guide.com/e/e3024.html).
+- 🏙️ **City Exploration:** Settle into the vibrant hubs of [Ginza](https://www.japan-guide.com/e/e3005.html) or
+  [Shinjuku](https://www.japan-guide.com/e/e3011.html) and explore the city's famous basement food halls.
+- ⛩️ **Old Meets New:** Visit the historic [Senso-ji Temple](https://www.senso-ji.jp/english/) in
+  [Asakusa](https://www.japan-guide.com/e/e3004.html) before diving into the electronics and retro gaming paradise of
+  [Akihabara](https://www.japan-guide.com/e/e3003.html).
+- 🌸 **Pop Culture & Fashion:** Walk through the serene [Meiji Shrine](https://www.meijijingu.or.jp/en/), enjoy fluffy
+  pancakes in [Harajuku](https://www.japan-guide.com/e/e3006.html), and experience the organized chaos of
+  [Shibuya Crossing](https://www.japan-guide.com/e/e3007.html).
+- 🎨 **Ghibli & Gardens:** Venture to the magical [Ghibli Museum](https://www.ghibli-museum.jp/en/) and relax in the
+  beautiful [Inokashira Park](https://www.japan-guide.com/e/e3024.html).
 
-This four-day introduction provides the perfect blend of Tokyo's high-energy urban life and its quiet, traditional corners.
+This four-day introduction provides the perfect blend of Tokyo's high-energy urban life and its quiet, traditional
+corners.
 
 - **City:** Tokyo
 - **Arrive:** Tuesday (Day 1) via NRT/HND
 - **Leave:** Saturday Morning (Day 5) via Shinkansen
 - **Key Stops:** Senso-ji, Akihabara, Meiji Shrine, Shibuya Parco, Harajuku, Ghibli Museum, Kichijoji, Ginza/Shinjuku.
-- **Details:** [See Tokyo City Stops](../Reference/city-stops-details.md#tokyo)
+- **Details:** [See Tokyo City Stops](Detailed/Tokyo/neighborhoods.md#tokyo-sightseeing-details)
 
 ### 🛬 Day 1: Arrival in Tokyo (Tuesday)
 
@@ -82,7 +90,7 @@ This four-day introduction provides the perfect blend of Tokyo's high-energy urb
 
 **🎒 Backup Plan (If Exhausted):** Skip Golden Gai, grab konbini dinner, sleep early for Day 2 temple run
 
-### ⛩️ Day 2: Old Tokyo & The "Split" (Wednesday)
+### Day 2: Old Tokyo & The "Split" (Wednesday)
 
 **⏱️ Timeline:**
 
@@ -268,18 +276,25 @@ This four-day introduction provides the perfect blend of Tokyo's high-energy urb
 
 This leg of the journey takes you to the cultural heart of Japan, balancing ancient traditions with modern discoveries.
 
-*   ⛩️ **Kyoto Icons:** Walk through the vermillion gates of [Fushimi Inari](https://inari.jp/en/), explore the atmospheric streets of [Gion](https://www.japan-guide.com/e/e3902.html), and witness the shimmering [Golden Pavilion](https://www.shokoku-ji.jp/en/kinkakuji/).
-*   🎋 **Natural Beauty:** Experience the serene [Arashiyama](https://kyoto.travel/en/nature/bamboogrove.html) bamboo groves and peaceful riverside walks along the [Kamo River](https://kyoto.travel/en/nature/kamogawa.html).
-*   🦌 **[Nara](https://www.visitnara.jp/venues/A00659/) Day Trip:** Meet the famous bowing deer and stand in awe of the [Great Buddha](https://www.todaiji.or.jp/en/) at [Todai-ji](https://www.todaiji.or.jp/en/).
-*   🍱 **Culinary & Culture:** Dive into the flavors of [Nishiki Market](https://www.kyoto-nishiki.or.jp/) and [Pontocho Alley](https://www.japan-guide.com/e/e3921.html), or hunt for retro gaming treasures in [Kawaramachi](https://goo.gl/maps/surugaya-kyoto).
+- ⛩️ **Kyoto Icons:** Walk through the vermillion gates of [Fushimi Inari](https://inari.jp/en/), explore the
+  atmospheric streets of [Gion](https://www.japan-guide.com/e/e3902.html), and witness the shimmering
+  [Golden Pavilion](https://www.shokoku-ji.jp/en/kinkakuji/).
+- 🎋 **Natural Beauty:** Experience the serene [Arashiyama](https://kyoto.travel/en/nature/bamboogrove.html) bamboo
+  groves and peaceful riverside walks along the [Kamo River](https://kyoto.travel/en/nature/kamogawa.html).
+- 🦌 **[Nara](https://www.visitnara.jp/venues/A00659/) Day Trip:** Meet the famous bowing deer and stand in awe of the
+  [Great Buddha](https://www.todaiji.or.jp/en/) at [Todai-ji](https://www.todaiji.or.jp/en/).
+- 🍱 **Culinary & Culture:** Dive into the flavors of [Nishiki Market](https://www.kyoto-nishiki.or.jp/) and
+  [Pontocho Alley](https://www.japan-guide.com/e/e3921.html), or hunt for retro gaming treasures in
+  [Kawaramachi](https://goo.gl/maps/surugaya-kyoto).
 
-These three days offer a deep dive into the [Kansai region](https://www.japan-guide.com/e/e2158.html) before transitioning to the neon lights of Osaka.
+These three days offer a deep dive into the [Kansai region](https://www.japan-guide.com/e/e2158.html) before
+transitioning to the neon lights of Osaka.
 
 - **City:** Kyoto
 - **Arrive:** Saturday Morning (Day 5) via Shinkansen
 - **Leave:** Tuesday Morning (Day 8) via Train to Osaka
 - **Key Stops:** Fushimi Inari, Arashiyama Bamboo Grove, Kinkaku-ji, Gion, Nara Park (Day Trip).
-- **Details:** [See Kyoto City Stops](../Reference/city-stops-details.md#kyoto)
+- **Details:** [See Kyoto City Stops](Detailed/Kyoto/neighborhoods.md#kyoto-sightseeing-details)
 
 ### 🚄 Day 5: Bullet Train to Foxes (Saturday)
 
@@ -386,7 +401,8 @@ These three days offer a deep dive into the [Kansai region](https://www.japan-gu
 **🎒 Backup Plans:**
 
 - **If Rainy:** Bamboo grove beautiful in mist, but skip monkey park (muddy trail). Do temples instead.
-- **If Dave skips monkeys:** Visit [Okochi Sanso Villa](https://www.okochisanso.jp/) instead (actor's villa with amazing gardens)
+- **If Dave skips monkeys:** Visit [Okochi Sanso Villa](https://www.okochisanso.jp/) instead (actor's villa with
+  amazing gardens)
 - **If Kinkaku-ji too crowded:** Visit [Ryoan-ji](https://www.ryoanji.jp/top-en.html) nearby (famous rock garden,
   usually quieter)
 - **Lunch Backup:** [Arashiyama Yoshimura](https://yoshimura-gr.com/) for quick soba near bamboo grove
@@ -400,7 +416,7 @@ These three days offer a deep dive into the [Kansai region](https://www.japan-gu
   - **Train:** [JR Nara Line](https://www.westjr.co.jp/global/en/) (Rapid service) or
     [Kintetsu Nara Line](https://www.kintetsu.co.jp/foreign/english/)
   - **Kintetsu Option:** Arrives at Kintetsu Nara Station (5 min walk to park) ⭐ Recommended
-  - **Full day trip details:** [Nara City Stops](../Reference/city-stops-details.md#nara-day-trip)
+  - **Full day trip details:** [Nara City Stops](Detailed/Kyoto/neighborhoods.md#nara-sightseeing-details-day-trip)
 - **08:15 AM:** Arrive Nara, enter [Nara Park](https://www3.pref.nara.jp/park/)
   - **Entry:** FREE
   - **Experience:** 1,000+ wild sacred deer roaming freely
@@ -452,12 +468,19 @@ These three days offer a deep dive into the [Kansai region](https://www.japan-gu
 
 ## 🐙 Leg 3: Osaka (Days 8-9)
 
-The final leg of your trip brings you to Osaka, Japan's energetic culinary capital and home to world-class entertainment.
+The final leg of your trip brings you to Osaka, Japan's energetic culinary capital and home to world-class
+entertainment.
 
-*   🍄 **Universal Studios Japan:** Spend a full day at [USJ](https://www.usj.co.jp/web/en/us), featuring the immersive [Super Nintendo World](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world) and the [Wizarding World of Harry Potter](https://www.usj.co.jp/web/en/us/areas/the-wizarding-world-of-harry-potter).
-*   🌃 **Neon Nights:** Soak in the vibrant atmosphere of [Dotonbori](https://osaka-info.jp/en/spot/dotonbori/), famous for its giant mechanical signs and the iconic [Glico Running Man](https://osaka-info.jp/en/spot/ebisubashi-bridge/).
-*   🍢 **Street Food Feast:** Indulge in Osaka's "Kuidaore" (eat until you drop) culture with kushikatsu, takoyaki, and jiggly cheesecake.
-*   🎮 **Final Finds:** Wrap up your trip with last-minute shopping in [Den Den Town](https://insideosaka.com/den-den-town-guide/)'s electronics district or the massive [Don Quijote](https://www.donki.com/en/) megastore.
+- 🍄 **Universal Studios Japan:** Spend a full day at [USJ](https://www.usj.co.jp/web/en/us), featuring the immersive
+  [Super Nintendo World](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world) and the
+  [Wizarding World of Harry Potter](https://www.usj.co.jp/web/en/us/areas/the-wizarding-world-of-harry-potter).
+- 🌃 **Neon Nights:** Soak in the vibrant atmosphere of [Dotonbori](https://osaka-info.jp/en/spot/dotonbori/), famous
+  for its giant mechanical signs and the iconic [Glico Running Man](https://osaka-info.jp/en/spot/ebisubashi-bridge/).
+- 🍢 **Street Food Feast:** Indulge in Osaka's "Kuidaore" (eat until you drop) culture with kushikatsu, takoyaki, and
+  jiggly cheesecake.
+- 🎮 **Final Finds:** Wrap up your trip with last-minute shopping in
+  [Den Den Town](https://insideosaka.com/den-den-town-guide/)'s electronics district or the massive
+  [Don Quijote](https://www.donki.com/en/) megastore.
 
 These final two days ensure you leave Japan with a full stomach and a suitcase full of unique memories.
 
@@ -465,7 +488,7 @@ These final two days ensure you leave Japan with a full stomach and a suitcase f
 - **Arrive:** Tuesday Morning (Day 8) via Train
 - **Leave:** Wednesday (Day 9) via KIX or Shinkansen
 - **Key Stops:** Universal Studios Japan (Super Nintendo World), Dotonbori, Den Den Town.
-- **Details:** [See Osaka City Stops](../Reference/city-stops-details.md#osaka)
+- **Details:** [See Osaka City Stops](Detailed/Osaka/neighborhoods.md#osaka-sightseeing-details)
 
 ### 🍄 Day 8: SUPER NINTENDO WORLD (Tuesday)
 
@@ -585,3 +608,15 @@ These final two days ensure you leave Japan with a full stomach and a suitcase f
 
 - **Walking:** 3-5 miles (5,000-8,000 steps) - lighter shopping day
 - **Transport:** Airport transfer or Shinkansen
+
+---
+
+## 📅 October 2026 Specific Notes
+
+- **Weather:** Expect mild temperatures (15-22°C / 60-72°F). Early October can still be humid, while late October
+  starts to feel crisp.
+- **Autumn Leaves:** You are likely too early for peak colors in Tokyo/Kyoto (usually late Nov), but you might see early
+  changes in higher elevations or northern parks.
+- **Crowds:** October is a popular travel month due to the pleasant weather. Book all major attractions (Ghibli, USJ,
+  Shibuya Sky) as soon as windows open.
+- **Clothing:** Layers are key. A light jacket for evenings and comfortable walking shoes are essential.

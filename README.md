@@ -45,7 +45,6 @@ contribute consistently.
 - [food-guide.md](Reference/food-guide.md): Non-sushi dining options (Ramen, Tempura, etc.) with pricing.
 - [universal-studios-strategy.md](Reference/universal-studios-strategy.md): Critical guide for securing entry
   to Super Nintendo World & Donkey Kong Country.
-- [city-stops-details.md](Reference/city-stops-details.md): Detailed info on specific city stops.
 - [shopping-wishlist.md](Reference/shopping-wishlist.md): Items to buy (Anime, Electronics, etc.).
 - [tax-free-shopping.md](Reference/tax-free-shopping.md): Comprehensive guide to saving 10% tax on purchases
   with step-by-step procedures.
