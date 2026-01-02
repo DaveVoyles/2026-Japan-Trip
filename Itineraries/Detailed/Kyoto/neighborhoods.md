@@ -16,7 +16,7 @@ This document provides deep-dive information on Kyoto's neighborhoods, logistics
 - **Access:** The primary hub for Shinkansen, JR lines, and the city's main bus terminal. If you are doing day trips to
   Nara, Osaka, or Hiroshima, this is the most efficient base.
 - **Crowds:** Busy and functional. The station itself is an architectural marvel with a "Skyway" tunnel offering views
-  of the city.
+  of the city. [🎥 Video: Kyoto Station Skyway](https://www.youtube.com/watch?v=hhzMWm9Ol8Q)
 - **Best For:** Efficiency, day trips, and those who want easy access to the airport express (Haruka).
 
 ### 🏮 Gion (The Historic Heart)
@@ -24,21 +24,23 @@ This document provides deep-dive information on Kyoto's neighborhoods, logistics
 - **Vibe:** The Kyoto of your imagination. Narrow cobblestone streets, wooden machiya houses, and the chance to spot a
   Geiko or Maiko.
 - **Evening Walk:** [🎥 4K Gion Evening Walking Tour](https://www.youtube.com/watch?v=kd-OLM-6GRE)
+- **Highlights:**
+  - **Cobblestone streets:** Walk the historic streets of Sannenzaka and Ninenzaka. [🎥 Video: Gion Streets](https://www.youtube.com/watch?v=kd-OLM-6GRE)
+  - **Machiya houses:** Admire the traditional wooden townhouses. [🎥 Video: Gion Machiya](https://www.youtube.com/watch?v=kd-OLM-6GRE)
+  - **Geiko/Maiko spotting:** Catch a glimpse of Kyoto's famous entertainers. [🎥 Video: Geisha in Gion](https://www.youtube.com/watch?v=kd-OLM-6GRE)
 - **Access:** Slightly more tucked away but walkable to many major sites like Yasaka Shrine and Kiyomizu-dera.
-  Well-served by city buses.
-- **Crowds:** Atmospheric and quiet in the early morning/late evening, but can be very crowded during the day.
-- **Best For:** Traditional atmosphere, high-end dining, and being within walking distance of the Higashiyama temple
-  district.
 
 ### 🛍️ Kawaramachi (The Lively Center)
 
 - **Vibe:** Kyoto's main shopping and dining district. It's where the locals hang out, featuring covered arcades,
   department stores, and the famous Pontocho Alley.
 - **Evening Walk:** [🎥 4K Kawaramachi Evening Walking Tour](https://www.youtube.com/watch?v=XJSstz9peq8)
+- **Highlights:**
+  - **Covered arcades:** Shop in the Teramachi and Shinkyogoku arcades. [🎥 Video: Kawaramachi Arcades](https://www.youtube.com/watch?v=XJSstz9peq8)
+  - **Pontocho Alley:** Dine in the narrow, lantern-lit alley. [🎥 Video: Pontocho Alley](https://www.youtube.com/watch?v=XJSstz9peq8)
+  - **Nishiki Market:** Explore "Kyoto's Kitchen". [🎥 Video: Nishiki Market](https://www.youtube.com/watch?v=XJSstz9peq8)
+  - **Teramachi Shopping Arcade:** Find traditional goods and modern shops. [🎥 Video: Teramachi Arcade](https://www.youtube.com/watch?v=XJSstz9peq8)
 - **Access:** Centrally located and served by the Hankyu and Keihan lines. Excellent for reaching Osaka and the eastern
-  temple districts.
-- **Crowds:** Lively and commercial. Home to Nishiki Market ("Kyoto's Kitchen") and Teramachi Shopping Arcade.
-- **Best For:** Foodies, shoppers, and those who want a central location with plenty of nightlife options.
 
 ### ⚖️ Overall Comparison
 

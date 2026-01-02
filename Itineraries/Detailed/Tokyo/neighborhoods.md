@@ -12,10 +12,10 @@ This document provides deep-dive information on Tokyo's neighborhoods, logistics
 - **Evening Walk:** [4K Ginza Evening Walking Tour](https://www.youtube.com/watch?v=Uf7S49_S-pM)
 - **Highlights:**
   - **Pedestrian Paradise:** On weekend afternoons, the main Chuo-dori street is closed to cars, making it a massive
-    walking mall.
+    walking mall. [🎥 Video: Ginza Pedestrian Paradise](https://www.youtube.com/watch?v=Uf7S49_S-pM)
   - **Department Stores:** Visit **Ginza Six** for high-end art and fashion, or **Uniqlo Ginza** (12 floors!) for the
-    world's largest selection.
-  - **Culture:** The **Kabuki-za Theatre** offers a glimpse into traditional Japanese performing arts.
+    world's largest selection. [🎥 Video: Ginza Six & Uniqlo](https://www.youtube.com/watch?v=Uf7S49_S-pM)
+  - **Culture:** The **Kabuki-za Theatre** offers a glimpse into traditional Japanese performing arts. [🎥 Video: Kabuki-za Theatre](https://www.youtube.com/watch?v=Uf7S49_S-pM)
 - **Access:** Centrally located and served by the Ginza, Hibiya, and Marunouchi lines. A short walk or 1-stop ride to
   **Tokyo Station** for Shinkansen access.
 - **Crowds:** Refined and elegant. Typically calmer than the west-side nightlife hubs, making it a great "home base" for
@@ -27,10 +27,10 @@ This document provides deep-dive information on Tokyo's neighborhoods, logistics
   energetic.
 - **Evening Walk:** [4K Shinjuku Evening Walking Tour](https://www.youtube.com/watch?v=3FUIYAwQ7Xs)
 - **Highlights:**
-  - **Kabukicho:** The famous entertainment district with the giant Godzilla head at Hotel Gracery.
-  - **Omoide Yokocho (Piss Alley):** A narrow alley filled with tiny yakitori stalls and retro charm.
-  - **Shinjuku Gyoen:** One of Tokyo's largest and most beautiful parks, perfect for an autumn stroll.
-  - **Metropolitan Government Building:** Free observation decks for stunning city views.
+  - **Kabukicho:** The famous entertainment district with the giant Godzilla head at Hotel Gracery. [🎥 Video: Kabukicho & Godzilla](https://www.youtube.com/watch?v=3FUIYAwQ7Xs)
+  - **Omoide Yokocho (Piss Alley):** A narrow alley filled with tiny yakitori stalls and retro charm. [🎥 Video: Omoide Yokocho](https://www.youtube.com/watch?v=3FUIYAwQ7Xs)
+  - **Shinjuku Gyoen:** One of Tokyo's largest and most beautiful parks, perfect for an autumn stroll. [🎥 Video: Shinjuku Gyoen](https://www.youtube.com/watch?v=3FUIYAwQ7Xs)
+  - **Metropolitan Government Building:** Free observation decks for stunning city views. [🎥 Video: Tokyo Gov Building Views](https://www.youtube.com/watch?v=3FUIYAwQ7Xs)
 - **Access:** Shinjuku Station is the world's busiest railway station. It connects almost everywhere in Tokyo and is the
   gateway to western day trips like Mt. Takao.
 - **Crowds:** "Tokyo-at-full-volume." It's constantly in motion. The East Exit is chaotic and fun, while the West Exit
@@ -41,10 +41,10 @@ This document provides deep-dive information on Tokyo's neighborhoods, logistics
 - **Vibe:** Youth culture, the famous Scramble Crossing, trendy fashion, and energetic street life.
 - **Evening Walk:** [4K Shibuya Evening Walking Tour](https://www.youtube.com/watch?v=6_pn97yl-2g)
 - **Highlights:**
-  - **The Scramble:** Experience the world's busiest intersection where thousands cross at once.
-  - **Hachiko Statue:** The famous meeting spot dedicated to the world's most loyal dog.
-  - **Miyashita Park:** A newly renovated rooftop park with shops, restaurants, and a climbing wall.
-  - **Shibuya Parco:** A hub for pop culture, featuring the Nintendo Tokyo and Pokemon Center flagship stores.
+  - **The Scramble:** Experience the world's busiest intersection where thousands cross at once. [🎥 Video: Shibuya Scramble Crossing](https://www.youtube.com/watch?v=6_pn97yl-2g)
+  - **Hachiko Statue:** The famous meeting spot dedicated to the world's most loyal dog. [🎥 Video: Hachiko Statue](https://www.youtube.com/watch?v=6_pn97yl-2g)
+  - **Miyashita Park:** A newly renovated rooftop park with shops, restaurants, and a climbing wall. [🎥 Video: Miyashita Park](https://www.youtube.com/watch?v=6_pn97yl-2g)
+  - **Shibuya Parco:** A hub for pop culture, featuring the Nintendo Tokyo and Pokemon Center flagship stores. [🎥 Video: Shibuya Parco & Nintendo Store](https://www.youtube.com/watch?v=6_pn97yl-2g)
 - **Access:** Extremely well-connected via the Yamanote Line and multiple subway lines. It's the perfect base for
   exploring Harajuku and Omotesando.
 - **Crowds:** Youthful, stylish, and dense. It's exciting but can be overwhelming during peak hours.

@@ -14,20 +14,20 @@ This document provides deep-dive information on Osaka's neighborhoods, logistics
   neon signs, street food stalls, and "kuidaore" (eat until you drop) culture.
 - **Evening Walk (Namba):** [🎥 4K Namba Evening Walking Tour](https://www.youtube.com/watch?v=bYjRu_M_5qw)
 - **Evening Walk (Dotonbori):** [🎥 4K Dotonbori Evening Walking Tour](https://www.youtube.com/watch?v=8qN_3YsEUvU)
+- **Highlights:**
+  - **Glico Man sign:** The iconic symbol of Dotonbori. [🎥 Video: Glico Man & Dotonbori](https://www.youtube.com/watch?v=8qN_3YsEUvU)
+  - **Street food stalls:** Try takoyaki and okonomiyaki. [🎥 Video: Dotonbori Street Food](https://www.youtube.com/watch?v=8qN_3YsEUvU)
 - **Access:** Gateway to southern Osaka and the airport (via the Nankai Rapi:t). Best spot for exploring the city's
-  famous food districts on foot.
-- **Crowds:** Very high, especially in the evenings. The area around the Glico Man sign is always buzzing.
-- **Best For:** Foodies, nightlife, and those who want the "classic" Osaka experience.
 
 ### 🏙️ Umeda (The Sleek Hub)
 
 - **Vibe:** Sophisticated, vertical, and modern. Characterized by towering skyscrapers, massive department stores, and a
   labyrinthine underground city.
 - **Evening Walk:** [🎥 4K Umeda Evening Walking Tour](https://www.youtube.com/watch?v=O3fRnBQkaEE)
+- **Highlights:**
+  - **Skyscrapers:** View the city from the Umeda Sky Building. [🎥 Video: Umeda Skyscrapers](https://www.youtube.com/watch?v=O3fRnBQkaEE)
+  - **Underground city:** Navigate the massive underground shopping malls. [🎥 Video: Umeda Underground](https://www.youtube.com/watch?v=O3fRnBQkaEE)
 - **Access:** The city's northern hub where JR, Hankyu, and Hanshin lines converge. Most efficient base for day trips to
-  Kyoto, Kobe, and Himeji.
-- **Crowds:** High, but more "business-like" than Namba. The underground malls can be confusing even for locals.
-- **Best For:** Shopping, luxury hotels, and easy regional travel.
 
 ### ⚖️ Overall Comparison
 
