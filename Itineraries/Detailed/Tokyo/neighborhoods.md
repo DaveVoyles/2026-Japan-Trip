@@ -45,6 +45,7 @@ This document provides deep-dive information on Tokyo's neighborhoods, logistics
   - **Hachiko Statue:** The famous meeting spot dedicated to the world's most loyal dog. [🎥 Video: Hachiko Statue](https://www.youtube.com/watch?v=6_pn97yl-2g)
   - **Miyashita Park:** A newly renovated rooftop park with shops, restaurants, and a climbing wall. [🎥 Video: Miyashita Park](https://www.youtube.com/watch?v=6_pn97yl-2g)
   - **Shibuya Parco:** A hub for pop culture, featuring the Nintendo Tokyo and Pokemon Center flagship stores. [🎥 Video: Shibuya Parco & Nintendo Store](https://www.youtube.com/watch?v=6_pn97yl-2g)
+  - **Shibuya Sky:** A 360-degree open-air observation deck with stunning views of the city. [🎥 Video: Shibuya Sky Experience](https://www.youtube.com/watch?v=6_pn97yl-2g)
 - **Access:** Extremely well-connected via the Yamanote Line and multiple subway lines. It's the perfect base for
   exploring Harajuku and Omotesando.
 - **Crowds:** Youthful, stylish, and dense. It's exciting but can be overwhelming during peak hours.
