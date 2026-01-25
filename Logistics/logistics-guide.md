@@ -1,16 +1,25 @@
 # 📋 Japan Trip Logistics Guide for Dave & Debbie
 
+## 📅 Trip Timing & Dates
+
+October is our primary target, but if we need to shift dates, see the comparative analysis below:
+
+- [June 2026 Considerations](june-travel-considerations.md): Rainy season, humidity, but fewer crowds and lower costs.
+- [December 2026 Considerations](december-travel-considerations.md): Cold and dry, winter illuminations, and peak Fuji visibility.
+
+---
+
 ## 1. 📶 Connectivity & Power
 
 ### eSIM Setup (iPhone 15)
 
 Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 
-| Feature | [Ubigi](https://apps.apple.com/us/app/ubigi-esim-internet-data/id1435567041) | [Airalo (Moshi Moshi)](https://apps.apple.com/us/app/airalo-esim-phone-internet/id1475911720) |
-| :--- | :--- | :--- |
-| **Cost (Approx)** | ~$17 USD for 10GB | ~$18 USD for 10GB |
-| **Network** | Docomo (Top Tier) | Softbank / KDDI |
-| **Pros** | Often faster; easy app setup. | Very popular; user-friendly app. |
+| Feature           | [Ubigi](https://apps.apple.com/us/app/ubigi-esim-internet-data/id1435567041) | [Airalo (Moshi Moshi)](https://apps.apple.com/us/app/airalo-esim-phone-internet/id1475911720) |
+| :---------------- | :--------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+| **Cost (Approx)** | ~$17 USD for 10GB                                                            | ~$18 USD for 10GB                                                                             |
+| **Network**       | Docomo (Top Tier)                                                            | Softbank / KDDI                                                                               |
+| **Pros**          | Often faster; easy app setup.                                                | Very popular; user-friendly app.                                                              |
 
 **Setup Steps (Do 1-2 days before flying):**
 
@@ -23,7 +32,7 @@ Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 ### 🔋 Power & Charging
 
 - **Plugs:** Japan uses **Type A** (two flat pins), same as the US non-grounded plugs.
-  - *Note:* Most outlets do **not** have the 3rd round grounding pin. Bring a **3-to-2 prong adapter** if your laptop
+  - _Note:_ Most outlets do **not** have the 3rd round grounding pin. Bring a **3-to-2 prong adapter** if your laptop
     charger has a ground pin.
 - **Voltage:** 100V (US is 120V). Your iPhone/Laptop chargers are "Universal" (100-240V) and will work fine.
   Hair dryers from the US may run weak or overheat; use the hotel's.
@@ -40,12 +49,14 @@ Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 **What they are:** Suica and PASMO are rechargeable IC (Integrated Circuit) smart cards used for public transportation and everyday purchases in Japan. They function identically and are interchangeable across most of Japan's transit systems. Suica is operated by JR East, while PASMO is operated by non-JR railway and bus companies in the Tokyo area.
 
 **Key Features:**
+
 - **Transit:** Use on trains, subways, and buses nationwide (Tokyo, Kyoto, Osaka, etc.)
 - **Shopping:** Accepted at vending machines, convenience stores (konbini), coin lockers, and many shops
 - **No Barriers:** Simply tap and go - no need to buy individual tickets for each journey
 - **Apple Wallet Integration:** iPhone users can add a digital Suica card directly to Apple Wallet
 
 **Setup Instructions:**
+
 - **Add to Wallet:** Open Apple Wallet > (+) > Transit Card > Suica. Load ~$10 USD (approximately 1,500 JPY).
 - **Use:** Tap top of iPhone on yellow IC card reader. No FaceID needed.
 - **Refill:** At station ticket machines or through the Wallet app.
@@ -58,6 +69,7 @@ Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 **What it is:** Japan's iconic high-speed rail network connecting major cities at speeds up to 320 km/h (200 mph). The most comfortable and efficient way to travel between Tokyo, Kyoto, Osaka, and other cities.
 
 **Booking Options:**
+
 - **[SmartEX](https://smart-ex.jp/en/):** Official online booking system (English available)
 - **[JR-EAST Train Reservation](https://www.eki-net.com/pc/jreast-shinkansen-reservation/english/wb/common/Menu/Menu.aspx):** For JR East lines
 - **Station Ticket Offices:** Available at all major stations with English support
@@ -76,12 +88,12 @@ Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 
 ### 📦 [Luggage Forwarding (Takkyubin)](https://www.kuronekoyamato.co.jp/ytc/en/)
 
-*The ultimate travel hack.* Do not haul big bags on the Shinkansen.
+_The ultimate travel hack._ Do not haul big bags on the Shinkansen.
 
 **What it is:** Takkyubin is Japan's door-to-door luggage delivery service. The most popular provider is **Yamato Transport** (identified by their Black Cat logo), which delivers over 1.7 billion parcels annually with legendary reliability.
 
 - **Service:** **Yamato Transport** (Black Cat logo) or **Sagawa Express**.
-- **How:** Ask your hotel front desk: *"Can I send my luggage to my next hotel?"* Most hotels have forms and will handle everything.
+- **How:** Ask your hotel front desk: _"Can I send my luggage to my next hotel?"_ Most hotels have forms and will handle everything.
 - **Cost:** Approximately ¥2,000-3,000 (~$15-20 USD) per standard suitcase, depending on size and distance.
 - **Speed:** Usually next-day delivery (Tokyo → Kyoto overnight). Pack a small overnight backpack for the train ride with essentials.
 - **Benefits:** Travel light on trains, avoid station stairs/escalators with heavy bags, more comfortable sightseeing.
@@ -120,26 +132,26 @@ Since you both have iPhone 15s (eSIM-only), you need an eSIM data plan.
 
 ### Essential Phrases
 
-| English | Japanese (Pronunciation) | Context |
-| :--- | :--- | :--- |
-| **Excuse me / Sorry** | *Sumimasen* | Use for EVERYTHING. Getting attention, bumping someone, saying thanks. |
-| **Thank you** | *Arigato Gozaimasu* | Polite thanks. |
-| **Yes / No** | *Hai / Iie* | "Iie" is rarely used directly; usually a hand wave means no. |
-| **Toilet?** | *Toire wa doko desu ka?* | "Where is the toilet?" |
-| **Check, please** | *O-kaikei onegai shimasu* | At restaurants. Cross fingers in an 'X' sign also works. |
-| **English menu?** | *Eigo no menyu?* | Most places have one. |
+| English               | Japanese (Pronunciation)  | Context                                                                |
+| :-------------------- | :------------------------ | :--------------------------------------------------------------------- |
+| **Excuse me / Sorry** | _Sumimasen_               | Use for EVERYTHING. Getting attention, bumping someone, saying thanks. |
+| **Thank you**         | _Arigato Gozaimasu_       | Polite thanks.                                                         |
+| **Yes / No**          | _Hai / Iie_               | "Iie" is rarely used directly; usually a hand wave means no.           |
+| **Toilet?**           | _Toire wa doko desu ka?_  | "Where is the toilet?"                                                 |
+| **Check, please**     | _O-kaikei onegai shimasu_ | At restaurants. Cross fingers in an 'X' sign also works.               |
+| **English menu?**     | _Eigo no menyu?_          | Most places have one.                                                  |
 
 ### Critical Kanji (Signs)
 
-| Kanji | Meaning | Where to look |
-| :--- | :--- | :--- |
-| **入口 / 出口** | Entrance / Exit | Train stations, buildings. |
-| **男 / 女** | Men / Women | Restrooms. |
-| **止** | Stop | Traffic signs, buttons. |
-| **非常口** | Emergency Exit | Green signs. |
-| **押 / 引** | Push / Pull | Doors. |
-| **満** | Full | Parking lots, restaurants (means no seats). |
-| **空** | Empty / Vacant | Taxi signs, toilet locks. |
+| Kanji           | Meaning         | Where to look                               |
+| :-------------- | :-------------- | :------------------------------------------ |
+| **入口 / 出口** | Entrance / Exit | Train stations, buildings.                  |
+| **男 / 女**     | Men / Women     | Restrooms.                                  |
+| **止**          | Stop            | Traffic signs, buttons.                     |
+| **非常口**      | Emergency Exit  | Green signs.                                |
+| **押 / 引**     | Push / Pull     | Doors.                                      |
+| **満**          | Full            | Parking lots, restaurants (means no seats). |
+| **空**          | Empty / Vacant  | Taxi signs, toilet locks.                   |
 
 ---
 
