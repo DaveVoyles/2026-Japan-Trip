@@ -4,15 +4,16 @@
 **Tagline:** "Lush Greenery & Long Sunny Days"
 
 ## 📅 Summary: Late May vs. October
+
 Late May is widely considered one of the "Golden Windows" for Japan. It offers many of the same benefits as October (mild temperatures, low rain) but with much longer days and vibrant green foliage rather than autumn reds.
 
-| Feature | Late May 2026 | October 2026 (Ideal) |
-| :--- | :--- | :--- |
-| **Weather** | Warm, Dry, Sunny | Mild, Crisp, Dry |
-| **Crowds** | Moderate (The "Post-Golden Week" lull) | High (Peak Tourism) |
-| **Cost** | 📈 Moderate (Shoulder Season) | 📈 Higher (Peak season) |
-| **Daylight** | Maximum (Sunset ~6:50 PM) | Shorter days (Sunset ~5:00 PM) |
-| **Foliage** | Peak "Shinryoku" (Fresh Green) | Vibrant Autumn Colors |
+| Feature      | Late May 2026                          | October 2026 (Ideal)           |
+| :----------- | :------------------------------------- | :----------------------------- |
+| **Weather**  | Warm, Dry, Sunny                       | Mild, Crisp, Dry               |
+| **Crowds**   | Moderate (The "Post-Golden Week" lull) | High (Peak Tourism)            |
+| **Cost**     | 📈 Moderate (Shoulder Season)          | 📈 Higher (Peak season)        |
+| **Daylight** | Maximum (Sunset ~6:50 PM)              | Shorter days (Sunset ~5:00 PM) |
+| **Foliage**  | Peak "Shinryoku" (Fresh Green)         | Vibrant Autumn Colors          |
 
 ---
 
