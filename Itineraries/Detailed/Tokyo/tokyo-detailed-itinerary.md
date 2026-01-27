@@ -7,7 +7,7 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 **Schedule:** 06:30 AM - 09:30 PM
 **Hotel Hub:** Ginza or Shinjuku
-**Duration:** 4 Days
+**Duration:** 5 Days (4 Start + 1 End)
 
 ---
 
@@ -125,3 +125,42 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 - **Ghibli Museum:** Highlights include the Saturn Theater (short films) and the rooftop Robot Soldier.
 - **Kichijoji:** Explore Harmonica Yokocho's narrow alleys and the whimsical "Petit Village."
 - **Backup:** If Ghibli is sold out, visit [Nakano Broadway](https://nakano-broadway.com/) for anime/manga shopping.
+
+---
+
+## Day 9: Last Bites & Tokyo Return (Tuesday, June 2)
+
+**Day Map:** [View all locations for this day](https://www.google.com/maps/search/Shinagawa%20Station%2C%20Tokyo%2C%20Japan%20OR%20Haneda%20Airport%20Hotel%2C%20Tokyo%2C%20Japan)
+
+| Time      | Activity                            | Cost |
+| :-------- | :---------------------------------- | :--- |
+| **15:30** | **Shinkansen from Shin-Osaka**      | $$$  |
+| **18:00** | **Arrive Tokyo (Shinagawa)**        | -    |
+| **19:00** | **Hotel Check-in (Near Airport/JR)** | -    |
+| **20:00** | **Final Dinner: Wagyu or Sushi**    | $$$  |
+
+**Quick Logistics:**
+
+- **Arrival Point:** Get off at **Shinagawa Station** instead of Tokyo Station for easier access to Haneda.
+- **Hotel Hub:** Stay at the [The Royal Park Hotel Tokyo Haneda](https://www.royalparkhotels.co.jp/the/tokyohaneda/) or similar for maximum convenience.
+
+**Evening Details:**
+
+- **Last Supper:** Celebrate the trip with a high-end meal in Shinagawa or Ota.
+
+---
+
+## Day 10: Departure (Wednesday, June 3)
+
+| Time      | Activity                               | Cost |
+| :-------- | :------------------------------------- | :--- |
+| **09:00** | **Leisurely Morning & Souvenirs**      | $    |
+| **11:00** | **Monorail or Keikyu to HND Terminal 3** | -    |
+| **12:00** | **Check-in & Airport Exploration**     | -    |
+| **15:45** | **United Flight UA130 Departure**      | -    |
+
+**Quick Logistics:**
+
+- **Airport Transit:** 15-20 mins from Shinagawa to HND via Keikyu Airport Line (Express).
+- **Haneda Duty Free:** Great for last-minute snacks (Tokyo Banana, Shiroi Koibito).
+

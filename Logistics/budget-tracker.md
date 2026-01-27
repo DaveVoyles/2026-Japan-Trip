@@ -2,7 +2,7 @@
 
 **Total Budget Goal:** $11,000 - $16,000 USD
 **Exchange Rate:** 1 USD = ~150 JPY (Conservative Estimate)
-**Trip Duration:** 9 Days (May 24 - June 2, 2026)
+**Trip Duration:** 10 Days (May 24 - June 3, 2026)
 
 ##  Estimated vs Actual
 

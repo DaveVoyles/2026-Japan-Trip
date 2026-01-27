@@ -13,9 +13,10 @@
   - [Day 5: Bullet Train to Foxes](#day-5-bullet-train-to-foxes-friday)
   - [Day 6: Bamboo & Gold](#day-6-bamboo--gold-saturday)
   - [Day 7: Deer & Shopping](#day-7-deer--shopping-sunday)
-- [**Leg 3: Osaka (Days 8-9)**](#leg-3-osaka-days-8-9)
+- [**Leg 3: Osaka & Tokyo Return (Days 8-10)**](#leg-3-osaka--tokyo-return-days-8-10)
   - [Day 8: SUPER NINTENDO WORLD](#day-8-super-nintendo-world-monday)
-  - [Day 9: Last Bites & Departure](#day-9-last-bites--departure-tuesday)
+  - [Day 9: Last Bites & Return to Tokyo](#day-9-last-bites--return-to-tokyo-tuesday)
+  - [Day 10: Departure from Tokyo](#day-10-departure-from-tokyo-wednesday)
 - [May 2026 Specific Notes](#may-2026-specific-notes)
 
 ---
@@ -29,8 +30,8 @@ the detailed city itineraries:
 - **Kyoto:** [Detailed Itinerary](Detailed/Kyoto/kyoto-detailed-itinerary.md) | [Neighborhoods & Reference](Detailed/Kyoto/neighborhoods.md)
 - **Osaka:** [Detailed Itinerary](Detailed/Osaka/osaka-detailed-itinerary.md) | [Neighborhoods & Reference](Detailed/Osaka/neighborhoods.md)
 
-**_Dates:_** May 25 - June 2, 2026 (Target: Late May for pleasant spring weather).
-**_Duration:_** 9 Days.
+**_Dates:_** May 25 - June 3, 2026 (Target: Late May for pleasant spring weather).
+**_Duration:_** 10 Days.
 **_Travelers:_** Dave (Retro Gaming, Foxes, Temples, Sushi) & Debbie (Flowers, Baked Goods, Non-Sushi Food)
 **_Rhythm:_** Early Risers (6:30 AM Start) to beat crowds.
 **_Breakfast Style:_** Konbini Run (Onigiri/Coffee on the go).
@@ -146,29 +147,27 @@ transitioning to the neon lights of Osaka.
 
 ---
 
-## Leg 3: Osaka (Days 8-9)
+## Leg 3: Osaka & Tokyo Return (Days 8-10)
 
-The final leg of your trip brings you to Osaka, Japan's energetic culinary capital and home to world-class
-entertainment.
+The final leg of your trip starts in Osaka before returning to Tokyo for your flight home.
 
 - 🍄 **Universal Studios Japan:** Spend a full day at [USJ](https://www.usj.co.jp/web/en/us), featuring the immersive
   [Super Nintendo World](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world) and the
   [Wizarding World of Harry Potter](https://www.usj.co.jp/web/en/us/areas/the-wizarding-world-of-harry-potter).
 - 🌃 **Neon Nights:** Soak in the vibrant atmosphere of [Dotonbori](https://osaka-info.jp/en/spot/dotonbori/), famous
   for its giant mechanical signs and the iconic [Glico Running Man](https://osaka-info.jp/en/spot/ebisubashi-bridge/).
-- 🍢 **Street Food Feast:** Indulge in Osaka's "Kuidaore" (eat until you drop) culture with kushikatsu, takoyaki, and
-  jiggly cheesecake.
-- 🎮 **Final Finds:** Wrap up your trip with last-minute shopping in
-  [Den Den Town](https://insideosaka.com/den-den-town-guide/)'s electronics district or the massive
-  [Don Quijote](https://www.donki.com/en/) megastore.
+- 🎮 **Final Finds:** Wrap up your Osaka shopping in [Den Den Town](https://insideosaka.com/den-den-town-guide/)'s
+  electronics district or the massive [Don Quijote](https://www.donki.com/en/) megastore.
+- 🗼 **Tokyo Finale:** Return to Tokyo for one final night to ensure a relaxed commute to the airport.
 
-These final two days ensure you leave Japan with a full stomach and a suitcase full of unique memories.
+These final days ensure you leave Japan with a full stomach and a suitcase full of unique memories.
 
-- **City:** Osaka
-- **Arrive:** Sunday Afternoon (Day 7) via Train
-- **Leave:** Tuesday Afternoon (Day 9) via Shinkansen to HND
-- **Key Stops:** Universal Studios Japan (Super Nintendo World), Dotonbori, Den Den Town.
-- **Details:** [See Osaka City Stops](Detailed/Osaka/neighborhoods.md#osaka-sightseeing-details)
+- **City:** Osaka & Tokyo
+- **Arrive:** Sunday Afternoon (Day 7) via Train to Osaka
+- **Back to Tokyo:** Tuesday Evening (Day 9) via Shinkansen
+- **Leave:** Wednesday (Day 10) via HND
+- **Key Stops:** Universal Studios Japan, Dotonbori, Den Den Town, Final Night in Tokyo.
+- **Details:** [See Osaka Stops](Detailed/Osaka/neighborhoods.md#osaka-sightseeing-details)
 
 ### Day 8: SUPER NINTENDO WORLD (Monday)
 
@@ -177,14 +176,18 @@ These final two days ensure you leave Japan with a full stomach and a suitcase f
 - **Evening:** Neon lights and street food in **Dotonbori**.
 - **Dinner:** Iconic Osaka **Kushikatsu** (deep-fried skewers).
 
-### Day 9: Last Bites & Departure (Tuesday)
+### Day 9: Last Bites & Return to Tokyo (Tuesday)
 
 - **Morning:** Final shopping in **Den Den Town** or **Kuromon Market**.
-- **Mid-Day:** Shinkansen to Tokyo (Shinagawa Station) (~2.5 hours).
-- **Transfer:** Train to Haneda Airport (HND).
-- **Departure:** 5:45 PM Direct Flight to EWR.
+- **Afternoon:** Final Osaka lunch before taking the **Shinkansen** to Tokyo (~2.5 hours).
+- **Check-in:** Settle into a hotel in **Tokyo** (near Shinagawa or Haneda) for an easy airport run tomorrow.
+- **Evening:** Final Japanese dinner in Tokyo and a light walk through the city neon.
 
----
+### Day 10: Departure from Tokyo (Wednesday)
+
+- **Morning:** Relaxed breakfast and last-minute airport lounge/gift shopping.
+- **Transfer:** Short train or shuttle to **Haneda Airport (HND)**.
+- **Departure:** Flight UA130 back to Newark (EWR).
 
 ## May 2026 Specific Notes
 

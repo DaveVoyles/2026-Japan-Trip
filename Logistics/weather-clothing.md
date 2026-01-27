@@ -2,9 +2,9 @@
 
 ##  The Forecast: Late Spring
 
-**Trip Dates:** May 24  June 2, 2026.
+**Trip Dates:** May 24 - June 3, 2026.
 
-This is arguably the **best time of year** to visit. The cherry blossoms are gone (less crowds), Golden Week is over, and the brutal summer humidity hasn't started yet.
+This is arguably one of the **best times of year** to visit. The cherry blossoms are gone (less crowds), Golden Week is over, and the brutal summer humidity hasn't fully set in yet.
 
 | City | Average High | Average Low | Conditions |
 | :--- | :--- | :--- | :--- |
@@ -15,7 +15,7 @@ This is arguably the **best time of year** to visit. The cherry blossoms are gon
 ###  The "Tsuyu" Factor (Rainy Season)
 
 *   **Risk:** The rainy season typically starts in **early June** (around June 7th).
-*   **Implication:** Your trip ends June 2nd, so you should beat the heavy rains. However, expect 1-2 rainy days.
+*   **Implication:** Your trip ends June 3rd, so you are right on the cusp. Expect 1-3 rainy days.
 *   **Humidity:** Moderate (unlike the sauna of August).
 
 ---

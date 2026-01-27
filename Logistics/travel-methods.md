@@ -18,7 +18,7 @@
 ###  Specific Plan (May 2026)
 
 - **Outbound:** Sunday, May 24 @ 10:30 AM (EWR). Arrive Monday, May 25 @ 2:00 PM (HND).
-- **Return:** Tuesday, June 2 @ 5:45 PM (HND).
+- **Return:** Wednesday, June 3 @ 3:45 PM (HND).
 - **Seat Selection:** Aim for **Premium Economy** or **Polaris Business** given the 14+ hour duration.
 
 ---

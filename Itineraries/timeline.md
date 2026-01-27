@@ -8,7 +8,7 @@
   - **Window:** Open ~June 2025 (330 days in advance).
   - **Action:** Book Direct EWR <-> HND.
   - **Target:** Premium Economy or Business.
-  - *Dates:* Outbound May 24 (Sun) | Return June 2 (Tue).
+  - *Dates:* Outbound May 24 (Sun) | Return June 3 (Wed).
 
 ##  Phase 2: Accommodation (Aug - Nov 2025)
 

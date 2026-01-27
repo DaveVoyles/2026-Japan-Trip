@@ -9,10 +9,10 @@ _Round trip EWR <-> Tokyo Haneda (HND)._
 - **Outbound:** Newark (EWR) -> Tokyo Haneda (HND). Direct. 14h 30m.
   - _Date:_ Sunday, May 24, 2026.
 - **Inbound:** Tokyo Haneda (HND) -> Newark (EWR). Direct. 12h 45m.
-  - _Date:_ Tuesday, June 2, 2026.
-- **Logistics:** On Day 9 (Departure Day), take the Shinkansen from Osaka to Shinagawa (~2.5 hrs) to catch the evening flight.
+  - _Date:_ Wednesday, June 3, 2026.
+- **Logistics:** On Day 9 (Return to Tokyo), take the Shinkansen from Osaka to Tokyo. Stay overnight and fly out on Day 10.
 - **Pros:** Maximum comfort (direct flights), better schedule reliability, no US domestic connection.
-- **Cons:** Requires travel on the final day.
+- **Cons:** Slightly more expensive (extra hotel night).
 
 ---
 

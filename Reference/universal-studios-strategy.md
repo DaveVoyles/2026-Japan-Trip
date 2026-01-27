@@ -223,7 +223,7 @@ _Capture the magic without blocking the path._
 
 **Important Context:** May is split into two halves. Early May (Golden Week) is a nightmare. Late May is one of the best times to visit.
 
-**Forecast for May 25 - June 2, 2026:**
+**Forecast for May 25 - June 3, 2026:**
 
 - **Golden Week Impact:** **ZERO** (Ended ~May 6).
 - **Crowd Level:** **Low to Moderate** (Level 4-6/10).
