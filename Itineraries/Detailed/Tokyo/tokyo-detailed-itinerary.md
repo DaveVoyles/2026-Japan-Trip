@@ -11,24 +11,24 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 ---
 
-## Day 1: Arrival & Reset (Tuesday)
+## Day 1: Arrival & Reset (Monday, May 25)
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Izakaya%2C%20Tokyo%2C%20Japan)
 
 | Time | Activity | Cost |
 | :--- | :--- | :--- |
-| **14:00** | **Arrival & Airport Transfer** | $ |
-| **16:00** | **Hotel Check-in (Ginza/Shinjuku)** | - |
-| **17:00** | **Split: Arcades (Dave) / Food Halls (Debbie)** | $ |
-| **19:00** | **Casual Izakaya Dinner** | $ |
-| **21:00** | **Early Night / Rest** | - |
+| **14:00** | **Arrival at Haneda (HND)** | - |
+| **15:00** | **Hotel Check-in (Ginza/Shinjuku)** | - |
+| **16:30** | **Split: Arcades (Dave) / Food Halls (Debbie)** | $ |
+| **18:30** | **Casual Izakaya Dinner** | $ |
+| **20:30** | **Early Night / Rest** | - |
 
 **Quick Logistics:**
 
-- **From Narita (NRT):** Narita Express (N'EX) to Tokyo/Shinjuku (60-90 min).
-- **From Haneda (HND):** Tokyo Monorail to Hamamatsucho (20 min) → JR to Ginza (~30 min).
+- **From Haneda (HND):** Take the **Keikyu Airport Line** (if staying in Ginza/Shinbashi) or **Airport Limousine Bus** (easiest with luggage).
+  - *To Ginza:* Keikyu Line to Higashi-Ginza Station (~35 mins).
 - **eSIM:** Activate on the train! Turn on "Japan Travel" line in settings.
-- **Hotel Check-in:** Most hotels are a 5-10 min walk from the main station.
+- **Hotel Check-in:** Drop bags immediately. Most check-ins start at 3:00 PM.
 
 **Evening Details:**
 

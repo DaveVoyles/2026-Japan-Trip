@@ -6,7 +6,7 @@
    constraints (budget, travelers, preferences) you must follow.
 2. Use this README to locate specific files for the task at hand.
 
-This repository is the single source of truth for planning Dave and Debbie's October 2026 trip to Japan.
+This repository is the single source of truth for planning Dave and Debbie's May 2026 trip to Japan.
 It centralizes itinerary, hotels, logistics, and tooling so any assistant (human or chat agent) can
 contribute consistently.
 
@@ -98,7 +98,7 @@ contribute consistently.
 ## Future Additions
 
 - Food Guide: Ramen, Tempura, Okonomiyaki, Yakiniku near planned hubs (Ginza, Kyoto Station, Namba) with JPY/USD pricing.
-- Flight Logistics: Open-jaw routing (into Tokyo, out of Osaka), typical costs, seat/arrival timing tips.
+- Flight Logistics: Round-trip routing (EWR <-> HND), Shinkansen return strategy, seat/arrival timing tips.
 - USJ Strategy: Express Pass guidance, app steps for Area Timed Entry, timing for Donkey Kong Country.
 
 ## Contact & Ownership

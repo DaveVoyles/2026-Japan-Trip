@@ -42,26 +42,29 @@ The final leg of your trip brings you to Osaka, Japan's energetic culinary capit
 
 ---
 
-## Day 9: Last Bites & Departure (Tuesday  Wednesday)
+## Day 9: Last Bites & Departure (Tuesday, June 2)
 
-**Day Map:** [View all locations for this day](https://www.google.com/maps/search/Don%20Quijote%2C%20Osaka%2C%20Japan%20OR%20Den%20Den%20Town%2C%20Osaka%2C%20Japan%20OR%20551%20Horai%2C%20Osaka%2C%20Japan%20OR%20Namba%20location%2C%20Osaka%2C%20Japan%20OR%20Komeda%20Coffee%2C%20Osaka%2C%20Japan%20OR%2024-hour%20megastore%2C%20Osaka%2C%20Japan%20OR%20Osaka%27s%20electronics%20district%2C%20Japan%20OR%20Super%20Potato%20Osaka%2C%20Japan%20OR%20Mandarake%20Grandchaos%2C%20Osaka%2C%20Japan%20OR%20Surugaya%2C%20Osaka%2C%20Japan)
+**Day Map:** [View all locations for this day](https://www.google.com/maps/search/Don%20Quijote%2C%20Osaka%2C%20Japan%20OR%20Den%20Den%20Town%2C%20Osaka%2C%20Japan%20OR%20551%20Horai%2C%20Osaka%2C%20Japan)
 
 | Time | Activity | Cost |
 | :--- | :--- | :--- |
-| **08:00** | **Breakfast: Jiggly Cheesecake** | $ |
-| **09:30** | **Last-Minute Shopping (Donki / Den Den Town)** | $$ |
-| **12:00** | **Lunch: 551 Horai Pork Buns** | $ |
-| **13:00** | **Depart for Airport (KIX)** | $$$ |
+| **08:00** | **Breakfast: Jiggly Cheesecake / Coffee** | $ |
+| **09:30** | **Last-Minute Shopping (Den Den Town / Kuromon)** | $$ |
+| **11:30** | **Collect Luggage / Head to Shin-Osaka** | - |
+| **12:00** | **Shinkansen to Tokyo (Shinagawa)** | $$$ |
+| **14:30** | **Arrive Shinagawa -> Transfer to HND** | - |
+| **15:30** | **Arrive Haneda Airport (Terminal 3)** | - |
+| **17:45** | **Flight Departure (HND -> EWR)** | - |
 
 **Quick Logistics:**
 
-- **To Kansai Airport (KIX):** Nankai Rapi:t Limited Express (35-40 min) from Namba Station.
-- **Alternative:** Shinkansen Osaka  Tokyo (2.5 hrs) if flying from NRT/HND.
+- **Route:** Namba (Subway) -> Shin-Osaka (Shinkansen) -> Shinagawa (Transfer) -> Haneda Airport.
+- **Total Transit Time:** Allow 4 hours door-to-terminal to be safe.
+- **Lunch:** Buy "Ekiben" (Bento boxes) and 551 Horai buns at Shin-Osaka station to eat on the train using your tray table.
 
 **Sightseeing Details:**
 
-- **Dave (Den Den Town):** Osaka's version of Akihabara. Visit [Super Potato Osaka](https://www.superpotato.com/)
-  and [Game Tanteidan].
-- **Debbie (Kuromon Market):** "Osaka's Kitchen" with fresh seafood, fruit stalls, and street food.
-- **551 Horai:** Famous for pork buns (Butaman)—perfect for a pre-flight meal.
-- **KIX Airport:** Arrive 3 hours before international flights. Terminal 1 is the main hub.
+- **Dave (Den Den Town):** A final sweep for retro games at [Super Potato Osaka](https://www.superpotato.com/) before leaving.
+- **Debbie (Kuromon Market):** "Osaka's Kitchen" - grab some strawberries or grilled crab legs for a pre-train snack.
+- **551 Horai:** The line at Shin-Osaka station is long but moves fast. Get the pork buns!
+- **Departure:** United Flight UA130 leaves at 5:45 PM. Arriving at HND by 3:30 PM is perfect.

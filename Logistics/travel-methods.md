@@ -1,37 +1,35 @@
 # Travel & Transportation Methods
 
-## ✈️ International Flights (EWR <-> Japan)
+##  International Flights (EWR <-> HND)
 
-**Strategy:** "Open Jaw" (Multi-City) Ticket. Fly into Tokyo, fly out of Osaka. This saves ~4 hours
-of train travel and ~$100 USD on a return Shinkansen ticket.
+**Strategy:** "Round Trip Direct". Fly directly between Newark (EWR) and Tokyo Haneda (HND) for maximum efficiency and comfort.
 
 ### Cost Legend (per person unless noted)
 
 - **$** = Under $15
-- **$$** = $15 – $50
-- **$$$** = $50 – $150
+- **$$** = $15  $50
+- **$$$** = $50  $150
 - **$$$$** = Over $150
 
 | Est Cost (Round Trip) | Booking Method | Details | Availability | English Friendly |
 | :--- | :--- | :--- | :--- | :--- |
-| **Economy:** $1,200 - $1,600<br>(~180k - 240k JPY)<br>**Prem. Econ:** $2,200 - $3,000<br>(~330k - 450k JPY) | [United Airlines](https://www.united.com) | **Outbound:** EWR -> HND/NRT (Direct, ~14h)<br>**Return:** KIX -> SFO/LAX -> EWR (1 Stop, ~16h total) | Book 11 months out (Nov 2025) | High |
+| **Prem. Econ:** $2,500 - $3,500<br>(~375k - 525k JPY) | [United Airlines](https://www.united.com) | **Outbound:** EWR -> HND (Direct, 14.5h)<br>**Return:** HND -> EWR (Direct, 12.5h) | Book 11 months out (June 2025) | High |
 
-### 📝 Booking Tips
+###  Specific Plan (May 2026)
 
-- **Airport Choice:**
-  - **Haneda (HND):** Much closer to Tokyo city center (30 min taxi/train). Preferred.
-  - **Narita (NRT):** Further out (60-90 min train). Often cheaper.
-- **Seat Selection:**
-  - **Premium Economy:** Highly recommended for the 14h flight. Includes wider seats, footrests, and priority boarding.
-  - **Economy Plus:** Good compromise for legroom.
+- **Outbound:** Sunday, May 24 @ 10:30 AM (EWR). Arrive Monday, May 25 @ 2:00 PM (HND).
+- **Return:** Tuesday, June 2 @ 5:45 PM (HND).
+- **Seat Selection:** Aim for **Premium Economy** or **Polaris Business** given the 14+ hour duration.
 
 ---
 
-## 🚄 Inter-City (Shinkansen & Trains)
+##  Inter-City (Shinkansen & Trains)
 
-**Primary Route:** Tokyo -> Kyoto (Tokaido Shinkansen).
+**Primary Routes:**
+1.  **Tokyo -> Kyoto** (Day 5)
+2.  **Osaka -> Tokyo (Haneda)** (Day 9)
 
-**📚 For English Speakers:** See the [English Speaker's Essential Guide](../Reference/english-speaker-guide.md)
+** For English Speakers:** See the [English Speaker's Essential Guide](../Reference/english-speaker-guide.md)
 for navigation tips, IC card usage, and how to read station signs.
 
 | Ticket Type | Est Cost (One Way) | Where to Buy | Details |
@@ -39,7 +37,24 @@ for navigation tips, IC card usage, and how to read station signs.
 | **Ordinary Car** | ~$93 USD<br>(14,000 JPY) | **SmartEx App**<br>or Station Machines | 3x2 seating. Comfortable, plenty of legroom. |
 | **Green Car** | ~$126 USD<br>(19,000 JPY) | **SmartEx App**<br>or Station Machines | **Recommended.** 2x2 seating, heated seats,<br>quieter, dedicated luggage space. |
 
-### 🎫 The Shinkansen Experience: What to Expect
+###  Day 9 Return Strategy: Osaka to Haneda
+
+Since your return flight is from **Haneda (HND)** at 5:45 PM, you must travel from Osaka on the final day.
+
+1.  **Start:** Shin-Osaka Station.
+2.  **Train:** **Tokaido Shinkansen (Nozomi)**.
+    *   **Departure:** Aim for **12:00 PM**.
+    *   **Destination:** **Shinagawa Station** (NOT Tokyo Station).
+    *   **Duration:** ~2 hours 25 minutes.
+3.  **Transfer at Shinagawa:**
+    *   Walk to the **Keikyu Line** transfer gate (well-marked).
+    *   Take the **Keikyu Airport Express** to Haneda Terminal 3.
+    *   **Duration:** ~15-20 minutes.
+4.  **Arrival at HND:** ~3:00 PM - 3:30 PM (Perfect for a 5:45 PM flight).
+
+**Why Shinagawa?** It is much easier to transfer to the airport train at Shinagawa than at enormous Tokyo Station.
+
+###  The Shinkansen Experience: What to Expect
 
 **Before You Board:**
 
@@ -69,15 +84,15 @@ for navigation tips, IC card usage, and how to read station signs.
 - **Ordinary Car (Standard Class):**
   - **Configuration:** 3 seats (A-B-C) + Aisle + 2 seats (D-E)
   - **Pitch (Legroom):** 39 inches (similar to Premium Economy on planes)
-  - **For Tall Travelers (6'2"+):** ✅ Comfortable - more legroom than most domestic first-class seats
+  - **For Tall Travelers (6'2"+):**  Comfortable - more legroom than most domestic first-class seats
   - **Recline:** Yes, but limited (don't recline during meals)
-  - **Seats:** Comfortable, rotate 180° so groups can face each other
+  - **Seats:** Comfortable, rotate 180 so groups can face each other
   - **Power Outlets:** Available at **every row** (between seats)
 
 - **Green Car (First Class):**
   - **Configuration:** 2 seats (A-B) + Aisle + 2 seats (C-D)
   - **Pitch:** 43 inches (more legroom than most airline business class)
-  - **For Tall Travelers (6'2"+):** ✅✅ Excellent - can fully stretch legs without touching seat in front
+  - **For Tall Travelers (6'2"+):**  Excellent - can fully stretch legs without touching seat in front
   - **Recline:** Deep recline with footrest
   - **Seats:** Leather, heated, wider armrests
   - **Perks:** Free blankets, attendant service, quieter atmosphere
@@ -85,7 +100,8 @@ for navigation tips, IC card usage, and how to read station signs.
 
 **Best Seats for Mt. Fuji Views:**
 
-- **Seat E (Right side, Window)** on Tokyo → Kyoto route
+- **Seat E (Right side, Window)** on Tokyo  Kyoto route
+- **Seat E (Left side, Window)** on Osaka  Tokyo route (Return trip)
 - **Fuji appears ~45 minutes into journey** (between Shin-Yokohama and Atami)
   - **Weather Dependent:** Best visibility on clear mornings (not guaranteed)
   - [Mt. Fuji Viewing Guide](https://www.japan-guide.com/e/e2359.html)
@@ -101,7 +117,7 @@ for navigation tips, IC card usage, and how to read station signs.
 
 **On the Platform (Before Boarding):**
 
-- **Ekiben (Station Bento Boxes):** ¥1,000-1,500 ($7-10)
+- **Ekiben (Station Bento Boxes):** 1,000-1,500 ($7-10)
   - **Must Try:** Tokyo Chicken Teriyaki Bento, Kyoto Sushi Bento
   - **Tip:** Buy at Tokyo Station's "Ekiben-ya Matsuri" shop (100+ varieties)
   - [Ekiben Guide](https://www.jreast.co.jp/e/customer_support/ekiben/)
@@ -117,11 +133,11 @@ for navigation tips, IC card usage, and how to read station signs.
 
 **What NOT to Do:**
 
-- ❌ **Don't talk on your phone** (Text only - talking is considered rude)
+-  **Don't talk on your phone** (Text only - talking is considered rude)
   - If you must take a call, step into the vestibule between cars
-- ❌ **Don't recline during meal times** (be mindful of person behind you)
-- ❌ **Don't eat smelly food** (avoid strong-smelling fish, curry)
-- ❌ **Don't play music/videos without headphones**
+-  **Don't recline during meal times** (be mindful of person behind you)
+-  **Don't eat smelly food** (avoid strong-smelling fish, curry)
+-  **Don't play music/videos without headphones**
 
 **Restrooms:**
 
@@ -141,9 +157,10 @@ for navigation tips, IC card usage, and how to read station signs.
 
 | Route | Duration | Frequency | Last Train |
 | :--- | :--- | :--- | :--- |
-| **Tokyo → Kyoto** | 2h 15m (Nozomi)<br>2h 45m (Hikari) | Every 10-15 min | ~9:30 PM |
-| **Kyoto → Osaka** | 15 min | Every 10 min | ~11:00 PM |
-| **Kyoto → Tokyo** | 2h 15m | Every 10-15 min | ~9:30 PM |
+| **Tokyo  Kyoto** | 2h 15m (Nozomi)<br>2h 45m (Hikari) | Every 10-15 min | ~9:30 PM |
+| **Kyoto  Osaka** | 15 min | Every 10 min | ~11:00 PM |
+| **Kyoto  Tokyo** | 2h 15m | Every 10-15 min | ~9:30 PM |
+| **Osaka  Tokyo** | 2h 30m | Every 10 min | ~9:30 PM |
 
 **Punctuality:**
 
@@ -160,7 +177,7 @@ for navigation tips, IC card usage, and how to read station signs.
 - **Mt. Fuji Moment:** Everyone rushes to the right-side windows (if visible)
 - **Arrival:** Gentle deceleration, perfect platform alignment
 
-### 📱 How to Buy Tickets
+###  How to Buy Tickets
 
 1. **SmartEx App (Recommended):**
    - **Download:** "SmartEx" App (iOS/Android).
@@ -172,7 +189,7 @@ for navigation tips, IC card usage, and how to read station signs.
    - Select "English" -> "Purchase Ticket" -> "Tokaido Shinkansen".
    - Pay with Credit Card.
 
-### 🧳 The "Baggage 160" Rule
+###  The "Baggage 160" Rule
 
 - **Rule:** If your luggage (Length + Width + Height) is **over 160cm** (approx 62 inches - standard
   large check-in size), you **MUST** reserve a seat with an "Oversized Baggage Area".
@@ -183,7 +200,7 @@ for navigation tips, IC card usage, and how to read station signs.
 
 ---
 
-## 💳 Local Transport (IC Cards)
+##  Local Transport (IC Cards)
 
 **The "Suica" or "Pasmo" card is your key to the city.** It works on trains, subways, buses, and even vending machines/conbini.
 
@@ -192,7 +209,7 @@ for navigation tips, IC card usage, and how to read station signs.
 | **Mobile Suica**<br>(Recommended) | Free Deposit | **Apple Wallet:** Open Wallet App -> "+" -> "Transit Card" -> "Suica". | **Top-up:** Use Amex or Mastercard in Apple Wallet. Visa often fails due to foreign issuer restrictions. [Official Guide](https://www.jreast.co.jp/e/pass/suica_mobile/) |
 | **Welcome Suica**<br>(Physical) | Free Deposit | **Haneda/Narita Airport:** Vending machines at arrival hall. | Valid for 28 days. No refund on balance. Good backup if phone dies. [More Info](https://www.jreast.co.jp/e/welcomesuica/welcomesuica.html) |
 
-### 💡 Usage Tips
+###  Usage Tips
 
 - **Tap In/Tap Out:** Tap your phone/card on the yellow reader at the ticket gate.
 - **Balance:** Keep ~2,000 JPY ($13) loaded. Max balance is 20,000 JPY ($133).
@@ -200,7 +217,7 @@ for navigation tips, IC card usage, and how to read station signs.
 
 ---
 
-## 📦 Luggage Forwarding (Takkyubin)
+##  Luggage Forwarding (Takkyubin)
 
 **Don't haul heavy bags on the train.** Ship them.
 
@@ -208,7 +225,7 @@ for navigation tips, IC card usage, and how to read station signs.
 | :--- | :--- | :--- | :--- |
 | **Yamato Transport**<br>(Black Cat) | ~$15 - $25 USD<br>(2,000 - 3,500 JPY) per bag | **Next Day** delivery (usually). | Ask Hotel Front Desk: *"Takkyubin, please."* [Official Site](https://www.kuronekoyamato.co.jp/en/) |
 
-### 📋 Procedure
+###  Procedure
 
 1. **Night Before:** Pack your large suitcase. Keep a small backpack/carry-on with essentials for 1 night.
 2. **Morning of Departure:** Bring bags to hotel lobby.
@@ -218,7 +235,7 @@ for navigation tips, IC card usage, and how to read station signs.
 
 ---
 
-## 🚕 Taxi Apps
+##  Taxi Apps
 
 | App | Availability | Payment | Notes |
 | :--- | :--- | :--- | :--- |
@@ -227,18 +244,17 @@ for navigation tips, IC card usage, and how to read station signs.
 
 ---
 
-## 🏙️ City-Specific Logistics
+##  City-Specific Logistics
 
-### 1. 🗼 Tokyo (The Metropolis)
+### 1.  Tokyo (The Metropolis)
 
-#### ✈️ Airport to City
+####  Airport to City
 
-- **Narita Express (N'EX):** Direct to Tokyo/Shinjuku/Shibuya. Covered by JR Pass (if you had one, but you don't need one).
-  ~$20 USD. [Timetable](https://www.jreast.co.jp/e/nex/)
+- **Keikyu Line / Monorail (from HND):** Fast and cheap. To Shinagawa or Hamamatsucho.
 - **Limousine Bus:** Direct to major hotels. Best if you have lots of luggage and don't want to navigate stations.
   ~$20 USD. Book at airport arrival counter. [Book Here](https://www.limousinebus.co.jp/guide/en/)
 
-#### 🚇 Getting Around
+####  Getting Around
 
 - **Subway Tickets:** If you plan to ride the subway 4+ times a day, buy the **Tokyo Subway Ticket** (24/48/72 hours)
   at the airport or Bic Camera.
@@ -248,9 +264,9 @@ for navigation tips, IC card usage, and how to read station signs.
   - **Chiyoda Line (Green):** Good for Harajuku/Omotesando.
   - **Ginza Line (Orange):** Good for Shibuya/Ginza/Asakusa.
 
-### 2. ⛩️ Kyoto (The Cultural Capital)
+### 2.  Kyoto (The Cultural Capital)
 
-#### 🚕 The "Taxi Strategy"
+####  The "Taxi Strategy"
 
 Kyoto's trains are limited, and buses are miserable (crowded).
 
@@ -258,15 +274,15 @@ Kyoto's trains are limited, and buses are miserable (crowded).
 - **MK Taxi:** A premium, English-friendly taxi fleet. Look for the heart logo on the roof. [Website](https://www.mktaxi-japan.com/)
 - **Cost:** Short rides are ~1,000 - 2,000 JPY ($7 - $13). Worth every penny to save energy.
 
-#### 🚶 Walking Routes
+####  Walking Routes
 
 - **Higashiyama:** Start at **Kiyomizu-dera** (top of hill) and walk *down* through Sannenzaka/Ninenzaka to Gion.
   Do not walk up.
 - **Fushimi Inari:** Go at 6:30 AM. Take JR Nara Line to Inari Station (right in front of gate).
 
-### 3. 🐙 Osaka (The Kitchen of Japan)
+### 3.  Osaka (The Kitchen of Japan)
 
-#### 🎢 Universal Studios Japan (USJ) Access
+####  Universal Studios Japan (USJ) Access
 
 - **Route:** Osaka Station -> (JR Osaka Loop Line) -> Nishikujo Station -> (Transfer to JR Yumesaki Line) ->
   Universal City Station.
@@ -274,16 +290,16 @@ Kyoto's trains are limited, and buses are miserable (crowded).
 - **Cost:** ~190 JPY ($1.25).
 - **Crowds:** The train *will* be packed with Mario/Harry Potter fans. Follow the crowd. [USJ Access Guide](https://www.usj.co.jp/web/en/us/access)
 
-#### 🚇 Osaka Metro
+####  Osaka Metro
 
 - **Midosuji Line (Red):** The only line you really need. [Map](https://subway.osakametro.co.jp/en/guide/routemap.php)
   - **Umeda:** North hub (Shopping, Pokemon Center).
   - **Shinsaibashi:** Shopping arcade.
   - **Namba:** Dotonbori (Food, Glico Man).
 
-### 4. 🦌 Nara (Day Trip)
+### 4.  Nara (Day Trip)
 
-#### 🦌 Getting There
+####  Getting There
 
 - **From Kyoto:**
   - **Kintetsu Line (Recommended):** Express train to **Kintetsu-Nara Station**.
@@ -292,8 +308,9 @@ Kyoto's trains are limited, and buses are miserable (crowded).
 - **From Osaka:**
   - **Kintetsu Line:** From Namba Station to Kintetsu-Nara. ~40 mins. [Kintetsu Info](https://www.kintetsu.co.jp/foreign/english/)
 
-#### 🍪 Deer Etiquette
+####  Deer Etiquette
 
 - **Shika Senbei (Deer Crackers):** 200 JPY ($1.30). Buy them at stalls.
 - **Warning:** The deer *will* bow for food, but they can also bite/headbutt if you tease them.
   Hide the crackers if you get swarmed.
+
