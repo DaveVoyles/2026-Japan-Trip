@@ -5,6 +5,7 @@
 ---
 
 ## �️ Pre-Trip Booking Checklist
+
 - [ ] **Visit Japan Web:** QR codes saved for Immigration & Customs
 - [ ] **Universal Studios Japan:** Tickets & Express Pass (2 months out)
 - [ ] **TeamLab Borderless/Planets:** Tickets booked (2 months out)
@@ -17,6 +18,7 @@
 ## �🛫 Day Before Departure from US
 
 ### 48 Hours Before Flight:
+
 - [ ] **Confirm Flight:** Check airline app/email for any changes
 - [ ] **Online Check-in:** Check in 24 hours before departure
 - [ ] **Seat Selection:** Confirm seats (aisle for bathroom access on 13-hour flight!)
@@ -25,6 +27,7 @@
 - [ ] **Passport Validity:** Must be valid 6+ months beyond trip end date
 
 ### Tech Final Setup:
+
 - [ ] **All Apps Downloaded:** Check tech-setup.md checklist
 - [ ] **eSIM Installed:** (Don't activate yet!)
 - [ ] **Offline Maps:** Tokyo, Kyoto, Osaka downloaded to Google Maps
@@ -35,6 +38,7 @@
 - [ ] **Photos Backed Up:** Clear space on phone (you'll take 1000+ photos!)
 
 ### Banking & Money:
+
 - [ ] **Notify Banks:** Call credit card companies (or use app) to notify of Japan travel
 - [ ] **Test Cards:** Verify cards aren't frozen
 - [ ] **Emergency Numbers:** Save credit card emergency numbers to phone
@@ -42,6 +46,7 @@
 - [ ] **Multiple Cards:** Pack 2+ credit cards (separate locations in case one is lost)
 
 ### Packing Final Check:
+
 - [ ] **Passport in Carry-on:** Triple check!
 - [ ] **Medications:** Original bottles + copies of prescriptions
 - [ ] **Chargers & Cables:** Phone, portable battery, camera (pack 2-3 cables!)
@@ -55,6 +60,7 @@
 - [ ] **Neck Pillow:** For comfort
 
 ### Documents to Bring:
+
 - [ ] **Passport** (obviously!)
 - [ ] **Printed Flight Confirmations:** Backup if phone dies
 - [ ] **Printed Hotel Confirmations:** All 3 hotels
@@ -65,6 +71,7 @@
 - [ ] **Vaccination Card:** (If required or recommended)
 
 ### Day Before:
+
 - [ ] **Reconfirm Ride to Airport:** Uber/Lyft/friend scheduled?
 - [ ] **Set Multiple Alarms:** Don't miss flight!
 - [ ] **Charge Everything:** Phone, portable charger, camera, headphones to 100%
@@ -83,6 +90,7 @@
 ### Morning of Flight:
 
 **Timeline:** (Adjust based on your actual flight time)
+
 - **3-4 Hours Before Flight:** Leave for airport
   - **International Flights:** Arrive 3 hours early (TSA + customs can be slow)
 - **2-3 Hours Before:** Check in, drop bags (if checking)
@@ -92,17 +100,20 @@
 ### At Newark Airport (EWR):
 
 **Terminal Check:**
+
 - **United:** Terminal C (most common for Tokyo flights)
 - **ANA:** Terminal B
 - **Other:** Check boarding pass!
 
 **Check-In:**
+
 - [ ] **Drop Checked Bag:** If checking luggage (free on most international flights)
 - [ ] **Get Boarding Pass:** If not already printed
 - [ ] **Verify Gate:** Gate can change, double-check monitors
 - [ ] **Customs Declaration Form:** Fill out on plane or in terminal
 
 **Security:**
+
 - [ ] **Laptop Out:** Place in separate bin
 - [ ] **Liquids Out:** 3-1-1 rule (3.4 oz bottles, 1 quart bag, 1 per person)
 - [ ] **Shoes Off:** Remove shoes, belt, jacket
@@ -110,6 +121,7 @@
 - [ ] **TSA PreCheck:** If you have it, use special lane
 
 **After Security:**
+
 - [ ] **Find Gate:** Go to your gate first, then explore
 - [ ] **Charge Devices:** Use outlet at gate
 - [ ] **Grab Food/Snacks:** Airport food for flight
@@ -119,6 +131,7 @@
 - [ ] **Final Check:** Passport in carry-on (not checked bag!)
 
 **At Gate:**
+
 - [ ] **Verify Flight Status:** Check monitors for delays
 - [ ] **Seat Confirmation:** Verify seat assignment
 - [ ] **Download Entertainment:** Last chance for movies/shows
@@ -127,12 +140,14 @@
 ### On the Plane:
 
 **Before Takeoff:**
+
 - [ ] **Customs Form:** Fill out Japan customs declaration (given by crew)
 - [ ] **Immigration Form:** Fill out if given (sometimes electronic now)
 - [ ] **Set Watch to Japan Time:** JST = EDT + 13 hours (e.g., 9 AM EDT = 10 PM JST)
 - [ ] **Adjust Sleep Schedule:** Try to sleep on Japan's nighttime
 
 **During Flight (13-14 Hours):**
+
 - [ ] **Stay Hydrated:** Drink water every hour
 - [ ] **Move Around:** Walk aisle every 2-3 hours (blood circulation)
 - [ ] **Stretch:** Simple stretches in seat
@@ -141,6 +156,7 @@
 - [ ] **Sleep if Possible:** Use eye mask, earplugs, neck pillow
 
 **1-2 Hours Before Landing:**
+
 - [ ] **Customs Form Complete:** Double-check all fields filled
 - [ ] **Passport Ready:** Easy to grab from bag
 - [ ] **Freshen Up:** Brush teeth, wash face, change shirt (you'll feel better!)
@@ -154,12 +170,14 @@
 ### At Narita (NRT) or Haneda (HND) Airport:
 
 **After Landing:**
+
 - [ ] **Turn on Airplane Mode:** While still on plane
 - [ ] **Enable eSIM:** Settings → Cellular → Turn ON "Japan Data"
 - [ ] **Disable Roaming:** Turn OFF primary line data roaming
 - [ ] **Test Connection:** Open Google Maps (should load with eSIM data)
 
 **Immigration:**
+
 - [ ] **Follow "Foreign Passports" Signs:** Look for international arrivals
 - [ ] **Have Ready:** Passport + customs form
 - [ ] **Answer Questions:** Purpose of visit (tourism), length of stay (9 days), hotel address
@@ -168,17 +186,20 @@
 - [ ] **Average Wait:** 30-45 minutes depending on time of day
 
 **Baggage Claim:**
+
 - [ ] **Find Your Carousel:** Check monitors for flight number
 - [ ] **Grab Luggage:** Verify it's yours (check luggage tag)
 - [ ] **Inspect for Damage:** Report immediately if damaged
 - [ ] **Use Cart if Needed:** Usually ¥100-200 deposit (refundable)
 
 **Customs:**
+
 - [ ] **"Nothing to Declare" Line:** If you have nothing unusual (most people)
 - [ ] **Walk Through:** Usually no inspection unless selected randomly
 - [ ] **Keep Customs Form:** Sometimes collected, sometimes not
 
 **In Arrivals Hall:**
+
 - [ ] **Find Currency Exchange:** (If you didn't exchange at Newark)
   - **Narita:** Travelex booths in arrivals hall
   - **Haneda:** Multiple counters near exits
@@ -194,6 +215,7 @@
 **From Narita (NRT):**
 
 **Option A: Narita Express (N'EX) - Recommended**
+
 - [ ] **Find N'EX Station:** Follow orange "Narita Express" signs
 - [ ] **Ticket Counter or Machine:** Buy ticket to Tokyo or Shinjuku
   - **Tokyo Station:** ¥3,070 ($20), 60 min
@@ -205,6 +227,7 @@
 - [ ] **Enjoy Ride:** 60-90 minutes, relax and watch Japan fly by!
 
 **Option B: Keisei Skyliner (Faster to Ueno)**
+
 - [ ] **Find Keisei Station:** Follow blue "Skyliner" signs
 - [ ] **Ticket:** ¥2,520 ($17) to Ueno or Nippori
 - [ ] **41 Minutes:** Fastest to Ueno area
@@ -213,12 +236,14 @@
 **From Haneda (HND):**
 
 **Option A: Tokyo Monorail - Recommended**
+
 - [ ] **Find Monorail Station:** Connected to terminal
 - [ ] **Tap Suica:** No ticket needed, just tap IC card
 - [ ] **Destination:** Hamamatsucho Station (18 min, ¥500/$3)
 - [ ] **Transfer to JR:** At Hamamatsucho, transfer to JR Yamanote Line to your hotel area
 
 **Option B: Keikyu Line**
+
 - [ ] **Find Keikyu Station:** In terminal
 - [ ] **Tap Suica:** Direct to Shinagawa (14 min, ¥300/$2)
 - [ ] **Transfer:** From Shinagawa to final destination
@@ -226,6 +251,7 @@
 ### Arriving at Tokyo Hotel:
 
 **Check-In:**
+
 - [ ] **Find Hotel:** Use Google Maps (test that eSIM is working!)
 - [ ] **Arrive at Hotel:** Show reservation confirmation on phone
 - [ ] **Check-in Time:** Usually 3 PM (some hotels flexible)
@@ -236,6 +262,7 @@
 - [ ] **Breakfast Info:** Ask about breakfast times if included
 
 **Room Setup:**
+
 - [ ] **Test WiFi:** Connect to hotel WiFi
 - [ ] **Plug in to Charge:** Phone, portable battery, camera
 - [ ] **Test Bathroom:** Hot water, toilet (bidet buttons!), shower
@@ -246,9 +273,10 @@
 
 **First Evening in Tokyo:**
 
-*See main itinerary for Day 1 detailed plans!*
+_See main itinerary for Day 1 detailed plans!_
 
 **Evening Tasks:**
+
 - [ ] **Light Dinner:** (See food-guide.md for recommendations)
 - [ ] **Konbini Visit:** 7-Eleven or Lawson to grab breakfast for tomorrow
   - Stock up: Onigiri, coffee, snacks, water
@@ -257,6 +285,7 @@
 - [ ] **Check Tomorrow's Plan:** Review Day 2 itinerary
 
 **Before Sleep:**
+
 - [ ] **Charge Everything:** Phone, portable battery to 100%
 - [ ] **Check Suica Balance:** Reload if under ¥1,000
 - [ ] **Screenshot Tomorrow's Route:** In case connection issues
@@ -269,6 +298,7 @@
 ### Morning Checkout from Tokyo Hotel:
 
 **Wake Up: 6:00 AM**
+
 - [ ] **Quick Breakfast:** Konbini food from room
 - [ ] **Final Room Check:** Don't leave phone chargers, passport, etc.!
 - [ ] **Pack Everything:** All belongings in luggage
@@ -276,6 +306,7 @@
 - [ ] **Leave Room Key:** Return at checkout desk
 
 **Checkout Process:**
+
 - [ ] **Checkout:** Before 11 AM (standard time)
 - [ ] **Verify Bill:** Check for any mistakes
 - [ ] **Payment:** Usually paid already if prepaid online
@@ -283,6 +314,7 @@
 - [ ] **Store Luggage OR Forward:** Choose your strategy:
 
 **Option A: Luggage Forwarding (Recommended):**
+
 - [ ] **Hotel Concierge:** Ask "Takkyubin onegaishimasu"
 - [ ] **Fill Out Form:** Kyoto hotel name, address, your name, phone
 - [ ] **Payment:** ¥2,000-3,000 ($13-20) per bag
@@ -290,6 +322,7 @@
 - [ ] **Overnight Bag:** Pack small bag with 1 change of clothes, toiletries
 
 **Option B: Bring Luggage on Shinkansen:**
+
 - [ ] **Check Size:** Large luggage needs special reservation
 - [ ] **Overhead Racks:** Smaller carry-ons fit overhead
 - [ ] **Space Behind Last Row:** If you have huge suitcase
@@ -297,6 +330,7 @@
 ### Getting to Tokyo Station:
 
 **7:00 AM Departure:**
+
 - [ ] **Google Maps:** Route from hotel to Tokyo Station
 - [ ] **Tap Suica:** At station entrance
 - [ ] **Follow Signs:** "Shinkansen" (blue signs with bullet train icon)
@@ -306,6 +340,7 @@
 ### At Tokyo Station:
 
 **Buying Shinkansen Ticket (If not using SmartEx):**
+
 - [ ] **Midori no Madoguchi:** JR ticket office (green window)
 - [ ] **Say:** "Kyoto, Nozomi or Hikari, 2 people, non-smoking"
 - [ ] **Seat Preference:** Window (E seat for Mt. Fuji view if going 7-9 AM!)
@@ -313,11 +348,13 @@
 - [ ] **Receive Tickets:** 2 tickets (boarding + reserved seat)
 
 **Using SmartEx App:**
+
 - [ ] **Already Booked:** Check app for confirmation
 - [ ] **Linked to Suica:** Just tap phone at gate
 - [ ] **Platform Number:** Check app or station monitors
 
 **Before Boarding:**
+
 - [ ] **Find Your Platform:** Check ticket or app (usually Platform 14-23)
 - [ ] **Buy Ekiben (Station Bento):** At vendors near platforms
   - **Recommendation:** Tokyo Bento, Daruma Bento (¥1,000-1,500)
@@ -326,6 +363,7 @@
 - [ ] **Find Platform:** Follow signs with platform number
 
 **On Platform:**
+
 - [ ] **Platform Markings:** Lines on ground show where each car stops
 - [ ] **Find Your Car Number:** E.g., "Car 7" - stand in that section
 - [ ] **Wait Behind Line:** Don't block doors when train arrives
@@ -335,6 +373,7 @@
 ### On Shinkansen (2 hours 15 min to Kyoto):
 
 **After Boarding:**
+
 - [ ] **Find Seat:** Car + row + seat (e.g., Car 7, Row 15, Seat E)
 - [ ] **Luggage:** Overhead or space behind last row
 - [ ] **Recline Seat:** Button on armrest (polite to ask person behind first if reclining fully)
@@ -342,6 +381,7 @@
 - [ ] **Enjoy Ekiben:** Eat your station bento!
 
 **During Ride:**
+
 - [ ] **Watch for Mt. Fuji:** If clear morning, look RIGHT side (E seats) between Tokyo-Shin-Fuji
   - **Best View:** ~40 minutes into journey
 - [ ] **Take Photos:** Beautiful countryside scenery
@@ -350,6 +390,7 @@
 - [ ] **Charge Devices:** Some seats have outlets
 
 **30 Min Before Kyoto:**
+
 - [ ] **Pack Up:** Put trash in bag (trash cans at end of car)
 - [ ] **Get Belongings:** Check overhead rack
 - [ ] **Prepare to Exit:** Have luggage ready
@@ -357,6 +398,7 @@
 ### Arrival at Kyoto Station:
 
 **9:30 AM Arrival:**
+
 - [ ] **Exit Shinkansen Gate:** Tap Suica or insert ticket
   - **SmartEx:** Just tap phone
   - **Paper Ticket:** Insert into gate, gate returns it
@@ -367,13 +409,14 @@
   - **Central Exit:** Shopping, restaurants
 
 **Luggage Options:**
+
 - [ ] **Coin Lockers:** B1 floor near Shinkansen gates (¥400-700 for large)
   - **If lockers full:** Use "Cloak Service" (human-staffed baggage hold)
 - [ ] **Hotel Early Bag Drop:** Call hotel, many accept bags before check-in
 - [ ] **Carry with You:** If light packing
 
 **Next Steps:**
-*Follow Day 5 itinerary - Fushimi Inari Shrine visit!*
+_Follow Day 5 itinerary - Fushimi Inari Shrine visit!_
 
 ---
 
@@ -382,17 +425,20 @@
 ### Morning Checkout from Kyoto Hotel:
 
 **6:00 AM Wake Up:**
+
 - [ ] **Quick Breakfast:** Konbini run
 - [ ] **Pack Everything:** Final room check
 - [ ] **Checkout:** Before 11 AM
 
 **Luggage Decision:**
+
 - **Option A:** Forward luggage to Osaka hotel (same as before)
 - **Option B:** Bring with you (only 30 min train ride, manageable!)
 
 ### Kyoto → Osaka Travel:
 
 **6:30 AM Departure:**
+
 - [ ] **Kyoto Station to Osaka Station:** JR Kyoto Line (Special Rapid)
   - **Platform:** Usually Platform 4-6
   - **Tap Suica:** ~¥570 ($3.80)
@@ -400,10 +446,12 @@
 - [ ] **Alternative to Namba:** Kintetsu Line to Namba (45 min, ¥640)
 
 **On Train:**
+
 - [ ] **Store Luggage:** Overhead or near doors
 - [ ] **Enjoy Short Ride:** Quick and easy!
 
 **Arrive in Osaka:**
+
 - [ ] **Drop Bags at Hotel:** Early bag drop
 - [ ] **Head to Universal Studios Japan:** (See Day 8 itinerary for USJ strategy!)
 
@@ -413,30 +461,31 @@
 
 ### Morning Checkout from Osaka Hotel:
 
-- [ ] **Final Wake Up:** Based on flight time
-- [ ] **Pack Everything:** Triple check room, bathroom, closets
-- [ ] **Checkout:** Settle any bills
-- [ ] **Final Shopping:** If time (see Day 9 itinerary)
+- [ ] **Final Wake Up:** ~8:00 AM.
+- [ ] **Pack Everything:** Triple check room, bathroom, closets.
+- [ ] **Checkout:** Be out by 11:00 AM.
+- [ ] **Final Shopping:** Quick run to Den Den Town or Kuromon.
 
-### Getting to Airport:
+### The Return Journey (Osaka -> Haneda):
 
-**To Kansai International Airport (KIX):**
-- [ ] **Nankai Rapi:t:** From Namba Station (35-40 min, ¥1,450)
-  - **Station:** Namba Station (Nankai Line, different from JR Namba!)
-  - **Reserved Seat:** Comfortable, luggage space
-  - **Direct:** Goes right into airport terminal
-- [ ] **Alternative:** JR Haruka Express from Tennoji or Shin-Osaka
+**1. Shinkansen to Tokyo:**
 
-**Or Return to Tokyo (If flying from NRT/HND):**
-- [ ] **Shinkansen:** Shin-Osaka → Tokyo (2.5-3 hours, ¥13,320)
-- [ ] **Then Airport Train:** Tokyo → Narita or Haneda
+- [ ] **Head to Shin-Osaka Station:** Take Midosuji Line.
+- [ ] **Buy Bento (Ekiben):** Get food at Shin-Osaka _before_ gates.
+- [ ] **Board Train:** 12:00 PM Shinkansen (Nozomi).
+- [ ] **Destination:** **SHINAGAWA Station** (NOT Tokyo Station).
 
-### At Kansai International Airport (KIX):
+**2. Transfer to Airport:**
 
-**3 Hours Before International Flight:**
+- [ ] **Disembark at Shinagawa:** Follow signs for "Keikyu Line" (Airport).
+- [ ] **Take Keikyu Airport Express:** Direct to Haneda Terminal 3.
+- [ ] **Arrival:** Aim for 3:30 PM.
 
-**Check-In:**
-- [ ] **Find Airline Counter:** Check monitors for check-in location
+### At Haneda Airport (HND):
+
+**Check-In (Airline Counter):**
+
+- [ ] **Find Counter:** United (Star Alliance).
 - [ ] **Present Passport:** + any confirmation numbers
 - [ ] **Check Luggage:** Weight must be under 50 lbs (23 kg) for most airlines
   - **Overweight?** Redistribute to carry-on or pay fee
@@ -444,6 +493,7 @@
 - [ ] **Verify Gate & Time:** Double-check departure time and gate
 
 **Tax-Free Customs (BEFORE Security):**
+
 - [ ] **Find Customs Area:** Look for "Tax-Free" or customs inspection signs
 - [ ] **Automated Gate:** Scan passport (removes tax-free forms electronically)
   - **Takes 30 seconds** in most cases
@@ -452,6 +502,7 @@
 - [ ] **Keep Walking:** After customs, you're done!
 
 **Security:**
+
 - [ ] **Liquids Out:** 3-1-1 rule (3.4 oz bottles, 1 quart bag)
   - **Sealed Tax-Free Bags:** Usually allowed through as-is, but ask if unsure
 - [ ] **Electronics Out:** Laptop, tablets in separate bin
@@ -459,12 +510,14 @@
 - [ ] **Empty Pockets:** Phone, wallet, keys in bin
 
 **Immigration:**
+
 - [ ] **Foreign Passport Line:** Follow signs
 - [ ] **Present Passport:** + boarding pass
 - [ ] **Exit Stamp:** They stamp your passport as you leave
 - [ ] **Average Wait:** 15-30 minutes
 
 **In Departure Area:**
+
 - [ ] **Find Gate:** Go to gate first, then explore shops
 - [ ] **Final Shopping:** Duty-free shops (famous KitKats, Royce chocolate, sake)
   - **Last chance for souvenirs!**
@@ -484,6 +537,7 @@
 ### On Plane Home:
 
 **13-14 Hour Flight:**
+
 - [ ] **US Customs Form:** Fill out on plane (usually electronic now)
 - [ ] **Relax:** You did it! Trip complete!
 - [ ] **Sleep:** Try to sleep on US nighttime schedule
@@ -497,6 +551,7 @@
 ### At Newark (EWR):
 
 **After Landing:**
+
 - [ ] **Passport Control:** "US Citizens" line
 - [ ] **Declare Items:** If you bought >$800 worth of goods (per person exemption)
 - [ ] **Baggage Claim:** Grab checked bags
@@ -504,6 +559,7 @@
 - [ ] **Welcome Home!** 🇺🇸
 
 **First Things at Home:**
+
 - [ ] **Unpack:** Especially tax-free sealed bags (finally open them!)
 - [ ] **Wash Clothes:** Laundry time
 - [ ] **Charge Devices:** One last time
@@ -520,6 +576,7 @@
 ### Carry-On Bag:
 
 **CRITICAL (Never Check These):**
+
 - [ ] Passport (most important!)
 - [ ] Credit cards & cash
 - [ ] Phone + charger + portable battery
@@ -529,6 +586,7 @@
 - [ ] Travel documents (confirmations, insurance)
 
 **Comfort Items:**
+
 - [ ] Neck pillow
 - [ ] Eye mask
 - [ ] Earplugs
@@ -546,6 +604,7 @@
 ### Checked Bag:
 
 **Clothes (October weather: 55-75°F):**
+
 - [ ] 5-7 t-shirts/tops
 - [ ] 2-3 long pants
 - [ ] 1 pair shorts (optional)
@@ -558,6 +617,7 @@
 - [ ] Small umbrella (compact)
 
 **Toiletries (Full Sizes OK):**
+
 - [ ] Shampoo & conditioner
 - [ ] Body wash
 - [ ] Face wash
@@ -572,6 +632,7 @@
 - [ ] Prescriptions (bring extra)
 
 **Tech (Some in Carry-On):**
+
 - [ ] Camera (if not using phone)
 - [ ] Camera charger
 - [ ] Extra memory cards
@@ -582,6 +643,7 @@
 - [ ] Power strip (optional but handy!)
 
 **Other:**
+
 - [ ] Daypack / backpack for daily use
 - [ ] Reusable water bottle
 - [ ] Ziploc bags (various sizes)
@@ -595,6 +657,7 @@
 - [ ] Sunglasses
 
 **Don't Forget to Pack for Return:**
+
 - [ ] Space for souvenirs!
 - [ ] Foldable duffel (in case you buy too much!)
 - [ ] Bubble wrap (for fragile purchases like figures)

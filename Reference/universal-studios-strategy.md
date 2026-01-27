@@ -3,14 +3,14 @@
 ## 🎯 The Goal
 
 Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong Country (DKC)** expansion.
-*Warning:* Entry to the park does NOT guarantee entry to Nintendo World. Capacity is strictly limited.
+_Warning:_ Entry to the park does NOT guarantee entry to Nintendo World. Capacity is strictly limited.
 
 ## 🎫 Ticket Strategy (You Need BOTH)
 
 **CRITICAL:** To execute this plan, you must purchase **TWO separate tickets** for each person.
 
-1. **Studio Pass:** Gets you *into* the park.
-2. **Express Pass:** Gets you *onto* the rides (and into Nintendo World) without waiting.
+1. **Studio Pass:** Gets you _into_ the park.
+2. **Express Pass:** Gets you _onto_ the rides (and into Nintendo World) without waiting.
 
 ### 1. Studio Pass (REQUIRED)
 
@@ -25,15 +25,15 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 ### 2. Universal Express Pass (OPTIONAL but HIGHLY RECOMMENDED)
 
 - **What:** An add-on ticket that lets you skip lines AND gives you a **Guaranteed Timed Entry Slot** for Nintendo World.
-- **Note:** *This is NOT an entry ticket. You still need a Studio Pass.*
-- **Cost:** ~15,000 - 20,000+ JPY ($100 - $135+ USD) per person. *Yes, it often costs more than the entry ticket.*
+- **Note:** _This is NOT an entry ticket. You still need a Studio Pass._
+- **Cost:** ~15,000 - 20,000+ JPY ($100 - $135+ USD) per person. _Yes, it often costs more than the entry ticket._
 - **Where to Buy:**
   - [Klook - Express Pass](https://www.klook.com/activity/3407-universal-studios-japan-express-pass-osaka/)
     (Check daily for inventory).
 - **Selection:** You MUST choose a pass that includes **"Mario Kart: Koopa's Challenge"** OR
   **"Donkey Kong: Mine Cart Madness"**.
-  - *Target:* **"Universal Express Pass 4"** (Variety Choice) or **"Universal Express Pass 7"**.
-  - *Critical:* These sell out within hours of release (2 months out). Set a calendar reminder.
+  - _Target:_ **"Universal Express Pass 4"** (Variety Choice) or **"Universal Express Pass 7"**.
+  - _Critical:_ These sell out within hours of release (2 months out). Set a calendar reminder.
 - **How it Works:**
   - You get a QR code for each ride.
   - You are assigned a specific entry time for Super Nintendo World (e.g., 10:00 AM - 11:00 AM).
@@ -60,18 +60,18 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 
 ## 🎒 What to Bring (Survival Kit)
 
-| Item | Why? |
-| :--- | :--- |
-| **Portable Charger** | **CRITICAL.** The USJ App, AR games, and photos will drain your battery by noon. |
-| **Comfortable Shoes** | You will walk 20k+ steps. Standing in line is hard on feet. |
-| **Small Daypack** | Avoid massive backpacks. Lockers are available but crowded. |
-| **Water Bottle** | You can bring one flask/bottle per person. Stay hydrated. |
-| **USJ App** | [iOS](https://apps.apple.com/us/app/universal-studios-japan/id532097000) \| [Android](https://play.google.com/store/apps/details?id=com.universalstudios.japanresort) - Link tickets *before* arrival. |
-| **Park Map** | [Download PDF](https://www.usj.co.jp/web/k/usj/en/common/studiomap_jpg.pdf) (Save to phone). |
+| Item                  | Why?                                                                                                                                                                                                   |
+| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Portable Charger**  | **CRITICAL.** The USJ App, AR games, and photos will drain your battery by noon.                                                                                                                       |
+| **Comfortable Shoes** | You will walk 20k+ steps. Standing in line is hard on feet.                                                                                                                                            |
+| **Small Daypack**     | Avoid massive backpacks. Lockers are available but crowded.                                                                                                                                            |
+| **Water Bottle**      | You can bring one flask/bottle per person. Stay hydrated.                                                                                                                                              |
+| **USJ App**           | [iOS](https://apps.apple.com/us/app/universal-studios-japan/id532097000) \| [Android](https://play.google.com/store/apps/details?id=com.universalstudios.japanresort) - Link tickets _before_ arrival. |
+| **Park Map**          | [Download PDF](https://www.usj.co.jp/web/k/usj/en/common/studiomap_jpg.pdf) (Save to phone).                                                                                                           |
 
 ## 🍄 Super Nintendo World: The Experience
 
-*It's not just a theme park; it's a living video game.*
+_It's not just a theme park; it's a living video game._
 
 ### The Vibe
 
@@ -83,21 +83,18 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 ### Attractions (Detailed)
 
 1. **[Mario Kart: Koopa's Challenge](https://www.usj.co.jp/web/en/us/attractions/mario-kart-koopa-challenge):**
-
    - **Type:** AR Dark Ride / Shooter.
    - **Queue:** A walk through Bowser's Castle. You'll see his library, bomb-omb factory, and trophies.
-     *Look for the book "How to Date a Princess" in the library.*
+     _Look for the book "How to Date a Princess" in the library._
    - **The Ride:** You wear an AR visor (Mario cap). You steer a kart and shoot shells at Team Bowser.
    - **Tip:** The steering wheel actually works! Steer with the arrows to earn coins. If you get hit, you spin out.
 
 2. **[Yoshi's Adventure](https://www.usj.co.jp/web/en/us/attractions/yoshis-adventure):**
-
    - **Type:** Slow-moving scenic ride (Omnimover).
    - **Best For:** Incredible views of the land and Donkey Kong Country. Great for photos.
    - **Hidden Goal:** Find the 3 colored eggs during the ride to earn a stamp in your app.
 
 3. **[Power-Up Band Key Challenges](https://www.usj.co.jp/web/en/us/attractions/power-up-band-key-challenges):**
-
    - **The Gimmick:** Buy a band (~$30) to interact with the land.
    - **The Goal:** Collect 3 Keys from mini-games to unlock the **Bowser Jr. Shadow Showdown**.
    - **Mini-Games:**
@@ -111,7 +108,7 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 
 ### Food & Drink 🍔
 
-*Note: Food is themed impeccably but lines are long.*
+_Note: Food is themed impeccably but lines are long._
 
 - **[Kinopio's Cafe (Toad Cafe)](https://www.usj.co.jp/web/en/us/restaurants/kinopios-cafe):**
   - **Cost:** Mains ~2,500 JPY ($17 USD); Drinks ~800 JPY ($5 USD).
@@ -128,20 +125,18 @@ Secure guaranteed access to **Super Nintendo World (SNW)** and the **Donkey Kong
 
 ## 🦍 Donkey Kong Country Expansion
 
-*The Jungle is alive.*
+_The Jungle is alive._
 
-DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area with interactive drums and a coaster.
+DKC is an expansion _inside_ Super Nintendo World. It is a dense jungle area with interactive drums and a coaster.
 
 ### Attractions
 
 1. **[Mine Cart Madness](https://www.usj.co.jp/web/en/us/attractions/donkey-kong-country):**
-
    - **Type:** Family Coaster (but thrilling).
    - **Gimmick:** The cart "jumps" over broken tracks (simulated). You launch out of a barrel cannon at the start.
    - **Queue:** Walks through the Golden Temple. Look for Cranky Kong!
 
 2. **[Interactive Drums](https://www.usj.co.jp/web/en/us/areas/donkey-kong-country):**
-
    - Use your Power-Up Band to play rhythm games with Conga drums scattered around the jungle.
    - **Rambi the Rhino:** Look for the Rambi crate. Scan your band to summon him!
 
@@ -170,7 +165,7 @@ DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area wit
 
 ## 🛍️ Merchandise & Souvenirs
 
-*Budget accordingly; the merch is high quality and irresistible.*
+_Budget accordingly; the merch is high quality and irresistible._
 
 - **Power-Up Bands:** ~4,200 JPY ($28 USD). Essential for the full experience.
 - **Character Headbands:** ~2,900 JPY ($20 USD). Mario, Luigi, Peach, Toad, etc.
@@ -180,38 +175,38 @@ DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area wit
 
 ## 🕰️ Backup Plan: The "Early Riser" Strategy
 
-*Only use this if we FAIL to secure Express Passes.*
+_Only use this if we FAIL to secure Express Passes._
 
 1. **Arrival:** Be at the USJ gates by **6:30 AM - 7:00 AM**.
-   - *Note:* Park may officially open at 8:30 AM, but they often let people in 30-60 mins early.
+   - _Note:_ Park may officially open at 8:30 AM, but they often let people in 30-60 mins early.
 2. **The "Rope Drop":**
    - Once through the gates, walk briskly (don't run) straight to Super Nintendo World.
 3. **App Lottery (Area Timed Entry):**
    - **IMMEDIATELY** open the USJ App.
    - Scan your party's Studio Passes into the app.
    - Go to "Area Timed Entry Ticket" -> "Super Nintendo World".
-   - Select a time slot. *Do this before you even walk to the land.*
+   - Select a time slot. _Do this before you even walk to the land._
 
 ## 📸 Best Photo Ops
 
-*Capture the magic without blocking the path.*
+_Capture the magic without blocking the path._
 
 1. **[Warp Pipe Entrance](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world):**
-  The classic shot. Wait for a gap in the crowd or go very early/late.
+   The classic shot. Wait for a gap in the crowd or go very early/late.
 2. **[Pikmin Spots](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world):**
-  Look for the tiny Pikmin carrying coins near the entrance to Kinopio's Cafe.
+   Look for the tiny Pikmin carrying coins near the entrance to Kinopio's Cafe.
 3. **[Yoshi's Adventure Viewpoint](https://www.usj.co.jp/web/en/us/attractions/yoshis-adventure):**
-  The outdoor portion offers the *only* high-angle view of the entire land (and the best view of Donkey Kong's temple).
+   The outdoor portion offers the _only_ high-angle view of the entire land (and the best view of Donkey Kong's temple).
 4. **[Bowser's Statue](https://www.usj.co.jp/web/en/us/attractions/mario-kart-koopa-challenge):**
-  Inside the Mario Kart queue. It's massive and detailed.
+   Inside the Mario Kart queue. It's massive and detailed.
 5. **[Donkey Kong's House](https://www.usj.co.jp/web/en/us/attractions/donkey-kong-country):**
-  In the DKC expansion, you can pose with the DK barrel.
+   In the DKC expansion, you can pose with the DK barrel.
 
 ## 🚻 Amenities & Logistics
 
 - **Restrooms:** Located near the entrance of SNW (inside the pipe area) and near Yoshi's Adventure. They are clean and themed.
 - **Lockers:** There are coin lockers outside the park entrance and inside near the turnstiles.
-  - *Tip:* Use the ones *outside* if you have luggage (though you should have shipped it!).
+  - _Tip:_ Use the ones _outside_ if you have luggage (though you should have shipped it!).
 - **Re-Entry:** **NOT ALLOWED** for standard ticket holders. Once you leave the park, you cannot come back in.
 - **Water:** There are water fountains near the restrooms. Refill your bottle here.
 
@@ -222,82 +217,50 @@ DKC is an expansion *inside* Super Nintendo World. It is a dense jungle area wit
 - **Crowd Calendar:** [USJ Real](https://usjreal.asumirai.info/monthly/monthly-real.html)
   (Japanese, use Google Translate) - Predicts crowd levels.
 
-## 📅 October 2026 Crowd Predictions & Strategy
+## 📅 May 2026 Crowd Predictions & Strategy
 
-### 🎃 October at USJ: Halloween Horror Nights Season
+### 🌸 May at USJ: Post-Golden Week Bliss
 
-**Important Context:** October is one of USJ's busiest months due to Halloween Horror Nights (HHN) event.
+**Important Context:** May is split into two halves. Early May (Golden Week) is a nightmare. Late May is one of the best times to visit.
 
-**Halloween Horror Nights 2026 (Predicted):**
+**Forecast for May 25 - June 2, 2026:**
 
-- **Dates:** Early September - Early November (typically runs ~60 days)
-- **Impact:** Park operates extended hours (usually until 10 PM vs 8 PM)
-- **Crowd Level:** **HIGH** - especially weekends and Japanese holidays
-- **Note:** HHN attractions (horror mazes) are separate ticketed events in the evening, but daytime crowds increase
+- **Golden Week Impact:** **ZERO** (Ended ~May 6).
+- **Crowd Level:** **Low to Moderate** (Level 4-6/10).
+- **Weather:** Perfect (High 70s F / 25C).
+- **Special Events:** Cool Japan (Anime/Gaming collabs) usually runs until July.
 
-### 📊 October 2026 Crowd Predictions
+### 📊 Crowd Predictions
 
-Based on historical patterns and 2026 calendar:
+**Best Days (Low Crowds):**
 
-**Best Days (Lower Crowds - Target These):**
+- **Tuesday-Thursday (May 26-28)** ⭐ **PRIME TIME**
+  - **Why:** Weekdays after a major holiday season are typically quietest.
+  - **Express Pass:** Recommended for Nintendo World access, but regular wait times might be manageable under 60 min.
 
-- **Monday-Thursday, October 12-15, 2026** ⭐ **BEST WINDOW**
-  - **Why:** Mid-month weekdays, no Japanese holidays, after initial Halloween rush
-  - **Predicted Crowd Level:** 5-6/10
-  - **Express Pass:** Recommended but not absolutely critical
-  - **Strategy:** Arrive at rope drop (7:30 AM), hit Nintendo World first, HHN crowds arrive later in day
+**Weekends:**
 
-**Moderate Days (Medium Crowds):**
+- **Saturday-Sunday (May 30-31)**
+  - **Crowd Level:** Moderate-High (7/10).
+  - **Strategy:** If you go on a weekend, Express Pass is mandatory.
 
-- **Monday-Friday, October 5-9, 2026**
-  - **Crowd Level:** 6-7/10
-  - **Why:** Early October, Halloween event just starting
-- **Monday-Thursday, October 19-22, 2026**
-  - **Crowd Level:** 6-7/10
-  - **Why:** Late October = peak Halloween season
-
-**Worst Days (AVOID if possible):**
-
-- **Saturday-Sunday, October 3-4, 10-11, 17-18, 24-25, 31-Nov 1, 2026** 🚫
-  - **Crowd Level:** 9-10/10
-  - **Why:** Weekends + Halloween + possible school holidays
-  - **Wait Times:** Mario Kart can hit 180-240 min (3-4 hours) without Express Pass
-- **Monday, October 12, 2026** (体育の日 / Sports Day - Japanese Holiday)
-  - **Crowd Level:** 8-9/10
-  - **Note:** If this is a holiday in 2026, AVOID. Verify calendar closer to trip.
-
-### 🎟️ October 2026 Ticketing Strategy
+### 🎟️ Ticketing Strategy
 
 **Ticket Release Timeline:**
 
-- **August 2026 (2 months prior):**
-  - Studio Passes go on sale
-  - Express Passes go on sale (IMMEDIATELY sell out for weekends)
-- **Action Plan:**
-  - **Day 1 of Release:** Set alarm, purchase BOTH Studio Pass and Express Pass simultaneously
-  - **Target Days:** October 12-15 (Mon-Thu) for best balance of availability and crowds
+- **March 2026 (2 months prior):** Studio Passes & Express Passes go on sale.
+- **Action Plan:** Buy immediately upon release to secure **Donkey Kong Country** timed entry.
 
 **Express Pass Necessity:**
 
-- **October Weekdays:** **HIGHLY Recommended** (75% necessary)
-  - Without it: Expect 90-120 min waits for Mario Kart, 60-90 min for Donkey Kong
-  - With it: 10-20 min waits max
-- **October Weekends:** **ABSOLUTELY ESSENTIAL** (99% necessary)
-  - Without it: You may only ride 2-3 attractions all day
-  - With it: You can experience all of Nintendo World + other areas
+- **Weekdays:** Recommended (50% necessary). Buy it to guarantee entry to Nintendo World without the 7:00 AM rope drop stress.
+- **Weekends:** Essential (90% necessary).
 
-**Express Pass Options for October:**
+### 🕐 Timing Strategy
 
-- **Universal Express Pass 7:** ¥15,000-24,800 ($100-165) - Best value for full day
-  - Includes: Mario Kart OR Donkey Kong + 6 other attractions
-  - Guaranteed Nintendo World entry time
-- **Universal Express Pass 4:** ¥10,800-18,400 ($72-123) - Minimum recommended
-  - Includes: Mario Kart OR Donkey Kong + 3 other attractions
-  - Guaranteed Nintendo World entry time
-
-### 🕐 October-Specific Timing Strategy
-
-**Recommended Schedule for October Weekday (Mon-Thu):**
+- **Rope Drop:** Arrive at 7:30 AM (Gates open ~8:00 AM).
+- **Donkey Kong First:** Go straight to the back of Nintendo World.
+- **Mario Kart Second:** Queue immediately after DK.
 
 - **5:30 AM:** Wake up at hotel
 - **6:00 AM:** Depart hotel (train to Universal City)

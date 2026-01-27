@@ -1,32 +1,24 @@
-#  Flight Logistics & Strategy
+# Flight Logistics & Strategy
 
-##  Recommended Flight Plan (May 2026)
+## Recommended Flight Plan (May 2026)
 
 ### **SELECTED: Option A (The "Direct Comfort" / Round Trip)**
 
-*Round trip EWR <-> Tokyo Haneda (HND).*
+_Round trip EWR <-> Tokyo Haneda (HND)._
 
 - **Outbound:** Newark (EWR) -> Tokyo Haneda (HND). Direct. 14h 30m.
-  - *Date:* Sunday, May 24, 2026.
+  - _Date:_ Sunday, May 24, 2026.
 - **Inbound:** Tokyo Haneda (HND) -> Newark (EWR). Direct. 12h 45m.
-  - *Date:* Tuesday, June 2, 2026.
+  - _Date:_ Tuesday, June 2, 2026.
 - **Logistics:** On Day 9 (Departure Day), take the Shinkansen from Osaka to Shinagawa (~2.5 hrs) to catch the evening flight.
 - **Pros:** Maximum comfort (direct flights), better schedule reliability, no US domestic connection.
 - **Cons:** Requires travel on the final day.
 
-### Option B: The "Open Jaw" (Time Saver) - *Not Selected*
-
-*Fly into Tokyo, Fly out of Osaka.*
-
-- **Outbound:** EWR -> HND.
-- **Inbound:** Osaka (KIX) -> SFO -> EWR.
-- **Status:** **Secondary Option.** Only consider if the Round Trip price is effectively double. The layover in SFO/LAX makes the return journey brutal (~18+ hours).
-
 ---
 
-##  Class Options: "Between Coach & First"
+## Class Options: "Between Coach & First"
 
-*Costs below are estimates for May 2026.*
+_Costs below are estimates for May 2026._
 
 ### 1. Premium Economy (The "Sweet Spot" for Tall Travelers)
 
@@ -40,7 +32,7 @@
 
 - **Seat Width:** 18.5 - 19.5 inches (vs. 17-17.5" in Economy)
 - **Seat Pitch (Legroom):** **38 - 40 inches** (vs. 31-32" in Economy)
-  - *Translation:* You can actually stretch your legs without hitting the seat in front
+  - _Translation:_ You can actually stretch your legs without hitting the seat in front
 - **Recline Angle:** 7-8 inches (40-degree recline vs. 3-4" in Economy)
 - **Footrest:** Adjustable footrest included (critical for long flights)
 
@@ -52,9 +44,9 @@
 
 **For Tall Travelers (6'2"+):**
 
--  **You can sit comfortably without knees touching the seat in front.**
--  **You can sleep in a semi-reclined position.**
--  **You cannot lie flat.**
+- **You can sit comfortably without knees touching the seat in front.**
+- **You can sleep in a semi-reclined position.**
+- **You cannot lie flat.**
 
 **Verdict:** **Highly Recommended.** For a 14-hour flight, Premium Economy is the perfect balance.
 
@@ -70,13 +62,13 @@
 Since you are flying out of EWR (United Hub):
 
 1. **United Airlines:**
-   - *Flight Numbers:* UA131 (Outbound), UA130 (Return).
-   - *Pros:* Direct flights EWR-HND.
-   - *Cons:* Service is "Western" style (efficient but not pampering).
+   - _Flight Numbers:_ UA131 (Outbound), UA130 (Return).
+   - _Pros:_ Direct flights EWR-HND.
+   - _Cons:_ Service is "Western" style (efficient but not pampering).
 
 2. **ANA (All Nippon Airways):**
-   - *Pros:* Superior service, food, and seat width.
-   - *Cons:* Often more expensive. Codeshares with United are common.
+   - _Pros:_ Superior service, food, and seat width.
+   - _Cons:_ Often more expensive. Codeshares with United are common.
 
 ---
 
@@ -91,10 +83,9 @@ Since you are flying out of EWR (United Hub):
 
 ### Departure: Tokyo (Haneda - HND) via Osaka
 
-*Strategy for the final day:*
+_Strategy for the final day:_
 
 1.  **Morning:** Enjoy Osaka (Den Den Town).
 2.  **Noon:** Shinkansen from Shin-Osaka Station to **Shinagawa Station** (Not Tokyo Station).
 3.  **Transfer:** At Shinagawa, take the Keikyu Airport Express to HND Terminal 3.
 4.  **Check-in:** 3:30 PM for a 5:45 PM flight.
-

@@ -28,6 +28,9 @@ contribute consistently.
 ### 🧳 Logistics
 
 - [flight-logistics.md](Logistics/flight-logistics.md): EWR-Japan routing, airline tips, and airport transit.
+- [may-travel-considerations.md](Logistics/may-travel-considerations.md): 🌿 Analysis of traveling in Late May (Post-Memorial Day, Snow Walls).
+- [june-travel-considerations.md](Logistics/june-travel-considerations.md): ☔ Analysis of traveling in June (Rainy season, Sanno Matsuri).
+- [december-travel-considerations.md](Logistics/december-travel-considerations.md): ❄️ Analysis of traveling in December (Illuminations, Mount Fuji visibility).
 - [logistics-guide.md](Logistics/logistics-guide.md): Practical how-tos (eSIM setup, Suica/PASMO, apps, payments).
 - [tech-setup.md](Logistics/tech-setup.md): Step-by-step guide for setting up Suica, SmartEx, and eSIM.
 - [weather-clothing.md](Logistics/weather-clothing.md): October weather forecast and layering strategy.

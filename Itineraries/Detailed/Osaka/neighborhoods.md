@@ -31,12 +31,12 @@ This document provides deep-dive information on Osaka's neighborhoods, logistics
 
 ### ⚖️ Overall Comparison
 
-| Feature | Namba / Dotonbori | Umeda |
-| :--- | :--- | :--- |
-| **Vibe** | Gritty / Fun / Neon | Sleek / Modern / Vertical |
-| **Transport** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **Dining** | Street Food / Izakayas | Fine Dining / Dept Stores |
-| **Atmosphere** | "Real" Osaka | International City |
+| Feature        | Namba / Dotonbori      | Umeda                     |
+| :------------- | :--------------------- | :------------------------ |
+| **Vibe**       | Gritty / Fun / Neon    | Sleek / Modern / Vertical |
+| **Transport**  | ⭐⭐⭐⭐               | ⭐⭐⭐⭐⭐                |
+| **Dining**     | Street Food / Izakayas | Fine Dining / Dept Stores |
+| **Atmosphere** | "Real" Osaka           | International City        |
 
 ---
 
@@ -66,8 +66,7 @@ This document provides deep-dive information on Osaka's neighborhoods, logistics
 
 ### 🚆 Transportation
 
-- **✈️ To Airport (KIX):** The **Nankai Rapi:t** Limited Express from Namba is the most comfortable and stylish way to
-  go (35-40 min).
+- **🚄 To Tokyo (HND):** Take the Midosuji Subway to **Shin-Osaka Station**, then the Shinkansen to Tokyo/Shinagawa.
 - **🚄 Kyoto to Osaka:** The JR Special Rapid takes only 30 minutes. The Hankyu line is cheaper but takes 45 minutes.
 - **🎢 Osaka to USJ:** Take the JR Yumesaki Line to Universal City Station.
 
@@ -92,23 +91,19 @@ This document provides deep-dive information on Osaka's neighborhoods, logistics
 - **🧳 Coin Lockers:** Available at Universal City Station and just inside the park entrance.
 - **🏧 ATM:** 7-Eleven at Universal City Walk (outside the park) is the most reliable for international cards.
 
-### ✈️ Airport (KIX)
-
-- **🍱 Last Meal:** 551 Horai at the airport is famous for pork buns—perfect for the flight home.
-
 ---
 
 ## 🐙 Osaka Sightseeing Details
 
-| Cost | Description |
-| :--- | :--- |
-| $ | Under 1,500 JPY / ~$10 USD (Budget) |
-| $$ | 1,500 - 4,000 JPY / ~$10 - $25 USD (Moderate) |
-| $$$ | 4,000 - 10,000 JPY / ~$25 - $65 USD (Expensive / Upscale) |
-| $$$$ | 10,000+ JPY / ~$65+ USD (Luxury / Special Access) |
+| Cost | Description                                               |
+| :--- | :-------------------------------------------------------- |
+| $    | Under 1,500 JPY / ~$10 USD (Budget)                       |
+| $$   | 1,500 - 4,000 JPY / ~$10 - $25 USD (Moderate)             |
+| $$$  | 4,000 - 10,000 JPY / ~$25 - $65 USD (Expensive / Upscale) |
+| $$$$ | 10,000+ JPY / ~$65+ USD (Luxury / Special Access)         |
 
 Osaka is often called "Japan’s Kitchen," and for good reason—it is a city obsessed with food. The motto here is
-*kuidaore* ("eat until you drop"), and the streets of Dotonbori are lined with vendors selling takoyaki, okonomiyaki,
+_kuidaore_ ("eat until you drop"), and the streets of Dotonbori are lined with vendors selling takoyaki, okonomiyaki,
 and kushikatsu. It has a grittier, louder, and friendlier vibe than Tokyo, with locals known for their humor and
 directness.
 
@@ -127,19 +122,19 @@ alive at night, offering a perfect counterpoint to the quiet reverence of Kyoto.
 
 #### 🎢 Entertainment
 
-| Est Cost | URL | Details | Availability | English Friendly |
-| :--- | :--- | :--- | :--- | :--- |
-| $$$$ | [Universal Studios Japan](https://www.usj.co.jp/web/en/us) | **Home to Super Nintendo World & Donkey Kong Country.**<br><br>The attention to detail is staggering; you can punch blocks with a Power-Up Band. The Harry Potter area is also world-class, with a full recreation of Hogsmeade. Don't miss Kinopio's Cafe (Toad's Cafe) for adorable Mario-themed dishes, though you may need a timed ticket just to enter the restaurant. The Yoshi's Adventure ride, while slow, offers the best panoramic views of the entire Nintendo land.<br><br>🟢 **Pro:** World-class immersion in Super Nintendo World; high-quality rides and food.<br>🔴 **Con:** Extremely crowded; Express Passes are expensive and sell out quickly. | **Book 2 months ahead** (Express Pass Essential) | High |
-| $$ | [Den Den Town](https://osaka-info.jp/en/spot/nipponbashi-denden-town/) | **Osaka's Akihabara with great prices on retro games (often cheaper than Tokyo).**<br><br>It feels grittier and more chaotic than Akihabara. The side streets are packed with small shops selling electronics parts and used figures. Walk down 'Ota Road,' the main street, to see the highest concentration of anime billboards and maid cafes. There are multi-story Gachapon centers here with hundreds of machines stacked floor-to-ceiling.<br><br>🟢 **Pro:** Often better prices for retro games than Akihabara; less "touristy" feel.<br>🔴 **Con:** Shops are more spread out; can feel a bit gritty compared to Tokyo. | Walk-in | Medium |
-| $ | [Dotonbori](https://osaka-info.jp/en/spot/dotonbori/) | **The neon heart of Osaka where you can see the Glico Man sign and eat street food.**<br><br>The canal cruise is a cheesy but fun way to see the lights at night. It's the best place to try takoyaki (octopus balls) from a street vendor. Look for the oval-shaped Don Quijote Ferris Wheel, which offers a unique view of the canal from above. You can also spot the famous Kuidaore Taro, a drumming clown statue that has become a beloved symbol of Osaka's food culture.<br><br>🟢 **Pro:** Incredible energy and street food variety; iconic neon visuals.<br>🔴 **Con:** Can be overwhelming and very crowded; watch out for tourist-trap restaurants. | Open 24/7 | High |
+| Est Cost | URL                                                                    | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Availability                                     | English Friendly |
+| :------- | :--------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------- | :--------------- |
+| $$$$     | [Universal Studios Japan](https://www.usj.co.jp/web/en/us)             | **Home to Super Nintendo World & Donkey Kong Country.**<br><br>The attention to detail is staggering; you can punch blocks with a Power-Up Band. The Harry Potter area is also world-class, with a full recreation of Hogsmeade. Don't miss Kinopio's Cafe (Toad's Cafe) for adorable Mario-themed dishes, though you may need a timed ticket just to enter the restaurant. The Yoshi's Adventure ride, while slow, offers the best panoramic views of the entire Nintendo land.<br><br>🟢 **Pro:** World-class immersion in Super Nintendo World; high-quality rides and food.<br>🔴 **Con:** Extremely crowded; Express Passes are expensive and sell out quickly. | **Book 2 months ahead** (Express Pass Essential) | High             |
+| $$       | [Den Den Town](https://osaka-info.jp/en/spot/nipponbashi-denden-town/) | **Osaka's Akihabara with great prices on retro games (often cheaper than Tokyo).**<br><br>It feels grittier and more chaotic than Akihabara. The side streets are packed with small shops selling electronics parts and used figures. Walk down 'Ota Road,' the main street, to see the highest concentration of anime billboards and maid cafes. There are multi-story Gachapon centers here with hundreds of machines stacked floor-to-ceiling.<br><br>🟢 **Pro:** Often better prices for retro games than Akihabara; less "touristy" feel.<br>🔴 **Con:** Shops are more spread out; can feel a bit gritty compared to Tokyo.                                    | Walk-in                                          | Medium           |
+| $        | [Dotonbori](https://osaka-info.jp/en/spot/dotonbori/)                  | **The neon heart of Osaka where you can see the Glico Man sign and eat street food.**<br><br>The canal cruise is a cheesy but fun way to see the lights at night. It's the best place to try takoyaki (octopus balls) from a street vendor. Look for the oval-shaped Don Quijote Ferris Wheel, which offers a unique view of the canal from above. You can also spot the famous Kuidaore Taro, a drumming clown statue that has become a beloved symbol of Osaka's food culture.<br><br>🟢 **Pro:** Incredible energy and street food variety; iconic neon visuals.<br>🔴 **Con:** Can be overwhelming and very crowded; watch out for tourist-trap restaurants.     | Open 24/7                                        | High             |
 
 #### 🍜 Food (Non-Sushi)
 
-| Est Cost | URL | Details | Availability | English Friendly |
-| :--- | :--- | :--- | :--- | :--- |
-| $ | [Rikuro Ojisan](http://www.rikuro.co.jp/en/) | **Famous jiggly cheesecake that is fluffy and light, located in Namba.**<br><br>They ring a bell every time a fresh batch comes out of the oven. The cheesecake is surprisingly eggy and not too sweet, more like a soufflé. If you wait in line, you can watch the staff brand the logo onto the jiggly cakes with a hot iron. It's delicious warm, but locals also recommend chilling it in the fridge to change the texture to a denser cheesecake.<br><br>🟢 **Pro:** Unique, light, and fluffy texture; fun to watch the branding process.<br>🔴 **Con:** Long lines for fresh cakes; the flavor is more subtle than traditional cheesecake. | Walk-in (Expect line) | Medium |
-| $$ | [Mizuno Okonomiyaki](https://mizuno-osaka.com/) | **Famous Okonomiyaki (savory pancake) spot in Dotonbori.**<br><br>It has a Michelin Bib Gourmand, so expect a line. The "Yamaimo-yaki" uses yam instead of flour for a unique, fluffy texture. Sit at the counter to watch the chefs masterfully prepare the pancakes on the teppan grill right in front of you. Their scallop and pork toppings are particularly popular and add a rich, savory flavor to the dish.<br><br>🟢 **Pro:** Michelin-quality food; unique yam-based batter option.<br>🔴 **Con:** Very small shop with long wait times; limited seating for groups. | Walk-in (Line moves fast) | Medium |
-| $$ | [Kushikatsu Daruma](https://www.kushikatu-daruma.com/) | **Deep fried skewers with a fun atmosphere and "No double dipping" rule.**<br><br>The angry chef mascot outside is iconic. You dip the skewers into a communal sauce pot (hence the rule) and eat with cabbage leaves. The menu includes everything from standard pork and beef to lotus root, cheese, and even mochi. Some locations use a miniature train system to deliver your skewers directly to your table, adding to the fun.<br><br>🟢 **Pro:** Fun, casual atmosphere; great variety of affordable skewers.<br>🔴 **Con:** Communal sauce rules can be intimidating for first-timers; can get greasy. | Walk-in | High |
+| Est Cost | URL                                                    | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Availability              | English Friendly |
+| :------- | :----------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------ | :--------------- |
+| $        | [Rikuro Ojisan](http://www.rikuro.co.jp/en/)           | **Famous jiggly cheesecake that is fluffy and light, located in Namba.**<br><br>They ring a bell every time a fresh batch comes out of the oven. The cheesecake is surprisingly eggy and not too sweet, more like a soufflé. If you wait in line, you can watch the staff brand the logo onto the jiggly cakes with a hot iron. It's delicious warm, but locals also recommend chilling it in the fridge to change the texture to a denser cheesecake.<br><br>🟢 **Pro:** Unique, light, and fluffy texture; fun to watch the branding process.<br>🔴 **Con:** Long lines for fresh cakes; the flavor is more subtle than traditional cheesecake. | Walk-in (Expect line)     | Medium           |
+| $$       | [Mizuno Okonomiyaki](https://mizuno-osaka.com/)        | **Famous Okonomiyaki (savory pancake) spot in Dotonbori.**<br><br>It has a Michelin Bib Gourmand, so expect a line. The "Yamaimo-yaki" uses yam instead of flour for a unique, fluffy texture. Sit at the counter to watch the chefs masterfully prepare the pancakes on the teppan grill right in front of you. Their scallop and pork toppings are particularly popular and add a rich, savory flavor to the dish.<br><br>🟢 **Pro:** Michelin-quality food; unique yam-based batter option.<br>🔴 **Con:** Very small shop with long wait times; limited seating for groups.                                                                   | Walk-in (Line moves fast) | Medium           |
+| $$       | [Kushikatsu Daruma](https://www.kushikatu-daruma.com/) | **Deep fried skewers with a fun atmosphere and "No double dipping" rule.**<br><br>The angry chef mascot outside is iconic. You dip the skewers into a communal sauce pot (hence the rule) and eat with cabbage leaves. The menu includes everything from standard pork and beef to lotus root, cheese, and even mochi. Some locations use a miniature train system to deliver your skewers directly to your table, adding to the fun.<br><br>🟢 **Pro:** Fun, casual atmosphere; great variety of affordable skewers.<br>🔴 **Con:** Communal sauce rules can be intimidating for first-timers; can get greasy.                                   | Walk-in                   | High             |
 
 ### Things to avoid
 
