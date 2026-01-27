@@ -10,13 +10,25 @@ The final leg of your trip brings you to Osaka, Japan's energetic culinary capit
 
 ---
 
-## Day 8: Super Nintendo World (Monday Tuesday)
+## Day 7: Arrival from Kyoto (Sunday)
+
+_Note: You moved to Osaka this evening to get settled before the USJ rush._
+
+| Time      | Activity                        | Cost |
+| :-------- | :------------------------------ | :--- |
+| **19:00** | **Arrive in Osaka & Check-in**  | $    |
+| **20:00** | **Dinner in Namba / Dotonbori** | $$   |
+| **22:00** | **Early Rest for USJ**          | -    |
+
+---
+
+## Day 8: Super Nintendo World (Monday)
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Universal%20Studios%20Japan%2C%20Osaka%2C%20Japan%20OR%20Kinopio%27s%20Cafe%2C%20Osaka%2C%20Japan%20OR%20Halloween%20Horror%20Nights%2C%20Osaka%2C%20Japan%20OR%20Glico%20Man%2C%20Osaka%2C%20Japan%20OR%20Kushikatsu%20Daruma%2C%20Osaka%2C%20Japan%20OR%20JR%20Special%20Rapid%2C%20Osaka%2C%20Japan%20OR%20JR%20Yumesaki%20Line%20from%20Osaka%20Station%2C%20Japan%20OR%20Iconic%20entertainment%20district%2C%20Osaka%2C%20Japan%20OR%20Namba%20Station%20Exit%2014%2C%20Osaka%2C%20Japan%20OR%20Glico%20Running%20Man%20Sign%2C%20Osaka%2C%20Japan)
 
 | Time      | Activity                                       | Cost |
 | :-------- | :--------------------------------------------- | :--- |
-| **06:00** | **Train to Osaka & Bag Drop**                  | $    |
+| **06:30** | **Commute to USJ (Universal City)**            | $    |
 | **07:30** | **USJ Gates (Rope Drop)**                      | $$$$ |
 | **08:00** | **Super Nintendo World**                       | -    |
 | **13:00** | **Lunch at USJ**                               | $$   |
@@ -28,8 +40,8 @@ The final leg of your trip brings you to Osaka, Japan's energetic culinary capit
 
 **Quick Logistics:**
 
-- **Kyoto Osaka:** JR Special Rapid (30 min).
-- **Osaka USJ:** JR Yumesaki Line to Universal City Station (15 min).
+- **Commute:** Already in Osaka! Short 30-min trip to the gates.
+- **USJ Strategy:** Be at the gates 45-60 min before opening.
 - **USJ Namba:** JR to Osaka Station, transfer to Midosuji Line (30-40 min).
 
 **Sightseeing Details:**
