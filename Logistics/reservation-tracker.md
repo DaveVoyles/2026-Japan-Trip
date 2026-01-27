@@ -9,41 +9,41 @@
 
 | Status | Leg | Date | Airline | Flight # | Time | Conf # | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | EWR -> TYO | Oct XX | United | UA79 | 11:00 AM | - | Book Premium Economy |
-|  | KIX -> EWR | Oct XX | United | UA34 | 05:00 PM | - | Layover in SFO |
+|  | EWR -> HND | May 24 | United | UA131 | 11:00 AM | - | Direct to Haneda |
+|  | HND -> EWR | Jun 02 | United | UA130 | 05:00 PM | - | Direct from Haneda |
 
 ##  Hotels
 
 | Status | City | Dates | Hotel Name | Address | Conf # | Price/Night | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | Tokyo | Oct XX-XX | - | Ginza/Shinjuku | - | - | Near Station |
-|  | Kyoto | Oct XX-XX | - | Kyoto Station | - | - | - |
-|  | Osaka | Oct XX-XX | - | Namba | - | - | - |
+|  | Tokyo | May 25-29 | - | Ginza/Shinjuku | - | - | 4 Nights |
+|  | Kyoto | May 29-Jun 01 | - | Kyoto Station | - | - | 3 Nights |
+|  | Osaka | Jun 01-02 | - | Namba | - | - | 1 Night |
 
 ##  Transport (Shinkansen)
 
 | Status | Route | Date | Train Name | Car/Seat | Conf # | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | Tokyo -> Kyoto | Oct XX | Nozomi | Green Car | - | Book via SmartEx (1 mo out) |
-|  | Kyoto -> Nara | Oct XX | Kintetsu | - | - | Buy at station |
-|  | Kyoto -> Osaka | Oct XX | JR/Hankyu | - | - | Buy at station |
+|  | Tokyo -> Kyoto | May 29 | Nozomi | Green Car | - | Book via SmartEx (Apr 29) |
+|  | Kyoto -> Nara | May 31 | Kintetsu | - | - | Day trip, buy at station |
+|  | Osaka -> Tokyo | Jun 02 | Nozomi | Green Car | - | Return to HND for flight |
 
 ##  Activities & Tickets
 
 | Status | Activity | Date | Time | Conf # | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | **USJ Express Pass** | Oct XX | - | - | **CRITICAL:** Book 2 months out |
-|  | Shibuya Sky | Oct XX | Sunset | - | Book 4 weeks out |
-|  | TeamLab Planets | Oct XX | - | - | Book 2 months out |
-|  | Pocket Wi-Fi | Arrival | - | - | Pickup at Airport |
+|  | **USJ Express Pass** | Jun 01 | - | - | **CRITICAL:** Book Apr 1 |
+|  | Shibuya Sky | May 27 | Sunset | - | Book 4 weeks out |
+|  | TeamLab Planets | May 26 | - | - | Book 2 months out |
+|  | Pocket Wi-Fi | Arrival | - | - | Pickup at HND |
 
 ##  Dining Reservations
 
 | Status | Restaurant | City | Date | Time | Conf # | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | Jojoen | Tokyo | Oct XX | 19:00 | - | Yakiniku |
-|  | Pokemon Cafe | Tokyo | Oct XX | - | - | Hard to get |
-|  | Kichi Kichi Omurice | Kyoto | Oct XX | - | - | 4 weeks out |
+|  | Jojoen | Tokyo | May 26 | 19:00 | - | Yakiniku |
+|  | Pokemon Cafe | Tokyo | May 27 | - | - | Hard to get (31 days prior) |
+|  | Kichi Kichi Omurice | Kyoto | May 30 | - | - | 4 weeks out |
 
 ---
 
@@ -51,15 +51,13 @@
 
 ### 🏨 Hotel Booking Timeline
 - **NOW-Feb 2026:** Research and create shortlist.
-- **March-May 2026:** Book hotels (6-7 months out for best selection).
-- **June 2026:** Final hotel confirmation deadline (prices rise after this).
+- **Feb-Mar 2026:** Book hotels (3-4 months out).
+- **April 2026:** Final hotel confirmation.
 - **Cancellation:** Most hotels allow free cancellation until 1-2 weeks before.
 
 ### 🎟️ Activity Ticket Notes
-- **Universal Studios Japan (October):**
-  - **Moderate Crowds:** Weekdays (Mon-Thu) are lower; Weekends and holidays are higher.
-  - **Halloween Horror Nights:** Late October (avoid if you want Nintendo focus).
-  - **Express Pass:** **ESSENTIAL** for October. Tickets release **2 months prior** (August 2026).
+- **Universal Studios Japan (June 1):**
+  - **Crowds:** June is generally lower crowds than October.
+  - **Express Pass:** Still recommended for Nintendo limit. Tickets release **2 months prior** (April 2026).
 - **Shinkansen Reservations:**
-  - **Peak Season:** Autumn foliage travel begins in October.
   - **Strategy:** Reserve seats **1 month in advance** (opens at 10 AM JST) via SmartEx App.
