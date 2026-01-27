@@ -6,7 +6,7 @@
 - [Strategy: "Together & Apart"](#strategy-together--apart)
 - [**Leg 1: Tokyo (Days 1-4)**](#leg-1-tokyo-days-1-4)
   - [Day 1: Arrival in Tokyo](#day-1-arrival-in-tokyo-monday)
-  - [Day 2: Old Tokyo & The "Split"]](#day-2-old-tokyo--the-split-tuesday)
+  - [Day 2: Old Tokyo & The "Split"](#day-2-old-tokyo--the-split-tuesday)
   - [Day 3: Pop Culture & Fashion](#day-3-pop-culture--fashion-wednesday)
   - [Day 4: Ghibli Magic & Kichijoji](#day-4-ghibli-magic--kichijoji-thursday)
 - [**Leg 2: Kyoto (Days 5-7)**](#leg-2-kyoto-days-5-7)
