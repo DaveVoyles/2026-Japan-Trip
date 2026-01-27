@@ -15,10 +15,11 @@
 ### 6-9 Months Out
 
 - [ ] **Book Hotels**
-  - **Tokyo:** 4 Nights (Mon-Thu).
-  - **Kyoto:** 3 Nights (Fri-Sun).
-  - **Osaka:** 1 Night (Mon).
-  - *Strategy:* Book refundable rates to lock in prices.
+  - **Tokyo (Leg 1):** 4 Nights (Mon-Thu).
+  - **Kyoto:** 2 Nights (Fri-Sat).
+  - **Osaka:** 2 Nights (Sun-Mon).
+  - **Tokyo (Leg 3):** 1 Night (Tue).
+  - *Strategy:* Book refundable rates to lock in prices. Stay near Shinagawa or Haneda for the final night.
 
 ##  Phase 3: The "Hard" Tickets (March 2026)
 
