@@ -10,27 +10,27 @@ The final leg of your trip brings you to Osaka, Japan's energetic culinary capit
 
 ---
 
-## Day 8: Super Nintendo World (Monday  Tuesday)
+## Day 8: Super Nintendo World (Monday Tuesday)
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Universal%20Studios%20Japan%2C%20Osaka%2C%20Japan%20OR%20Kinopio%27s%20Cafe%2C%20Osaka%2C%20Japan%20OR%20Halloween%20Horror%20Nights%2C%20Osaka%2C%20Japan%20OR%20Glico%20Man%2C%20Osaka%2C%20Japan%20OR%20Kushikatsu%20Daruma%2C%20Osaka%2C%20Japan%20OR%20JR%20Special%20Rapid%2C%20Osaka%2C%20Japan%20OR%20JR%20Yumesaki%20Line%20from%20Osaka%20Station%2C%20Japan%20OR%20Iconic%20entertainment%20district%2C%20Osaka%2C%20Japan%20OR%20Namba%20Station%20Exit%2014%2C%20Osaka%2C%20Japan%20OR%20Glico%20Running%20Man%20Sign%2C%20Osaka%2C%20Japan)
 
-| Time | Activity | Cost |
-| :--- | :--- | :--- |
-| **06:00** | **Train to Osaka & Bag Drop** | $ |
-| **07:30** | **USJ Gates (Rope Drop)** | $$$$ |
-| **08:00** | **Super Nintendo World** | - |
-| **13:00** | **Lunch at USJ** | $$ |
-| **15:00** | **Explore USJ (Harry Potter / Jurassic Park)** | - |
-| **18:00** | **Return to Central Osaka** | $ |
-| **19:00** | **Dotonbori Neon Walk** | Free |
-| **20:00** | **Kushikatsu Dinner** | $$ |
-| **21:30** | **Rest & Recovery** | - |
+| Time      | Activity                                       | Cost |
+| :-------- | :--------------------------------------------- | :--- |
+| **06:00** | **Train to Osaka & Bag Drop**                  | $    |
+| **07:30** | **USJ Gates (Rope Drop)**                      | $$$$ |
+| **08:00** | **Super Nintendo World**                       | -    |
+| **13:00** | **Lunch at USJ**                               | $$   |
+| **15:00** | **Explore USJ (Harry Potter / Jurassic Park)** | -    |
+| **18:00** | **Return to Central Osaka**                    | $    |
+| **19:00** | **Dotonbori Neon Walk**                        | Free |
+| **20:00** | **Kushikatsu Dinner**                          | $$   |
+| **21:30** | **Rest & Recovery**                            | -    |
 
 **Quick Logistics:**
 
-- **Kyoto  Osaka:** JR Special Rapid (30 min).
-- **Osaka  USJ:** JR Yumesaki Line to Universal City Station (15 min).
-- **USJ  Namba:** JR to Osaka Station, transfer to Midosuji Line (30-40 min).
+- **Kyoto Osaka:** JR Special Rapid (30 min).
+- **Osaka USJ:** JR Yumesaki Line to Universal City Station (15 min).
+- **USJ Namba:** JR to Osaka Station, transfer to Midosuji Line (30-40 min).
 
 **Sightseeing Details:**
 
@@ -46,15 +46,15 @@ The final leg of your trip brings you to Osaka, Japan's energetic culinary capit
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Don%20Quijote%2C%20Osaka%2C%20Japan%20OR%20Den%20Den%20Town%2C%20Osaka%2C%20Japan%20OR%20551%20Horai%2C%20Osaka%2C%20Japan)
 
-| Time | Activity | Cost |
-| :--- | :--- | :--- |
-| **08:00** | **Breakfast: Jiggly Cheesecake / Coffee** | $ |
-| **09:30** | **Last-Minute Shopping (Den Den Town / Kuromon)** | $$ |
-| **11:30** | **Collect Luggage / Head to Shin-Osaka** | - |
-| **12:00** | **Shinkansen to Tokyo (Shinagawa)** | $$$ |
-| **14:30** | **Arrive Shinagawa -> Transfer to HND** | - |
-| **15:30** | **Arrive Haneda Airport (Terminal 3)** | - |
-| **17:45** | **Flight Departure (HND -> EWR)** | - |
+| Time      | Activity                                          | Cost |
+| :-------- | :------------------------------------------------ | :--- |
+| **08:00** | **Breakfast: Jiggly Cheesecake / Coffee**         | $    |
+| **09:30** | **Last-Minute Shopping (Den Den Town / Kuromon)** | $$   |
+| **11:30** | **Collect Luggage / Head to Shin-Osaka**          | -    |
+| **12:00** | **Shinkansen to Tokyo (Shinagawa)**               | $$$  |
+| **14:30** | **Arrive Shinagawa -> Transfer to HND**           | -    |
+| **15:30** | **Arrive Haneda Airport (Terminal 3)**            | -    |
+| **17:45** | **Flight Departure (HND -> EWR)**                 | -    |
 
 **Quick Logistics:**
 

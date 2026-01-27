@@ -15,18 +15,18 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Izakaya%2C%20Tokyo%2C%20Japan)
 
-| Time | Activity | Cost |
-| :--- | :--- | :--- |
-| **14:00** | **Arrival at Haneda (HND)** | - |
-| **15:00** | **Hotel Check-in (Ginza/Shinjuku)** | - |
-| **16:30** | **Split: Arcades (Dave) / Food Halls (Debbie)** | $ |
-| **18:30** | **Casual Izakaya Dinner** | $ |
-| **20:30** | **Early Night / Rest** | - |
+| Time      | Activity                                        | Cost |
+| :-------- | :---------------------------------------------- | :--- |
+| **14:00** | **Arrival at Haneda (HND)**                     | -    |
+| **15:00** | **Hotel Check-in (Ginza/Shinjuku)**             | -    |
+| **16:30** | **Split: Arcades (Dave) / Food Halls (Debbie)** | $    |
+| **18:30** | **Casual Izakaya Dinner**                       | $    |
+| **20:30** | **Early Night / Rest**                          | -    |
 
 **Quick Logistics:**
 
 - **From Haneda (HND):** Take the **Keikyu Airport Line** (if staying in Ginza/Shinbashi) or **Airport Limousine Bus** (easiest with luggage).
-  - *To Ginza:* Keikyu Line to Higashi-Ginza Station (~35 mins).
+  - _To Ginza:_ Keikyu Line to Higashi-Ginza Station (~35 mins).
 - **eSIM:** Activate on the train! Turn on "Japan Travel" line in settings.
 - **Hotel Check-in:** Drop bags immediately. Most check-ins start at 3:00 PM.
 
@@ -43,22 +43,22 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Akihabara%2C%20Tokyo%2C%20Japan%20OR%20Kappabashi%2C%20Tokyo%2C%20Japan%20OR%20Ueno%2C%20Tokyo%2C%20Japan%20OR%20Ginza%2C%20Tokyo%2C%20Japan%20OR%20Shinjuku%2C%20Tokyo%2C%20Japan%20OR%20Katsukura%2C%20Tokyo%2C%20Japan%20OR%20Asakusa%20Station%2C%20Tokyo%2C%20Japan%20OR%20Kaminarimon%20Gate%2C%20Tokyo%2C%20Japan%20OR%20Street%20location%2C%20Tokyo%2C%20Japan%20OR%20Sometaro%20Okonomiyaki%2C%20Tokyo%2C%20Japan)
 
-| Time | Activity | Cost |
-| :--- | :--- | :--- |
-| **06:30** | **Senso-ji Temple (Asakusa)** | Free |
-| **08:00** | **Retro Coffee Shop Breakfast** | $ |
-| **09:00** | **Nakamise Street Shopping** | $ |
-| **10:30** | **Split: Akihabara (Dave) / Kappabashi (Debbie)** | $ |
-| **13:00** | **Ramen or Tempura Lunch** | $ |
-| **14:30** | **Regroup & Bag Drop** | - |
-| **16:00** | **Ginza/Shinjuku Exploration** | - |
-| **18:30** | **Tonkatsu Dinner** | $ |
-| **20:30** | **Return to Hotel** | - |
+| Time      | Activity                                          | Cost |
+| :-------- | :------------------------------------------------ | :--- |
+| **06:30** | **Senso-ji Temple (Asakusa)**                     | Free |
+| **08:00** | **Retro Coffee Shop Breakfast**                   | $    |
+| **09:00** | **Nakamise Street Shopping**                      | $    |
+| **10:30** | **Split: Akihabara (Dave) / Kappabashi (Debbie)** | $    |
+| **13:00** | **Ramen or Tempura Lunch**                        | $    |
+| **14:30** | **Regroup & Bag Drop**                            | -    |
+| **16:00** | **Ginza/Shinjuku Exploration**                    | -    |
+| **18:30** | **Tonkatsu Dinner**                               | $    |
+| **20:30** | **Return to Hotel**                               | -    |
 
 **Quick Logistics:**
 
 - **To Asakusa:** Ginza Line to Asakusa Station (Exit 1).
-- **Asakusa  Akihabara:** Tsukuba Express (2 min) or Ginza Line to Suehirocho.
+- **Asakusa Akihabara:** Tsukuba Express (2 min) or Ginza Line to Suehirocho.
 
 **Sightseeing Details:**
 
@@ -75,21 +75,21 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Shibuya%20Parco%2C%20Tokyo%2C%20Japan%20OR%20Shibuya%20Crossing%2C%20Tokyo%2C%20Japan%20OR%20Jojoen%2C%20Tokyo%2C%20Japan%20OR%20JR%20Harajuku%20Station%2C%20Tokyo%2C%20Japan%20OR%20Shibuya%20Station%20conbini%20breakfast%2C%20Tokyo%2C%20Japan%20OR%206F%20Location%2C%20Tokyo%2C%20Japan%20OR%20Separate%20building%2C%20Tokyo%2C%20Japan%20OR%20Parco%206F%2C%20Tokyo%2C%20Japan%20OR%20Omotesando%20Hills%2C%20Tokyo%2C%20Japan%20OR%20Kiddy%20Land%2C%20Tokyo%2C%20Japan)
 
-| Time | Activity | Cost |
-| :--- | :--- | :--- |
-| **06:30** | **Meiji Shrine Morning Walk** | Free |
-| **08:30** | **Fluffy Pancake Breakfast** | $ |
-| **10:00** | **Split: Shibuya Parco (Dave) / Aoyama (Debbie)** | $ |
-| **13:00** | **Quick Lunch in Shibuya** | $ |
-| **15:00** | **Shibuya Crossing & Shibuya Sky** | $$ |
-| **18:00** | **Yakiniku (Wagyu BBQ) Dinner** | $$$ |
-| **20:00** | **Shibuya Night View** | - |
-| **21:30** | **Return to Hotel** | - |
+| Time      | Activity                                          | Cost |
+| :-------- | :------------------------------------------------ | :--- |
+| **06:30** | **Meiji Shrine Morning Walk**                     | Free |
+| **08:30** | **Fluffy Pancake Breakfast**                      | $    |
+| **10:00** | **Split: Shibuya Parco (Dave) / Aoyama (Debbie)** | $    |
+| **13:00** | **Quick Lunch in Shibuya**                        | $    |
+| **15:00** | **Shibuya Crossing & Shibuya Sky**                | $$   |
+| **18:00** | **Yakiniku (Wagyu BBQ) Dinner**                   | $$$  |
+| **20:00** | **Shibuya Night View**                            | -    |
+| **21:30** | **Return to Hotel**                               | -    |
 
 **Quick Logistics:**
 
 - **To Meiji Shrine:** JR Yamanote Line to Harajuku Station.
-- **Harajuku  Shibuya:** 1 stop on JR Yamanote Line (3 min) or 20 min walk.
+- **Harajuku Shibuya:** 1 stop on JR Yamanote Line (3 min) or 20 min walk.
 
 **Sightseeing Details:**
 
@@ -104,20 +104,20 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Yamato%20Transport%2C%20Tokyo%2C%20Japan%20OR%20JR%20Chuo%20Line%2C%20Tokyo%2C%20Japan%20OR%20Inokashira%20Park%2C%20Tokyo%2C%20Japan%20OR%20Community%20Bus%2C%20Tokyo%2C%20Japan%20OR%20Studio%20Ghibli%20Museum%2C%20Tokyo%2C%20Japan%20OR%20Straw%20Hat%20Caf%C3%A9%2C%20Tokyo%2C%20Japan%20OR%20Kichijoji%2C%20Tokyo%2C%20Japan%20OR%20Petit%20Village%2C%20Tokyo%2C%20Japan%20OR%20Nakano%20Broadway%2C%20Tokyo%2C%20Japan%20OR%20Iseya%20Yakitori%2C%20Tokyo%2C%20Japan)
 
-| Time | Activity | Cost |
-| :--- | :--- | :--- |
-| **08:30** | **Travel to Mitaka** | $ |
-| **10:00** | **Ghibli Museum (Must Book!)** | $$ |
-| **13:00** | **Inokashira Park Walk** | Free |
-| **14:30** | **Kichijoji Exploration & Lunch** | $ |
-| **17:00** | **Harmonica Yokocho (Alleyway)** | $ |
-| **19:30** | **Farewell Tokyo Dinner** | $$$ |
-| **21:30** | **Final Packing & Prep** | - |
+| Time      | Activity                          | Cost |
+| :-------- | :-------------------------------- | :--- |
+| **08:30** | **Travel to Mitaka**              | $    |
+| **10:00** | **Ghibli Museum (Must Book!)**    | $$   |
+| **13:00** | **Inokashira Park Walk**          | Free |
+| **14:30** | **Kichijoji Exploration & Lunch** | $    |
+| **17:00** | **Harmonica Yokocho (Alleyway)**  | $    |
+| **19:30** | **Farewell Tokyo Dinner**         | $$$  |
+| **21:30** | **Final Packing & Prep**          | -    |
 
 **Quick Logistics:**
 
 - **To Mitaka:** JR Chuo Line (Rapid) from Shinjuku (20 min).
-- **Mitaka  Museum:** 15 min scenic walk through Inokashira Park or Community Bus.
+- **Mitaka Museum:** 15 min scenic walk through Inokashira Park or Community Bus.
 - **Luggage:** Forward bags to Kyoto via [Yamato Transport](https://www.kuronekoyamato.co.jp/ytc/en/).
 
 **Sightseeing Details:**
