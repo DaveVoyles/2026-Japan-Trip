@@ -66,9 +66,9 @@ corners.
 - **Key Stops:** Senso-ji, Akihabara, Meiji Shrine, Shibuya Parco, Harajuku, Ghibli Museum, Kichijoji, Ginza/Shinjuku.
 - **Details:** [See Tokyo City Stops](Detailed/Tokyo/neighborhoods.md#tokyo-sightseeing-details)
 
-### Day 1: Arrival in Tokyo (Monday)
+### Day 1: Arrival in Tokyo (Monday, May 25)
 
-- **Arrival:** Arrive at HND (~2:00 PM) from Newark (EWR).
+- **Arrival:** Arrive at HND (**1:35 PM**) from Newark (EWR) on **UA 131**.
 - **Check-in:** Settle into your hotel in **Ginza** or **Shinjuku**.
 - **Evening:** Light walk to reset body clocks. Explore local arcades or department store food halls.
 - **Dinner:** Casual Izakaya meal to welcome you to Japan.
@@ -183,11 +183,12 @@ These final days ensure you leave Japan with a full stomach and a suitcase full 
 - **Check-in:** Settle into a hotel in **Tokyo** (near Shinagawa or Haneda) for an easy airport run tomorrow.
 - **Evening:** Final Japanese dinner in Tokyo and a light walk through the city neon.
 
-### Day 10: Departure from Tokyo (Wednesday)
+### Day 10: Departure from Tokyo (Wednesday, June 3)
 
 - **Morning:** Relaxed breakfast and last-minute airport lounge/gift shopping.
 - **Transfer:** Short train or shuttle to **Haneda Airport (HND)**.
-- **Departure:** Flight UA130 back to Newark (EWR).
+- **Departure:** Flight **UA 130** leaves at **5:45 PM**. Arrive at airport by 2:30 PM.
+- **Arrival:** Arrive back at EWR at 6:05 PM (Same Day).
 
 ## May 2026 Specific Notes
 

@@ -90,9 +90,9 @@ _Note: You moved to Osaka this evening to get settled before the USJ rush._
 | Time      | Activity                                | Cost |
 | :-------- | :-------------------------------------- | :--- |
 | **09:00** | **Leisurely Morning in Tokyo**          | $    |
-| **11:00** | **Head to Haneda Airport (Terminal 3)** | -    |
-| **12:00** | **Lunch & Duty Free at HND**            | $$   |
-| **15:45** | **United Flight UA130 Departure**       | -    |
+| **13:00** | **Head to Haneda Airport (Terminal 3)** | -    |
+| **14:30** | **Lunch & Duty Free at HND**            | $$   |
+| **17:45** | **United Flight UA 130 Departure**      | -    |
 
 **Quick Logistics:**
 

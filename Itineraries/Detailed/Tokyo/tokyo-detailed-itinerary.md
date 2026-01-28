@@ -17,7 +17,7 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 | Time      | Activity                                        | Cost |
 | :-------- | :---------------------------------------------- | :--- |
-| **14:00** | **Arrival at Haneda (HND)**                     | -    |
+| **13:35** | **Arrival at Haneda (HND) - UA 131**            | -    |
 | **15:00** | **Hotel Check-in (Ginza/Shinjuku)**             | -    |
 | **16:30** | **Split: Arcades (Dave) / Food Halls (Debbie)** | $    |
 | **18:30** | **Casual Izakaya Dinner**                       | $    |
@@ -132,12 +132,12 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Shinagawa%20Station%2C%20Tokyo%2C%20Japan%20OR%20Haneda%20Airport%20Hotel%2C%20Tokyo%2C%20Japan)
 
-| Time      | Activity                            | Cost |
-| :-------- | :---------------------------------- | :--- |
-| **15:30** | **Shinkansen from Shin-Osaka**      | $$$  |
-| **18:00** | **Arrive Tokyo (Shinagawa)**        | -    |
+| Time      | Activity                             | Cost |
+| :-------- | :----------------------------------- | :--- |
+| **15:30** | **Shinkansen from Shin-Osaka**       | $$$  |
+| **18:00** | **Arrive Tokyo (Shinagawa)**         | -    |
 | **19:00** | **Hotel Check-in (Near Airport/JR)** | -    |
-| **20:00** | **Final Dinner: Wagyu or Sushi**    | $$$  |
+| **20:00** | **Final Dinner: Wagyu or Sushi**     | $$$  |
 
 **Quick Logistics:**
 
@@ -152,15 +152,14 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 ## Day 10: Departure (Wednesday, June 3)
 
-| Time      | Activity                               | Cost |
-| :-------- | :------------------------------------- | :--- |
-| **09:00** | **Leisurely Morning & Souvenirs**      | $    |
-| **11:00** | **Monorail or Keikyu to HND Terminal 3** | -    |
-| **12:00** | **Check-in & Airport Exploration**     | -    |
-| **15:45** | **United Flight UA130 Departure**      | -    |
+| Time      | Activity                                 | Cost |
+| :-------- | :--------------------------------------- | :--- |
+| **09:00** | **Leisurely Morning & Souvenirs**        | $    |
+| **13:00** | **Monorail or Keikyu to HND Terminal 3** | -    |
+| **14:30** | **Check-in & Airport Exploration**       | -    |
+| **17:45** | **United Flight UA 130 Departure**       | -    |
 
 **Quick Logistics:**
 
 - **Airport Transit:** 15-20 mins from Shinagawa to HND via Keikyu Airport Line (Express).
 - **Haneda Duty Free:** Great for last-minute snacks (Tokyo Banana, Shiroi Koibito).
-

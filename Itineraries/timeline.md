@@ -1,16 +1,15 @@
 # Trip Timeline & Checklist (May 2026)
 
-##  Phase 1: The Foundation (Now - June 2025)
+## Phase 1: The Foundation (Now - June 2025)
 
 ### 11-12 Months Out
 
-- [ ] **Book Flights (CRITICAL)**
-  - **Window:** Open ~June 2025 (330 days in advance).
-  - **Action:** Book Direct EWR <-> HND.
-  - **Target:** Premium Economy or Business.
-  - *Dates:* Outbound May 24 (Sun) | Return June 3 (Wed).
+- [x] **Book Flights (COMPLETED)**
+  - **Flight:** UA 131 (Outbound) / UA 130 (Return).
+  - **Dates:** Outbound May 24 (Sun) | Return June 3 (Wed).
+  - **Class:** Premium Economy.
 
-##  Phase 2: Accommodation (Aug - Nov 2025)
+## Phase 2: Accommodation (Aug - Nov 2025)
 
 ### 6-9 Months Out
 
@@ -19,9 +18,9 @@
   - **Kyoto:** 2 Nights (Fri-Sat).
   - **Osaka:** 2 Nights (Sun-Mon).
   - **Tokyo (Leg 3):** 1 Night (Tue).
-  - *Strategy:* Book refundable rates to lock in prices. Stay near Shinagawa or Haneda for the final night.
+  - _Strategy:_ Book refundable rates to lock in prices. Stay near Shinagawa or Haneda for the final night.
 
-##  Phase 3: The "Hard" Tickets (March 2026)
+## Phase 3: The "Hard" Tickets (March 2026)
 
 ### 2 Months Out
 
@@ -34,7 +33,7 @@
   - **Action:** For May visit, be ready on **March 10** at 10:00 AM JST.
   - **Why:** Sold out within minutes.
 
-##  Phase 4: Dining & Specifics (April 2026)
+## Phase 4: Dining & Specifics (April 2026)
 
 ### 1 Month Out
 
@@ -44,13 +43,13 @@
   - Book high-end dinners (Omakase/Kaiseki).
 - [ ] **Order eSIM / Pocket Wi-Fi**
 
-##  Phase 5: Final Prep (Mid-May 2026)
-*1 Week Out*
+## Phase 5: Final Prep (Mid-May 2026)
+
+_1 Week Out_
 
 - [ ] **[Visit Japan Web](https://vjw-lp.digital.go.jp/en/)**
-    -   Complete Immigration & Customs QR codes.
+  - Complete Immigration & Customs QR codes.
 - [ ] **IC Cards (Suica/Pasmo)**
-    -   Load funds on Apple Wallet.
+  - Load funds on Apple Wallet.
 - [ ] **Luggage Strategy**
-    -   Pack "Day 1" backpack. Large bags will be shipped from Tokyo -> Kyoto.
-
+  - Pack "Day 1" backpack. Large bags will be shipped from Tokyo -> Kyoto.

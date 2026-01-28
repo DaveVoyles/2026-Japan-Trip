@@ -2,17 +2,20 @@
 
 ## Recommended Flight Plan (May 2026)
 
-### **SELECTED: Option A (The "Direct Comfort" / Round Trip)**
+### **BOOKED: United Airlines EWR <-> HND**
 
-_Round trip EWR <-> Tokyo Haneda (HND)._
+_Round trip Newark (EWR) <-> Tokyo Haneda (HND)._
 
-- **Outbound:** Newark (EWR) -> Tokyo Haneda (HND). Direct. 14h 30m.
-  - _Date:_ Sunday, May 24, 2026.
-- **Inbound:** Tokyo Haneda (HND) -> Newark (EWR). Direct. 12h 45m.
-  - _Date:_ Wednesday, June 3, 2026.
-- **Logistics:** On Day 9 (Return to Tokyo), take the Shinkansen from Osaka to Tokyo. Stay overnight and fly out on Day 10.
-- **Pros:** Maximum comfort (direct flights), better schedule reliability, no US domestic connection.
-- **Cons:** Slightly more expensive (extra hotel night).
+- **Inbound (UA 131):** Newark (EWR) -> Tokyo Haneda (HND).
+  - **Depart:** Sun, May 24, 2026 @ 10:30 AM
+  - **Arrive:** Mon, May 25, 2026 @ 1:35 PM
+  - **Duration:** 14h 5m
+- **Outbound (UA 130):** Tokyo Haneda (HND) -> Newark (EWR).
+  - **Depart:** Wed, Jun 3, 2026 @ 5:45 PM
+  - **Arrive:** Wed, Jun 3, 2026 @ 6:05 PM
+  - **Duration:** 13h 20m
+- **Logistics:** Stay in Tokyo on the night of June 2nd for a smooth afternoon departure on June 3rd.
+- **Pros:** Direct flights, no connections, arrive early afternoon in Tokyo to reset.
 
 ---
 
