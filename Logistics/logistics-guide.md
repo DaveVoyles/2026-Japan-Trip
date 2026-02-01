@@ -2,11 +2,8 @@
 
 ## 📅 Trip Timing & Dates
 
-October is our primary target, but if we need to shift dates, see the comparative analysis below:
-
-- [May 2026 Considerations](may-travel-considerations.md): Post-Memorial Day, fresh greenery, and long sunny days.
-- [June 2026 Considerations](june-travel-considerations.md): Rainy season, humidity, but fewer crowds and lower costs.
-- [December 2026 Considerations](december-travel-considerations.md): Cold and dry, winter illuminations, and peak Fuji visibility.
+**Confirmed Dates:** May 25 - June 3, 2026.
+Late May offers a beautiful balance of fresh greenery (Shinryoku), pleasant temperatures, and the tail end of spring before the rainy season begins.
 
 ---
 
