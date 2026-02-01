@@ -603,18 +603,18 @@ _Follow Day 5 itinerary - Fushimi Inari Shrine visit!_
 
 ### Checked Bag:
 
-**Clothes (October weather: 55-75°F):**
+**Clothes (May/June weather: 70-82°F):**
 
-- [ ] 5-7 t-shirts/tops
-- [ ] 2-3 long pants
-- [ ] 1 pair shorts (optional)
-- [ ] Light jacket or cardigan
+- [ ] 5-7 t-shirts/tops (breathable)
+- [ ] 2-3 lightweight pants/chinos
+- [ ] 1 pair shorts (good for humid days)
+- [ ] Light jacket or cardigan (for indoor AC)
 - [ ] Underwear (7-9 pairs)
-- [ ] Socks (7-9 pairs)
+- [ ] Socks (7-9 pairs, moisture-wicking)
 - [ ] Pajamas
 - [ ] Comfortable walking shoes (wearing)
 - [ ] Backup shoes (pack)
-- [ ] Small umbrella (compact)
+- [ ] UV Umbrella (compact)
 
 **Toiletries (Full Sizes OK):**
 
@@ -622,9 +622,9 @@ _Follow Day 5 itinerary - Fushimi Inari Shrine visit!_
 - [ ] Body wash
 - [ ] Face wash
 - [ ] Toothbrush & toothpaste (backup)
-- [ ] Deodorant
+- [ ] Deodorant (essential)
 - [ ] Razor
-- [ ] Sunscreen (UV moderate in October)
+- [ ] Sunscreen (UV high in May/June)
 - [ ] Moisturizer
 - [ ] Hair products
 - [ ] Makeup (if applicable)

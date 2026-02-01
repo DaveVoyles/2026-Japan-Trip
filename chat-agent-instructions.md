@@ -31,7 +31,7 @@ Read this file completely before generating any content or making edits.
 
 ## Trip Focus
 
-- **Dates:** October 2026 (Targeting mid-October for weather/flowers).
+- **Dates:** May 24 – June 3, 2026 (Finalized dates based on flights).
 - **Style:** "Together & Apart" - Shared mornings/evenings, split afternoons for specific hobbies.
 - **Pace:** Moderate. Padding included for travel/rest.
 - **Audience:** Optimized for **First-Time Visitors** to Japan (high detail on logistics/etiquette).
@@ -39,6 +39,7 @@ Read this file completely before generating any content or making edits.
 ## Architecture: The Three-Tier System
 
 Maintain the following hierarchy for all itinerary content:
+
 1.  **Tier 1 (High-Level):** `Itineraries/japan-itinerary.md` - A bird's-eye view of the entire trip.
 2.  **Tier 2 (Daily):** `Itineraries/Detailed/[City]/[city]-detailed-itinerary.md` - Streamlined daily schedules.
 3.  **Tier 3 (Deep Dive):** `Itineraries/Detailed/[City]/neighborhoods.md` - Reference guides for specific areas.
@@ -60,11 +61,11 @@ Maintain the following hierarchy for all itinerary content:
 
 **Recommendation Table Format:**
 
-| Est Cost | URL | Details | Availability | English Friendly |
-| :--- | :--- | :--- | :--- | :--- |
-| $$$$ | [Website](url) | **Description:** 1-2 sentences about the location.<br><br>🟢 **Pro:** Highlight a major benefit.<br>🔴 **Con:** Mention a potential drawback. | e.g., "Book 3 months ahead" | High/Med/Low |
+| Est Cost | URL            | Details                                                                                                                                       | Availability                | English Friendly |
+| :------- | :------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------- | :--------------- |
+| $$$$     | [Website](url) | **Description:** 1-2 sentences about the location.<br><br>🟢 **Pro:** Highlight a major benefit.<br>🔴 **Con:** Mention a potential drawback. | e.g., "Book 3 months ahead" | High/Med/Low     |
 
-*Note: Use `<br><br>` within table cells to force line breaks for readability.*
+_Note: Use `<br><br>` within table cells to force line breaks for readability._
 
 ## Logistics & Preferences
 

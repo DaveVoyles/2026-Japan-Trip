@@ -35,15 +35,15 @@
 
 ### 🚇 Key Station Exit Numbers
 
-| Destination | Station | Exit to Use | Walking Time |
-| :--- | :--- | :--- | :--- |
-| **Senso-ji Temple** | Asakusa (Ginza Line) | Exit 1 | 5 min |
-| **Tokyo Skytree** | Oshiage | Exit B3 | Direct to mall |
-| **[Akihabara Electric Town](../Itineraries/Detailed/Tokyo/neighborhoods.md#-akihabara-dave)** | Akihabara (JR) | Electric Town Exit | 1 min to main street |
-| **[Shibuya Crossing](../Itineraries/Detailed/Tokyo/neighborhoods.md#-shibuyaparco-dave)** | Shibuya (JR) | Hachiko Exit | 30 seconds |
-| **Meiji Shrine** | Harajuku (JR) | Omotesando Exit | 5 min walk |
-| **[Ghibli Museum](../Itineraries/Detailed/Tokyo/neighborhoods.md#-studio-ghibli-museum--kichijoji-dave--debbie)** | Mitaka (JR) | South Exit | 15 min walk OR bus stop |
-| **Tsukiji Outer Market** | Tsukiji (Hibiya Line) | Exit 1 | 2 min |
+| Destination                                                                                                       | Station               | Exit to Use        | Walking Time            |
+| :---------------------------------------------------------------------------------------------------------------- | :-------------------- | :----------------- | :---------------------- |
+| **Senso-ji Temple**                                                                                               | Asakusa (Ginza Line)  | Exit 1             | 5 min                   |
+| **Tokyo Skytree**                                                                                                 | Oshiage               | Exit B3            | Direct to mall          |
+| **[Akihabara Electric Town](../Itineraries/Detailed/Tokyo/neighborhoods.md#-akihabara-dave)**                     | Akihabara (JR)        | Electric Town Exit | 1 min to main street    |
+| **[Shibuya Crossing](../Itineraries/Detailed/Tokyo/neighborhoods.md#-shibuyaparco-dave)**                         | Shibuya (JR)          | Hachiko Exit       | 30 seconds              |
+| **Meiji Shrine**                                                                                                  | Harajuku (JR)         | Omotesando Exit    | 5 min walk              |
+| **[Ghibli Museum](../Itineraries/Detailed/Tokyo/neighborhoods.md#-studio-ghibli-museum--kichijoji-dave--debbie)** | Mitaka (JR)           | South Exit         | 15 min walk OR bus stop |
+| **Tsukiji Outer Market**                                                                                          | Tsukiji (Hibiya Line) | Exit 1             | 2 min                   |
 
 ### 💴 Money & ATMs
 
@@ -138,13 +138,13 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 ### 📍 Temple Station Exits
 
-| Temple/Sight | Station | Exit | Walk Time |
-| :--- | :--- | :--- | :--- |
-| **[Fushimi Inari](../Itineraries/Detailed/Kyoto/neighborhoods.md#-temples--shrines)** | Inari (JR Nara Line) | Only exit | 2 min |
-| **[Arashiyama Bamboo](../Itineraries/Detailed/Kyoto/neighborhoods.md#-nature--culture)** | Saga-Arashiyama (JR) | North Exit | 10 min |
-| **[Kinkaku-ji (Golden)](../Itineraries/Detailed/Kyoto/neighborhoods.md#-temples--shrines)** | Bus stop "Kinkakuji-michi" | N/A | 5 min from stop |
-| **Gion District** | Gion-Shijo (Keihan) | Exit 6 | 2 min to Hanamikoji |
-| **[Nishiki Market](../Itineraries/Detailed/Kyoto/neighborhoods.md#-shopping--food)** | Karasuma (Hankyu) | Exit 13 | 3 min |
+| Temple/Sight                                                                                | Station                    | Exit       | Walk Time           |
+| :------------------------------------------------------------------------------------------ | :------------------------- | :--------- | :------------------ |
+| **[Fushimi Inari](../Itineraries/Detailed/Kyoto/neighborhoods.md#-temples--shrines)**       | Inari (JR Nara Line)       | Only exit  | 2 min               |
+| **[Arashiyama Bamboo](../Itineraries/Detailed/Kyoto/neighborhoods.md#-nature--culture)**    | Saga-Arashiyama (JR)       | North Exit | 10 min              |
+| **[Kinkaku-ji (Golden)](../Itineraries/Detailed/Kyoto/neighborhoods.md#-temples--shrines)** | Bus stop "Kinkakuji-michi" | N/A        | 5 min from stop     |
+| **Gion District**                                                                           | Gion-Shijo (Keihan)        | Exit 6     | 2 min to Hanamikoji |
+| **[Nishiki Market](../Itineraries/Detailed/Kyoto/neighborhoods.md#-shopping--food)**        | Karasuma (Hankyu)          | Exit 13    | 3 min               |
 
 ---
 
@@ -254,19 +254,19 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 ### Menu Translations (Common Items)
 
-| Japanese | Romaji | Meaning |
-| :--- | :--- | :--- |
-| ラーメン | Ramen | Ramen noodles |
-| 餃子 | Gyoza | Dumplings |
-| チャーハン | Chaahan | Fried rice |
-| 唐揚げ | Karaage | Fried chicken |
-| 天ぷら | Tempura | Battered fried food |
-| トンカツ | Tonkatsu | Breaded pork cutlet |
-| カレー | Karee | Curry |
-| 定食 | Teishoku | Set meal |
-| 大盛り | Oomori | Large size |
-| 辛い | Karai | Spicy |
-| 甘い | Amai | Sweet |
+| Japanese   | Romaji   | Meaning             |
+| :--------- | :------- | :------------------ |
+| ラーメン   | Ramen    | Ramen noodles       |
+| 餃子       | Gyoza    | Dumplings           |
+| チャーハン | Chaahan  | Fried rice          |
+| 唐揚げ     | Karaage  | Fried chicken       |
+| 天ぷら     | Tempura  | Battered fried food |
+| トンカツ   | Tonkatsu | Breaded pork cutlet |
+| カレー     | Karee    | Curry               |
+| 定食       | Teishoku | Set meal            |
+| 大盛り     | Oomori   | Large size          |
+| 辛い       | Karai    | Spicy               |
+| 甘い       | Amai     | Sweet               |
 
 ### Dietary Restrictions
 
@@ -325,17 +325,17 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 ## ⚠️ Common Pitfalls & Solutions
 
-| Problem | Solution |
-| :--- | :--- |
-| **Suica balance too low** | Can reload at any station ticket machine or konbini |
-| **Wrong train direction** | Get off at next station, cross platform, go back |
-| **Missed last train** | Take taxi (expensive!) or wait at manga cafe until first train (5 AM) |
-| **Restaurant full** | Ask "Nan-pun gurai?" (How many minutes wait?) |
-| **Can't find coin locker** | Use station "Cloak Service" (human-staffed left luggage) |
-| **Lost in station** | Look for "Information" (案内) desk with  ℹ️ symbol |
-| **ATM won't accept card** | Go to 7-Eleven or Post Office ATM (most reliable) |
-| **Hotel check-in too early** | Ask to store luggage: "Nimotsu azukari onegaishimasu" |
-| **Forgot hotel name** | Show photo of hotel business card OR "hotel" section in Maps |
+| Problem                      | Solution                                                              |
+| :--------------------------- | :-------------------------------------------------------------------- |
+| **Suica balance too low**    | Can reload at any station ticket machine or konbini                   |
+| **Wrong train direction**    | Get off at next station, cross platform, go back                      |
+| **Missed last train**        | Take taxi (expensive!) or wait at manga cafe until first train (5 AM) |
+| **Restaurant full**          | Ask "Nan-pun gurai?" (How many minutes wait?)                         |
+| **Can't find coin locker**   | Use station "Cloak Service" (human-staffed left luggage)              |
+| **Lost in station**          | Look for "Information" (案内) desk with ℹ️ symbol                     |
+| **ATM won't accept card**    | Go to 7-Eleven or Post Office ATM (most reliable)                     |
+| **Hotel check-in too early** | Ask to store luggage: "Nimotsu azukari onegaishimasu"                 |
+| **Forgot hotel name**        | Show photo of hotel business card OR "hotel" section in Maps          |
 
 ---
 
@@ -409,22 +409,22 @@ Taxis are expensive but sometimes worth it in Kyoto:
 - [ ] $100-200 USD cash to exchange at airport
 - [ ] Empty wallet/pouch for Japanese yen coins (you'll accumulate them!)
 
-### Clothing (October)
+### Clothing (May/June)
 
-- [ ] Light jacket/cardigan (mornings/evenings 55-60°F)
-- [ ] T-shirts (days are 65-75°F)
-- [ ] Long pants (jeans okay, breathable better)
+- [ ] Light jacket/cardigan (AC on trains/buildings is strong)
+- [ ] T-shirts (days are 70-82°F)
+- [ ] Lightweight pants/chinos (jeans okay but can be hot in humidity)
 - [ ] Comfortable walking shoes (20,000+ steps per day!)
-- [ ] Backup shoes (in case rain)
-- [ ] Small umbrella (compact, fits in bag)
-- [ ] Layers! (Temperature varies throughout day)
+- [ ] Moisture-wicking socks (humidity)
+- [ ] Compact umbrella (sun+rain protection)
+- [ ] Breathable layers! (Humidity varies throughout day)
 
 ### Toiletries
 
 - [ ] Prescriptions (bring extra in case of delays)
 - [ ] Pain reliever (or buy at drugstore in Japan)
 - [ ] Allergy medicine
-- [ ] Sunscreen (UV index moderate in October)
+- [ ] Sunscreen (UV index HIGH in late May/June)
 - [ ] Hand sanitizer
 - [ ] Face masks (optional, but some wear them)
 - [ ] Contact lens solution (if needed)
@@ -442,16 +442,16 @@ Taxis are expensive but sometimes worth it in Kyoto:
 
 ## 🎯 Daily Budget Estimate
 
-| Category | Budget (¥) | Budget ($) |
-| :--- | :--- | :--- |
-| **Breakfast** (Konbini) | ¥800-1,000 | $5-7 |
-| **Lunch** (Casual) | ¥1,500-2,500 | $10-17 |
-| **Dinner** (Sit-down) | ¥3,000-5,000 | $20-33 |
-| **Snacks/Coffee** | ¥800-1,500 | $5-10 |
-| **Local Transport** | ¥1,000-1,500 | $7-10 |
-| **Attractions** (avg) | ¥1,500-3,000 | $10-20 |
-| **Shopping/Souvenirs** | ¥5,000-15,000 | $33-100 |
-| **DAILY TOTAL** | **¥13,600-29,500** | **$90-197** |
+| Category                | Budget (¥)         | Budget ($)  |
+| :---------------------- | :----------------- | :---------- |
+| **Breakfast** (Konbini) | ¥800-1,000         | $5-7        |
+| **Lunch** (Casual)      | ¥1,500-2,500       | $10-17      |
+| **Dinner** (Sit-down)   | ¥3,000-5,000       | $20-33      |
+| **Snacks/Coffee**       | ¥800-1,500         | $5-10       |
+| **Local Transport**     | ¥1,000-1,500       | $7-10       |
+| **Attractions** (avg)   | ¥1,500-3,000       | $10-20      |
+| **Shopping/Souvenirs**  | ¥5,000-15,000      | $33-100     |
+| **DAILY TOTAL**         | **¥13,600-29,500** | **$90-197** |
 
 **Per Person for 9 Days:** ~$800-1,800 (excluding hotels, flights, USJ tickets)
 

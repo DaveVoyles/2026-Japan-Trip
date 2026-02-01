@@ -265,7 +265,7 @@ _Capture the magic without blocking the path._
 - **5:30 AM:** Wake up at hotel
 - **6:00 AM:** Depart hotel (train to Universal City)
 - **6:45 AM:** Arrive at USJ gates (yes, 1 hour 45 min before official opening!)
-  - **Why:** October crowds mean earlier arrivals even on weekdays
+  - **Why:** Late May/Early June crowds mean earlier arrivals even on weekdays
   - Gates typically open 30-60 min early
 - **7:30-8:00 AM:** Gates open, rope drop
   - **With Express Pass:** Walk calmly to Nintendo World, scan Express Pass at entry
@@ -282,49 +282,46 @@ _Capture the magic without blocking the path._
   - Crowds thin as many visitors leave for dinner
 - **9:00 PM:** Park closes, head to Dotonbori
 
-**Recommended Schedule for October Weekend (if you MUST go):**
+**Recommended Schedule for June Weekday (Wait Times Moderate):**
 
-- **5:00 AM:** Wake up (earlier to beat crowds)
-- **5:30 AM:** Depart hotel
-- **6:15 AM:** Arrive at gates (earlier crowd builds)
-- **Express Pass:** MANDATORY - you will NOT enjoy the day without it
-- **Strategy:** Same as above but expect longer waits everywhere
+- **5:30 AM:** Wake up
+- **6:00 AM:** Depart hotel
+- **6:45 AM:** Arrive at gates
+- **Express Pass:** Recommended but not as critical as weekends; early entry is key.
+- **Strategy:** Follow the 10-step guide above.
 
-### 🌡️ October Weather at USJ
+### 🌡️ June Weather at USJ
 
-- **Temperature:** 65-75°F (18-24°C) - Perfect theme park weather!
-- **Rain Probability:** 15-20% (low, but pack light rain jacket)
-- **Humidity:** Moderate (60-70%)
+- **Temperature:** 68-79°F (20-26°C) - Humid and warm
+- **Rain Probability:** 40-50% (Rainy season starts; pack a poncho!)
+- **Humidity:** High (75-85%)
 - **What to Wear:**
-  - Comfortable walking shoes (you'll walk 20,000+ steps)
-  - Layers (light jacket for morning/evening, t-shirt for midday)
-  - Hat and sunscreen (moderate UV even in October)
+  - Moisture-wicking shoes and socks
+  - Quick-dry layers (essential for humidity and rain)
+  - Cooling towels or handheld fans
+  - UV umbrella (essential for sun and rain)
+  - Hat and sunscreen (high UV in June)
 
 ### 📅 Final Recommendation for Trip Dates
 
-Based on crowd analysis and itinerary:
+**Optimal USJ Visit Day:** **Monday, June 1, 2026**
 
-**Optimal USJ Visit Day:** **Monday, October 12, 2026** OR **Tuesday, October 13, 2026**
+- **Why Monday June 1:**
+  - Day 8 of our 10-day trip
+  - Monday is typically the lightest weekday for crowds
+  - Avoids the weekend rush
+- **Backup:** **Tuesday, June 2, 2026** if Monday has a poor weather forecast
 
-- **Why Monday Oct 12:**
-  - Day 7 of recommended 8-day trip (Oct 10-18)
-  - Weekday with moderate crowds
-  - Perfect timing for early-mid October weather
-- **Backup:** **Wednesday, October 14, 2026** if Monday/Tuesday too crowded
+### 🔗 June Planning Resources
 
-### 🔗 October Planning Resources
-
-- **[USJ Real Crowd Calendar](https://usjreal.asumirai.info/monthly/monthly-real.html)** - Most accurate predictions
-  (Use Google Translate)
+- **[USJ Real Crowd Calendar](https://usjreal.asumirai.info/monthly/monthly-real.html)** - Most accurate predictions (Use Google Translate)
 - **[USJ Official Calendar](https://www.usj.co.jp/web/en/us/service-guide/park-hours)** - Operating hours (updated monthly)
 - **[Wait Time Tracker](https://usjinfo.com/en/)** - Real-time wait times on the day
 - **[Weather Forecast](https://weathernews.jp/s/en/)** - Check 10 days before trip
 
-### ⚠️ October Gotchas
+### ⚠️ June Gotchas
 
-- **Halloween Decorations:** Park is heavily themed for Halloween - great for photos, but more crowded
-- **HHN Ticket Confusion:** Make sure you DON'T accidentally buy an HHN-only ticket (evening horror event)
-  - You want: **Studio Pass** (daytime entry) + **Express Pass** (skip lines)
-  - You DON'T need: **Halloween Horror Nights** ticket (unless you want scary mazes at night)
-- **Merchandise:** Limited-edition Halloween AND Nintendo merch = budget accordingly!
-- **Food Lines:** All restaurants busier in October - use app for timed entry at Kinopio's Cafe
+- **Rainy Season (Tsuyu):** Be prepared for rain. Indoor attractions like Mario Kart are fine, but outdoor shows may be canceled.
+- **Humidity:** Stay hydrated; take breaks in AC restaurants.
+- **Food Lines:** Use the app for timed entry at Kinopio's Cafe to avoid standing in the sun/humidity.
+- **Express Pass:** Still highly recommended to guarantee Nintendo World entry without the early morning stress.

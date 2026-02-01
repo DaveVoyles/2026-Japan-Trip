@@ -7,9 +7,9 @@
 _Round trip Newark (EWR) <-> Tokyo Haneda (HND)._
 
 - **Inbound (UA 131):** Newark (EWR) -> Tokyo Haneda (HND).
-  - **Depart:** Sun, May 24, 2026 @ 10:30 AM
+  - **Depart:** Sun, May 24, 2026 @ 11:35 AM
   - **Arrive:** Mon, May 25, 2026 @ 1:35 PM
-  - **Duration:** 14h 5m
+  - **Duration:** 14h
 - **Outbound (UA 130):** Tokyo Haneda (HND) -> Newark (EWR).
   - **Depart:** Wed, Jun 3, 2026 @ 5:45 PM
   - **Arrive:** Wed, Jun 3, 2026 @ 6:05 PM
@@ -75,20 +75,20 @@ Since you are flying out of EWR (United Hub):
 
 ---
 
-## Airport Transit & Day 9 Logistics
+## Airport Transit & Departure Logistics
 
 ### Arrival: Tokyo (Haneda - HND)
 
-- **Target Arrival:** 2:00 PM.
+- **Target Arrival:** 1:35 PM (UA 131).
 - **Transport:**
   - **Limousine Bus:** Direct to Hotel (Best with luggage).
   - **Taxi:** ~12,000 ($80) to Ginza/Shinjuku. Fast and private.
 
-### Departure: Tokyo (Haneda - HND) via Osaka
+### Departure: Tokyo (Haneda - HND) on Day 10
 
-_Strategy for the final day:_
+_Strategy for the final leg:_
 
-1.  **Morning:** Enjoy Osaka (Den Den Town).
-2.  **Noon:** Shinkansen from Shin-Osaka Station to **Shinagawa Station** (Not Tokyo Station).
-3.  **Transfer:** At Shinagawa, take the Keikyu Airport Express to HND Terminal 3.
-4.  **Check-in:** 3:30 PM for a 5:45 PM flight.
+1.  **Day 9 (June 2):** Shinkansen from Shin-Osaka Station to **Shinagawa Station** (Not Tokyo Station).
+2.  **Evening:** Check into a final-night hotel in Tokyo (Shinagawa or Haneda).
+3.  **Day 10 (June 3):** Enjoy a relaxed Tokyo morning or last-minute shopping.
+4.  **Transfer:** Arrive at HND Terminal 3 by 3:00 PM for the 5:45 PM departure (UA 130).

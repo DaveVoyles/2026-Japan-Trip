@@ -2,14 +2,14 @@
 
 ## 📞 Emergency Numbers (Save These!)
 
-| Service | Number | What to Say | Notes |
-| :--- | :--- | :--- | :--- |
-| **Police** | **110** | "Dorobou!" (Thief!) or "Help me!" | For crimes, theft, accidents |
-| **Fire/Ambulance** | **119** | "Kyuukyuusha!" (Ambulance!) | State if ambulance or fire |
-| **Coast Guard** | **118** | For maritime only | Unlikely to need |
-| **Police Consultation** | **#9110** | Non-emergency | For advice, not urgent |
-| **Tokyo Metropolitan Police English Hotline** | **03-3501-0110** | English operator available | 8:30 AM - 5:15 PM weekdays |
-| **Japan Helpline** | **0570-000-911** | 24/7 English support | For any emergency or question |
+| Service                                       | Number           | What to Say                       | Notes                         |
+| :-------------------------------------------- | :--------------- | :-------------------------------- | :---------------------------- |
+| **Police**                                    | **110**          | "Dorobou!" (Thief!) or "Help me!" | For crimes, theft, accidents  |
+| **Fire/Ambulance**                            | **119**          | "Kyuukyuusha!" (Ambulance!)       | State if ambulance or fire    |
+| **Coast Guard**                               | **118**          | For maritime only                 | Unlikely to need              |
+| **Police Consultation**                       | **#9110**        | Non-emergency                     | For advice, not urgent        |
+| **Tokyo Metropolitan Police English Hotline** | **03-3501-0110** | English operator available        | 8:30 AM - 5:15 PM weekdays    |
+| **Japan Helpline**                            | **0570-000-911** | 24/7 English support              | For any emergency or question |
 
 **💡 Tip:** When calling 119, stay calm and speak slowly. Say "Kyuukyuusha onegaishimasu" (ambulance please), then your location.
 
@@ -18,6 +18,7 @@
 ### Tokyo
 
 #### 🏥 St. Luke's International Hospital (Tsukiji)
+
 - **Address:** 9-1 Akashi-cho, Chuo-ku, Tokyo 104-8560
 - **Phone:** [03-3541-5151](tel:+81-3-3541-5151)
 - **English Line:** Available 24/7
@@ -29,6 +30,7 @@
 - **Cost Estimate:** Emergency visit ¥10,000-20,000 ($67-133) without insurance
 
 #### 🏥 Tokyo Midtown Clinic (Roppongi)
+
 - **Address:** Tokyo Midtown Medical Center, 9-7-1 Akasaka, Minato-ku
 - **Phone:** [03-5413-0080](tel:+81-3-5413-0080)
 - **English:** Yes, English-speaking doctors
@@ -38,6 +40,7 @@
 - **Insurance:** International insurance accepted
 
 #### 💊 American Pharmacy (Yurakucho)
+
 - **Address:** Yurakucho Bldg 1F, 1-10-1 Yurakucho, Chiyoda-ku
 - **Phone:** [03-3271-4034](tel:+81-3-3271-4034)
 - **English:** Full English-speaking staff
@@ -49,6 +52,7 @@
 ### Kyoto
 
 #### 🏥 Kyoto City Hospital (Nakagyo-ku)
+
 - **Address:** 1-2 Higashi-takada-cho, Mibu, Nakagyo-ku, Kyoto 604-8845
 - **Phone:** [075-311-5311](tel:+81-75-311-5311)
 - **English Line:** Limited English, bring translation app
@@ -58,6 +62,7 @@
 - **Cost:** Similar to Tokyo (¥10,000-20,000 emergency visit)
 
 #### 🏥 Japan Baptist Hospital
+
 - **Address:** 47 Yamanomoto-cho, Kitashirakawa, Sakyo-ku, Kyoto 606-8273
 - **Phone:** [075-781-5191](tel:+81-75-781-5191)
 - **English:** Yes, English-speaking staff available
@@ -68,6 +73,7 @@
 ### Osaka
 
 #### 🏥 Osaka University Hospital
+
 - **Address:** 2-15 Yamadaoka, Suita, Osaka 565-0871
 - **Phone:** [06-6879-5111](tel:+81-6-6879-5111)
 - **English:** Limited, bring translator
@@ -76,6 +82,7 @@
 - **Services:** Full-service university hospital
 
 #### 🏥 Yodogawa Christian Hospital (Near Shin-Osaka)
+
 - **Address:** 9-26 Awaji Honcho, Higashiyodogawa-ku, Osaka 533-0032
 - **Phone:** [06-6322-2250](tel:+81-6-6322-2250)
 - **English:** Yes, international patient services
@@ -87,6 +94,7 @@
 ## 🇺🇸 US Embassy & Consulates
 
 ### Tokyo Embassy (Main)
+
 - **Address:** 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420
 - **Phone:** [03-3224-5000](tel:+81-3-3224-5000) (switchboard)
 - **Emergency (After Hours):** [03-3224-5000](tel:+81-3-3224-5000) (same number, press for duty officer)
@@ -97,6 +105,7 @@
 - **URL:** [jp.usembassy.gov](https://jp.usembassy.gov/)
 
 ### Osaka-Kobe Consulate
+
 - **Address:** 2-11-5 Nishitenma, Kita-ku, Osaka 530-8543
 - **Phone:** [06-6315-5900](tel:+81-6-6315-5900)
 - **Emergency:** Same number for after-hours duty officer
@@ -107,6 +116,7 @@
 ## 💳 Lost/Stolen Card Hotlines
 
 ### Credit Cards (Call Collect if Needed)
+
 - **Visa Global:** [001-800-001-1553](tel:001-800-001-1553) (toll-free from Japan)
 - **Mastercard:** [00531-11-3886](tel:00531-11-3886) (toll-free from Japan)
 - **American Express:** [0120-020120](tel:0120-020120) (domestic) OR [81-3-3220-6100](tel:+81-3-3220-6100) (from mobile)
@@ -129,12 +139,12 @@
 
 ## 📱 Important Apps for Emergencies
 
-| App | Purpose | Why Important |
-| :--- | :--- | :--- |
-| **Japan Helpline** | 24/7 English phone support | 0570-000-911, covers ANY emergency |
-| **Google Translate** | Offline translation | Download Japanese pack before trip |
-| **Safety Tips** | Earthquake alerts | Early warning for natural disasters |
-| **NHK World Japan** | Emergency news in English | Real-time disaster info |
+| App                  | Purpose                    | Why Important                       |
+| :------------------- | :------------------------- | :---------------------------------- |
+| **Japan Helpline**   | 24/7 English phone support | 0570-000-911, covers ANY emergency  |
+| **Google Translate** | Offline translation        | Download Japanese pack before trip  |
+| **Safety Tips**      | Earthquake alerts          | Early warning for natural disasters |
+| **NHK World Japan**  | Emergency news in English  | Real-time disaster info             |
 
 ## 🏩 What to Bring to Hospital
 
@@ -159,20 +169,21 @@
 
 ## 🩹 Common Over-the-Counter Medicines (Drugstore)
 
-| Issue | Japanese Medicine | Where to Buy |
-| :--- | :--- | :--- |
-| **Headache/Pain** | Eve, Bufferin, Loxonin | Any drugstore (看板: green cross) |
-| **Stomach/Nausea** | Ohta's Isan, Taisho Gastrointestinal | Drugstore, konbini |
-| **Cold/Flu** | Pabron, New Lulu | Drugstore |
-| **Allergy** | Allegra FX, Claritin | Pharmacy (behind counter) |
-| **Motion Sickness** | Aneron (effective!) | Drugstore |
-| **Bandages** | Band-Aid, Kyuban | Konbini, drugstore |
+| Issue               | Japanese Medicine                    | Where to Buy                      |
+| :------------------ | :----------------------------------- | :-------------------------------- |
+| **Headache/Pain**   | Eve, Bufferin, Loxonin               | Any drugstore (看板: green cross) |
+| **Stomach/Nausea**  | Ohta's Isan, Taisho Gastrointestinal | Drugstore, konbini                |
+| **Cold/Flu**        | Pabron, New Lulu                     | Drugstore                         |
+| **Allergy**         | Allegra FX, Claritin                 | Pharmacy (behind counter)         |
+| **Motion Sickness** | Aneron (effective!)                  | Drugstore                         |
+| **Bandages**        | Band-Aid, Kyuban                     | Konbini, drugstore                |
 
 **💊 Drugstore Chains:** Matsumoto Kiyoshi, Sugi Pharmacy, Welcia, Tsuruha Drug
 
 ## 🚓 Koban (Police Box) Locations
 
 Koban are small police stations found every few blocks in Japan. Officers are friendly and often help with:
+
 - Directions
 - Lost items
 - Crime reports
@@ -187,20 +198,23 @@ Koban are small police stations found every few blocks in Japan. Officers are fr
 ## 🌪️ Natural Disaster Guidance
 
 ### Earthquake
+
 - **DROP, COVER, HOLD ON** - Get under table/desk
 - **Stay Inside** - Don't run outside during shaking
 - **After:** Check for injuries, watch for aftershocks
 - **Tsunami:** If near coast and magnitude >7.0, head to high ground IMMEDIATELY
 - **App:** "Safety Tips" gives early warning (download before trip)
 
-### Typhoon (October rare but possible)
-- **Stay Indoors** - Avoid going out during typhoon
+### Typhoon (June is the start of the season)
+
+- **Stay Indoors** - Avoid going out during typhoon or heavy rainy season storms
 - **Watch News:** NHK World Japan (English channel)
-- **Transport:** Trains/flights will be cancelled, don't fight it
+- **Transport:** Trains/flights may be cancelled/delayed during extreme rain, don't fight it
 
 ## 📋 Pre-Trip Preparation
 
 Before you leave:
+
 - [ ] Photocopy passport (store separately from original)
 - [ ] Email yourself copies of passport, credit cards, insurance
 - [ ] Add emergency contacts to phone favorites
@@ -214,12 +228,12 @@ Before you leave:
 
 ## 🏨 Hotel Emergency Contacts
 
-*Fill in once you book hotels - keep this section updated:*
+_Fill in once you book hotels - keep this section updated:_
 
-| Location | Hotel Name | Phone | Address |
-| :--- | :--- | :--- | :--- |
-| Tokyo | [Your Hotel] | | |
-| Kyoto | [Your Hotel] | | |
-| Osaka | [Your Hotel] | | |
+| Location | Hotel Name   | Phone | Address |
+| :------- | :----------- | :---- | :------ |
+| Tokyo    | [Your Hotel] |       |         |
+| Kyoto    | [Your Hotel] |       |         |
+| Osaka    | [Your Hotel] |       |         |
 
 **💡 Tip:** Take a photo of the hotel business card at check-in. Show it to taxi driver if you need to get back!
