@@ -52,10 +52,10 @@
 
 ### 🍵 Kyoto Amenities & Features
 
-| 🏨 Hotel                     | 🏋️ Gym | 🏊 Pool | ♨️ Public Bath           | 🛋️ Lounge       | 🧺 Laundry | 🛎️ Concierge |
-| :--------------------------- | :----- | :------ | :----------------------- | :-------------- | :--------- | :----------- |
-| **Cross Hotel Kyoto**        | ❌ No  | ❌ No   | ❌ No                    | 🛋️ Lobby Lounge | ❌ No      | 🛎️ Good      |
-| **Hotel The Celestine Gion** | ❌ No  | ❌ No   | ✅ Yes (Free for guests) | ✅ Yes          | ❌ No      | 🛎️ Good      |
+| 🏨 Hotel                     | ♨️ Public Bath           | 🛋️ Lounge       | 🧺 Laundry | 🚌 Shuttle / Station Access      |
+| :--------------------------- | :----------------------- | :-------------- | :--------- | :------------------------------- |
+| **Cross Hotel Kyoto**        | ❌ No                    | 🛋️ Lobby Lounge | ❌ No      | 🚶 5-min walk to Sanjo Station    |
+| **Hotel The Celestine Gion** | ✅ Yes (Free for guests) | ✅ Yes          | ❌ No      | 🚌 Free Shuttle to Kyoto Station |
 
 ## 🐙 Osaka Options (2 Nights)
 
