@@ -30,6 +30,12 @@ the detailed city itineraries:
 - **Kyoto:** [Detailed Itinerary](Detailed/Kyoto/kyoto-detailed-itinerary.md) | [Neighborhoods & Reference](Detailed/Kyoto/neighborhoods.md)
 - **Osaka:** [Detailed Itinerary](Detailed/Osaka/osaka-detailed-itinerary.md) | [Neighborhoods & Reference](Detailed/Osaka/neighborhoods.md)
 
+### 🗺️ Interactive Maps (Google Maps Search)
+
+- [📍 **Tokyo Sightseeing Map**](https://www.google.com/maps/search/Ginza+Six+OR+Uniqlo+Ginza+OR+Kabukicho+Godzilla+OR+Shinjuku+Gyoen+OR+Omoide+Yokocho+OR+Hachiko+Shibuya+OR+Shibuya+Parco+OR+Shibuya+Sky+OR+Meiji+Shrine+OR+Senso-ji+OR+Super+Potato+Akihabara+OR+Mandarake+Nakano+OR+Ghibli+Museum+OR+Yanaka+Ginza+OR+Kappabashi+Kitchen+Town)
+- [📍 **Kyoto & Nara Sightseeing Map**](https://www.google.com/maps/search/Kiyomizu-dera+OR+Fushimi+Inari+Taisha+OR+Kinkaku-ji+OR+Arashiyama+Bamboo+Grove+OR+Nishiki+Market+OR+Gion+Shijo+Station+OR+Kyoto+Station+OR+Philosopher's+Path+OR+Nara+Park+OR+Todai-ji+OR+Ginkaku-ji+OR+Sannenzaka+OR+Ninenzaka+OR+Kyoto+Botanical+Gardens)
+- [📍 **Osaka Sightseeing Map**](https://www.google.com/maps/search/Universal+Studios+Japan+OR+Dotonbori+Glico+Man+OR+Den+Den+Town+OR+Umeda+Sky+Building+OR+Namba+Station+OR+Osaka+Station+OR+Kuromon+Market+OR+Amerikamura+OR+Osaka+Castle)
+
 **_Dates:_** May 25 - June 3, 2026 (Target: Late May for pleasant spring weather).
 **_Duration:_** 10 Days.
 **_Travelers:_** Dave (Retro Gaming, Foxes, Temples, Sushi) & Debbie (Flowers, Baked Goods, Non-Sushi Food)
