@@ -11,9 +11,9 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 ---
 
-## Day 1: Arrival & Reset (Monday, May 25)
+## Day 1: Arrival in Tokyo (Monday, May 25)
 
-**Day Map:** [View all locations for this day](https://www.google.com/maps/search/Izakaya%2C%20Tokyo%2C%20Japan)
+**Day Map:** [View all locations for this day](https://www.google.com/maps/search/Izakaya%20OR%20Taito%20Station%20OR%20Mitsukoshi%20Ginza%20OR%20Isetan%20Shinjuku%20OR%20Golden%20Gai)
 
 | Time      | Activity                                        | Cost |
 | :-------- | :---------------------------------------------- | :--- |
@@ -39,7 +39,7 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 ---
 
-## Day 2: Old Tokyo & Akihabara (Wednesday)
+## Day 2: Old Tokyo & The "Split" (Tuesday, May 26)
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Akihabara%2C%20Tokyo%2C%20Japan%20OR%20Kappabashi%2C%20Tokyo%2C%20Japan%20OR%20Ueno%2C%20Tokyo%2C%20Japan%20OR%20Ginza%2C%20Tokyo%2C%20Japan%20OR%20Shinjuku%2C%20Tokyo%2C%20Japan%20OR%20Katsukura%2C%20Tokyo%2C%20Japan%20OR%20Asakusa%20Station%2C%20Tokyo%2C%20Japan%20OR%20Kaminarimon%20Gate%2C%20Tokyo%2C%20Japan%20OR%20Street%20location%2C%20Tokyo%2C%20Japan%20OR%20Sometaro%20Okonomiyaki%2C%20Tokyo%2C%20Japan)
 
@@ -71,7 +71,7 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 ---
 
-## Day 3: Pop Culture & Fashion (Thursday)
+## Day 3: Pop Culture & Fashion (Wednesday, May 27)
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Shibuya%20Parco%2C%20Tokyo%2C%20Japan%20OR%20Shibuya%20Crossing%2C%20Tokyo%2C%20Japan%20OR%20Jojoen%2C%20Tokyo%2C%20Japan%20OR%20JR%20Harajuku%20Station%2C%20Tokyo%2C%20Japan%20OR%20Shibuya%20Station%20conbini%20breakfast%2C%20Tokyo%2C%20Japan%20OR%206F%20Location%2C%20Tokyo%2C%20Japan%20OR%20Separate%20building%2C%20Tokyo%2C%20Japan%20OR%20Parco%206F%2C%20Tokyo%2C%20Japan%20OR%20Omotesando%20Hills%2C%20Tokyo%2C%20Japan%20OR%20Kiddy%20Land%2C%20Tokyo%2C%20Japan)
 
@@ -100,7 +100,7 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 ---
 
-## Day 4: Ghibli Magic & Kichijoji (Friday)
+## Day 4: Ghibli Magic & Kichijoji (Thursday, May 28)
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Yamato%20Transport%2C%20Tokyo%2C%20Japan%20OR%20JR%20Chuo%20Line%2C%20Tokyo%2C%20Japan%20OR%20Inokashira%20Park%2C%20Tokyo%2C%20Japan%20OR%20Community%20Bus%2C%20Tokyo%2C%20Japan%20OR%20Studio%20Ghibli%20Museum%2C%20Tokyo%2C%20Japan%20OR%20Straw%20Hat%20Caf%C3%A9%2C%20Tokyo%2C%20Japan%20OR%20Kichijoji%2C%20Tokyo%2C%20Japan%20OR%20Petit%20Village%2C%20Tokyo%2C%20Japan%20OR%20Nakano%20Broadway%2C%20Tokyo%2C%20Japan%20OR%20Iseya%20Yakitori%2C%20Tokyo%2C%20Japan)
 
@@ -128,7 +128,7 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 ---
 
-## Day 9: Last Bites & Tokyo Return (Tuesday, June 2)
+## Day 9: Last Bites & Return to Tokyo (Tuesday, June 2)
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Shinagawa%20Station%2C%20Tokyo%2C%20Japan%20OR%20Haneda%20Airport%20Hotel%2C%20Tokyo%2C%20Japan)
 
@@ -150,7 +150,7 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 ---
 
-## Day 10: Departure (Wednesday, June 3)
+## Day 10: Departure from Tokyo (Wednesday, June 3)
 
 | Time      | Activity                                 | Cost |
 | :-------- | :--------------------------------------- | :--- |

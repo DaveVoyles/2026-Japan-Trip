@@ -10,7 +10,7 @@ The final leg of your trip brings you to Osaka, Japan's energetic culinary capit
 
 ---
 
-## Day 7: Arrival from Kyoto (Sunday)
+## Day 7: Arrival from Kyoto (Sunday, May 31)
 
 _Note: You moved to Osaka this evening to get settled before the USJ rush._
 
@@ -22,7 +22,7 @@ _Note: You moved to Osaka this evening to get settled before the USJ rush._
 
 ---
 
-## Day 8: Super Nintendo World (Monday)
+## Day 8: SUPER NINTENDO WORLD (Monday, June 1)
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Universal%20Studios%20Japan%2C%20Osaka%2C%20Japan%20OR%20Kinopio%27s%20Cafe%2C%20Osaka%2C%20Japan%20OR%20Halloween%20Horror%20Nights%2C%20Osaka%2C%20Japan%20OR%20Glico%20Man%2C%20Osaka%2C%20Japan%20OR%20Kushikatsu%20Daruma%2C%20Osaka%2C%20Japan%20OR%20JR%20Special%20Rapid%2C%20Osaka%2C%20Japan%20OR%20JR%20Yumesaki%20Line%20from%20Osaka%20Station%2C%20Japan%20OR%20Iconic%20entertainment%20district%2C%20Osaka%2C%20Japan%20OR%20Namba%20Station%20Exit%2014%2C%20Osaka%2C%20Japan%20OR%20Glico%20Running%20Man%20Sign%2C%20Osaka%2C%20Japan)
 
@@ -83,7 +83,7 @@ _Note: You moved to Osaka this evening to get settled before the USJ rush._
 
 ---
 
-## Day 10: Departure (Wednesday, June 3)
+## Day 10: Departure from Tokyo (Wednesday, June 3)
 
 **Morning:** Final Japanese breakfast and quiet reflection before heading to the airport.
 
