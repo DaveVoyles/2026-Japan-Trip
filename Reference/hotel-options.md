@@ -41,7 +41,7 @@
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
-[🏨 **View all Kyoto hotels on Google Maps**](https://www.google.com/maps/search/Cross+Hotel+Kyoto+OR+Hotel+The+Celestine+Kyoto+Gion)
+[🏨 **View all Kyoto hotels on Google Maps**](https://www.google.com/maps/search/Cross+Hotel+Kyoto+OR+Hotel+The+Celestine+Kyoto+Gion+OR+Hotel+Granvia+Kyoto+OR+Solaria+Nishitetsu+Hotel+Kyoto+Premier+OR+Ace+Hotel+Kyoto)
 
 [📖 View Kyoto Neighborhood Guide](../Itineraries/Detailed/Kyoto/neighborhoods.md)
 
@@ -49,13 +49,19 @@
 | :---------------------------------------- | :---------------------------------------------------- | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--- | :---------- | :--------------------------- | :--- |
 | **[Kawaramachi/Gion] Cross Hotel Kyoto**  | [Website](https://www.crosshotel.com/kyoto/)          | High             | Situated in the heart of the Kawaramachi/Gion district, this hotel is perfect for those who want to walk to dinner and temples. The rooms are spacious by Japanese standards and feature large, spa-like bathrooms. The lobby often hosts local art displays, giving guests a taste of Kyoto's creative scene.<br><br>🟢 **Pro:** Large, modern rooms in the best location for walking to Gion.<br>🔴 **Con:** Can be difficult to find by taxi in a pedestrian-heavy area.                                   | $$$  | $200 - $350 | Popular with Westerners.     |      |
 | **[Gion] Hotel The Celestine Kyoto Gion** | [Website](https://www.celestinehotels.jp/kyoto-gion/) | High             | Located in the historic Gion district, this hotel offers a sophisticated, serene experience within walking distance of Kiyomizu-dera. It features a guest-only public bath (onsen style) which is perfect for relaxing after a day of walking. The hotel provides a complimentary shuttle service to and from Kyoto Station for ease of arrival.<br><br>🟢 **Pro:** Authentic Gion atmosphere with a beautiful public bath.<br>🔴 **Con:** A bit further from subway lines compared to other central options. | $$$  | $250 - $450 | Book early for Spring (May). |      |
+| **[Station] Hotel Granvia Kyoto**         | [Website](https://www.granviakyoto.com/)              | Very High        | Located directly inside the Kyoto Station building, this is the gold standard for convenience. You can walk from your room to the Shinkansen platform in minutes. The rooms are quiet despite the central location, and the English-speaking staff are exceptionally helpful.<br><br>🟢 **Pro:** Unbeatable transit access and high-end service.<br>🔴 **Con:** Less atmospheric than staying in the historic Gion or Sanjo areas.                                                                           | $$$  | $250 - $450 | High availability.           |      |
+| **[Sanjo] Solaria Nishitetsu Premier**    | [Website](https://nnr-h.com/solaria/kyoto_p/)         | High             | A beautiful riverfront hotel located near Sanjo-Kawaramachi. Many rooms offer floor-to-ceiling windows overlooking the Kamo River. The design is a blend of modern luxury and traditional aesthetics, and it's surrounded by some of the city's best dining.<br><br>🟢 **Pro:** Gorgeous river views and prime location for evening walks.<br>🔴 **Con:** Can be pricey during peak seasons.                                                                                                                  | $$$  | $220 - $380 | Books quickly.               |      |
+| **[Sanjo] Ace Hotel Kyoto**               | [Website](https://acehotel.com/kyoto/)               | Very High        | Designed by architect Kengo Kuma, this is Kyoto's trendiest hotel. It's built into a historic colonial-style building and features vibrant, artistic rooms. It's extremely popular with international travelers and has a lively lobby and great coffee (Stumptown).<br><br>🟢 **Pro:** Incredibly cool design and very Western-friendly.<br>🔴 **Con:** Can feel a bit "loud" or busy for those seeking a traditional Zen experience.                                                                        | $$$$ | $350 - $600 | Very high demand.            |      |
 
 ### 🍵 Kyoto Amenities & Features
 
 | 🏨 Hotel                     | ♨️ Public Bath           | 🛋️ Lounge       | 🧺 Laundry | 🚌 Shuttle / Station Access      |
 | :--------------------------- | :----------------------- | :-------------- | :--------- | :------------------------------- |
-| **Cross Hotel Kyoto**        | ❌ No                    | 🛋️ Lobby Lounge | ❌ No      | 🚶 5-min walk to Sanjo Station    |
+| **Cross Hotel Kyoto**        | ❌ No                    | 🛋️ Lobby Lounge | ❌ No      | 🚶 5-min walk to Sanjo Station   |
 | **Hotel The Celestine Gion** | ✅ Yes (Free for guests) | ✅ Yes          | ❌ No      | 🚌 Free Shuttle to Kyoto Station |
+| **Hotel Granvia Kyoto**       | ✅ Yes (Paid)            | ✅ Yes          | ✅ Yes     | 🛌 Directly inside Kyoto Station |
+| **Solaria Nishitetsu**       | ✅ Yes (Free)            | 🛋️ Lobby Lounge | ✅ Yes     | 🚶 2-min walk to Kyoto Shiyakusho |
+| **Ace Hotel Kyoto**          | ❌ No                    | ✅ Yes (Café)   | ✅ Yes     | 🛌 Directly above Karasuma Oike Station |
 
 ## 🐙 Osaka Options (2 Nights)
 
