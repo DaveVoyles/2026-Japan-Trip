@@ -5,18 +5,18 @@
 - [Overview](#overview)
 - [Strategy: "Together & Apart"](#strategy-together--apart)
 - [**Leg 1: Tokyo (Days 1-4)**](#leg-1-tokyo-days-1-4)
-  - [Day 1: Arrival in Tokyo](#day-1-arrival-in-tokyo-monday)
-  - [Day 2: Old Tokyo & The "Split"](#day-2-old-tokyo--the-split-tuesday)
-  - [Day 3: Pop Culture & Fashion](#day-3-pop-culture--fashion-wednesday)
-  - [Day 4: Ghibli Magic & Kichijoji](#day-4-ghibli-magic--kichijoji-thursday)
+  - [Day 1: Arrival in Tokyo (Monday, May 25)](#day-1-arrival-in-tokyo-monday-may-25)
+  - [Day 2: Old Tokyo & The "Split" (Tuesday, May 26)](#day-2-old-tokyo--the-split-tuesday-may-26)
+  - [Day 3: Pop Culture & Fashion (Wednesday, May 27)](#day-3-pop-culture--fashion-wednesday-may-27)
+  - [Day 4: Ghibli Magic & Kichijoji (Thursday, May 28)](#day-4-ghibli-magic--kichijoji-thursday-may-28)
 - [**Leg 2: Kyoto (Days 5-7)**](#leg-2-kyoto-days-5-7)
-  - [Day 5: Bullet Train to Foxes](#day-5-bullet-train-to-foxes-friday)
-  - [Day 6: Bamboo & Gold](#day-6-bamboo--gold-saturday)
-  - [Day 7: Deer & Shopping](#day-7-deer--shopping-sunday)
+  - [Day 5: Bullet Train to Foxes (Friday, May 29)](#day-5-bullet-train-to-foxes-friday-may-29)
+  - [Day 6: Bamboo & Gold (Saturday, May 30)](#day-6-bamboo--gold-saturday-may-30)
+  - [Day 7: Deer & Shopping (Sunday, May 31)](#day-7-deer--shopping-sunday-may-31)
 - [**Leg 3: Osaka & Tokyo Return (Days 8-10)**](#leg-3-osaka--tokyo-return-days-8-10)
-  - [Day 8: SUPER NINTENDO WORLD](#day-8-super-nintendo-world-monday)
-  - [Day 9: Last Bites & Return to Tokyo](#day-9-last-bites--return-to-tokyo-tuesday)
-  - [Day 10: Departure from Tokyo](#day-10-departure-from-tokyo-wednesday)
+  - [Day 8: SUPER NINTENDO WORLD (Monday, June 1)](#day-8-super-nintendo-world-monday-june-1)
+  - [Day 9: Last Bites & Return to Tokyo (Tuesday, June 2)](#day-9-last-bites--return-to-tokyo-tuesday-june-2)
+  - [Day 10: Departure from Tokyo (Wednesday, June 3)](#day-10-departure-from-tokyo-wednesday-june-3)
 - [May 2026 Specific Notes](#may-2026-specific-notes)
 
 ---
@@ -88,7 +88,7 @@ corners.
 - **Evening:** Light walk to reset body clocks. Explore local arcades or department store food halls.
 - **Dinner:** Casual Izakaya meal to welcome you to Japan.
 
-### Day 2: Old Tokyo & The "Split" (Tuesday)
+### Day 2: Old Tokyo & The "Split" (Tuesday, May 26)
 
 - **Morning:** Early visit to **Senso-ji Temple** in Asakusa to beat the crowds.
 - **Split Path:**
@@ -96,7 +96,7 @@ corners.
   - **Debbie:** Kitchenware and plastic food samples in **Kappabashi**.
 - **Evening:** Regroup for a **Tonkatsu** dinner in Ginza or Shinjuku.
 
-### Day 3: Pop Culture & Fashion (Wednesday)
+### Day 3: Pop Culture & Fashion (Wednesday, May 27)
 
 - **Morning:** Peaceful walk through the **Meiji Shrine** forest.
 - **Split Path:**
@@ -104,7 +104,7 @@ corners.
   - **Debbie:** Flower-filled cafes and boutique shopping in **Aoyama/Omotesando**.
 - **Evening:** Experience **Shibuya Crossing** and enjoy a **Yakiniku** (Wagyu BBQ) dinner.
 
-### Day 4: Ghibli Magic & Kichijoji (Thursday)
+### Day 4: Ghibli Magic & Kichijoji (Thursday, May 28)
 
 - **Morning:** Visit the magical **Studio Ghibli Museum** in Mitaka (Must book 2 months ahead).
 - **Afternoon:** Relax in **Inokashira Park** and explore the trendy **Kichijoji** neighborhood.
@@ -136,13 +136,13 @@ transitioning to the neon lights of Osaka.
 - **Key Stops:** Fushimi Inari, Arashiyama Bamboo Grove, Kinkaku-ji, Gion, Nara Park (Day Trip).
 - **Details:** [See Kyoto City Stops](Detailed/Kyoto/neighborhoods.md#kyoto-sightseeing-details)
 
-### Day 5: Bullet Train to Foxes (Friday)
+### Day 5: Bullet Train to Foxes (Friday, May 29)
 
 - **Morning:** Shinkansen (Bullet Train) from Tokyo to Kyoto.
 - **Afternoon:** Explore the thousands of vermillion gates at **Fushimi Inari Shrine**.
 - **Evening:** Atmospheric walk through the **Gion** district and dinner in **Pontocho Alley**.
 
-### Day 6: Bamboo & Gold (Saturday)
+### Day 6: Bamboo & Gold (Saturday, May 30)
 
 - **Morning:** Early visit to the **Arashiyama Bamboo Grove** and Tenryu-ji Zen garden.
 - **Split Path:**
@@ -151,7 +151,7 @@ transitioning to the neon lights of Osaka.
 - **Afternoon:** Visit the shimmering **Kinkaku-ji (Golden Pavilion)**.
 - **Evening:** Relaxed dinner in Kyoto; prep your bags for the move tomorrow.
 
-### Day 7: Deer, Shopping & The Move (Sunday)
+### Day 7: Deer, Shopping & The Move (Sunday, May 31)
 
 - **Morning:** Day trip to **Nara Park** to meet the bowing deer and see the Great Buddha at **Todai-ji**.
 - **Split Path:**
@@ -184,14 +184,14 @@ These final days ensure you leave Japan with a full stomach and a suitcase full 
 - **Key Stops:** Universal Studios Japan, Dotonbori, Den Den Town, Final Night in Tokyo.
 - **Details:** [See Osaka Stops](Detailed/Osaka/neighborhoods.md#osaka-sightseeing-details)
 
-### Day 8: SUPER NINTENDO WORLD (Monday)
+### Day 8: SUPER NINTENDO WORLD (Monday, June 1)
 
 - **All Day:** Full day at **Universal Studios Japan** with a focus on **Super Nintendo World**.
   Being in Osaka since Sunday ensures you are well-rested for the rope-drop.
 - **Evening:** Neon lights and street food in **Dotonbori**.
 - **Dinner:** Iconic Osaka **Kushikatsu** (deep-fried skewers).
 
-### Day 9: Last Bites & Return to Tokyo (Tuesday)
+### Day 9: Last Bites & Return to Tokyo (Tuesday, June 2)
 
 - **Morning:** Final shopping in **Den Den Town** or **Kuromon Market**.
 - **Afternoon:** Final Osaka lunch before taking the **Shinkansen** to Tokyo (~2.5 hours).
