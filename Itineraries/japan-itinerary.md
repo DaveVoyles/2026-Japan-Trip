@@ -3,20 +3,20 @@
 ## Table of Contents
 
 - [overview](#overview)
-- [strategy: "together & apart"](#strategy-together--apart)
+- [strategy: "together and apart"](#strategy-together-and-apart)
 - [**leg 1: tokyo (days 1-4) [mon, may 25 - thurs, may 28]**](#leg-1-tokyo-days-1-4-mon-may-25---thurs-may-28)
   - [day 1: arrival in tokyo (monday, may 25)](#day-1-arrival-in-tokyo-monday-may-25)
-  - [day 2: old tokyo & the "split" (tuesday, may 26)](#day-2-old-tokyo--the-split-tuesday-may-26)
-  - [day 3: pop culture & fashion (wednesday, may 27)](#day-3-pop-culture--fashion-wednesday-may-27)
-  - [day 4: ghibli magic & kichijoji (thursday, may 28)](#day-4-ghibli-magic--kichijoji-thursday-may-28)
+  - [day 2: old tokyo and the "split" (tuesday, may 26)](#day-2-old-tokyo-and-the-split-tuesday-may-26)
+  - [day 3: pop culture and fashion (wednesday, may 27)](#day-3-pop-culture-and-fashion-wednesday-may-27)
+  - [day 4: ghibli magic and kichijoji (thursday, may 28)](#day-4-ghibli-magic-and-kichijoji-thursday-may-28)
 - [**leg 2: kyoto (days 5-7) [fri, may 29 - sun, may 31]**](#leg-2-kyoto-days-5-7-fri-may-29---sun-may-31)
   - [day 5: bullet train to foxes (friday, may 29)](#day-5-bullet-train-to-foxes-friday-may-29)
-  - [day 6: bamboo & gold (saturday, may 30)](#day-6-bamboo--gold-saturday-may-30)
-  - [day 7: deer & shopping (sunday, may 31)](#day-7-deer-&-shopping-sunday-may-31)
+  - [day 6: bamboo and gold (saturday, may 30)](#day-6-bamboo-and-gold-saturday-may-30)
+  - [day 7: deer, shopping and the move (sunday, may 31)](#day-7-deer-shopping-and-the-move-sunday-may-31)
 - [**leg 3: osaka (days 8-9) [mon, june 1 - tues, june 2]**](#leg-3-osaka-days-8-9-mon-june-1---tues-june-2)
   - [day 8: super nintendo world (monday, june 1)](#day-8-super-nintendo-world-monday-june-1)
 - [**leg 4: tokyo return (days 9-10) [tues, june 2 - wed, june 3]**](#leg-4-tokyo-return-days-9-10-tues-june-2---wed-june-3)
-  - [day 9: last bites & return to tokyo (tuesday, june 2)](#day-9-last-bites--return-to-tokyo-tuesday-june-2)
+  - [day 9: last bites and return to tokyo (tuesday, june 2)](#day-9-last-bites-and-return-to-tokyo-tuesday-june-2)
   - [day 10: departure from tokyo (wednesday, june 3)](#day-10-departure-from-tokyo-wednesday-june-3)
 - [May 2026 Specific Notes](#may-2026-specific-notes)
 
@@ -52,7 +52,7 @@ the detailed city itineraries:
 **_Rhythm:_** Early Risers (6:30 AM Start) to beat crowds.
 **_Breakfast Style:_** Konbini Run (Onigiri/Coffee on the go).
 
-## Strategy: "Together & Apart"
+## Strategy: "Together and Apart"
 
 To balance interests, some afternoons feature "Split Paths" where you pursue separate hobbies nearby and meet up for dinner.
 
@@ -91,7 +91,7 @@ corners.
 - **Evening:** Light walk to reset body clocks. Explore local arcades or department store food halls.
 - **Dinner:** Casual Izakaya meal to welcome you to Japan.
 
-### Day 2: Old Tokyo & The "Split" (Tuesday, May 26)
+### Day 2: Old Tokyo and The "Split" (Tuesday, May 26)
 
 - **Morning:** Early visit to **Senso-ji Temple** in Asakusa to beat the crowds.
 - **Split Path:**
@@ -99,7 +99,7 @@ corners.
   - **Debbie:** Kitchenware and plastic food samples in **Kappabashi**.
 - **Evening:** Regroup for a **Tonkatsu** dinner in Ginza or Shinjuku.
 
-### Day 3: Pop Culture & Fashion (Wednesday, May 27)
+### Day 3: Pop Culture and Fashion (Wednesday, May 27)
 
 - **Morning:** Peaceful walk through the **Meiji Shrine** forest.
 - **Split Path:**
@@ -107,7 +107,7 @@ corners.
   - **Debbie:** Flower-filled cafes and boutique shopping in **Aoyama/Omotesando**.
 - **Evening:** Experience **Shibuya Crossing** and enjoy a **Yakiniku** (Wagyu BBQ) dinner.
 
-### Day 4: Ghibli Magic & Kichijoji (Thursday, May 28)
+### Day 4: Ghibli Magic and Kichijoji (Thursday, May 28)
 
 - **Morning:** Visit the magical **Studio Ghibli Museum** in Mitaka (Must book 2 months ahead).
 - **Afternoon:** Relax in **Inokashira Park** and explore the trendy **Kichijoji** neighborhood.
@@ -147,7 +147,7 @@ transitioning to the neon lights of Osaka.
 - **Afternoon:** Explore the thousands of vermillion gates at **Fushimi Inari Shrine**.
 - **Evening:** Atmospheric walk through the **Gion** district and dinner in **Pontocho Alley**.
 
-### Day 6: Bamboo & Gold (Saturday, May 30)
+### Day 6: Bamboo and Gold (Saturday, May 30)
 
 - **Morning:** Early visit to the **Arashiyama Bamboo Grove** and Tenryu-ji Zen garden.
 - **Split Path:**
@@ -156,7 +156,7 @@ transitioning to the neon lights of Osaka.
 - **Afternoon:** Visit the shimmering **Kinkaku-ji (Golden Pavilion)**.
 - **Evening:** Relaxed dinner in Kyoto; prep your bags for the move tomorrow.
 
-### Day 7: Deer, Shopping & The Move (Sunday, May 31)
+### Day 7: Deer, Shopping and The Move (Sunday, May 31)
 
 - **Morning:** Day trip to **Nara Park** to meet the bowing deer and see the Great Buddha at **Todai-ji**.
 - **Split Path:**
@@ -216,7 +216,7 @@ This final leg ensures a smooth transition from vacation mode back to reality.
 - **Key Stops:** Final Night in Tokyo, Haneda Airport.
 - **Details:** [See Final Night Hotel Options](../Reference/hotel-options.md#-final-night-in-tokyo-1-night---leg-3)
 
-### Day 9: Last Bites & Return to Tokyo (Tuesday, June 2)
+### Day 9: Last Bites and Return to Tokyo (Tuesday, June 2)
 
 - **Morning:** Final shopping in **Den Den Town** or **Kuromon Market**.
 - **Afternoon:** Final Osaka lunch before taking the **Shinkansen** to Tokyo (~2.5 hours).
