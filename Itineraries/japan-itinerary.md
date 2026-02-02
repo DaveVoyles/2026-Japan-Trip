@@ -40,10 +40,10 @@ the detailed city itineraries:
 
 #### Hotels
 
-- [🏨 **Tokyo Hotel Options Map**](https://www.google.com/maps/search/%22Hotel+Musse+Ginza+Meitetsu%22+OR+%22The+Royal+Park+Canvas+Ginza+8%22+OR+%22Hotel+Gracery+Shinjuku%22+OR+%22Century+Southern+Tower%22+OR+%22Shibuya+Stream+Excel+Tokyu%22+OR+%22Hotel+Ryumeikan+Tokyo%22)
-- [🏨 **Kyoto Hotel Options Map**](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22Hotel+The+Celestine+Kyoto+Gion%22)
-- [🏨 **Osaka Hotel Options Map**](https://www.google.com/maps/search/%22Cross+Hotel+Osaka%22+OR+%22Swissotel+Nankai+Osaka%22+OR+%22Hotel+Royal+Classic+Osaka%22+OR+%22Hotel+Hankyu+Respire+Osaka%22)
-- [🏨 **Final Tokyo Night Hotel Options Map**](https://www.google.com/maps/search/%22Royal+Park+Hotel+Tokyo+Haneda%22+OR+%22The+Prince+Sakura+Tower+Tokyo%22+OR+%22Shinagawa+Prince+Hotel%22)
+- [🏨 **Tokyo Hotel Options Map**](https://www.google.com/maps/search/Hotel+Musse+Ginza+Meitetsu+OR+The+Royal+Park+Canvas+Ginza+8+OR+Hotel+Gracery+Shinjuku+OR+Century+Southern+Tower+OR+Shibuya+Stream+Excel+Tokyu+OR+Hotel+Ryumeikan+Tokyo)
+- [🏨 **Kyoto Hotel Options Map**](https://www.google.com/maps/search/Miyako+City+Kintetsu+Kyoto+Station+OR+The+Thousand+Kyoto+OR+Cross+Hotel+Kyoto+OR+Hotel+The+Celestine+Kyoto+Gion)
+- [🏨 **Osaka Hotel Options Map**](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
+- [🏨 **Final Tokyo Night Hotel Options Map**](https://www.google.com/maps/search/Royal+Park+Hotel+Tokyo+Haneda+OR+The+Prince+Sakura+Tower+Tokyo+OR+Shinagawa+Prince+Hotel)
 
 **_Dates:_** May 25 - June 3, 2026 (Target: Late May for pleasant spring weather).
 **_Duration:_** 10 Days.
