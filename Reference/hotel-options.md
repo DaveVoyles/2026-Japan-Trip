@@ -30,12 +30,12 @@
 
 ### 🏨 Tokyo Amenities & Features
 
-| 🏨 Hotel                         | 🏋️ Gym         | 🏊 Pool | ♨️ Public Bath | 🛋️ Lounge           | 🧺 Laundry | 🚌 Airport Bus           |
-| :------------------------------- | :------------- | :------ | :------------- | :------------------ | :--------- | :----------------------- |
-| **Hotel Gracery Shinjuku**       | ❌ No          | ❌ No   | ❌ No          | ✅ Yes (Guest only) | ✅ Yes     | ✅ Yes (Nearby)          |
-| **Century Southern Tower**       | ✅ Yes (Small) | ❌ No   | ❌ No          | ❌ No               | ✅ Yes     | ✅ Yes (Direct)          |
-| **Shibuya Stream Excel Tokyu**   | ❌ No          | ❌ No   | ❌ No          | ✅ Bar/Lounge       | ✅ Yes     | ✅ Yes (Shibuya Station) |
-| **Hotel Ryumeikan Tokyo**        | ❌ No          | ❌ No   | ❌ No          | ❌ No               | ✅ Yes     | ✅ Yes (Nearby)          |
+| 🏨 Hotel                       | 🏋️ Gym         | 🛋️ Lounge           | 🧺 Laundry | 🚌 Airport Bus           |
+| :----------------------------- | :------------- | :------------------ | :--------- | :----------------------- |
+| **Hotel Gracery Shinjuku**     | ❌ No          | ✅ Yes (Guest only) | ✅ Yes     | ✅ Yes (Nearby)          |
+| **Century Southern Tower**     | ✅ Yes (Small) | ❌ No               | ✅ Yes     | ✅ Yes (Direct)          |
+| **Shibuya Stream Excel Tokyu** | ❌ No          | ✅ Bar/Lounge       | ✅ Yes     | ✅ Yes (Shibuya Station) |
+| **Hotel Ryumeikan Tokyo**      | ❌ No          | ❌ No               | ✅ Yes     | ✅ Yes (Nearby)          |
 
 ## ⛩️ Kyoto Options (2 Nights)
 
