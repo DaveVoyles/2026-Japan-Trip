@@ -41,7 +41,7 @@ the detailed city itineraries:
 #### Hotels
 
 - [🏨 **Tokyo Hotel Options Map**](https://www.google.com/maps/search/Hotel+Gracery+Shinjuku+OR+Century+Southern+Tower+OR+Shibuya+Stream+Excel+Tokyu+OR+Hotel+Ryumeikan+Tokyo)
-- [🏨 **Kyoto Hotel Options Map**](https://www.google.com/maps/search/Cross+Hotel+Kyoto+OR+Hotel+The+Celestine+Kyoto+Gion+OR+Hotel+Granvia+Kyoto+OR+Solaria+Nishitetsu+Hotel+Kyoto+Premier+OR+Ace+Hotel+Kyoto)
+- [🏨 **Kyoto Hotel Options Map**](https://www.google.com/maps/search/Cross+Hotel+Kyoto+OR+Hotel+The+Celestine+Kyoto+Gion+OR+Hotel+Vista+Premio+Kyoto+Nagomi+OR+OMO5+Kyoto+Sanjo+OR+Super+Hotel+Kyoto+Shijo+Kawaramachi)
 - [🏨 **Osaka Hotel Options Map**](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
 - [🏨 **Final Tokyo Night Hotel Options Map**](https://www.google.com/maps/search/Royal+Park+Hotel+Tokyo+Haneda+OR+The+Prince+Sakura+Tower+Tokyo+OR+Shinagawa+Prince+Hotel)
 
