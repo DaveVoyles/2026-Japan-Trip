@@ -17,6 +17,8 @@
 
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
 
+[🏨 View all Tokyo hotels on Google Maps](https://www.google.com/maps/search/%22Hotel+Musse+Ginza+Meitetsu%22+OR+%22The+Royal+Park+Canvas+Ginza+8%22+OR+%22Hotel+Gracery+Shinjuku%22+OR+%22Century+Southern+Tower%22+OR+%22Shibuya+Stream+Excel+Tokyu%22+OR+%22Hotel+Ryumeikan+Tokyo%22)
+
 [📖 View Tokyo Neighborhood Guide](../Itineraries/Detailed/Tokyo/neighborhoods.md)
 
 | Hotel                                     | URL                                                         | English Friendly | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Cost | Est. Cost   | Availability                       | Dave | Debbie |
@@ -43,6 +45,8 @@
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
+[🏨 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22Hotel+The+Celestine+Kyoto+Gion%22)
+
 [📖 View Kyoto Neighborhood Guide](../Itineraries/Detailed/Kyoto/neighborhoods.md)
 
 | Hotel                                                  | URL                                                                      | English Friendly | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Cost | Est. Cost   | Availability                    | Dave | Debbie |
@@ -64,6 +68,8 @@
 ## 🐙 Osaka Options (2 Nights)
 
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
+
+[🏨 View all Osaka hotels on Google Maps](https://www.google.com/maps/search/%22Cross+Hotel+Osaka%22+OR+%22Swissotel+Nankai+Osaka%22+OR+%22Hotel+Royal+Classic+Osaka%22+OR+%22Hotel+Hankyu+Respire+Osaka%22)
 
 [📖 View Osaka Neighborhood Guide](../Itineraries/Detailed/Osaka/neighborhoods.md)
 
@@ -88,6 +94,8 @@
 ## 🛫 Final Night in Tokyo (1 Night - Leg 3)
 
 ### Recommended Area: Shinagawa (Transit Hub) or Haneda Airport (Maximum Convenience)
+
+[🏨 View all Final Night hotels on Google Maps](https://www.google.com/maps/search/%22Royal+Park+Hotel+Tokyo+Haneda%22+OR+%22The+Prince+Sakura+Tower+Tokyo%22+OR+%22Shinagawa+Prince+Hotel%22)
 
 | Hotel                                         | URL                                                           | English Friendly | Details                                                                                                                                                                                                                                                                                        | Cost | Est. Cost   | Availability         |
 | :-------------------------------------------- | :------------------------------------------------------------ | :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--- | :---------- | :------------------- |
