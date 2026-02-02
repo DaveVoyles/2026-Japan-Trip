@@ -17,7 +17,7 @@
 
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
 
-[🏨 **View all Tokyo hotels on Google Maps**](https://www.google.com/maps/search/Hotel+Musse+Ginza+Meitetsu+OR+The+Royal+Park+Canvas+Ginza+8+OR+Hotel+Gracery+Shinjuku+OR+Century+Southern+Tower+OR+Shibuya+Stream+Excel+Tokyu+OR+Hotel+Ryumeikan+Tokyo)
+[🏨 **View all Tokyo hotels on Google Maps**](https://www.google.com/maps/search/?api=1&query=Hotel+Musse+Ginza+Meitetsu+|+The+Royal+Park+Canvas+Ginza+8+|+Hotel+Gracery+Shinjuku+|+Century+Southern+Tower+|+Shibuya+Stream+Excel+Tokyu+|+Hotel+Ryumeikan+Tokyo)
 
 [📖 View Tokyo Neighborhood Guide](../Itineraries/Detailed/Tokyo/neighborhoods.md)
 
@@ -45,7 +45,7 @@
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
-[🏨 **View all Kyoto hotels on Google Maps**](https://www.google.com/maps/search/Miyako+City+Kintetsu+Kyoto+Station+OR+The+Thousand+Kyoto+OR+Cross+Hotel+Kyoto+OR+Hotel+The+Celestine+Kyoto+Gion)
+[🏨 **View all Kyoto hotels on Google Maps**](https://www.google.com/maps/search/?api=1&query=Miyako+City+Kintetsu+Kyoto+Station+|+The+Thousand+Kyoto+|+Cross+Hotel+Kyoto+|+Hotel+The+Celestine+Kyoto+Gion)
 
 [📖 View Kyoto Neighborhood Guide](../Itineraries/Detailed/Kyoto/neighborhoods.md)
 
@@ -69,7 +69,7 @@
 
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
-[🏨 **View all Osaka hotels on Google Maps**](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
+[🏨 **View all Osaka hotels on Google Maps**](https://www.google.com/maps/search/?api=1&query=Cross+Hotel+Osaka+|+Swissotel+Nankai+Osaka+|+Hotel+Royal+Classic+Osaka+|+Hotel+Hankyu+Respire+Osaka)
 
 [📖 View Osaka Neighborhood Guide](../Itineraries/Detailed/Osaka/neighborhoods.md)
 
@@ -95,7 +95,7 @@
 
 ### Recommended Area: Shinagawa (Transit Hub) or Haneda Airport (Maximum Convenience)
 
-[🏨 **View all Final Night hotels on Google Maps**](https://www.google.com/maps/search/Royal+Park+Hotel+Tokyo+Haneda+OR+The+Prince+Sakura+Tower+Tokyo+OR+Shinagawa+Prince+Hotel)
+[🏨 **View all Final Night hotels on Google Maps**](https://www.google.com/maps/search/?api=1&query=Royal+Park+Hotel+Tokyo+Haneda+|+The+Prince+Sakura+Tower+Tokyo+|+Shinagawa+Prince+Hotel)
 
 | Hotel                                         | URL                                                           | English Friendly | Details                                                                                                                                                                                                                                                                                        | Cost | Est. Cost   | Availability         |
 | :-------------------------------------------- | :------------------------------------------------------------ | :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--- | :---------- | :------------------- |
