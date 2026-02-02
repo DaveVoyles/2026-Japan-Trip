@@ -12,9 +12,10 @@
 - [**leg 2: kyoto (days 5-7) [fri, may 29 - sun, may 31]**](#leg-2-kyoto-days-5-7-fri-may-29---sun-may-31)
   - [day 5: bullet train to foxes (friday, may 29)](#day-5-bullet-train-to-foxes-friday-may-29)
   - [day 6: bamboo & gold (saturday, may 30)](#day-6-bamboo--gold-saturday-may-30)
-  - [day 7: deer & shopping (sunday, may 31)](#day-7-deer & shopping-sunday-may-31)
-- [**leg 3: osaka & tokyo return (days 8-10) [mon, june 1 - wed, june 3]**](#leg-3-osaka--tokyo-return-days-8-10-mon-june-1---wed-june-3)
+  - [day 7: deer & shopping (sunday, may 31)](#day-7-deer-&-shopping-sunday-may-31)
+- [**leg 3: osaka (days 8-9) [mon, june 1 - tues, june 2]**](#leg-3-osaka-days-8-9-mon-june-1---tues-june-2)
   - [day 8: super nintendo world (monday, june 1)](#day-8-super-nintendo-world-monday-june-1)
+- [**leg 4: tokyo return (days 9-10) [tues, june 2 - wed, june 3]**](#leg-4-tokyo-return-days-9-10-tues-june-2---wed-june-3)
   - [day 9: last bites & return to tokyo (tuesday, june 2)](#day-9-last-bites--return-to-tokyo-tuesday-june-2)
   - [day 10: departure from tokyo (wednesday, june 3)](#day-10-departure-from-tokyo-wednesday-june-3)
 - [May 2026 Specific Notes](#may-2026-specific-notes)
@@ -162,9 +163,9 @@ transitioning to the neon lights of Osaka.
 
 ---
 
-## Leg 3: Osaka & Tokyo Return (Days 8-10) [Mon, June 1 - Wed, June 3]
+## Leg 3: Osaka (Days 8-9) [Mon, June 1 - Tues, June 2]
 
-The final leg of your trip starts in Osaka before returning to Tokyo for your flight home.
+This leg focuses on the high-energy atmosphere of Osaka, Japan's kitchen.
 
 - 🍄 **Universal Studios Japan:** Spend a full day at [USJ](https://www.usj.co.jp/web/en/us), featuring the immersive
   [Super Nintendo World](https://www.usj.co.jp/web/en/us/areas/super-nintendo-world) and the
@@ -173,15 +174,13 @@ The final leg of your trip starts in Osaka before returning to Tokyo for your fl
   for its giant mechanical signs and the iconic [Glico Running Man](https://osaka-info.jp/en/spot/ebisubashi-bridge/).
 - 🎮 **Final Finds:** Wrap up your Osaka shopping in [Den Den Town](https://insideosaka.com/den-den-town-guide/)'s
   electronics district or the massive [Don Quijote](https://www.donki.com/en/) megastore.
-- 🗼 **Tokyo Finale:** Return to Tokyo for one final night to ensure a relaxed commute to the airport.
 
-These final days ensure you leave Japan with a full stomach and a suitcase full of unique memories.
+These days in Osaka ensure you experience the city's unique charm and incredible food scene before the journey home.
 
-- **City:** Osaka & Tokyo
-- **Arrive:** Sunday Afternoon (Day 7) via Train to Osaka
-- **Back to Tokyo:** Tuesday Evening (Day 9) via Shinkansen
-- **Leave:** Wednesday (Day 10) via HND
-- **Key Stops:** Universal Studios Japan, Dotonbori, Den Den Town, Final Night in Tokyo.
+- **City:** Osaka
+- **Arrive:** Sunday Afternoon (Day 7) via Train from Kyoto
+- **Leave:** Tuesday Afternoon (Day 9) via Shinkansen to Tokyo
+- **Key Stops:** Universal Studios Japan, Dotonbori, Den Den Town, Kuromon Market.
 - **Details:** [See Osaka Stops](Detailed/Osaka/neighborhoods.md#osaka-sightseeing-details)
 
 ### Day 8: SUPER NINTENDO WORLD (Monday, June 1)
@@ -190,6 +189,24 @@ These final days ensure you leave Japan with a full stomach and a suitcase full 
   Being in Osaka since Sunday ensures you are well-rested for the rope-drop.
 - **Evening:** Neon lights and street food in **Dotonbori**.
 - **Dinner:** Iconic Osaka **Kushikatsu** (deep-fried skewers).
+
+---
+
+## Leg 4: Tokyo Return (Days 9-10) [Tues, June 2 - Wed, June 3]
+
+The final transition back to Tokyo to prepare for your flight home.
+
+- 🗼 **Tokyo Finale:** Return to Tokyo for one final night to ensure a relaxed commute to the airport.
+- 🍱 **Last Bites:** Squeeze in one last favorite Japanese meal or do some final duty-free shopping.
+- 🛫 **Smooth Departure:** Enjoy a stress-free morning before heading to Haneda Airport.
+
+This final leg ensures a smooth transition from vacation mode back to reality.
+
+- **City:** Tokyo
+- **Arrive:** Tuesday Evening (Day 9) via Shinkansen from Osaka
+- **Leave:** Wednesday (Day 10) via HND
+- **Key Stops:** Final Night in Tokyo, Haneda Airport.
+- **Details:** [See Final Night Hotel Options](../Reference/hotel-options.md#-final-night-in-tokyo-1-night---leg-3)
 
 ### Day 9: Last Bites & Return to Tokyo (Tuesday, June 2)
 
