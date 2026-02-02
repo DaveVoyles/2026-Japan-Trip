@@ -8,7 +8,7 @@ This document provides deep-dive information on Kyoto's neighborhoods, logistics
 
 [📍 View Overall Kyoto Sightseeing Map](https://www.google.com/maps/search/Kiyomizu-dera+OR+Fushimi+Inari+Taisha+OR+Kinkaku-ji+OR+Arashiyama+Bamboo+Grove+OR+Nishiki+Market+OR+Gion+Shijo+Station+OR+Kyoto+Station+OR+Philosopher's+Path+OR+Nara+Park+OR+Todai-ji+OR+Ginkaku-ji+OR+Sannenzaka+OR+Ninenzaka+OR+Kyoto+Botanical+Gardens)
 
-[🏨 View all Kyoto hotels on Google Maps](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22Hotel+The+Celestine+Kyoto+Gion%22)
+[🏨 **View all Kyoto hotels on Google Maps**](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22Hotel+The+Celestine+Kyoto+Gion%22)
 
 ### 🚄 Kyoto Station (The Modern Gateway)
 

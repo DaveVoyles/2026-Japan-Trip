@@ -33,11 +33,13 @@ the detailed city itineraries:
 ### 🗺️ Interactive Maps (Google Maps Search)
 
 #### Sightseeing
+
 - [📍 **Tokyo Sightseeing Map**](https://www.google.com/maps/search/Ginza+Six+OR+Uniqlo+Ginza+OR+Kabukicho+Godzilla+OR+Shinjuku+Gyoen+OR+Omoide+Yokocho+OR+Hachiko+Shibuya+OR+Shibuya+Parco+OR+Shibuya+Sky+OR+Meiji+Shrine+OR+Senso-ji+OR+Super+Potato+Akihabara+OR+Mandarake+Nakano+OR+Ghibli+Museum+OR+Yanaka+Ginza+OR+Kappabashi+Kitchen+Town)
 - [📍 **Kyoto & Nara Sightseeing Map**](https://www.google.com/maps/search/Kiyomizu-dera+OR+Fushimi+Inari+Taisha+OR+Kinkaku-ji+OR+Arashiyama+Bamboo+Grove+OR+Nishiki+Market+OR+Gion+Shijo+Station+OR+Kyoto+Station+OR+Philosopher's+Path+OR+Nara+Park+OR+Todai-ji+OR+Ginkaku-ji+OR+Sannenzaka+OR+Ninenzaka+OR+Kyoto+Botanical+Gardens)
 - [📍 **Osaka Sightseeing Map**](https://www.google.com/maps/search/Universal+Studios+Japan+OR+Dotonbori+Glico+Man+OR+Den+Den+Town+OR+Umeda+Sky+Building+OR+Namba+Station+OR+Osaka+Station+OR+Kuromon+Market+OR+Amerikamura+OR+Osaka+Castle)
 
 #### Hotels
+
 - [🏨 **Tokyo Hotel Options Map**](https://www.google.com/maps/search/%22Hotel+Musse+Ginza+Meitetsu%22+OR+%22The+Royal+Park+Canvas+Ginza+8%22+OR+%22Hotel+Gracery+Shinjuku%22+OR+%22Century+Southern+Tower%22+OR+%22Shibuya+Stream+Excel+Tokyu%22+OR+%22Hotel+Ryumeikan+Tokyo%22)
 - [🏨 **Kyoto Hotel Options Map**](https://www.google.com/maps/search/%22Miyako+City+Kintetsu+Kyoto+Station%22+OR+%22The+Thousand+Kyoto%22+OR+%22Cross+Hotel+Kyoto%22+OR+%22Hotel+The+Celestine+Kyoto+Gion%22)
 - [🏨 **Osaka Hotel Options Map**](https://www.google.com/maps/search/%22Cross+Hotel+Osaka%22+OR+%22Swissotel+Nankai+Osaka%22+OR+%22Hotel+Royal+Classic+Osaka%22+OR+%22Hotel+Hankyu+Respire+Osaka%22)
