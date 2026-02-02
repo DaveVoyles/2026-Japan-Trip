@@ -15,6 +15,8 @@
 
 ## 🗼 Tokyo Options (4 Nights - Leg 1) [Mon, May 25 - Thurs, May 28]
 
+> **Booking Dates:** Check in on **Monday, May 25**; Check out on **Friday, May 29**.
+
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
 
 [🏨 **View all Tokyo hotels on Google Maps**](https://www.google.com/maps/search/Hotel+Gracery+Shinjuku+OR+Century+Southern+Tower+OR+Shibuya+Stream+Excel+Tokyu+OR+Hotel+Ryumeikan+Tokyo)
@@ -38,6 +40,8 @@
 | **Hotel Ryumeikan Tokyo**      | ❌ No          | ❌ No               | ✅ Yes     | ✅ Yes (Nearby)          |
 
 ## ⛩️ Kyoto Options (2 Nights) [Fri, May 29 - Sat, May 30]
+
+> **Booking Dates:** Check in on **Friday, May 29**; Check out on **Sunday, May 31**.
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
@@ -63,6 +67,8 @@
 
 ## 🐙 Osaka Options (2 Nights) [Sun, May 31 - Mon, June 1]
 
+> **Booking Dates:** Check in on **Sunday, May 31**; Check out on **Tuesday, June 2**.
+
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
 [🏨 **View all Osaka hotels on Google Maps**](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
@@ -73,8 +79,8 @@
 | :--------------------------------------------------- | :------------------------------------------------------------- | :--------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--- | :---------- | :---------------- | :----------------------------- |
 | **[Dotonbori] Cross Hotel Osaka**                    | [Website](https://www.crosshotel.com/osaka/)                   | High             | Its location is unbeatable, sitting right on the Dotonbori canal, immersing you in the neon lights and food culture of Osaka. The hotel is very foreigner-friendly, with English-speaking staff and spacious rooms designed for international luggage. The hotel's signature red accents and sleek lobby make it stand out in the vibrant district.<br><br>🟢 **Pro:** You are steps away from the best street food in Japan.<br>🔴 **Con:** The surrounding area is very loud and bright until late at night.           | $$$  | $200 - $350 | $1,053 (164K Yen) | Books out fast.                |
 | **[Namba] Swissotel Nankai Osaka**                   | [Website](https://www.swissotel.com/hotels/nankai-osaka/)      | Very High        | Sitting directly atop Namba Station, this 5-star hotel offers the easiest airport transfer in the city via the Rapi:t train. The views from the upper floors are spectacular, and the service is top-tier international standard. The hotel's 'Swiss Executive Lounge' offers one of the best breakfast spreads in the city.<br><br>🟢 **Pro:** Direct access to the airport train and full 5-star facilities.<br>🔴 **Con:** The hotel is quite large and can feel impersonal compared to boutique options.             | $$$$ | $300 - $500 | $1,200 (186K Yen) | Good availability.             |
-| **[Namba] Hotel Royal Classic Osaka**                | [Website](https://hotel-royalclassic.jp/en/)                   | High             | Designed by world-renowned architect Kuma Kengo, this hotel is a masterpiece of wood and light connected to Namba Station. It offers a sophisticated, museum-like atmosphere that contrasts beautifully with the chaotic energy of Namba. The hotel's facade is a striking landmark that incorporates the architecture of a former theater.<br><br>🟢 **Pro:** Stunning architecture and high-end, tech-forward room features.<br>🔴 **Con:** Premium pricing reflects its luxury status, which may not fit all budgets. | $$$  | $250 - $400 | $706 (110K Yen) | Moderate availability.         |
-| **[Umeda/Osaka Station] Hotel Hankyu Respire Osaka** | [Website](https://www.hankyu-hotel.com/en/hotel/respire/osaka) | High             | Located in the massive Umeda/Osaka Station complex, this hotel offers incredible access to shopping and the train to Universal Studios. It features a massive open-air garden deck, providing a rare green space in the concrete jungle. Its location within the Links Umeda mall means you have hundreds of shops just an elevator ride away.<br><br>🟢 **Pro:** Excellent regional transit access and great for families.<br>🔴 **Con:** Navigating the Umeda station complex to find the entrance can be confusing.   | $$   | $150 - $250 | $900 (140K Yen) | Very large, good availability. |
+| **[Namba] Hotel Royal Classic Osaka**                | [Website](https://hotel-royalclassic.jp/en/)                   | High             | Designed by world-renowned architect Kuma Kengo, this hotel is a masterpiece of wood and light connected to Namba Station. It offers a sophisticated, museum-like atmosphere that contrasts beautifully with the chaotic energy of Namba. The hotel's facade is a striking landmark that incorporates the architecture of a former theater.<br><br>🟢 **Pro:** Stunning architecture and high-end, tech-forward room features.<br>🔴 **Con:** Premium pricing reflects its luxury status, which may not fit all budgets. | $$$  | $250 - $400 | $706 (110K Yen)   | Moderate availability.         |
+| **[Umeda/Osaka Station] Hotel Hankyu Respire Osaka** | [Website](https://www.hankyu-hotel.com/en/hotel/respire/osaka) | High             | Located in the massive Umeda/Osaka Station complex, this hotel offers incredible access to shopping and the train to Universal Studios. It features a massive open-air garden deck, providing a rare green space in the concrete jungle. Its location within the Links Umeda mall means you have hundreds of shops just an elevator ride away.<br><br>🟢 **Pro:** Excellent regional transit access and great for families.<br>🔴 **Con:** Navigating the Umeda station complex to find the entrance can be confusing.   | $$   | $150 - $250 | $900 (140K Yen)   | Very large, good availability. |
 
 ### Osaka Amenities & Features
 
@@ -87,7 +93,9 @@
 
 ---
 
-## 🛫 Final Night in Tokyo (1 Night - Leg 3) [Tues, June 2]
+## 🛫 Final Night in Tokyo (1 Night - Leg 4) [Tues, June 2]
+
+> **Booking Dates:** Check in on **Tuesday, June 2**; Check out on **Wednesday, June 3**.
 
 ### Recommended Area: Shinagawa (Transit Hub) or Haneda Airport (Maximum Convenience)
 

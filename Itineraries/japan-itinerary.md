@@ -60,6 +60,8 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 ## Leg 1: Tokyo (Days 1-4) [Mon, May 25 - Thurs, May 28]
 
+> **Hotels:** Check in on **Monday, May 25**; Check out on **Friday, May 29** (4 Nights).
+
 Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscrapers stand alongside ancient shrines.
 
 - 🏙️ **City Exploration:** Settle into the vibrant hubs of [Ginza](https://www.japan-guide.com/e/e3005.html) or
@@ -115,6 +117,8 @@ corners.
 
 ## Leg 2: Kyoto (Days 5-7) [Fri, May 29 - Sun, May 31]
 
+> **Hotels:** Check in on **Friday, May 29**; Check out on **Sunday, May 31** (2 Nights).
+
 This leg of the journey takes you to the cultural heart of Japan, balancing ancient traditions with modern discoveries.
 
 - ⛩️ **Kyoto Icons:** Walk through the vermillion gates of [Fushimi Inari](https://inari.jp/en/), explore the
@@ -165,6 +169,8 @@ transitioning to the neon lights of Osaka.
 
 ## Leg 3: Osaka (Days 8-9) [Mon, June 1 - Tues, June 2]
 
+> **Hotels:** Check in on **Sunday, May 31**; Check out on **Tuesday, June 2** (2 Nights).
+
 This leg focuses on the high-energy atmosphere of Osaka, Japan's kitchen.
 
 - 🍄 **Universal Studios Japan:** Spend a full day at [USJ](https://www.usj.co.jp/web/en/us), featuring the immersive
@@ -193,6 +199,8 @@ These days in Osaka ensure you experience the city's unique charm and incredible
 ---
 
 ## Leg 4: Tokyo Return (Days 9-10) [Tues, June 2 - Wed, June 3]
+
+> **Hotels:** Check in on **Tuesday, June 2**; Check out on **Wednesday, June 3** (1 Night).
 
 The final transition back to Tokyo to prepare for your flight home.
 
