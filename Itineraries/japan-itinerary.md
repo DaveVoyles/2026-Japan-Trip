@@ -214,7 +214,7 @@ This final leg ensures a smooth transition from vacation mode back to reality.
 - **Arrive:** Tuesday Evening (Day 9) via Shinkansen from Osaka
 - **Leave:** Wednesday (Day 10) via HND
 - **Key Stops:** Final Night in Tokyo, Haneda Airport.
-- **Details:** [See Final Night Hotel Options](../Reference/hotel-options.md#-final-night-in-tokyo-1-night---leg-3)
+- **Details:** [See Final Night Hotel Options](../Reference/hotel-options.md#final-night-in-tokyo-1-night---leg-4) (Updated Link)
 
 ### Day 9: Last Bites and Return to Tokyo (Tuesday, June 2)
 
