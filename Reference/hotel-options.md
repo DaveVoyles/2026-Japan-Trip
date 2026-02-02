@@ -13,7 +13,7 @@
 - **$$$** = $250 – $400
 - **$$$$** = $400+
 
-## 🗼 Tokyo Options (4 Nights - Leg 1)
+## 🗼 Tokyo Options (4 Nights - Leg 1) [Mon, May 25 - Thurs, May 28]
 
 ### Recommended Areas: Ginza (Shopping/Quiet), Shinjuku (Nightlife/Transit), or Shibuya (Pop Culture)
 
@@ -37,7 +37,7 @@
 | **Shibuya Stream Excel Tokyu** | ❌ No          | ✅ Bar/Lounge       | ✅ Yes     | ✅ Yes (Shibuya Station) |
 | **Hotel Ryumeikan Tokyo**      | ❌ No          | ❌ No               | ✅ Yes     | ✅ Yes (Nearby)          |
 
-## ⛩️ Kyoto Options (2 Nights)
+## ⛩️ Kyoto Options (2 Nights) [Fri, May 29 - Sat, May 30]
 
 ### Recommended Area: Kyoto Station (Logistics) or Gion (Atmosphere)
 
@@ -63,7 +63,7 @@
 | **OMO5 Kyoto Sanjo**         | ❌ No                    | ✅ Yes (Cafe)   | ✅ Yes     | 🚶 2-min walk to Kyoto Shiyakusho-mae |
 | **Super Hotel Shijo**        | ✅ Yes (Natural Onsen)   | ✅ Yes (Drinks) | ✅ Yes     | 🚶 3-min walk to Kyoto-Kawaramachi    |
 
-## 🐙 Osaka Options (2 Nights)
+## 🐙 Osaka Options (2 Nights) [Sun, May 31 - Mon, June 1]
 
 ### Recommended Area: Namba (Food/Nightlife) or Umeda (Transit Hub)
 
@@ -89,7 +89,7 @@
 
 ---
 
-## 🛫 Final Night in Tokyo (1 Night - Leg 3)
+## 🛫 Final Night in Tokyo (1 Night - Leg 3) [Tues, June 2]
 
 ### Recommended Area: Shinagawa (Transit Hub) or Haneda Airport (Maximum Convenience)
 

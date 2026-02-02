@@ -2,21 +2,21 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Strategy: "Together & Apart"](#strategy-together--apart)
-- [**Leg 1: Tokyo (Days 1-4)**](#leg-1-tokyo-days-1-4)
-  - [Day 1: Arrival in Tokyo (Monday, May 25)](#day-1-arrival-in-tokyo-monday-may-25)
-  - [Day 2: Old Tokyo & The "Split" (Tuesday, May 26)](#day-2-old-tokyo--the-split-tuesday-may-26)
-  - [Day 3: Pop Culture & Fashion (Wednesday, May 27)](#day-3-pop-culture--fashion-wednesday-may-27)
-  - [Day 4: Ghibli Magic & Kichijoji (Thursday, May 28)](#day-4-ghibli-magic--kichijoji-thursday-may-28)
-- [**Leg 2: Kyoto (Days 5-7)**](#leg-2-kyoto-days-5-7)
-  - [Day 5: Bullet Train to Foxes (Friday, May 29)](#day-5-bullet-train-to-foxes-friday-may-29)
-  - [Day 6: Bamboo & Gold (Saturday, May 30)](#day-6-bamboo--gold-saturday-may-30)
-  - [Day 7: Deer & Shopping (Sunday, May 31)](#day-7-deer--shopping-sunday-may-31)
-- [**Leg 3: Osaka & Tokyo Return (Days 8-10)**](#leg-3-osaka--tokyo-return-days-8-10)
-  - [Day 8: SUPER NINTENDO WORLD (Monday, June 1)](#day-8-super-nintendo-world-monday-june-1)
-  - [Day 9: Last Bites & Return to Tokyo (Tuesday, June 2)](#day-9-last-bites--return-to-tokyo-tuesday-june-2)
-  - [Day 10: Departure from Tokyo (Wednesday, June 3)](#day-10-departure-from-tokyo-wednesday-june-3)
+- [overview](#overview)
+- [strategy: "together & apart"](#strategy-together--apart)
+- [**leg 1: tokyo (days 1-4) [mon, may 25 - thurs, may 28]**](#leg-1-tokyo-days-1-4-mon-may-25---thurs-may-28)
+  - [day 1: arrival in tokyo (monday, may 25)](#day-1-arrival-in-tokyo-monday-may-25)
+  - [day 2: old tokyo & the "split" (tuesday, may 26)](#day-2-old-tokyo--the-split-tuesday-may-26)
+  - [day 3: pop culture & fashion (wednesday, may 27)](#day-3-pop-culture--fashion-wednesday-may-27)
+  - [day 4: ghibli magic & kichijoji (thursday, may 28)](#day-4-ghibli-magic--kichijoji-thursday-may-28)
+- [**leg 2: kyoto (days 5-7) [fri, may 29 - sun, may 31]**](#leg-2-kyoto-days-5-7-fri-may-29---sun-may-31)
+  - [day 5: bullet train to foxes (friday, may 29)](#day-5-bullet-train-to-foxes-friday-may-29)
+  - [day 6: bamboo & gold (saturday, may 30)](#day-6-bamboo--gold-saturday-may-30)
+  - [day 7: deer & shopping (sunday, may 31)](#day-7-deer & shopping-sunday-may-31)
+- [**leg 3: osaka & tokyo return (days 8-10) [mon, june 1 - wed, june 3]**](#leg-3-osaka--tokyo-return-days-8-10-mon-june-1---wed-june-3)
+  - [day 8: super nintendo world (monday, june 1)](#day-8-super-nintendo-world-monday-june-1)
+  - [day 9: last bites & return to tokyo (tuesday, june 2)](#day-9-last-bites--return-to-tokyo-tuesday-june-2)
+  - [day 10: departure from tokyo (wednesday, june 3)](#day-10-departure-from-tokyo-wednesday-june-3)
 - [May 2026 Specific Notes](#may-2026-specific-notes)
 
 ---
@@ -57,7 +57,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 ---
 
-## Leg 1: Tokyo (Days 1-4)
+## Leg 1: Tokyo (Days 1-4) [Mon, May 25 - Thurs, May 28]
 
 Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscrapers stand alongside ancient shrines.
 
@@ -112,7 +112,7 @@ corners.
 
 ---
 
-## Leg 2: Kyoto (Days 5-7)
+## Leg 2: Kyoto (Days 5-7) [Fri, May 29 - Sun, May 31]
 
 This leg of the journey takes you to the cultural heart of Japan, balancing ancient traditions with modern discoveries.
 
@@ -162,7 +162,7 @@ transitioning to the neon lights of Osaka.
 
 ---
 
-## Leg 3: Osaka & Tokyo Return (Days 8-10)
+## Leg 3: Osaka & Tokyo Return (Days 8-10) [Mon, June 1 - Wed, June 3]
 
 The final leg of your trip starts in Osaka before returning to Tokyo for your flight home.
 
