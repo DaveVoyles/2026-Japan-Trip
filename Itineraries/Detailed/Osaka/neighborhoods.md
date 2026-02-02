@@ -8,7 +8,7 @@ This document provides deep-dive information on Osaka's neighborhoods, logistics
 
 [📍 View Overall Osaka Sightseeing Map](https://www.google.com/maps/search/Universal+Studios+Japan+OR+Dotonbori+Glico+Man+OR+Den+Den+Town+OR+Umeda+Sky+Building+OR+Namba+Station+OR+Osaka+Station+OR+Kuromon+Market+OR+Amerikamura+OR+Osaka+Castle)
 
-[🏨 **View all Osaka hotels on Google Maps**](https://www.google.com/maps/search/?api=1&query=Cross+Hotel+Osaka+|+Swissotel+Nankai+Osaka+|+Hotel+Royal+Classic+Osaka+|+Hotel+Hankyu+Respire+Osaka)
+[🏨 **View all Osaka hotels on Google Maps**](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
 
 ### 🏮 Namba / Dotonbori (The Soul of Osaka)
 

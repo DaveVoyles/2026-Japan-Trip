@@ -6,7 +6,7 @@ This document provides deep-dive information on Tokyo's neighborhoods, logistics
 
 [📍 View Overall Tokyo Sightseeing Map](https://www.google.com/maps/search/Ginza+Six+OR+Uniqlo+Ginza+OR+Kabukicho+Godzilla+OR+Shinjuku+Gyoen+OR+Omoide+Yokocho+OR+Hachiko+Shibuya+OR+Shibuya+Parco+OR+Shibuya+Sky+OR+Meiji+Shrine+OR+Senso-ji+OR+Super+Potato+Akihabara+OR+Mandarake+Nakano+OR+Ghibli+Museum+OR+Yanaka+Ginza+OR+Kappabashi+Kitchen+Town)
 
-[🏨 **View all Tokyo hotels on Google Maps**](https://www.google.com/maps/search/?api=1&query=Hotel+Musse+Ginza+Meitetsu+|+The+Royal+Park+Canvas+Ginza+8+|+Hotel+Gracery+Shinjuku+|+Century+Southern+Tower+|+Shibuya+Stream+Excel+Tokyu+|+Hotel+Ryumeikan+Tokyo)
+[🏨 **View all Tokyo hotels on Google Maps**](https://www.google.com/maps/search/Hotel+Musse+Ginza+Meitetsu+OR+The+Royal+Park+Canvas+Ginza+8+OR+Hotel+Gracery+Shinjuku+OR+Century+Southern+Tower+OR+Shibuya+Stream+Excel+Tokyu+OR+Hotel+Ryumeikan+Tokyo)
 
 ### Ginza (The Polished Heart)
 
