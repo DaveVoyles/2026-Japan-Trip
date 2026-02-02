@@ -9,14 +9,14 @@
 | Category                 | Estimated Cost (USD)  | Estimated Cost (JPY)      | Actual Cost (USD) | Actual Cost (JPY) | Difference |
 | :----------------------- | :-------------------- | :------------------------ | :---------------- | :---------------- | :--------- |
 | **Flights (Round Trip)** | $2,500 - $3,500       | 375,000 - 525,000         | -                 | -                 | -          |
-| **Hotels (8 Nights)**    | $2,000 - $2,800       | 300,000 - 420,000         | -                 | -                 | -          |
-| **Transport (Trains)**   | $850 - $1,100         | 127,500 - 165,000         | -                 | -                 | -          |
-| **Food & Drink**         | $1,700 - $2,300       | 255,000 - 345,000         | -                 | -                 | -          |
+| **Hotels (9 Nights)**    | $2,250 - $3,150       | 337,500 - 472,500         | -                 | -                 | -          |
+| **Transport (Trains)**   | $870 - $1,120         | 130,500 - 168,000         | -                 | -                 | -          |
+| **Food & Drink**         | $1,850 - $2,500       | 277,500 - 375,000         | -                 | -                 | -          |
 | **Shopping**             | $1,500 - $2,500       | 225,000 - 375,000         | -                 | -                 | -          |
 | **Activities/Tickets**   | $850 - $1,250         | 127,500 - 187,500         | -                 | -                 | -          |
 | **Misc (eSIM/Ins)**      | $300 - $500           | 45,000 - 75,000           | -                 | -                 | -          |
 | **Emergency Fund**       | $500 - $1,000         | 75,000 - 150,000          | -                 | -                 | -          |
-| **TOTAL**                | **$10,200 - $14,950** | **1,530,000 - 2,242,500** | **$0**            | **0**             | **-**      |
+| **TOTAL**                | **$10,620 - $15,520** | **1,593,000 - 2,328,000** | **$0**            | **0**             | **-**      |
 
 ## Detailed Category Breakdown
 
@@ -26,14 +26,15 @@
 - **Class:** Premium Economy targets.
 - **Timing:** Book June 2025.
 
-### Hotels ($2,000 - $2,800 for 8 nights)
+### Hotels ($2,250 - $3,150 for 9 nights)
 
 - **Tokyo (4 nights):** $1,000 - $1,400 ($250-$350/night)
-- **Kyoto (3 nights):** $750 - $1,050 ($250-$350/night)
-- **Osaka (1 night):** $250 - $350 ($250-$350/night)
+- **Kyoto (2 nights):** $500 - $700 ($250-$350/night)
+- **Osaka (2 nights):** $500 - $700 ($250-$350/night)
+- **Tokyo Final (1 night):** $250 - $350 ($250-$350/night)
 - **See:** [hotel-options.md](../Reference/hotel-options.md)
 
-### Transport ($850 - $1,100)
+### Transport ($870 - $1,120)
 
 _Note: JR Pass is likely NOT worth it for this itinerary. Individual tickets are cheaper._
 
@@ -42,13 +43,13 @@ _Note: JR Pass is likely NOT worth it for this itinerary. Individual tickets are
 | **Shinkansen Tokyo -> Kyoto** | $250       | 38,000     | 2x Reserved Seats                   |
 | **Shinkansen Kyoto -> Osaka** | $30        | 4,500      | Local Rapid Train is cheaper        |
 | **Shinkansen Osaka -> Tokyo** | $260       | 39,000     | 2x Reserved Seats (Return to HND)   |
-| **Suica/PASMO Top-ups**       | $200       | 30,000     | For subways/local trains (2 people) |
+| **Suica/PASMO Top-ups**       | $220       | 33,000     | For subways/local trains (2 people) |
 | **Airport Transfers**         | $80        | 12,000     | Limousine Bus / Keikyu Line         |
 | **Luggage Forwarding**        | $60        | 9,000      | 2 Bags (Tokyo -> Kyoto)             |
 
-### Food & Drink ($1,700 - $2,300)
+### Food & Drink ($1,850 - $2,500)
 
-**Daily Budget:** $185 - $250 per day for 2 people (9 days total)
+**Daily Budget:** $185 - $250 per day for 2 people (10 days total)
 
 | Meal Type         | Budget for 2 (USD) | Budget for 2 (JPY) |
 | :---------------- | :----------------- | :----------------- |
