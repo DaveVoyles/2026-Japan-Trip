@@ -6,7 +6,7 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 > For deep-dive details on neighborhoods, logistics, and cultural etiquette, see the [Tokyo Neighborhoods & Reference Guide](neighborhoods.md).
 
 **Schedule:** 06:30 AM - 09:30 PM
-**Hotel Hub:** Ginza or Shinjuku
+**Hotel Hub:** [Keio Plaza Hotel (Shinjuku)](../../../Reference/hotel-options.md#tokyo-options-4-nights---leg-1-mon-may-25---thurs-may-28)
 **Duration:** 5 Days (4 Start + 1 End)
 
 ---
@@ -18,17 +18,17 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 | Time      | Activity                                        | Cost |
 | :-------- | :---------------------------------------------- | :--- |
 | **13:35** | **Arrival at Haneda (HND) - UA 131**            | -    |
-| **15:00** | **Hotel Check-in (Ginza/Shinjuku)**             | -    |
+| **15:00** | **Check-in: Keio Plaza Hotel (Shinjuku)**       | -    |
 | **16:30** | **Split: Arcades (Dave) / Food Halls (Debbie)** | $    |
 | **18:30** | **Casual Izakaya Dinner**                       | $    |
 | **20:30** | **Early Night / Rest**                          | -    |
 
 **Quick Logistics:**
 
-- **From Haneda (HND):** Take the **Keikyu Airport Line** (if staying in Ginza/Shinbashi) or **Airport Limousine Bus** (easiest with luggage).
-  - _To Ginza:_ Keikyu Line to Higashi-Ginza Station (~35 mins).
-- **eSIM:** Activate on the train! Turn on "Japan Travel" line in settings.
-- **Hotel Check-in:** Drop bags immediately. Most check-ins start at 3:00 PM.
+- **From Haneda (HND):** Take the **Airport Limousine Bus** directly to Keio Plaza Hotel.
+  - _Why?_ The bus stops right at the hotel door. No luggage hauling through Shinjuku Station.
+- **eSIM:** Activate on the bus! Turn on "Japan Travel" line in settings.
+- **Hotel Check-in:** Drop bags immediately. Check-in starts at 3:00 PM.
 
 **Evening Details:**
 

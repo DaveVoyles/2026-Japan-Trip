@@ -6,7 +6,7 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 > For deep-dive details on neighborhoods, logistics, and cultural etiquette, see the [Kyoto Neighborhoods & Reference Guide](neighborhoods.md).
 
 **Schedule:** 06:30 AM - 09:30 PM
-**Hotel Hub:** Kyoto Station or Gion/Kawaramachi
+**Hotel Hub:** [Cross Hotel Kyoto (Kawaramachi/Gion)](../../../Reference/hotel-options.md#kyoto-options-2-nights-gri-may-29---sat-may-30)
 
 ---
 
@@ -14,21 +14,24 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Fushimi%20Inari%20Taisha%2C%20Kyoto%2C%20Japan%20OR%20Gion%20Tanto%2C%20Kyoto%2C%20Japan%20OR%20Gransta%2C%20Kyoto%2C%20Japan%20OR%20Massive%20complex%2C%20Kyoto%2C%20Japan%20OR%20Kyoto%20Station%20Building%202F%2C%20Japan%20OR%20JR%20Nara%20Line%20to%20Inari%20Station%2C%20Kyoto%2C%20Japan%20OR%20Vermillion%20Cafe%2C%20Kyoto%2C%20Japan%20OR%20Kyo-Udon%20Ikkyuan%2C%20Kyoto%2C%20Japan%20OR%20Recommended%20Gion%20walking%20path%2C%20Kyoto%2C%20Japan%20OR%20Hanami-koji%20Street%2C%20Kyoto%2C%20Japan)
 
-| Time      | Activity                      | Cost |
-| :-------- | :---------------------------- | :--- |
-| **07:00** | **Shinkansen to Kyoto**       | $$$  |
-| **09:30** | **Arrival & Bag Drop**        | -    |
-| **10:30** | **Fushimi Inari Taisha**      | Free |
-| **13:00** | **Lunch near Shrine**         | $    |
-| **15:00** | **Hotel Check-in**            | -    |
-| **17:00** | **Gion District Walk**        | -    |
-| **18:30** | **Okonomiyaki Dinner**        | $$   |
-| **20:30** | **Pontocho Alley Night Walk** | -    |
+| Time      | Activity                            | Cost |
+| :-------- | :---------------------------------- | :--- |
+| **07:00** | **Shinkansen to Kyoto**             | $$$  |
+| **09:30** | **Arrival & Bag Storage (Station)** | -    |
+| **10:30** | **Fushimi Inari Taisha**            | Free |
+| **13:00** | **Lunch near Shrine**               | $    |
+| **15:00** | **Check-in: Cross Hotel Kyoto**     | -    |
+| **17:00** | **Gion District Walk**              | -    |
+| **18:30** | **Okonomiyaki Dinner**              | $$   |
+| **20:30** | **Pontocho Alley Night Walk**       | -    |
 
 **Quick Logistics:**
 
-- **Tokyo Kyoto:** Nozomi Shinkansen (2 hrs 15 min). Sit on **RIGHT (E seat)** for Mt. Fuji.
-- **Kyoto Station Fushimi Inari:** JR Nara Line to Inari Station (5 min).
+- **Tokyo -> Kyoto:** Nozomi Shinkansen (2 hrs 15 min). Sit on **RIGHT (E seat)** for Mt. Fuji.
+- **Bag Drop (Important):** Since Cross Hotel is in Gion/Kawaramachi (not at the station):
+  - **Option A (Recommended):** Store large bags in coin lockers at **Kyoto Station** immediately upon arrival. Go to Fushimi Inari light. Pick them up later and take a taxi to the hotel.
+  - **Option B:** Taxi directly to Cross Hotel to drop bags, then head back out. (Adds travel time).
+- **Kyoto Station -> Fushimi Inari:** JR Nara Line to Inari Station (5 min).
 - **Ekiben:** Buy a famous station bento at Tokyo Station for the ride.
 
 **Sightseeing Details:**

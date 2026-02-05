@@ -39,10 +39,13 @@ the detailed city itineraries:
 - [📍 **Kyoto & Nara Sightseeing Map**](https://www.google.com/maps/search/Kiyomizu-dera+OR+Fushimi+Inari+Taisha+OR+Kinkaku-ji+OR+Arashiyama+Bamboo+Grove+OR+Nishiki+Market+OR+Gion+Shijo+Station+OR+Kyoto+Station+OR+Philosopher's+Path+OR+Nara+Park+OR+Todai-ji+OR+Ginkaku-ji+OR+Sannenzaka+OR+Ninenzaka+OR+Kyoto+Botanical+Gardens)
 - [📍 **Osaka Sightseeing Map**](https://www.google.com/maps/search/Universal+Studios+Japan+OR+Dotonbori+Glico+Man+OR+Den+Den+Town+OR+Umeda+Sky+Building+OR+Namba+Station+OR+Osaka+Station+OR+Kuromon+Market+OR+Amerikamura+OR+Osaka+Castle)
 
-#### Hotels
+#### Hotels (Booked)
 
-- [🏨 **Tokyo Hotel Options Map**](https://www.google.com/maps/search/Hotel+Gracery+Shinjuku+OR+Century+Southern+Tower+OR+Shibuya+Stream+Excel+Tokyu+OR+Hotel+Ryumeikan+Tokyo)
-- [🏨 **Kyoto Hotel Options Map**](https://www.google.com/maps/search/Cross+Hotel+Kyoto+OR+Hotel+The+Celestine+Kyoto+Gion+OR+Hotel+Vista+Premio+Kyoto+Nagomi+OR+OMO5+Kyoto+Sanjo+OR+Super+Hotel+Kyoto+Shijo+Kawaramachi)
+- [🏨 **Keio Plaza Hotel (Shinjuku)**](https://www.google.com/maps/search/Keio+Plaza+Hotel+Shinjuku)
+  - *Dates:* May 25 - 29 (4 Nights) | *Status:* Confirmed (Paid)
+- [🏨 **Cross Hotel Kyoto (Gion/Kawaramachi)**](https://www.google.com/maps/search/Cross+Hotel+Kyoto)
+  - *Dates:* May 29 - 31 (2 Nights) | *Status:* Confirmed (Pay at Hotel)
+  - **Reference:** Res # 3336-0459-3387
 - [🏨 **Osaka Hotel Options Map**](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
 - [🏨 **Final Tokyo Night Hotel Options Map**](https://www.google.com/maps/search/Royal+Park+Hotel+Tokyo+Haneda+OR+The+Prince+Sakura+Tower+Tokyo+OR+Shinagawa+Prince+Hotel)
 
@@ -87,7 +90,8 @@ corners.
 ### Day 1: Arrival in Tokyo (Monday, May 25)
 
 - **Arrival:** Arrive at HND (**1:35 PM**) from Newark (EWR) on **UA 131**.
-- **Check-in:** Settle into your hotel in **Ginza** or **Shinjuku**.
+- **Transfer:** Airport Limousine Bus directly to hotel.
+- **Check-in:** Settle into **Keio Plaza Hotel** (Shinjuku).
 - **Evening:** Light walk to reset body clocks. Explore local arcades or department store food halls.
 - **Dinner:** Casual Izakaya meal to welcome you to Japan.
 

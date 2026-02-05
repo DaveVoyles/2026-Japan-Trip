@@ -17,8 +17,8 @@
 
 | Status | City  | Dates         | Hotel Name | Address          | Conf # | Price/Night | Notes           |
 | :----- | :---- | :------------ | :--------- | :--------------- | :----- | :---------- | :-------------- |
-|        | Tokyo | May 25-29     | -          | Ginza/Shinjuku   | -      | -           | 4 Nights        |
-|        | Kyoto | May 29-31     | -          | Kyoto Station    | -      | -           | 2 Nights        |
+| ✅      | Tokyo | May 25-29     | **Keio Plaza Hotel** | Shinjuku         | Feb 4  | Paid        | Paid Online     |
+| ✅      | Kyoto | May 29-31     | **Cross Hotel**      | Gion/Kawaramachi | 3336...| Pay at Hotel| Res # 3336-0459-3387 |
 |        | Osaka | May 31-Jun 02 | -          | Namba            | -      | -           | 2 Nights        |
 |        | Tokyo | Jun 02-03     | -          | Shinagawa/Haneda | -      | -           | 1 Night (Final) |
 
