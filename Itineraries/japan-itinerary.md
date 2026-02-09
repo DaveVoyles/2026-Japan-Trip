@@ -42,9 +42,9 @@ the detailed city itineraries:
 #### Hotels (Booked)
 
 - [🏨 **Keio Plaza Hotel (Shinjuku)**](https://www.google.com/maps/search/Keio+Plaza+Hotel+Shinjuku)
-  - *Dates:* May 25 - 29 (4 Nights) | *Status:* Confirmed (Paid)
+  - _Dates:_ May 25 - 29 (4 Nights) | _Status:_ Confirmed (Paid)
 - [🏨 **Cross Hotel Kyoto (Gion/Kawaramachi)**](https://www.google.com/maps/search/Cross+Hotel+Kyoto)
-  - *Dates:* May 29 - 31 (2 Nights) | *Status:* Confirmed (Pay at Hotel)
+  - _Dates:_ May 29 - 31 (2 Nights) | _Status:_ Confirmed (Pay at Hotel)
   - **Reference:** Res # 3336-0459-3387
 - [🏨 **Osaka Hotel Options Map**](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
 - [🏨 **Final Tokyo Night Hotel Options Map**](https://www.google.com/maps/search/Royal+Park+Hotel+Tokyo+Haneda+OR+The+Prince+Sakura+Tower+Tokyo+OR+Shinagawa+Prince+Hotel)
@@ -173,7 +173,7 @@ transitioning to the neon lights of Osaka.
 
 ## Leg 3: Osaka (Days 8-9) [Mon, June 1 - Tues, June 2]
 
-> **Hotels:** Check in on **Sunday, May 31**; Check out on **Tuesday, June 2** (2 Nights).
+> **Hotel (BOOKED):** **Cross Hotel Osaka** (Check in: Sun, May 31; Check out: Tue, Jun 2).
 
 This leg focuses on the high-energy atmosphere of Osaka, Japan's kitchen.
 
