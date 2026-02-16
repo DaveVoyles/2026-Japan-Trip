@@ -42,6 +42,14 @@ Since you are buying Retro Games and Ceramics, you need space.
 - [ ] **T-Shirts:** 5-6 (Breathable fabrics).
 - [ ] **Socks/Underwear:** 7 days worth.
 
+## ✈️ Long Flight Survival (EWR -> HND: ~14.5 Hours)
+
+- [ ] **Compression Socks:** Essential for preventing DVT and swelling on 14hr flights.
+- [ ] **Noise Canceling Headphones:** Don't rely on the airline provided ones.
+- [ ] **USB-A to USB-C Cable:** Many planes still use old USB-A ports.
+- [ ] **Eye Mask:** A contoured one (doesn't press on eyes) lets you sleep better.
+- [ ] **Pen:** For filling out the Customs Declaration form on the plane (though Visit Japan Web QR is preferred, physical backup is faster sometimes).
+
 ## 💊 Toiletries & Meds
 
 - [ ] **Deodorant:** Japanese deodorant is weak. Bring your own.

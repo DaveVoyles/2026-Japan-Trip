@@ -34,6 +34,9 @@ _Warning:_ Entry to the park does NOT guarantee entry to Nintendo World. Capacit
   **"Donkey Kong: Mine Cart Madness"**.
   - _Target:_ **"Universal Express Pass 4"** (Variety Choice) or **"Universal Express Pass 7"**.
   - _Critical:_ These sell out within hours of release (2 months out). Set a calendar reminder.
+  - **⏰ Time Zone Hack:** Tickets usually drop at **12:00 AM (Midnight) Japan Standard Time**.
+    - **For You (EST):** This is **11:00 AM the *previous* day** (during Daylight Savings) or **10:00 AM** (Standard Time).
+    - *Example:* For May 28th entry, tickets drop March 28th at 00:00 JST -> Which is **March 27th at 11:00 AM EST**.
 - **How it Works:**
   - You get a QR code for each ride.
   - You are assigned a specific entry time for Super Nintendo World (e.g., 10:00 AM - 11:00 AM).

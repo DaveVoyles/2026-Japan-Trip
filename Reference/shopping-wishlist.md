@@ -49,6 +49,18 @@
 
 ### 🍬 Snacks & Consumables
 
+**Strategy:** Don't buy these at the airport (expensive). Go to a **Don Quijote (Donki)** or a local supermarket (Life, Seiyu).
+*Warning:* Don Quijote tax-free lines can be 1+ hour long at night. Go in the morning (8-10 AM).
+
+- **KitKats:** Japan has 300+ flavors.
+  - _Look for:_ Sake, Wasabi, Matcha, Strawberry Cheesecake, Hojicha.
+  - _Best Gift:_ Service Area exclusives if you see them.
+- **Alfort:** Mini chocolate biscuits with a sailing ship design. dirt cheap (~100 JPY) and incredibly addictive.
+- **Black Thunder:** Crunchy chocolate bar.
+- **Coffee Boss Rainbow Mountain Blend:** The classic canned coffee.
+- **Instant Curry:** GoGo Curry or Coco Ichibanya verify packets (check meat import laws for US).
+- **Royce Chocolate:** (Airport only) Nama Chocolate is perishable, but their Potatochip Chocolate is shelf-stable and god-tier.
+
 - **[Don Quijote (Donki)](https://www.donki.com/en/):** The chaotic discount store.
   Buy KitKats (Sake, Matcha, Wasabi flavors) here in bulk.
 - **Pharmacy (Drug Stores):** Rohto Lycee eye drops, Biore sunscreen, skincare.

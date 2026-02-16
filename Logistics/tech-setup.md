@@ -47,6 +47,12 @@
 **App:** "SmartEx" (JR Central).
 **Cost Savings:** EX Early Discount: ~¥1,000 ($7) cheaper per ticket if booked 3+ days ahead.
 
+**⚠️ CRITICAL WARNING Regarding 2FA:**
+Many Japanese apps (SmartEx, Disney, USJ, Taxi Go) require **SMS Verification** to set up.
+Detailed setup MUST be done **at home in the US** while you still have your primary SIM active.
+Once you land and switch to an eSIM data-only plan, **you will NOT receive SMS texts** to verify these accounts.
+*Do not wait until you land to create these accounts.*
+
 ### Setup Steps:
 1. Download **SmartEx App** ([iOS](https://apps.apple.com/jp/app/ex/id408357049) | [Android](https://play.google.com/store/apps/details?id=jp.co.jr_central.ExpressPrediction)).
 2. Register an account (need email + password).
