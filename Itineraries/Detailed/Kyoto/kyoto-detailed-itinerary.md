@@ -28,12 +28,17 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 **Quick Logistics:**
 
 - **Tokyo -> Kyoto:** Nozomi Shinkansen (2 hrs 15 min). Sit on **RIGHT (E seat)** for Mt. Fuji.
-- **Top Tip (Luggage):** Since Cross Hotel is in Gion, consider sending your big suitcases via **Takkyubin** (Yamato Transport) from Keio Plaza Hotel *the day before* (Day 4).
+- **Top Tip (Luggage):** Since Cross Hotel is in Gion, consider sending your big suitcases via **Takkyubin** (Yamato Transport) from Keio Plaza Hotel _the day before_ (Day 4).
   - _Benefit:_ You travel light on the Shinkansen and go straight to Fushimi Inari from Kyoto Station without needing lockers.
   - _Cost:_ ~$20 per bag. Ask the Keio Plaza concierge.
 - **If Carrying Bags:** Use **Central Exit** coin lockers at Kyoto Station right after arrival.
 - **Fushimi Inari:** 5 mins via JR Nara Line from Kyoto Station.
 - **Ekiben:** Buy a famous station bento at Tokyo Station for the ride.
+
+**Food & Drink:**
+- **[Kichi Kichi Omurice](https://kichi2.net/):** Viral sensation. Needs reservations weeks in advance.
+- **[Gogyo Ramen](https://www.ramendining-gogyo.com/):** Burnt miso ramen. Smoky and intense. Near Nishiki Market.
+- **[Maccha House](https://www.instagram.com/macchahouse_kyoto/):** Famous for the Tiramisu in a wooden box.
 
 **Sightseeing Details:**
 
@@ -96,4 +101,14 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 - **Todai-ji:** Houses one of the world's largest bronze Buddha statues (15m tall).
 - **The Move:** Leaving Kyoto Sunday afternoon allows you to "settle in" to your Osaka hotel
   early, making the 6:30 AM USJ start much smoother.
-- **Dave (Kyoto Gaming):** Visit [Surugaya Kyoto](https://www.suruga-ya.jp/) and [Book Off] for retro finds.
+- **Dave (Kyoto Gaming):**
+  - **Surugaya Kyoto:** Huge selection of retro games. Often less picked over than Akihabara.
+  - **A-Too:** Great local shop for PS1/PS2 era games.
+  - **Book Off (Kawaramachi):** Check the "Junk" corner for hidden gems.
+
+---
+
+## Day 7: Arrival in Osaka (Sunday, May 31)
+
+> [!NOTE]
+> The itinerary continues in the [Osaka Detailed Itinerary](../Osaka/osaka-detailed-itinerary.md#day-7-arrival-from-kyoto-sunday-may-31).

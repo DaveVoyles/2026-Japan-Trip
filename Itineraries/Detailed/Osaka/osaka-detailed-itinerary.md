@@ -77,13 +77,17 @@ _Note: You moved to Osaka this evening to get settled before the USJ rush._
 
 **Sightseeing Details:**
 
-- **Dave (Den Den Town):** A final sweep for retro games at [Super Potato Osaka](https://www.superpotato.com/) before leaving.
-- **Debbie (Kuromon Market):** "Osaka's Kitchen" - grab some strawberries or grilled crab legs for a pre-train snack.
-- **551 Horai:** Famous for pork buns (Butaman)—perfect for a final Osaka treat.
+- **Dave (Den Den Town):**
+  - **Super Potato Osaka:** Often has stock that Tokyo is sold out of.
+  - **Game Tanteidan:** The "Detective Agency" for rare games. A must-visit.
+  - **Joshin Super Kids Land:** Massive hobby shop for new model kits and figures.
+- **Debbie (Kuromon Market):** "Osaka's Kitchen" - grab some strawberries or grilled crab legs.
+- **551 Horai:** Famous for pork buns (Butaman)—buy them frozen to take on the Shinkansen (they sell cooler bags!).
 - **Tokyo Arrival:** By returning today, you avoid the rush and potential delays of trying to catch an international flight immediately after a long train ride.
 
 ---
 
 > [!NOTE]
 > The itinerary for **Day 10: Departure** is located in the [Tokyo Detailed Itinerary](../Tokyo/tokyo-detailed-itinerary.md#day-10-departure-from-tokyo-wednesday-june-3).
+
 - **Departure:** Flight leaves at 5:45 PM. Arriving by 2:00 PM gives you plenty of buffer.
