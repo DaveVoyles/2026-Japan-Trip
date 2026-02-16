@@ -11,7 +11,24 @@
 - [ ] **TeamLab Borderless/Planets:** Tickets booked (2 months out)
 - [ ] **Ghibli Museum:** Tickets booked (10th of previous month!)
 - [ ] **Shibuya Sky:** Tickets booked (4 weeks out)
-- [ ] **Warner Bros. Studio Tour (Harry Potter):** Tickets booked (if going)
+- [ ] **Kirby Cafe / Pokemon Cafe:** Reservations attempted (EXTREMELY hard)
+
+---
+
+## 🚄 Travel Day: Tokyo -> Kyoto (Day 5)
+
+- [ ] **Luggage Forwarded:** Dropped big bags at Keio Plaza bell desk (Day 4 morning or Day 5 morning).
+- [ ] **Day Pack Packed:** Pajamas, toiletries, 1 change of clothes (since bags arrive next day).
+- [ ] **Shinkansen Tickets:** Accessed in SmartEx app (or IC card linked).
+- [ ] **Ekiben Bought:** Bento box purchased at Tokyo Station (Gransta or Ekinaka).
+- [ ] **Mt. Fuji Alert:** Sat on Right Side (Seat E) -> Look out window ~45 mins after departure.
+
+## 🚄 Travel Day: Osaka -> Tokyo (Day 9)
+
+- [ ] **Luggage Forwarded:** Dropped big bags at Cross Hotel Osaka bell desk (Send to: Royal Park Haneda).
+- [ ] **Souvenirs Packed:** Fragile items (games/ceramics) in carry-on backpack.
+- [ ] **551 Horai Buns:** Bought frozen buns + cooler bag at Shin-Osaka station.
+- [ ] **Hotel Check-in:** Royal Park Haneda (Terminal 3).
 
 ---
 

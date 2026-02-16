@@ -38,16 +38,25 @@ Look for the **"Japan Tax-Free Shop"** logo (cherry blossom with "Tax-Free" text
 - **Den Den Town:** Similar to Akiba, check each store
 - **Shibuya Parco:** Nintendo Store, Pokemon Center (tax-free available)
 
-### 2. Shopping Strategy 💡
+### 3. "The Bag" Rule (Important!) 🛍️
 
-**To Hit the ¥5,500 Minimum:**
-- Plan purchases at same store to combine for tax-free threshold
-- Example: Buy 3 games at Super Potato (¥2,000 each = ¥6,000 total) → Tax-free eligible!
-- Example: Buy cosmetics + snacks at Matsumoto Kiyoshi → Combine at register
+**Consumables (Snacks, Cosmetics, Medicine):**
+- **Rule:** Must be sealed in a special clear "Tax-Free" bag at the register.
+- **Restriction:** **DO NOT OPEN** this bag while in Japan.
+- **Why:** If customs sees it open, they can charge you the 10% tax.
+- **Packing Tip:** These bags are bulky and full of air. It makes tetris-packing your suitcase hard.
+  - *Strategy:* Don't buy tax-free snacks unless you are buying A LOT. The small savings (¥500 on ¥5000) isn't worth the packing headache.
 
-**Two Categories (Important!):**
+**General Goods (Games, Clothes, Shoes, Electronics):**
+- **Rule:** Usually **NOT** sealed in a bag.
+- **Benefit:** You **CAN** use/wear them in Japan immediately!
+- **Dave's Retro Games:** You *can* open your Super Potato finds, test them, and pack them normally in your suitcase. NO sealed bag required!
 
-Some stores require SEPARATE ¥5,500 minimums for each category:
+### 4. At the Airport (Departure) 🛫
+
+- **Scan Receipt:** Scan your passport at the automated gate after security/immigration.
+- **Show Goods:** Extremely rare. Customs officers almost never ask to see the physical items unless you bought luxury watches/bags ($10k+).
+- **Liquids:** If you bought tax-free sake/cosmetics >100ml, put them in your **CHECKED** bag. Customs knows this contradiction exists; it's allowed.
 
 | Category | Minimum | Examples | Sealed? |
 | :--- | :--- | :--- | :--- |

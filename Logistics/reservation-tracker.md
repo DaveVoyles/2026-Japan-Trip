@@ -15,37 +15,37 @@
 
 ## Hotels
 
-| Status | City  | Dates         | Hotel Name           | Address          | Conf #  | Price/Night  | Notes                |
-| :----- | :---- | :------------ | :------------------- | :--------------- | :------ | :----------- | :------------------- |
-| ✅     | Tokyo | May 25-29     | **Keio Plaza Hotel** | Shinjuku         | Feb 4   | Paid         | Paid Online          |
-| ✅     | Kyoto | May 29-31     | **Cross Hotel**      | Gion/Kawaramachi | 3336... | Pay at Hotel | Res # 3336-0459-3387 |
-|        | Osaka | May 31-Jun 02 | -                    | Namba            | -       | -            | 2 Nights             |
-|        | Tokyo | Jun 02-03     | -                    | Shinagawa/Haneda | -       | -            | 1 Night (Final)      |
+| Status | City  | Dates         | Hotel Name              | Address          | Conf #  | Price/Night  | Notes                |
+| :----- | :---- | :------------ | :---------------------- | :--------------- | :------ | :----------- | :------------------- |
+| ✅     | Tokyo | May 25-29     | **Keio Plaza Hotel**    | Shinjuku         | Feb 4   | Paid         | Paid Online          |
+| ✅     | Kyoto | May 29-31     | **Cross Hotel**         | Gion/Kawaramachi | 3336... | Pay at Hotel | Res # 3336-0459-3387 |
+|        | Osaka | May 31-Jun 02 | **Cross Hotel Osaka**   | Dotonbori        | -       | -            | Target Booking       |
+|        | Tokyo | Jun 02-03     | **Royal Park Haneda**   | Haneda Airport   | -       | -            | Inside Terminal 3    |
 
 ## Transport (Shinkansen)
 
 | Status | Route          | Date   | Train Name | Car/Seat  | Conf # | Notes                           |
 | :----- | :------------- | :----- | :--------- | :-------- | :----- | :------------------------------ |
-|        | Tokyo -> Kyoto | May 29 | Nozomi     | Green Car | -      | Book via SmartEx (Apr 29)       |
-|        | Kyoto -> Nara  | May 30 | Kintetsu   | -         | -      | Day trip (flexible)             |
-|        | Osaka -> Tokyo | Jun 02 | Nozomi     | Green Car | -      | Return to Tokyo for Final Night |
+|        | Tokyo -> Kyoto | May 29 | Nozomi     | Green Car | -      | Book: Apr 29 (SmartEx)          |
+|        | Kyoto -> Nara  | May 30 | Kintetsu   | -         | -      | Pay with IC Card (No booking)   |
+|        | Osaka -> Tokyo | Jun 02 | Nozomi     | Green Car | -      | Book: May 2 (SmartEx)           |
 
 ## Activities & Tickets
 
-| Status | Activity             | Date    | Time   | Conf # | Notes                      |
-| :----- | :------------------- | :------ | :----- | :----- | :------------------------- |
-|        | **USJ Express Pass** | Jun 01  | -      | -      | **CRITICAL:** Book April 1 |
-|        | Shibuya Sky          | May 27  | Sunset | -      | Book 4 weeks out           |
-|        | TeamLab Planets      | May 26  | -      | -      | Book 2 months out          |
-|        | Pocket Wi-Fi         | Arrival | -      | -      | Pickup at HND              |
+| Status | Activity             | Date    | Time   | Conf # | Notes                                      |
+| :----- | :------------------- | :------ | :----- | :----- | :----------------------------------------- |
+|        | **USJ Express Pass** | Jun 01  | -      | -      | **URGENT:** Book Apr 1 @ 11AM EST (Mar 31) |
+|        | Shibuya Sky          | May 27  | Sunset | -      | Book: Apr 27                               |
+|        | TeamLab Planets      | May 26  | -      | -      | Book: Mar 26                               |
+|        | Pocket Wi-Fi         | Arrival | -      | -      | Book: 1 week prior                         |
 
 ## Dining Reservations
 
 | Status | Restaurant          | City  | Date   | Time  | Conf # | Notes                       |
 | :----- | :------------------ | :---- | :----- | :---- | :----- | :-------------------------- |
-|        | Jojoen              | Tokyo | May 26 | 19:00 | -      | Yakiniku                    |
-|        | Pokemon Cafe        | Tokyo | May 27 | -     | -      | Hard to get (31 days prior) |
-|        | Kichi Kichi Omurice | Kyoto | May 30 | -     | -      | 4 weeks out                 |
+|        | Pokemon Cafe        | Tokyo | May 27 | -     | -      | Book: Apr 27 @ 6:00 PM JST  |
+|        | Kichi Kichi Omurice | Kyoto | May 30 | -     | -      | Book: Apr 19 (Check website)|
+|        | Kirby Cafe          | Tokyo | May 28 | -     | -      | Book: Apr 10 @ 6:00 PM JST  |
 
 ---
 
