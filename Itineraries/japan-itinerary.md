@@ -13,7 +13,7 @@
   - [day 5: bullet train to foxes (friday, may 29)](#day-5-bullet-train-to-foxes-friday-may-29)
   - [day 6: bamboo and gold (saturday, may 30)](#day-6-bamboo-and-gold-saturday-may-30)
   - [day 7: deer, shopping and the move (sunday, may 31)](#day-7-deer-shopping-and-the-move-sunday-may-31)
-- [**leg 3: osaka (days 8-9) [mon, june 1 - tues, june 2]**](#leg-3-osaka-days-8-9-mon-june-1---tues-june-2)
+- [**leg 3: osaka (days 8-9) [sun, may 31 - tues, june 2]**](#leg-3-osaka-days-8-9-sun-may-31---tues-june-2)
   - [day 8: super nintendo world (monday, june 1)](#day-8-super-nintendo-world-monday-june-1)
 - [**leg 4: tokyo return (days 9-10) [tues, june 2 - wed, june 3]**](#leg-4-tokyo-return-days-9-10-tues-june-2---wed-june-3)
   - [day 9: last bites and return to tokyo (tuesday, june 2)](#day-9-last-bites-and-return-to-tokyo-tuesday-june-2)
