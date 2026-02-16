@@ -99,6 +99,17 @@ Since we are starting at 6:30 AM, convenience stores are your best friend.
 | $$$ | [Rengatei](http://ginzarengatei.com/) | **Rengatei (Ginza):** One of the oldest Yoshoku restaurants in Japan, credited with inventing the modern Tonkatsu and Omurice. The interior feels like a time capsule from the Meiji era. Their Omurice is unique because the egg is mixed into the rice rather than wrapped around it.<br><br>🟢 **Pro:** A historic "time capsule" experience where you can taste the origins of Japanese-Western food.<br>🔴 **Con:** The decor and service are very old-school, which might feel dated to some. | Historic spot, lines at lunch. | Low/Medium |
 | $$ | [Taimeiken](https://www.taimeiken.co.jp/) | **Taimeiken (Nihonbashi):** Famous for its "Dampopo Omurice" (dandelion omelet rice) where a fluffy, runny omelet sits atop the rice and splits open when cut. It is a classic comfort food spot with a casual first floor and formal second floor.<br><br>🟢 **Pro:** The "Dandelion Omurice" is a visual and culinary masterpiece.<br>🔴 **Con:** Can be very crowded with tourists due to its fame on social media. | Popular lunch spot. | Medium |
 
+## 🛡️ "Safe Haven" Chains (Good, Cheap, Easy)
+
+*Use these when you are tired, hungry, and just want an easy meal with an English menu.*
+
+- **CoCo Ichibanya (Coco Ichi):** 🍛 Japanese Curry. Customizable spice levels (1-10) and toppings (katsu, sausage, veg). Reliable and everywhere.
+- **Mos Burger:** 🍔 Japanese burger chain. Try the "Mos Cheeseburger" (meat sauce) or Rice Burger.
+- **Sushiro / Kura Sushi:** 🍣 Conveyor belt sushi. Order on a tablet (English available). Cheap and fun.
+- **Saizeriya:** 🍝 Italian-style family restaurant. Insanely cheap (pasta for ~$3). The "Milano Doria" is a classic.
+- **Tenya:** 🍤 Tempura bowls (Tendon). Fast, cheap, and crispy.
+- **Ootoya:** 🍱 Teishoku (set meals). Grilled fish, katsu, healthy options with rice and miso soup.
+
 ### 🥐 Bakeries & Sweets
 
 | Est Cost | URL | Details | Availability | English Friendly |

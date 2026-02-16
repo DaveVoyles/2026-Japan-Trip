@@ -65,9 +65,15 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 - **Senso-ji:** Arrive early to beat tour groups. Photo stops: Kaminarimon Gate, Five-Story Pagoda, Main Hall.
 - **Breakfast:** Grab Onigiri and Boss Coffee at a Konbini and eat near the Sumida River with a view of the Skytree.
 - **Nakamise Street:** Opens at 9:00 AM. Try fresh Melonpan and Senbei (rice crackers).
-- **Dave (Akihabara):** Visit [Super Potato](https://www.superpotato.com/) (Retro games),
-  [Mandarake Complex](https://www.mandarake.co.jp/dir/cmp/index-en.html), and [Surugaya](https://www.suruga-ya.jp/).
-- **Debbie (Kappabashi):** Famous for plastic food samples, ceramics, and high-quality Japanese knives.
+- **Dave (Akihabara):**
+  - **Super Potato:** Retro games museum/shop.
+  - **Mandarake Complex:** 8 floors of collectibles.
+  - **Radio Kaikan:** Hobby heaven right at the station exit.
+  - **Gigo Akihabara:** For the newest arcade games and prize figures.
+- **Debbie (Kappabashi):**
+  - **Kamata Hakensha:** Incredible Japanese knives (engraving available).
+  - **Ganso Shokuhin Sample-ya:** Buy DIY plastic food sample kits (great souvenir).
+  - **Union Coffee:** High-end coffee equipment and ceramics.
 
 ---
 
@@ -132,12 +138,12 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 **Day Map:** [View all locations for this day](https://www.google.com/maps/search/Shinagawa%20Station%2C%20Tokyo%2C%20Japan%20OR%20Haneda%20Airport%20Hotel%2C%20Tokyo%2C%20Japan)
 
-| Time      | Activity                             | Cost |
-| :-------- | :----------------------------------- | :--- |
-| **15:30** | **Shinkansen from Shin-Osaka**       | $$$  |
-| **18:00** | **Arrive Tokyo (Shinagawa)**         | -    |
-| **19:00** | **Hotel Check-in: Royal Park HND**   | -    |
-| **20:00** | **Final Dinner: HND Edo Alley**      | $$$  |
+| Time      | Activity                           | Cost |
+| :-------- | :--------------------------------- | :--- |
+| **15:30** | **Shinkansen from Shin-Osaka**     | $$$  |
+| **18:00** | **Arrive Tokyo (Shinagawa)**       | -    |
+| **19:00** | **Hotel Check-in: Royal Park HND** | -    |
+| **20:00** | **Final Dinner: HND Edo Alley**    | $$$  |
 
 **Quick Logistics:**
 
@@ -151,14 +157,14 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 ## Day 10: Departure from Tokyo (Wednesday, June 3)
 
-| Time      | Activity                                 | Cost |
-| :-------- | :--------------------------------------- | :--- |
-| **09:00** | **Leisurely Morning Breakfast**          | $    |
-| **13:00** | **Check-in Counters Open (UA)**          | -    |
-| **14:30** | **Security & Last Minute Duty Free**     | $$   |
-| **17:45** | **United Flight UA 130 Departure**       | -    |
+| Time      | Activity                             | Cost |
+| :-------- | :----------------------------------- | :--- |
+| **09:00** | **Leisurely Morning Breakfast**      | $    |
+| **13:00** | **Check-in Counters Open (UA)**      | -    |
+| **14:30** | **Security & Last Minute Duty Free** | $$   |
+| **17:45** | **United Flight UA 130 Departure**   | -    |
 
 **Quick Logistics:**
 
 - **Commute:** If staying at The Royal Park, simply walk out of your room to the check-in counters.
-- **Flight:** UA130 acts as a "time machine"—you land in Newark on the *same day* (June 3) at ~5:30 PM.
+- **Flight:** UA130 acts as a "time machine"—you land in Newark on the _same day_ (June 3) at ~5:30 PM.
