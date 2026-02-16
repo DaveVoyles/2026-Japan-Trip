@@ -14,10 +14,10 @@
 ### 6-9 Months Out
 
 - [x] **Book Hotels (IN PROGRESS)**
-  - **Tokyo (Leg 1):** Keio Plaza Shinjuku (Booked)
-  - **Kyoto:** Cross Hotel (Booked)
-  - **Osaka:** 1 Night (Sun-Mon).
-  - **Tokyo (Leg 3):** 1 Night (Royal Park Haneda).
+  - **Tokyo (Leg 1):** Keio Plaza Shinjuku (Booked: 4 Nights)
+  - **Kyoto:** Cross Hotel (Booked: 2 Nights)
+  - **Osaka:** Cross Hotel Osaka or Similar (Need 2 Nights: Sun-Tue).
+  - **Tokyo (Leg 3):** Royal Park Haneda (Need 1 Night: Tue-Wed).
   - _Strategy:_ Book refundable rates to lock in prices. Stay near Shinagawa or Haneda for the final night.
 
 ## Phase 3: The "Hard" Tickets (March 2026)
