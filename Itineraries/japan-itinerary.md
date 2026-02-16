@@ -44,11 +44,10 @@ the detailed city itineraries:
 - [🏨 **Keio Plaza Hotel (Shinjuku)**](https://www.google.com/maps/search/Keio+Plaza+Hotel+Shinjuku)
   - _Dates:_ May 25 - 29 (4 Nights) | _Status:_ Confirmed (Paid)
 - [🏨 **Cross Hotel Kyoto (Gion/Kawaramachi)**](https://www.google.com/maps/search/Cross+Hotel+Kyoto)
-  - _Dates:_ May 29 - 31 (2 Nights) | _Status:_ Confirmed (Pay at Hotel) | Res # 3336-0459-3387
-- [🏨 **Cross Hotel Osaka (Dotonbori)**](https://www.google.com/maps/search/Cross+Hotel+Osaka)
-  - _Dates:_ May 31 - Jun 2 (2 Nights) | _Status:_ Confirmed (Points) | Conf # 2389859595
-- [🏨 **Final Tokyo Night (TBD)**](https://www.google.com/maps/search/Royal+Park+Hotel+Tokyo+Haneda+OR+The+Prince+Sakura+Tower+Tokyo+OR+Shinagawa+Prince+Hotel)
-  - _Dates:_ Jun 2 - 3 (1 Night) | _Status:_ Pending Selection
+  - _Dates:_ May 29 - 31 (2 Nights) | _Status:_ Confirmed (Pay at Hotel)
+  - **Reference:** Res # 3336-0459-3387
+- [🏨 **Osaka Hotel Options Map**](https://www.google.com/maps/search/Cross+Hotel+Osaka+OR+Swissotel+Nankai+Osaka+OR+Hotel+Royal+Classic+Osaka+OR+Hotel+Hankyu+Respire+Osaka)
+- [🏨 **Final Tokyo Night Hotel Options Map**](https://www.google.com/maps/search/Royal+Park+Hotel+Tokyo+Haneda+OR+The+Prince+Sakura+Tower+Tokyo+OR+Shinagawa+Prince+Hotel)
 
 **_Dates:_** May 25 - June 3, 2026 (Target: Late May for pleasant spring weather).
 **_Duration:_** 10 Days.
@@ -64,7 +63,7 @@ To balance interests, some afternoons feature "Split Paths" where you pursue sep
 
 ## Leg 1: Tokyo (Days 1-4) [Mon, May 25 - Thurs, May 28]
 
-> **Hotel (BOOKED):** **Keio Plaza Hotel** (Check in: Mon, May 25; Check out: Fri, May 29).
+> **Hotels:** Check in on **Monday, May 25**; Check out on **Friday, May 29** (4 Nights).
 
 Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscrapers stand alongside ancient shrines.
 
@@ -122,7 +121,7 @@ corners.
 
 ## Leg 2: Kyoto (Days 5-7) [Fri, May 29 - Sun, May 31]
 
-> **Hotel (BOOKED):** **Cross Hotel Kyoto** (Check in: Fri, May 29; Check out: Sun, May 31).
+> **Hotels:** Check in on **Friday, May 29**; Check out on **Sunday, May 31** (2 Nights).
 
 This leg of the journey takes you to the cultural heart of Japan, balancing ancient traditions with modern discoveries.
 
@@ -149,7 +148,6 @@ transitioning to the neon lights of Osaka.
 ### Day 5: Bullet Train to Foxes (Friday, May 29)
 
 - **Morning:** Shinkansen (Bullet Train) from Tokyo to Kyoto.
-- **Check-in:** Drop bags at **Cross Hotel Kyoto** (Gion/Kawaramachi).
 - **Afternoon:** Explore the thousands of vermillion gates at **Fushimi Inari Shrine**.
 - **Evening:** Atmospheric walk through the **Gion** district and dinner in **Pontocho Alley**.
 
@@ -168,13 +166,14 @@ transitioning to the neon lights of Osaka.
 - **Split Path:**
   - **Debbie:** Culinary exploration at **Nishiki Market**.
   - **Dave:** Retro gaming and book hunting in Kyoto's **Kawaramachi** district.
-- **Evening:** Late afternoon train to **Osaka**. Check into **Cross Hotel Osaka** early to get settled before your USJ day.
+- **Evening:** Late afternoon train to **Osaka**. Check into your hotel early to get settled
+  before your USJ day.
 
 ---
 
 ## Leg 3: Osaka (Days 8-9) [Mon, June 1 - Tues, June 2]
 
-> **Hotel (BOOKED):** **Cross Hotel Osaka** (Check in: Sun, May 31; Check out: Tue, Jun 2).
+> **Hotels:** Check in on **Sunday, May 31**; Check out on **Tuesday, June 2** (2 Nights).
 
 This leg focuses on the high-energy atmosphere of Osaka, Japan's kitchen.
 
@@ -205,7 +204,7 @@ These days in Osaka ensure you experience the city's unique charm and incredible
 
 ## Leg 4: Tokyo Return (Days 9-10) [Tues, June 2 - Wed, June 3]
 
-> **Hotel:** **TBD (Shinagawa or Haneda)** (Check in: Tue, Jun 2; Check out: Wed, Jun 3).
+> **Hotels:** Check in on **Tuesday, June 2**; Check out on **Wednesday, June 3** (1 Night).
 
 The final transition back to Tokyo to prepare for your flight home.
 
@@ -225,7 +224,7 @@ This final leg ensures a smooth transition from vacation mode back to reality.
 
 - **Morning:** Final shopping in **Den Den Town** or **Kuromon Market**.
 - **Afternoon:** Final Osaka lunch before taking the **Shinkansen** to Tokyo (~2.5 hours).
-- **Check-in:** Settle into your final hotel in **Tokyo** (TBD: Shinagawa or Haneda).
+- **Check-in:** Settle into a hotel in **Tokyo** (near Shinagawa or Haneda) for an easy airport run tomorrow.
 - **Evening:** Final Japanese dinner in Tokyo and a light walk through the city neon.
 
 ### Day 10: Departure from Tokyo (Wednesday, June 3)
