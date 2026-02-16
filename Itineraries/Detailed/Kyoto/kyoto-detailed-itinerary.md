@@ -28,10 +28,11 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 **Quick Logistics:**
 
 - **Tokyo -> Kyoto:** Nozomi Shinkansen (2 hrs 15 min). Sit on **RIGHT (E seat)** for Mt. Fuji.
-- **Bag Drop (Important):** Since Cross Hotel is in Gion/Kawaramachi (not at the station):
-  - **Option A (Recommended):** Store large bags in coin lockers at **Kyoto Station** immediately upon arrival. Go to Fushimi Inari light. Pick them up later and take a taxi to the hotel.
-  - **Option B:** Taxi directly to Cross Hotel to drop bags, then head back out. (Adds travel time).
-- **Kyoto Station -> Fushimi Inari:** JR Nara Line to Inari Station (5 min).
+- **Top Tip (Luggage):** Since Cross Hotel is in Gion, consider sending your big suitcases via **Takkyubin** (Yamato Transport) from Keio Plaza Hotel *the day before* (Day 4).
+  - _Benefit:_ You travel light on the Shinkansen and go straight to Fushimi Inari from Kyoto Station without needing lockers.
+  - _Cost:_ ~$20 per bag. Ask the Keio Plaza concierge.
+- **If Carrying Bags:** Use **Central Exit** coin lockers at Kyoto Station right after arrival.
+- **Fushimi Inari:** 5 mins via JR Nara Line from Kyoto Station.
 - **Ekiben:** Buy a famous station bento at Tokyo Station for the ride.
 
 **Sightseeing Details:**

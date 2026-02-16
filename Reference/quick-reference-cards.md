@@ -4,34 +4,27 @@
 
 ---
 
-## 🗼 Tokyo Quick Reference
+## 🗼 Tokyo Quick Reference (Staying at Keio Plaza)
 
-### 📍 Hotel Area Navigation
+### 📍 Hotel Area Navigation (Shinjuku)
 
-**If Staying in Ginza:**
+- **Your Base:** [Keio Plaza Hotel (West Exit)](https://www.keioplaza.com/access/)
+- **Pro Tip:** Use the **Underground Moving Walkway** from the station to the hotel if it's raining (direct connection).
+- **Nearest Station:** Shinjuku Station (JR/Metro) - use **West Exit** for easiest access.
+- **Konbini:** The hotel has a FamilyMart _inside_ on the 2nd floor (open 24h).
+- **ATM (Foreign Cards):** 7-Eleven ATM (inside hotel or just outside toward station).
+- **Airport Bus:** The Limousine Bus stop is _at the hotel entrance_. Validate your ticket at the concierge desk the day before departure.
+
+### 📍 Other Key Areas
+
+**If Visiting Ginza:**
 
 - **Nearest Station:** Ginza Station (Ginza/Hibiya/Marunouchi Lines)
 - **Konbini:** 7-Eleven, Lawson, FamilyMart within 2-min walk of any hotel
-- **ATM (Foreign Cards):** 7-Eleven ATM, SMBC Prestia Bank (1-chome)
-- **Hospital:** St. Luke's International (10 min walk to Tsukiji)
-- **Koban (Police):** Ginza 4-chome intersection (under clock tower)
 - **Key Exits:**
   - A1: Mitsukoshi Department Store
   - A3: Ginza 6 (shopping complex)
   - C9: Kabuki-za Theater side
-
-**If Staying in Shinjuku:**
-
-- **Nearest Station:** Shinjuku Station (JR/Metro - MASSIVE!)
-- **Konbini:** Everywhere (literally every corner)
-- **ATM (Foreign Cards):** 7-Eleven, SMBC at station, Post Office (West Exit)
-- **Hospital:** Tokyo Medical Center (taxi 10 min)
-- **Koban:** East Exit, South Exit, West Exit (multiple locations)
-- **Key Exits:**
-  - **East Exit:** Alta screen, nightlife, Golden Gai
-  - **West Exit:** Tokyo Metropolitan Building, hotel district
-  - **South Exit:** Takashimaya, Busta Shinjuku (bus terminal)
-  - **New South Exit:** Newoman shopping, newer/cleaner area
 
 ### 🚇 Key Station Exit Numbers
 

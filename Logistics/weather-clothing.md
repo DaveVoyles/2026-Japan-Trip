@@ -14,9 +14,12 @@ This is arguably one of the **best times of year** to visit. The cherry blossoms
 
 ### The "Tsuyu" Factor (Rainy Season)
 
-- **Risk:** The rainy season typically starts in **early June** (around June 7th).
-- **Implication:** Your trip ends June 3rd, so you are right on the cusp. Expect 1-3 rainy days.
-- **Humidity:** Moderate (unlike the sauna of August).
+- **Official Start:** Usually starts around **June 7th** (after you leave!).
+- **May Reality:** You will likely miss the heavy rains, but passing fronts are common.
+- **Preparation:**
+  - **Shoes:** 1 pair of water-resistant sneakers (e.g., Gore-Tex, Vessi) is a huge "nice-to-have" if you own them.
+  - **Umbrella:** Don't pack one. Buy clear plastic ones ($4) at any konbini if needed.
+- **Humidity:** Moderate. Comfortable t-shirt weather.
 
 ---
 

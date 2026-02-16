@@ -13,16 +13,20 @@
 
 ### 6-9 Months Out
 
-- [ ] **Book Hotels**
-  - **Tokyo (Leg 1):** 4 Nights (Mon-Thu).
-  - **Kyoto:** 2 Nights (Fri-Sat).
-  - **Osaka:** 2 Nights (Sun-Mon).
-  - **Tokyo (Leg 3):** 1 Night (Tue).
+- [x] **Book Hotels (IN PROGRESS)**
+  - **Tokyo (Leg 1):** Keio Plaza Shinjuku (Booked)
+  - **Kyoto:** Cross Hotel (Booked)
+  - **Osaka:** 1 Night (Sun-Mon).
+  - **Tokyo (Leg 3):** 1 Night (Royal Park Haneda).
   - _Strategy:_ Book refundable rates to lock in prices. Stay near Shinagawa or Haneda for the final night.
 
 ## Phase 3: The "Hard" Tickets (March 2026)
 
-### 2 Months Out
+### 2 Months Out (CRITICAL)
+
+- [ ] **Book USJ Express Pass (April 1, 2026)**
+  - **Action:** Be online at 10:00 AM JST (Check local time!) to snag Nintendo World timed entry.
+  - **Official Site or Klook:** Have accounts ready on both.
 
 - [ ] **[USJ Express Pass](https://www.usj.co.jp/web/en/us/tickets)** (CRITICAL)
   - **Window:** Tickets release exactly **2 months** before the date.
