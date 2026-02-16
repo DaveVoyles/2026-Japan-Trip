@@ -136,17 +136,16 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 | :-------- | :----------------------------------- | :--- |
 | **15:30** | **Shinkansen from Shin-Osaka**       | $$$  |
 | **18:00** | **Arrive Tokyo (Shinagawa)**         | -    |
-| **19:00** | **Hotel Check-in (Near Airport/JR)** | -    |
-| **20:00** | **Final Dinner: Wagyu or Sushi**     | $$$  |
+| **19:00** | **Hotel Check-in: Royal Park HND**   | -    |
+| **20:00** | **Final Dinner: HND Edo Alley**      | $$$  |
 
 **Quick Logistics:**
 
-- **Arrival Point:** Get off at **Shinagawa Station** instead of Tokyo Station for easier access to Haneda.
-- **Hotel Hub:** Stay at the [The Royal Park Hotel Tokyo Haneda](https://www.royalparkhotels.co.jp/the/tokyohaneda/) or similar for maximum convenience.
+- **Arrival Point:** Get off at **Shinagawa Station**. Transfer to Keikyu Line to HND T3.
+- **Hotel Hub:** **The Royal Park Hotel Tokyo Haneda** (inside Terminal 3) is strongly recommended for a 0-minute morning commute.
+- **Alternative:** **Shinagawa Prince Hotel** (across from Shinagawa Station) if you want city vibes for one last night.
 
-**Evening Details:**
-
-- **Last Supper:** Celebrate the trip with a high-end meal in Shinagawa or Ota.
+**Top Tip:** Since you are already at the airport, use the evening to browse the **Edo Koji** shopping street in Terminal 3 (Pre-security) without the flight pressure.
 
 ---
 
@@ -154,12 +153,12 @@ Your journey begins in the neon-lit metropolis of Tokyo, where futuristic skyscr
 
 | Time      | Activity                                 | Cost |
 | :-------- | :--------------------------------------- | :--- |
-| **09:00** | **Leisurely Morning & Souvenirs**        | $    |
-| **13:00** | **Monorail or Keikyu to HND Terminal 3** | -    |
-| **14:30** | **Check-in & Airport Exploration**       | -    |
+| **09:00** | **Leisurely Morning Breakfast**          | $    |
+| **13:00** | **Check-in Counters Open (UA)**          | -    |
+| **14:30** | **Security & Last Minute Duty Free**     | $$   |
 | **17:45** | **United Flight UA 130 Departure**       | -    |
 
 **Quick Logistics:**
 
-- **Airport Transit:** 15-20 mins from Shinagawa to HND via Keikyu Airport Line (Express).
-- **Haneda Duty Free:** Great for last-minute snacks (Tokyo Banana, Shiroi Koibito).
+- **Commute:** If staying at The Royal Park, simply walk out of your room to the check-in counters.
+- **Flight:** UA130 acts as a "time machine"—you land in Newark on the *same day* (June 3) at ~5:30 PM.

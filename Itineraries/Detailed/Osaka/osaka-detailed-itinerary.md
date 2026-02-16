@@ -72,6 +72,7 @@ _Note: You moved to Osaka this evening to get settled before the USJ rush._
 
 - **Route:** Namba (Subway) -> Shin-Osaka (Shinkansen) -> Shinagawa Station.
 - **Hotel:** Book a hotel near **Shinagawa** or **Haneda Airport** for a seamless departure tomorrow.
+  - _Recommendation:_ **The Royal Park Hotel Tokyo Haneda** (inside Terminal 3) or **Shinagawa Prince Hotel**.
 - **Lunch:** Buy "Ekiben" (Bento boxes) at Shin-Osaka station to enjoy on the train.
 
 **Sightseeing Details:**
@@ -83,19 +84,6 @@ _Note: You moved to Osaka this evening to get settled before the USJ rush._
 
 ---
 
-## Day 10: Departure from Tokyo (Wednesday, June 3)
-
-**Morning:** Final Japanese breakfast and quiet reflection before heading to the airport.
-
-| Time      | Activity                                | Cost |
-| :-------- | :-------------------------------------- | :--- |
-| **09:00** | **Leisurely Morning in Tokyo**          | $    |
-| **13:00** | **Head to Haneda Airport (Terminal 3)** | -    |
-| **14:30** | **Lunch & Duty Free at HND**            | $$   |
-| **17:45** | **United Flight UA 130 Departure**      | -    |
-
-**Quick Logistics:**
-
-- **Commute:** If staying in Shinagawa, take the Keikyu Line (~15 mins) to Haneda Terminal 3.
-- **Early Arrival:** Arrive 3-4 hours early to enjoy the unique Edo-themed shops at Haneda.
+> [!NOTE]
+> The itinerary for **Day 10: Departure** is located in the [Tokyo Detailed Itinerary](../Tokyo/tokyo-detailed-itinerary.md#day-10-departure-from-tokyo-wednesday-june-3).
 - **Departure:** Flight leaves at 5:45 PM. Arriving by 2:00 PM gives you plenty of buffer.
