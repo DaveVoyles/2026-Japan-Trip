@@ -20,18 +20,21 @@
 **The Golden Rule:** If it''s famous on Instagram/TikTok, you need a reservation or a strategy.
 
 ### 1. Booking Platforms (English Friendly)
+
 - **[TableCheck](https://www.tablecheck.com/en/japan):** The best for high-end restaurants. Instant confirmation. (Use for: Kichi Kichi Omurice, Hotel Buffets).
 - **[Google Maps](https://maps.google.com):** Many casual places now have a "Reserve a Table" button directly in the app.
 - **[Pocket Conceirge](https://pocket-concierge.jp/en/):** Buying seats at exclusive sushi counters (requires pre-payment).
 
 ### 2. The "Ticket" System (Seiriken)
+
 - **How it works:** Popular ramen/pancake shops put a ticket machine outside at 9:00 AM.
 - **Action:** Go early, grab a ticket with a time slot (e.g., 12:30 PM), leave, and come back 10 mins before your slot.
 - **Examples:** Most famous fluffly pancake places, Michelin Ramen.
 
 ### 3. The "Line" Etiquette
+
 - **Strict Rule:** You cannot join a line if your whole party isn''t there. No "saving spots".
-- **Vending Machines:** Often, you buy your ticket at the machine *before* you enter the shop. Give the ticket to the staff when you sit.
+- **Vending Machines:** Often, you buy your ticket at the machine _before_ you enter the shop. Give the ticket to the staff when you sit.
 
 ---
 

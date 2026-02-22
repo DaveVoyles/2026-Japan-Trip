@@ -15,20 +15,20 @@
 
 ## Hotels
 
-| Status | City  | Dates         | Hotel Name              | Address          | Conf #  | Price/Night  | Notes                |
-| :----- | :---- | :------------ | :---------------------- | :--------------- | :------ | :----------- | :------------------- |
-| ✅     | Tokyo | May 25-29     | **Keio Plaza Hotel**    | Shinjuku         | Feb 4   | Paid         | Paid Online          |
-| ✅     | Kyoto | May 29-31     | **Cross Hotel**         | Gion/Kawaramachi | 3336... | Pay at Hotel | Res # 3336-0459-3387 |
-|        | Osaka | May 31-Jun 02 | **Cross Hotel Osaka**   | Dotonbori        | -       | -            | Target Booking       |
-|        | Tokyo | Jun 02-03     | **Royal Park Haneda**   | Haneda Airport   | -       | -            | Inside Terminal 3    |
+| Status | City  | Dates         | Hotel Name            | Address          | Conf #  | Price/Night  | Notes                |
+| :----- | :---- | :------------ | :-------------------- | :--------------- | :------ | :----------- | :------------------- |
+| ✅     | Tokyo | May 25-29     | **Keio Plaza Hotel**  | Shinjuku         | Feb 4   | Paid         | Paid Online          |
+| ✅     | Kyoto | May 29-31     | **Cross Hotel**       | Gion/Kawaramachi | 3336... | Pay at Hotel | Res # 3336-0459-3387 |
+|        | Osaka | May 31-Jun 02 | **Cross Hotel Osaka** | Dotonbori        | -       | -            | Target Booking       |
+|        | Tokyo | Jun 02-03     | **Royal Park Haneda** | Haneda Airport   | -       | -            | Inside Terminal 3    |
 
 ## Transport (Shinkansen)
 
-| Status | Route          | Date   | Train Name | Car/Seat  | Conf # | Notes                           |
-| :----- | :------------- | :----- | :--------- | :-------- | :----- | :------------------------------ |
-|        | Tokyo -> Kyoto | May 29 | Nozomi     | Green Car | -      | Book: Apr 29 (SmartEx)          |
-|        | Kyoto -> Nara  | May 30 | Kintetsu   | -         | -      | Pay with IC Card (No booking)   |
-|        | Osaka -> Tokyo | Jun 02 | Nozomi     | Green Car | -      | Book: May 2 (SmartEx)           |
+| Status | Route          | Date   | Train Name | Car/Seat  | Conf # | Notes                         |
+| :----- | :------------- | :----- | :--------- | :-------- | :----- | :---------------------------- |
+|        | Tokyo -> Kyoto | May 29 | Nozomi     | Green Car | -      | Book: Apr 29 (SmartEx)        |
+|        | Kyoto -> Nara  | May 30 | Kintetsu   | -         | -      | Pay with IC Card (No booking) |
+|        | Osaka -> Tokyo | Jun 02 | Nozomi     | Green Car | -      | Book: May 2 (SmartEx)         |
 
 ## Activities & Tickets
 
@@ -41,11 +41,11 @@
 
 ## Dining Reservations
 
-| Status | Restaurant          | City  | Date   | Time  | Conf # | Notes                       |
-| :----- | :------------------ | :---- | :----- | :---- | :----- | :-------------------------- |
-|        | Pokemon Cafe        | Tokyo | May 27 | -     | -      | Book: Apr 27 @ 6:00 PM JST  |
-|        | Kichi Kichi Omurice | Kyoto | May 30 | -     | -      | Book: Apr 19 (Check website)|
-|        | Kirby Cafe          | Tokyo | May 28 | -     | -      | Book: Apr 10 @ 6:00 PM JST  |
+| Status | Restaurant          | City  | Date   | Time | Conf # | Notes                        |
+| :----- | :------------------ | :---- | :----- | :--- | :----- | :--------------------------- |
+|        | Pokemon Cafe        | Tokyo | May 27 | -    | -      | Book: Apr 27 @ 6:00 PM JST   |
+|        | Kichi Kichi Omurice | Kyoto | May 30 | -    | -      | Book: Apr 19 (Check website) |
+|        | Kirby Cafe          | Tokyo | May 28 | -    | -      | Book: Apr 10 @ 6:00 PM JST   |
 
 ---
 

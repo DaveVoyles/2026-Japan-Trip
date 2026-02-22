@@ -26,6 +26,7 @@ In Japan, you do _not_ drag large suitcases onto Shinkansen trains. You forward 
 ### Leg 3: Osaka -> Tokyo (Royal Park Haneda)
 
 **The "Pro Move":** Send your big bags from Osaka to your final hotel at Haneda.
+
 1.  **When:** Send on **Monday morning** (Day 8) from Cross Hotel Osaka.
 2.  **Destination:** Royal Park Hotel Tokyo Haneda.
 3.  **Result:** You take the Shinkansen on Tuesday (Day 9) with just a backpack, explore Tokyo freely, and your bags are waiting for you at the airport hotel.
@@ -36,18 +37,17 @@ In Japan, you do _not_ drag large suitcases onto Shinkansen trains. You forward 
 **Step 1:** Go to the Front Desk / Bell Desk.
 **Step 2:** Show them your next hotel's address (on your phone is fine).
 **Step 3:** Say: "Takkyubin, please."
-**Step 4:** **The staff will fill out the waybill.** You do *not* need to write Japanese.
+**Step 4:** **The staff will fill out the waybill.** You do _not_ need to write Japanese.
 **Step 5:** Pay via Cash or charged to room (usually).
 **Step 6:** Keep the receipt with the **Tracking Number**.
 
 ## What You Need
 
 1. **Address of Next Hotel:** Have the booking confirmation ready.
-   - *Tip:* Use the [Taxi Address Cards](../Reference/quick-reference-cards.md#taxi-address-cards-show-driver) in Reference.
+   - _Tip:_ Use the [Taxi Address Cards](../Reference/quick-reference-cards.md#taxi-address-cards-show-driver) in Reference.
 2. **Cash:** Sometimes required if not charging to room.
 
 ## Airport Delivery (Yamato Transport)
 
-- **Warning:** Sending directly to the *airport terminal* usually requires **2 days** lead time.
-- **Better Strategy:** Send to the *airport hotel* (Royal Park) 1 day in advance, as we planned above.
-
+- **Warning:** Sending directly to the _airport terminal_ usually requires **2 days** lead time.
+- **Better Strategy:** Send to the _airport hotel_ (Royal Park) 1 day in advance, as we planned above.

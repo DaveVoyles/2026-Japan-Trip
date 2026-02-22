@@ -34,7 +34,7 @@ _Warning:_ Entry to the park does NOT guarantee entry to Nintendo World. Capacit
   - **For Entry:** Monday, June 1, 2026.
   - **Tickets Drop:** ~April 1, 2026 (Midnight JST).
   - **YOU MUST BUY:** **Tuesday, March 31, 2026 @ 11:00 AM EDT**.
-  - *Set a calendar alarm for 10:55 AM on March 31st.*
+  - _Set a calendar alarm for 10:55 AM on March 31st._
 - **Selection:** You MUST choose a pass that includes **"Mario Kart: Koopa's Challenge"** OR
   **"Donkey Kong: Mine Cart Madness"**.
   - _Target:_ **"Universal Express Pass 4"** (Variety Choice) or **"Universal Express Pass 7"**.

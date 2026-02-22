@@ -52,6 +52,7 @@
 ### Kyoto
 
 #### 🏥 Kyoto City Hospital (Disaster Base Hospital)
+
 - **Address:** 1-2 Mibu Higashitakada-cho, Nakagyo-ku, Kyoto
 - **Phone:** [075-311-5311](tel:+81-75-311-5311)
 - **English:** Translator service available 24/7.
@@ -59,6 +60,7 @@
 - **Best For:** Serious trauma or illness.
 
 #### 🏥 Kyoto Louis Pasteur Medical Center (Sakyo-ku)
+
 - **Address:** 103-5 Tanaka Monzen-cho, Sakyo-ku
 - **Phone:** [075-722-1215](tel:+81-75-722-1215)
 - **English:** Known for ex-pat friendly services.
@@ -67,6 +69,7 @@
 ### Osaka
 
 #### 🏥 Yodogawa Christian Hospital (General)
+
 - **Address:** 1-7-50 Kunijima, Higashiyodogawa-ku, Osaka
 - **Phone:** [06-6322-2250](tel:+81-6-6322-2250)
 - **English:** High proficiency, International Patient Support.
@@ -74,6 +77,7 @@
 - **Best For:** Comprehensive care, English support.
 
 #### 🏥 Osaka Police Hospital (Tennoji)
+
 - **Address:** 10-31 Kitayama-cho, Tennoji-ku
 - **Phone:** [06-6771-7121](tel:+81-6-6771-7121)
 - **English:** Designated emergency hospital.

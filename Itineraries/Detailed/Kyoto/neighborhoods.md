@@ -59,7 +59,7 @@ Since you are visiting in late May, you hit a sweet spot in Kyoto:
 
 1.  **Shinryoku (Fresh Green):** The maple leaves are a vibrant, glowing green before they turn red in autumn. The best places to see this are at **Rurikoin Temple**, **Arashiyama Bamboo Grove**, and **Tofukuji**.
 2.  **Kamogawa Yuka (River Decks):** From May to September, restaurants along the Kamo River (Pontocho area) build wooden decks over the flowing water for open-air dining.
-    *   _Tip:_ Since you are staying at **Cross Hotel Kyoto**, you are just a 2-minute walk from Pontocho. Booking a "Yuka" dinner is a magical way to spend an evening.
+    - _Tip:_ Since you are staying at **Cross Hotel Kyoto**, you are just a 2-minute walk from Pontocho. Booking a "Yuka" dinner is a magical way to spend an evening.
 
 ---
 

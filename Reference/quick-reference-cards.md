@@ -93,18 +93,21 @@
 **Japanese taxi drivers largely do not speak English.** Show these addresses on your phone.
 
 ### 🏨 Tokyo: Keio Plaza Hotel (Shinjuku)
+
 **Japanese:**
 〒160-8330 東京都新宿区西新宿2-2-1
 京王プラザホテル (新宿駅西口)
 "Keio Plaza Hotel, Shinjuku Station West Exit"
 
 ### 🏨 Kyoto: Cross Hotel Kyoto
+
 **Japanese:**
 〒604-8031 京都府京都市中京区河原町通三条下ル大黒町71-1
 クロスホテル京都
 "Cross Hotel Kyoto, Kawaramachi Sanjo"
 
 ### 🏨 Osaka: Cross Hotel Osaka (Dotonbori)
+
 **Japanese:**
 〒542-0085 大阪府大阪市中央区心斎橋筋2丁目5-15
 クロスホテル大阪 (道頓堀)

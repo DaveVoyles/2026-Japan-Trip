@@ -50,7 +50,7 @@
 ### 🍬 Snacks & Consumables
 
 **Strategy:** Don't buy these at the airport (expensive). Go to a **Don Quijote (Donki)** or a local supermarket (Life, Seiyu).
-*Warning:* Don Quijote tax-free lines can be 1+ hour long at night. Go in the morning (8-10 AM).
+_Warning:_ Don Quijote tax-free lines can be 1+ hour long at night. Go in the morning (8-10 AM).
 
 - **KitKats:** Japan has 300+ flavors.
   - _Look for:_ Sake, Wasabi, Matcha, Strawberry Cheesecake, Hojicha.

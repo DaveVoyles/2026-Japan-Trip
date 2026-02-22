@@ -36,6 +36,7 @@ This leg of the journey takes you to the cultural heart of Japan, balancing anci
 - **Ekiben:** Buy a famous station bento at Tokyo Station for the ride.
 
 **Food & Drink:**
+
 - **[Kichi Kichi Omurice](https://kichi2.net/):** Viral sensation. Needs reservations weeks in advance.
 - **[Gogyo Ramen](https://www.ramendining-gogyo.com/):** Burnt miso ramen. Smoky and intense. Near Nishiki Market.
 - **[Maccha House](https://www.instagram.com/macchahouse_kyoto/):** Famous for the Tiramisu in a wooden box.
