@@ -23,20 +23,31 @@ In Japan, you do _not_ drag large suitcases onto Shinkansen trains. You forward 
 
 - **Skip Forwarding:** It's a short 30-min train ride. Just take your bags.
 
-### Leg 3: Osaka -> Airport (HND)
+### Leg 3: Osaka -> Tokyo (Royal Park Haneda)
 
-- **Advice:** **Do NOT forward.** You usually need to send bags 2 days early.
-- **Plan:** Take bags on Shinkansen to Tokyo. Book "Oversized Baggage" seats.
+**The "Pro Move":** Send your big bags from Osaka to your final hotel at Haneda.
 
-## How to Request It
+1.  **When:** Send on **Monday morning** (Day 8) from Cross Hotel Osaka.
+2.  **Destination:** Royal Park Hotel Tokyo Haneda.
+3.  **Result:** You take the Shinkansen on Tuesday (Day 9) with just a backpack, explore Tokyo freely, and your bags are waiting for you at the airport hotel.
+4.  **Cost:** ~$20/bag. Worth every penny to avoid hauling luggage on the Shinkansen and Tokyo trains during rush hour.
 
-Show this to the hotel front desk:
+## How to Request It at Hotel
 
-> **荷物を次のホテルに送りたいです。**
-> _(Nimotsu o tsugi no hoteru ni okuritai desu.)_
-> "I would like to send my luggage to the next hotel."
+**Step 1:** Go to the Front Desk / Bell Desk.
+**Step 2:** Show them your next hotel's address (on your phone is fine).
+**Step 3:** Say: "Takkyubin, please."
+**Step 4:** **The staff will fill out the waybill.** You do _not_ need to write Japanese.
+**Step 5:** Pay via Cash or charged to room (usually).
+**Step 6:** Keep the receipt with the **Tracking Number**.
 
 ## What You Need
 
-1. **Address of Next Hotel:** Have the booking confirmation ready (English is usually fine, Japanese address is better).
-2. **Cash:** It is usually paid in cash at the front desk.
+1. **Address of Next Hotel:** Have the booking confirmation ready.
+   - _Tip:_ Use the [Taxi Address Cards](../Reference/quick-reference-cards.md#taxi-address-cards-show-driver) in Reference.
+2. **Cash:** Sometimes required if not charging to room.
+
+## Airport Delivery (Yamato Transport)
+
+- **Warning:** Sending directly to the _airport terminal_ usually requires **2 days** lead time.
+- **Better Strategy:** Send to the _airport hotel_ (Royal Park) 1 day in advance, as we planned above.
