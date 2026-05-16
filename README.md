@@ -1,13 +1,8 @@
-# 2026 Japan Trip Visualizations
+# 2026 Japan Trip Site
 
-> ⚠️ **DO NOT EDIT THIS REPO DIRECTLY.**
->
-> This repository is the **auto-published deploy target** for the trip site. All content is
-> force-pushed here by a GitHub Actions workflow from the private source repo
-> (`DaveVoyles/2026-Japan-Trip`). Any changes made directly here **will be overwritten**
-> on the next workflow run.
->
-> **To update the site:** edit files under `docs/` in `DaveVoyles/2026-Japan-Trip` and push to `main`.
+This is the **source of truth** for Dave and Debbie's May 2026 Japan trip website. Edit files directly in this repo — changes pushed to `main` are automatically published via GitHub Pages.
+
+> The old `DaveVoyles/2026-Japan-Trip` repo has been archived and is no longer used.
 
 ## Live Site
 
@@ -20,14 +15,16 @@ https://davevoyles.github.io/2026-Japan-Trip-site/
 - `index.html` — Landing page with all 10 day cards
 - `visualizations/` — Individual day visualization pages
 - `bookings-status.html` — Booking confirmation tracker
-- `data/` — JSON data files generated from source markdown at publish time
+- `city-guide.html` — City guides for Tokyo, Osaka, and Kyoto
+- `transit-guide.html` — Transit and transportation info
+- `neighborhood-guide-*.html` — Neighborhood guides per city
+- `essential-apps.html` — Recommended apps for the trip
+- `assets/` — Shared styles, scripts, and images
 
 ## How Publishing Works
 
-1. Edit `docs/` in the private `DaveVoyles/2026-Japan-Trip` repo
-2. Push to `main` — the `publish-trip-site.yml` workflow triggers automatically
-3. The workflow mirrors `docs/` here via force-push (~10 seconds)
-4. GitHub Pages serves this repo at the live site URL
+1. Edit files in this repo directly
+2. Push to `main` — GitHub Pages publishes automatically within ~30 seconds
 
 ## Offline / PWA
 
