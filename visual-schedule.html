@@ -1,0 +1,832 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Japan Trip Visual Schedule</title>
+    <script src="assets/scripts/theme.js?v=20260507a"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css?v=20260507a" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="assets/scripts/site-nav.js?v=20260507d"></script>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        position: relative;
+        overflow-x: hidden;
+        font-family:
+          "Segoe UI",
+          Aptos,
+          Calibri,
+          -apple-system,
+          BlinkMacSystemFont,
+          sans-serif;
+        color: var(--cp-text);
+        background:
+          radial-gradient(
+            circle at 12% 10%,
+            var(--cp-accent-soft) 0,
+            transparent 38%
+          ),
+          radial-gradient(
+            circle at 90% 15%,
+            var(--cp-highlight) 0,
+            transparent 28%
+          ),
+          var(--cp-bg);
+      }
+
+      .webgl-bg {
+        position: fixed;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        pointer-events: none;
+        opacity: 0.35;
+      }
+
+      .wrap {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 24px;
+        position: relative;
+        z-index: 1;
+      }
+
+      .hero {
+        border: 1px solid var(--cp-border);
+        border-radius: 16px;
+        background: var(--cp-panel-strong);
+        box-shadow: var(--cp-shadow);
+        padding: 20px;
+        margin-bottom: 20px;
+      }
+
+      .title {
+        margin: 0;
+        font-size: 2rem;
+        line-height: 1.2;
+      }
+
+      .subtitle {
+        margin: 8px 0 0;
+        color: var(--cp-text-muted);
+      }
+
+      .route {
+        margin-top: 14px;
+        padding: 12px;
+        background: var(--cp-surface);
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .arrow {
+        color: var(--cp-text-soft);
+      }
+
+      .city-chip {
+        border-radius: 999px;
+        padding: 5px 11px;
+        font-size: 0.85rem;
+        border: 1px solid var(--cp-border-strong);
+        background: var(--cp-surface-soft);
+      }
+
+      .city-tokyo {
+        border-color: var(--cp-link);
+        color: var(--cp-link);
+      }
+
+      .city-kyoto {
+        border-color: var(--cp-success);
+        color: var(--cp-success);
+      }
+
+      .city-osaka {
+        border-color: var(--cp-warning);
+        color: var(--cp-warning);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+        gap: 14px;
+      }
+
+      .day-card {
+        border: 2px solid var(--cp-border);
+        border-radius: 16px;
+        background: var(--cp-surface);
+        box-shadow: var(--cp-shadow);
+        overflow: hidden;
+        opacity: 0;
+        position: relative;
+        transform: translateY(8px);
+        z-index: 0;
+        animation: rise 0.45s ease forwards;
+        transition:
+          transform 0.28s cubic-bezier(0.2, 0.8, 0.2, 1),
+          box-shadow 0.28s ease,
+          border-color 0.28s ease,
+          border-width 0.28s ease;
+        cursor: pointer;
+      }
+
+      .day-card:hover,
+      .day-card:focus-visible,
+      .day-card:focus-within {
+        transform: translateY(-12px) scale(1.045);
+        box-shadow:
+          0 24px 52px rgba(2, 8, 23, 0.24),
+          0 0 0 5px var(--cp-accent-soft);
+        border-color: var(--cp-accent);
+        border-width: 4px;
+        z-index: 2;
+      }
+
+      .day-card:active {
+        transform: translateY(-8px) scale(1.03);
+        border-color: var(--cp-accent-hover);
+        border-width: 4px;
+      }
+
+      .day-card[data-transfer="true"] {
+        border-color: var(--cp-border-strong);
+      }
+
+      .day-card[data-transfer="true"]:hover,
+      .day-card[data-transfer="true"]:focus-visible,
+      .day-card[data-transfer="true"]:focus-within {
+        transform: translateY(-12px) scale(1.045);
+        box-shadow:
+          0 24px 52px rgba(2, 8, 23, 0.24),
+          0 0 0 5px var(--cp-accent-soft);
+        border-color: var(--cp-accent);
+        border-width: 4px;
+        z-index: 2;
+      }
+
+      .day-card[data-transfer="true"]:active {
+        transform: translateY(-8px) scale(1.03);
+        border-color: var(--cp-accent-hover);
+        border-width: 4px;
+      }
+
+      .head {
+        padding: 12px;
+        border-bottom: 1px solid var(--cp-border);
+        background: var(--cp-bg-elevated);
+      }
+
+      .day-number {
+        margin: 0;
+        font-size: 0.85rem;
+        color: var(--cp-text-muted);
+      }
+
+      .day-name {
+        margin: 4px 0 8px;
+        font-size: 1.1rem;
+      }
+
+      .city-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+
+      .transfer {
+        margin-left: auto;
+        font-size: 0.78rem;
+        color: var(--cp-text-muted);
+        border: 1px dashed var(--cp-border-strong);
+        border-radius: 999px;
+        padding: 3px 8px;
+      }
+
+      .parts {
+        padding: 12px;
+        display: grid;
+        gap: 10px;
+      }
+
+      .part {
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        padding: 9px;
+        background: var(--cp-surface-soft);
+      }
+
+      .part h3 {
+        margin: 0 0 6px;
+        font-size: 0.86rem;
+      }
+
+      .part p {
+        margin: 0;
+        color: var(--cp-text-muted);
+        font-size: 0.92rem;
+        line-height: 1.45;
+      }
+
+      .brief {
+        margin: 0 12px 12px;
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        background: var(--cp-bg-elevated);
+        padding: 10px;
+      }
+
+      .brief-grid {
+        display: grid;
+        gap: 7px;
+      }
+
+      .brief-row {
+        display: grid;
+        grid-template-columns: 74px 1fr;
+        gap: 8px;
+        color: var(--cp-text-muted);
+        font-size: 0.84rem;
+        line-height: 1.35;
+      }
+
+      .brief-label {
+        color: var(--cp-text);
+        font-weight: 700;
+      }
+
+      .part-morning h3,
+      .part-day h3,
+      .part-night h3 {
+        color: var(--cp-warning);
+      }
+
+      .foot {
+        padding: 10px 12px 12px;
+        color: var(--cp-text-soft);
+        font-size: 0.83rem;
+      }
+
+      .badges {
+        display: flex;
+        gap: 6px;
+        flex-wrap: wrap;
+        margin-top: 8px;
+        padding: 8px 12px 0;
+      }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        font-size: 0.75rem;
+        font-weight: 500;
+        padding: 3px 8px;
+        border-radius: 12px;
+      }
+
+      .badge-split {
+        background: rgba(59, 130, 246, 0.1);
+        color: var(--cp-link);
+      }
+
+      .badge-deadline-critical {
+        background: rgba(220, 38, 38, 0.12);
+        color: var(--cp-danger);
+      }
+
+      .badge-deadline-upcoming {
+        background: rgba(245, 158, 11, 0.12);
+        color: var(--cp-warning);
+      }
+
+      .badge-deadline-locked {
+        background: rgba(22, 163, 74, 0.1);
+        color: var(--cp-success);
+      }
+
+      @keyframes rise {
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @media (max-width: 700px) {
+        .wrap {
+          padding: 14px;
+        }
+
+        .title {
+          font-size: 1.5rem;
+        }
+      }
+
+      @media print {
+        body {
+          background: var(--cp-surface);
+        }
+
+        .wrap {
+          max-width: none;
+          padding: 0;
+        }
+
+        .hero {
+          box-shadow: none;
+          border-radius: 0;
+          border-left: none;
+          border-right: none;
+          border-top: none;
+          margin-bottom: 12px;
+        }
+
+        .grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+          gap: 8px;
+        }
+
+        .day-card {
+          box-shadow: none;
+          break-inside: avoid;
+          page-break-inside: avoid;
+          animation: none;
+          opacity: 1;
+          transform: none;
+        }
+
+        .title {
+          font-size: 1.35rem;
+        }
+
+        .subtitle,
+        .foot {
+          font-size: 0.8rem;
+        }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <canvas id="scheduleWebglBg" class="webgl-bg" aria-hidden="true"></canvas>
+    <main class="wrap">
+      <section class="hero">
+        <h1 class="title">Japan 2026 Visual Day Planner</h1>
+        <p class="subtitle">
+          Fast visual scan of each day with start/end city and three time
+          blocks: Morning, Day, Night.
+        </p>
+        <div class="route">
+          <span class="city-chip city-tokyo">Tokyo (Start)</span>
+          <span class="arrow">-></span>
+          <span class="city-chip city-kyoto">Kyoto</span>
+          <span class="arrow">-></span>
+          <span class="city-chip city-osaka">Osaka</span>
+          <span class="arrow">-></span>
+          <span class="city-chip city-tokyo">Tokyo (Departure)</span>
+        </div>
+      </section>
+
+      <section
+        id="cards"
+        class="grid"
+        aria-label="Daily schedule cards"
+      ></section>
+
+    </main>
+
+    <script>
+      const days = [
+        {
+          dayLabel: "Day 1",
+          date: "Sun May 24 - Mon May 25",
+          startDate: "2026-05-24",
+          endDate: "2026-05-25",
+          title: "Travel and Arrival",
+          startCity: "Newark",
+          endCity: "Tokyo",
+          startCityClass: "city-tokyo",
+          endCityClass: "city-tokyo",
+          transfer: "Flight UA131",
+          morning: "Leave for EWR and board UA131.",
+          daytime: "Arrive Haneda, clear customs, bus to Keio Plaza.",
+          night: "Easy walk and yakitori at Omoide Yokocho.",
+          note: "Long-haul day, keep pace light.",
+        },
+        {
+          dayLabel: "Day 2",
+          date: "Tue May 26",
+          startDate: "2026-05-26",
+          endDate: "2026-05-26",
+          title: "Shibuya and Harajuku",
+          startCity: "Tokyo",
+          endCity: "Tokyo",
+          startCityClass: "city-tokyo",
+          endCityClass: "city-tokyo",
+          transfer: "",
+          splitDay: true,
+          splitNote: "Dave/Debbie may split for different interests",
+          morning: "Meiji Jingu and Harajuku start.",
+          daytime: "Shibuya Sky at 2:00 PM, then Shibuya Crossing plus Hands/Loft.",
+          night: "Ichiran ramen and optional Shibuya night photos.",
+          note: "Great acclimation day.",
+        },
+        {
+          dayLabel: "Day 3",
+          date: "Wed May 27",
+          startDate: "2026-05-27",
+          endDate: "2026-05-27",
+          title: "Toyosu, Ginza & Roppongi Art",
+          startCity: "Tokyo",
+          endCity: "Tokyo",
+          startCityClass: "city-tokyo",
+          endCityClass: "city-tokyo",
+          transfer: "",
+          morning: "Toyosu Market brunch.",
+          daytime: "Ginza shopping block.",
+          night:
+            "Roppongi art stop (Mori Art Museum) then dinner in Ginza/Nihonbashi.",
+          note: "TeamLab removed. Roppongi fills the 5 PM slot.",
+        },
+        {
+          dayLabel: "Day 4",
+          date: "Thu May 28",
+          startDate: "2026-05-28",
+          endDate: "2026-05-28",
+          title: "Asakusa and Akihabara",
+          startCity: "Tokyo",
+          endCity: "Tokyo",
+          startCityClass: "city-tokyo",
+          endCityClass: "city-tokyo",
+          transfer: "",
+          morning: "Senso-ji then Kappabashi kitchen district.",
+          daytime: "Tempura lunch then retro game run in Akihabara.",
+          night: "Maid cafe or Kanda Myojin, then dinner.",
+          note: "Dense city walk day.",
+        },
+        {
+          dayLabel: "Day 5",
+          date: "Fri May 29",
+          startDate: "2026-05-29",
+          endDate: "2026-05-29",
+          title: "Tokyo to Kyoto",
+          startCity: "Tokyo",
+          endCity: "Kyoto",
+          startCityClass: "city-tokyo",
+          endCityClass: "city-kyoto",
+          transfer: "Shinkansen",
+          morning: "Travel to Tokyo Station and board Nozomi.",
+          daytime: "Arrive Kyoto, check in, Nishiki Market.",
+          night: "Gion walk and dinner in Pontocho Alley.",
+          note: "Major city transition.",
+        },
+        {
+          dayLabel: "Day 6",
+          date: "Sat May 30",
+          startDate: "2026-05-30",
+          endDate: "2026-05-30",
+          title: "Arashiyama and Gold Pavilion",
+          startCity: "Kyoto",
+          endCity: "Kyoto",
+          startCityClass: "city-kyoto",
+          endCityClass: "city-kyoto",
+          transfer: "",
+          splitDay: true,
+          splitNote: "Kichi Kichi reservation (7 PM) — coordination needed",
+          morning: "Early bamboo grove and coffee stop.",
+          daytime: "Kinkaku-ji, Kiyomizu-dera, and Sannenzaka area.",
+          night: "Kichi Kichi if reserved, else teppanyaki.",
+          note: "Early start avoids crowds.",
+        },
+        {
+          dayLabel: "Day 7",
+          date: "Sun May 31",
+          startDate: "2026-05-31",
+          endDate: "2026-05-31",
+          title: "Kyoto to Osaka",
+          startCity: "Kyoto",
+          endCity: "Osaka",
+          startCityClass: "city-kyoto",
+          endCityClass: "city-osaka",
+          transfer: "Train",
+          morning: "Fushimi Inari early-gate walk.",
+          daytime: "Move to Osaka and settle near Dotonbori.",
+          night: "Street food, Glico sign, Hozenji Yokocho.",
+          note: "Second city transition.",
+        },
+        {
+          dayLabel: "Day 8",
+          date: "Mon Jun 1",
+          startDate: "2026-06-01",
+          endDate: "2026-06-01",
+          title: "Osaka Free Day",
+          startCity: "Osaka",
+          endCity: "Osaka",
+          startCityClass: "city-osaka",
+          endCityClass: "city-osaka",
+          transfer: "",
+          splitDay: true,
+          splitNote:
+            "Split block: Den Den Town vs Shinsaibashi — plan beforehand",
+          morning: "Osaka Castle and relaxed coffee start.",
+          daytime: "Kuromon + split block: Den Den Town / Shinsaibashi.",
+          night: "Regroup for Dotonbori and Osaka comfort food.",
+          note: "Flexible day by design.",
+        },
+        {
+          dayLabel: "Day 9",
+          date: "Tue Jun 2",
+          startDate: "2026-06-02",
+          endDate: "2026-06-02",
+          title: "Osaka to Tokyo Return",
+          startCity: "Osaka",
+          endCity: "Tokyo",
+          startCityClass: "city-osaka",
+          endCityClass: "city-tokyo",
+          transfer: "Shinkansen",
+          morning: "Final Osaka stop and lunch.",
+          daytime: "Shin-Osaka to Tokyo transfer, check in near HND.",
+          night: "Final dinner and optional Haneda onsen.",
+          note: "Final long transfer day.",
+        },
+        {
+          dayLabel: "Day 10",
+          date: "Wed Jun 3",
+          startDate: "2026-06-03",
+          endDate: "2026-06-03",
+          title: "Departure",
+          startCity: "Tokyo",
+          endCity: "In Transit",
+          startCityClass: "city-tokyo",
+          endCityClass: "city-tokyo",
+          transfer: "Flight UA130",
+          morning: "Breakfast and last-minute shopping.",
+          daytime: "Check-in and security at Haneda T3.",
+          night: "Depart Japan for EWR.",
+          note: "Built-in airport buffer.",
+        },
+      ];
+
+      const dailyBriefs = [
+        {
+          today: "Fly EWR to HND",
+          next: "Immigration + Keio Plaza check-in",
+          backup: "Sleep/reset on arrival",
+          ops: "UA131, eSIM, cash, bus",
+        },
+        {
+          today: "Meiji Jingu + Harajuku",
+          next: "Shibuya Sky 2:00 PM booking",
+          backup: "Nakano Broadway",
+          ops: "QSJ919058, 3 adults, easy acclimation day",
+        },
+        {
+          today: "Toyosu + Ginza",
+          next: "Roppongi art stop",
+          backup: "Keep Roppongi flexible",
+          ops: "Pokemon Cafe removed",
+        },
+        {
+          today: "Yanaka + Senso-ji",
+          next: "Akihabara retro run",
+          backup: "Skip Kappabashi",
+          ops: "Kirby Cafe sold out",
+        },
+        {
+          today: "Shinkansen to Kyoto",
+          next: "Nishiki + Gion",
+          backup: "Taxi/check-in first",
+          ops: "Nozomi, ekiben, bag drop",
+        },
+        {
+          today: "Arashiyama early",
+          next: "Kinkaku-ji + Kiyomizu",
+          backup: "Sanjusangen-do",
+          ops: "Kichi Kichi backup needed",
+        },
+        {
+          today: "Fushimi Inari early",
+          next: "Kyoto to Osaka move",
+          backup: "TeamLab optional",
+          ops: "Bag forward, early gates",
+        },
+        {
+          today: "Osaka Castle + Kuromon",
+          next: "Den Den Town / Shinsaibashi",
+          backup: "Short Namba loop",
+          ops: "Regroup at Hozenji",
+        },
+        {
+          today: "Osaka to Tokyo transfer",
+          next: "Haneda-area check-in",
+          backup: "Shinagawa fallback",
+          ops: "Final hotel buffer",
+        },
+        {
+          today: "Haneda breakfast + checkout",
+          next: "Duty free + UA130",
+          backup: "Skip shopping if slow",
+          ops: "Airport buffer day",
+        },
+      ];
+
+      const cards = document.getElementById("cards");
+
+      days.forEach((item, index) => {
+        const brief = dailyBriefs[index];
+        const card = document.createElement("article");
+        card.className = "day-card";
+        card.style.animationDelay = `${index * 0.04}s`;
+        card.dataset.transfer = item.transfer ? "true" : "false";
+        card.dataset.href = `visualizations/day-${String(index + 1).padStart(2, "0")}.html`;
+        card.dataset.dayIndex = String(index);
+        card.tabIndex = 0;
+        card.setAttribute("role", "link");
+        card.setAttribute(
+          "aria-label",
+          `Open ${item.dayLabel}: ${item.title}`,
+        );
+
+        card.innerHTML = `
+          <div class="head">
+            <p class="day-number">${item.dayLabel} • ${item.date}</p>
+            <h2 class="day-name">${item.title}</h2>
+            <div class="city-row">
+              <span class="city-chip ${item.startCityClass}">${item.startCity}</span>
+              <span class="arrow">-></span>
+              <span class="city-chip ${item.endCityClass}">${item.endCity}</span>
+              ${item.transfer ? `<span class="transfer">${item.transfer}</span>` : ""}
+            </div>
+          </div>
+          <div class="parts">
+            <section class="part part-morning">
+              <h3>Morning</h3>
+              <p>${item.morning}</p>
+            </section>
+            <section class="part part-day">
+              <h3>Day</h3>
+              <p>${item.daytime}</p>
+            </section>
+            <section class="part part-night">
+              <h3>Night</h3>
+              <p>${item.night}</p>
+            </section>
+          </div>
+          <section class="brief" aria-label="${item.dayLabel} traveler brief">
+            <div class="brief-grid">
+              <div class="brief-row"><span class="brief-label">Today</span><span>${brief.today}</span></div>
+              <div class="brief-row"><span class="brief-label">Next</span><span>${brief.next}</span></div>
+              <div class="brief-row"><span class="brief-label">Backup</span><span>${brief.backup}</span></div>
+              <div class="brief-row"><span class="brief-label">Ops</span><span>${brief.ops}</span></div>
+            </div>
+          </section>
+          <div class="badges">
+            ${item.splitDay ? `<span class="badge badge-split">🔀 Split Day</span>` : ""}
+            ${item.deadline ? `<span class="badge badge-deadline-${item.deadline.status}">${item.deadline.label}</span>` : ""}
+          </div>
+          <div class="foot">${item.note}</div>
+        `;
+
+        card.addEventListener("click", () => {
+          window.location.href = card.dataset.href;
+        });
+        card.addEventListener("keydown", (event) => {
+          if (event.key === "Enter" || event.key === " ") {
+            event.preventDefault();
+            window.location.href = card.dataset.href;
+          }
+        });
+
+        cards.appendChild(card);
+      });
+
+    </script>
+    <script type="module">
+      import * as THREE from "https://unpkg.com/three@0.165.0/build/three.module.js";
+
+      const canvas = document.getElementById("scheduleWebglBg");
+      const renderer = new THREE.WebGLRenderer({
+        canvas,
+        antialias: true,
+        alpha: true,
+        powerPreference: "high-performance",
+      });
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+
+      const scene = new THREE.Scene();
+      const camera = new THREE.PerspectiveCamera(50, 1, 0.1, 120);
+      camera.position.set(0, 0, 12);
+
+      const pointCount = 900;
+      const pointGeo = new THREE.BufferGeometry();
+      const pointPos = new Float32Array(pointCount * 3);
+      const pointCol = new Float32Array(pointCount * 3);
+      const palette = [
+        new THREE.Color(0xef476f),
+        new THREE.Color(0xffd166),
+        new THREE.Color(0x06d6a0),
+        new THREE.Color(0x4dabf7),
+      ];
+      for (let i = 0; i < pointCount; i++) {
+        pointPos[i * 3] = (Math.random() - 0.5) * 26;
+        pointPos[i * 3 + 1] = (Math.random() - 0.5) * 14;
+        pointPos[i * 3 + 2] = (Math.random() - 0.5) * 10;
+        const c = palette[i % palette.length];
+        pointCol[i * 3] = c.r;
+        pointCol[i * 3 + 1] = c.g;
+        pointCol[i * 3 + 2] = c.b;
+      }
+      pointGeo.setAttribute("position", new THREE.BufferAttribute(pointPos, 3));
+      pointGeo.setAttribute("color", new THREE.BufferAttribute(pointCol, 3));
+
+      const points = new THREE.Points(
+        pointGeo,
+        new THREE.PointsMaterial({
+          size: 0.08,
+          transparent: true,
+          opacity: 0.68,
+          vertexColors: true,
+          blending: THREE.AdditiveBlending,
+          depthWrite: false,
+        }),
+      );
+      scene.add(points);
+
+      const torusA = new THREE.Mesh(
+        new THREE.TorusGeometry(5.8, 0.06, 20, 170),
+        new THREE.MeshBasicMaterial({
+          color: 0x4dabf7,
+          transparent: true,
+          opacity: 0.18,
+        }),
+      );
+      const torusB = new THREE.Mesh(
+        new THREE.TorusKnotGeometry(3.6, 0.05, 150, 20, 2, 3),
+        new THREE.MeshBasicMaterial({
+          color: 0xfd8ea1,
+          transparent: true,
+          opacity: 0.14,
+        }),
+      );
+      torusB.rotation.x = Math.PI / 3.2;
+      scene.add(torusA);
+      scene.add(torusB);
+
+      let targetX = 0;
+      let targetY = 0;
+      window.addEventListener("pointermove", (e) => {
+        targetX = (e.clientX / window.innerWidth - 0.5) * 0.8;
+        targetY = (e.clientY / window.innerHeight - 0.5) * 0.5;
+      });
+
+      function resize() {
+        const w = window.innerWidth;
+        const h = window.innerHeight;
+        renderer.setSize(w, h, false);
+        camera.aspect = w / h;
+        camera.updateProjectionMatrix();
+      }
+      resize();
+      window.addEventListener("resize", resize);
+
+      const posAttr = pointGeo.getAttribute("position");
+      const basePos = posAttr.array.slice();
+      let t = 0;
+
+      function animate() {
+        t += 0.0055;
+
+        for (let i = 0; i < pointCount; i++) {
+          const i3 = i * 3;
+          posAttr.array[i3] = basePos[i3] + Math.sin(t * 1.1 + i * 0.13) * 0.09;
+          posAttr.array[i3 + 1] =
+            basePos[i3 + 1] + Math.cos(t * 0.95 + i * 0.12) * 0.09;
+        }
+        posAttr.needsUpdate = true;
+
+        points.rotation.y += 0.0006;
+        torusA.rotation.z += 0.0009;
+        torusB.rotation.z -= 0.0011;
+
+        camera.position.x += (targetX - camera.position.x) * 0.03;
+        camera.position.y += (-targetY - camera.position.y) * 0.03;
+        camera.lookAt(0, 0, 0);
+
+        renderer.render(scene, camera);
+        requestAnimationFrame(animate);
+      }
+      animate();
+    </script>
+  </body>
+</html>

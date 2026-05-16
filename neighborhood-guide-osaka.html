@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Osaka Neighborhood Guide</title>
+    <script src="assets/scripts/theme.js"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css" />
+    <script defer src="assets/scripts/site-nav.js"></script>
+    <style>
+      :root {
+        --guide-accent-border: var(--cp-city-osaka-border);
+        --guide-accent-bg: var(--cp-city-osaka-bg);
+        --guide-accent-text: var(--cp-city-osaka-text);
+      }
+
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+        line-height: 1.5;
+        color: var(--cp-text);
+        background: var(--cp-bg);
+      }
+
+      .guide {
+        max-width: 700px;
+        margin: 20px auto;
+        background: var(--cp-surface);
+        padding: 24px;
+        border-radius: 8px;
+        border: 1px solid var(--cp-border);
+        box-shadow: var(--cp-shadow);
+      }
+
+      .header {
+        border-bottom: 3px solid var(--guide-accent-border);
+        padding-bottom: 12px;
+        margin-bottom: 18px;
+      }
+
+      h1 { font-size: 1.6rem; margin-bottom: 4px; color: var(--guide-accent-text); }
+      .subtitle { font-size: 0.85rem; color: var(--cp-text-muted); }
+
+      h2 {
+        font-size: 1.1rem;
+        margin: 24px 0 10px;
+        color: var(--cp-text);
+        border-left: 3px solid var(--guide-accent-border);
+        padding-left: 10px;
+      }
+
+      section[id] { scroll-margin-top: 5rem; }
+
+      .section { margin-bottom: 14px; }
+
+      .item {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        margin-bottom: 8px;
+      }
+
+      .label {
+        font-weight: 600;
+        color: var(--guide-accent-text);
+      }
+
+      .tip {
+        background: var(--guide-accent-bg);
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 0.85rem;
+        margin: 8px 0;
+        border-left: 3px solid var(--guide-accent-border);
+      }
+
+      ul {
+        margin: 6px 0 10px 20px;
+      }
+
+      li {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        margin-bottom: 6px;
+      }
+
+      a { color: var(--cp-link); }
+      a:hover { color: var(--cp-accent-hover); }
+
+      .jump-links {
+        font-size: 0.85rem;
+        margin-top: 10px;
+      }
+
+      .divider {
+        border-bottom: 1px solid var(--cp-border);
+        margin: 18px 0;
+      }
+
+      .back-link {
+        display: inline-block;
+        margin-top: 18px;
+        font-size: 0.85rem;
+      }
+
+      @media (max-width: 700px) {
+        .guide { margin: 12px auto; padding: 16px; }
+      }
+
+      @media print {
+        body { background: var(--cp-surface); padding: 0; }
+        .guide { box-shadow: none; max-width: 100%; margin: 0 auto; }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <div class="guide">
+      <div class="header">
+        <h1>🏰 Osaka Neighborhood Guide</h1>
+        <p class="subtitle">Fast, phone-friendly notes for wandering Osaka from the Cross Hotel base</p>
+      </div>
+
+      <div class="tip">
+        🐙 <strong>Osaka quick read:</strong> This is a city of <em>kuidaore</em> — eat until you drop. Stand on the <strong>RIGHT</strong> on escalators, expect a louder/friendlier vibe than Tokyo, and save your biggest appetite for takoyaki, okonomiyaki, and kushikatsu.
+      </div>
+
+      <p class="jump-links">
+        Jump to:
+        <a href="#dotonbori">Dotonbori</a> ·
+        <a href="#namba">Namba</a> ·
+        <a href="#umeda">Umeda</a> ·
+        <a href="#shinsekai">Shinsekai</a> ·
+        <a href="#osaka-castle">Osaka Castle</a> ·
+        <a href="#kuromon-market">Kuromon</a> ·
+        <a href="#den-den-town">Den Den Town</a> ·
+        <a href="#shinsaibashi">Shinsaibashi</a> ·
+        <a href="#hozenji-yokocho">Hozenji</a> ·
+        <a href="#shin-osaka">Shin-Osaka</a>
+      </p>
+
+      <section id="dotonbori" class="section">
+        <h2>🌉 Dotonbori (The Neon Canal)</h2>
+        <p class="item"><span class="label">Vibe:</span> The neon heart of Osaka — loud, photogenic, and relentlessly snackable. This is peak kuidaore energy, especially after sunset.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li>Snap the classic <a href="https://www.google.com/maps/search/Glico+Man+Sign+Osaka" target="_blank" rel="noopener">Glico Man</a> shot from Ebisubashi Bridge.</li>
+          <li>Try takoyaki and okonomiyaki from street-facing spots.</li>
+          <li>Spot the Don Quijote Ferris wheel and Kuidaore Taro clown.</li>
+          <li>Do a short canal-side wander once the signs fully light up.</li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> You are basically there from Cross Hotel Osaka — 1 to 5 minutes on foot depending on which canal-side block you want.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>Best photos are from Ebisubashi Bridge, not directly under the sign.</li>
+          <li>Ignore touts pushing bars or overpriced izakayas.</li>
+          <li>Come at night; daytime is less magical.</li>
+        </ul>
+        <div class="tip">📸 <strong>Glico tip:</strong> The sign looks smaller in person than online. Step back onto the bridge, shoot slightly upward, and wait 30 seconds for a gap in the crowd.</div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="namba" class="section">
+        <h2>🏮 Namba (The Soul of Osaka)</h2>
+        <p class="item"><span class="label">Vibe:</span> Busy, casual, and deeply local-feeling. Namba is the practical core of southern Osaka: stations, arcades, food lines, and nonstop street life.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li><a href="https://www.google.com/maps/search/Namba+Station+Osaka" target="_blank" rel="noopener">Namba Station</a> for rail connections, lockers, and tourist info.</li>
+          <li>Rikuro Ojisan for the famous jiggly cheesecake.</li>
+          <li>Covered shopping streets and easy access to Dotonbori, Kuromon, and Den Den Town.</li>
+          <li>A great fallback area for coffee, pharmacies, and casual meals.</li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> Walk 8 to 10 minutes south/west from Cross Hotel Osaka toward Namba Station.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>Coin lockers fill by noon, so store bags early.</li>
+          <li>Small eateries can still be cash-only.</li>
+          <li>If you're lost, aim for Namba Station first, then re-orient.</li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="umeda" class="section">
+        <h2>🏙️ Umeda (The Sleek Hub)</h2>
+        <p class="item"><span class="label">Vibe:</span> Vertical, polished, and modern. Think towers, department stores, and a huge underground city that feels very different from gritty-mini-neon Namba.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li>Visit the <a href="https://www.google.com/maps/search/Umeda+Sky+Building" target="_blank" rel="noopener">Umeda Sky Building</a> for skyline views.</li>
+          <li>Explore the underground malls if the weather turns bad.</li>
+          <li>Use it as the easiest north-Osaka rail hub for JR, Hankyu, and Hanshin.</li>
+          <li>Good rainy-day contrast to the outdoor Osaka Castle / Dotonbori plan.</li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> From Namba Station, take the Midosuji Line north to Umeda / Osaka Station area in about 15 minutes.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>If it is raining, Umeda underground is one of the cleanest indoor substitutes.</li>
+          <li>Give yourself extra buffer time inside Osaka Station / Umeda — it's a maze.</li>
+          <li>Best used as a planned destination, not a casual detour.</li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="shinsekai" class="section">
+        <h2>🎭 Shinsekai (Old-School Entertainment)</h2>
+        <p class="item"><span class="label">Vibe:</span> Retro, scruffy, and proudly old-school. This is classic Osaka kitsch rather than polished city glamour.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li>See <a href="https://www.google.com/maps/search/Tsutenkaku+Osaka" target="_blank" rel="noopener">Tsutenkaku Tower</a> and the surrounding retro signscape.</li>
+          <li>Try kushikatsu in the district most associated with it.</li>
+          <li>Wander the backstreets for a very different atmosphere from Umeda or Shinsaibashi.</li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> From Namba, take the Midosuji Line to Dobutsuen-mae, or walk about 20 to 25 minutes if you want a longer urban ramble.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>Best as a short wander plus snack stop, not an all-day area.</li>
+          <li>Expect it to feel grittier and more local than the postcard districts.</li>
+          <li>Good late-afternoon add-on before returning north for dinner.</li>
+        </ul>
+        <div class="tip">🍢 <strong>Kushikatsu rule:</strong> If sauce is communal, there is <strong>no double dipping</strong>. One dip only — use the cabbage if you need more sauce.</div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="osaka-castle" class="section">
+        <h2>🏯 Osaka Castle</h2>
+        <p class="item"><span class="label">Vibe:</span> Big open grounds, moats, and iconic skyline views. More about the setting and easy morning walk than a deep historical atmosphere like Kyoto.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li>Walk the castle grounds before crowds and heat build up.</li>
+          <li>Frame photos with greenery, walls, and city towers behind the castle.</li>
+          <li>Good reset from the dense commercial neighborhoods.</li>
+          <li><a href="https://www.google.com/maps/search/Osaka+Castle" target="_blank" rel="noopener">Google Maps</a></li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> Best rail options from Cross Hotel Osaka are Midosuji to Hommachi then Chuo Line to Tanimachi 4-chome, or JR via Osakajokoen. Plan roughly 25 to 35 minutes door to door.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>Go early; it works best as the first stop of the day.</li>
+          <li>The grounds are often more rewarding than queueing too long for the interior.</li>
+          <li>Bring water — this is one of the least shaded major stops.</li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="kuromon-market" class="section">
+        <h2>🍣 Kuromon Market ("Osaka's Kitchen")</h2>
+        <p class="item"><span class="label">Vibe:</span> Compact, busy, and built for grazing. Kuromon is a better shared lunch stop than a formal sit-down plan.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li>Snack through seafood, fruit, grilled skewers, and sweets.</li>
+          <li>Use it as a flexible regroup point before splitting to Den Den Town or Shinsaibashi.</li>
+          <li>Good place for strawberries, crab legs, and quick bites.</li>
+          <li><a href="https://www.google.com/maps/search/Kuromon+Market" target="_blank" rel="noopener">Google Maps</a></li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> Walk about 10 to 12 minutes east from Cross Hotel Osaka through the Namba side streets.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>Come hungry but pace yourself — prices can add up fast if you impulse-buy every stall.</li>
+          <li>Late morning into lunch is the sweet spot.</li>
+          <li>Use shared grazing here instead of trying to lock a reservation.</li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="den-den-town" class="section">
+        <h2>🎮 Den Den Town (Retro Games &amp; Anime)</h2>
+        <p class="item"><span class="label">Vibe:</span> Osaka's grittier, cheaper-feeling answer to Akihabara. Less polished, often better for browsing used games and hobby shops.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li>Walk Ota Road for the densest concentration of anime signage and shops.</li>
+          <li>Check retro game stores where stock can be better than Tokyo.</li>
+          <li>Browse gachapon floors, hobby shops, and electronics parts stores.</li>
+          <li><a href="https://osaka-info.jp/en/spot/nipponbashi-denden-town/" target="_blank" rel="noopener">Area guide</a></li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> Walk 12 to 15 minutes south/southeast from Cross Hotel Osaka toward Nipponbashi, or take one short subway hop to Nipponbashi.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>Best for intentional shopping — know your wish list before you go.</li>
+          <li>Shops are more spread out than Akihabara, so give it real walking time.</li>
+          <li>Great split-afternoon choice if one person wants games and hobby stores.</li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="shinsaibashi" class="section">
+        <h2>🛍️ Shinsaibashi (Fashion &amp; Beauty)</h2>
+        <p class="item"><span class="label">Vibe:</span> Busier, prettier, and more shopping-forward than Namba. Think fashion arcades, cosmetics, cafes, and easy browsing.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li>Explore <a href="https://osaka-info.jp/en/spot/shinsaibashi-suji-shopping-street/" target="_blank" rel="noopener">Shinsaibashi-suji</a> for covered shopping.</li>
+          <li>Great zone for cosmetics, cute stores, sweets, and department stores.</li>
+          <li>Easy northward walk from Dotonbori if you want a calmer shopping block.</li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> Walk 10 to 12 minutes north from Cross Hotel Osaka, or ride one stop on the Midosuji Line from Namba to Shinsaibashi.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>Works well as the alternate split-afternoon plan versus Den Den Town.</li>
+          <li>Best if you want air-conditioned browsing and snack breaks.</li>
+          <li>Regroup in Dotonbori afterward for dinner and neon.</li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="hozenji-yokocho" class="section">
+        <h2>🏮 Hozenji Yokocho (Hidden Alley)</h2>
+        <p class="item"><span class="label">Vibe:</span> Tiny, atmospheric, and old-Osaka feeling — a quiet lantern-lit contrast to the main Dotonbori strip just around the corner.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li>Slip into a narrow alley of restaurants and traditional ambience.</li>
+          <li>Use it as a calmer pre-dinner or post-dinner detour from Dotonbori.</li>
+          <li>Great night photos when the bigger streets feel too chaotic.</li>
+          <li><a href="https://www.google.com/maps/search/Hozenji+Yokocho" target="_blank" rel="noopener">Google Maps</a></li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> About 3 minutes on foot from Cross Hotel Osaka; it is essentially part of your evening walking zone.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>Pair it with Namba / Dotonbori rather than treating it as a standalone destination.</li>
+          <li>Come in the evening for the strongest atmosphere.</li>
+          <li>Good regroup spot if the main canal area feels overcrowded.</li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="shin-osaka" class="section">
+        <h2>🚅 Shin-Osaka Station</h2>
+        <p class="item"><span class="label">Vibe:</span> Functional, transit-first, and not really a sightseeing neighborhood. Think efficiency, ekiben, and getting onto the Shinkansen without drama.</p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul>
+          <li>Direct Shinkansen hub for the Tokyo return.</li>
+          <li>Good place to buy an ekiben before boarding.</li>
+          <li>Clearer goal than wandering Osaka Station / Umeda on departure day.</li>
+          <li><a href="https://www.google.com/maps/search/Shin-Osaka+Station" target="_blank" rel="noopener">Google Maps</a></li>
+        </ul>
+        <p class="item"><span class="label">Getting There:</span> From Namba, take the Midosuji Line directly to Shin-Osaka in about 15 minutes; from Cross Hotel Osaka, budget 25 to 30 minutes total with the walk to the station.</p>
+        <p class="item"><span class="label">Pro Tips:</span></p>
+        <ul>
+          <li>Use the simple chain: Cross Hotel → Namba → Shin-Osaka → Shinkansen.</li>
+          <li>Buy lunch here instead of rushing for food onboard.</li>
+          <li>Leave extra time if carrying luggage through Namba Station.</li>
+        </ul>
+        <div class="tip">🚶 <strong>Departure rhythm:</strong> Don’t overcomplicate the last transfer. Namba → Shin-Osaka is the cleanest move, and Shinagawa is the easier Tokyo-side handoff for Haneda.</div>
+      </section>
+
+      <a class="back-link" href="visual-schedule.html">← Back to Visual Planner</a>
+    </div>
+  </body>
+</html>

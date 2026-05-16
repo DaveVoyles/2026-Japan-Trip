@@ -1,0 +1,220 @@
+html {
+  color-scheme: light;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+html[data-scheme="nd"][data-theme="light"],
+html:not([data-scheme])[data-theme="light"],
+html:not([data-scheme]):not([data-theme]) {
+  --cp-bg: #f6f3ec;
+  --cp-bg-elevated: #fcfaf4;
+  --cp-surface: #ffffff;
+  --cp-surface-soft: #f1eee7;
+  --cp-border: #d8d2c3;
+  --cp-border-strong: #0c2340;
+  --cp-text: #0c2340;
+  --cp-text-muted: #4a5870;
+  --cp-text-soft: #5e6a7f;
+  --cp-accent: #c99700;
+  --cp-accent-hover: #b18600;
+  --cp-accent-soft: rgba(201, 151, 0, 0.13);
+  --cp-accent-fg: #0c2340;
+  --cp-success: #00843d;
+  --cp-danger: #9f2f2f;
+  --cp-warning: #c99700;
+  --cp-link: #0c2340;
+  --cp-shadow: 0 18px 48px rgba(12, 35, 64, 0.16);
+  --cp-overlay: rgba(255, 255, 255, 0.85);
+  --cp-panel: rgba(255, 255, 255, 0.9);
+  --cp-panel-strong: rgba(255, 255, 255, 0.97);
+  --cp-sheen: rgba(201, 151, 0, 0.12);
+  --cp-highlight: rgba(12, 35, 64, 0.1);
+  --cp-city-tokyo-border: #0c2340;
+  --cp-city-tokyo-bg: rgba(12, 35, 64, 0.09);
+  --cp-city-tokyo-text: #0c2340;
+  --cp-city-kyoto-border: #c99700;
+  --cp-city-kyoto-bg: rgba(201, 151, 0, 0.14);
+  --cp-city-kyoto-text: #7f6000;
+  --cp-city-osaka-border: #00843d;
+  --cp-city-osaka-bg: rgba(0, 132, 61, 0.12);
+  --cp-city-osaka-text: #006633;
+}
+
+html[data-scheme="nd"][data-theme="dark"],
+html:not([data-scheme])[data-theme="dark"] {
+  --cp-bg: #0b1b31;
+  --cp-bg-elevated: #102540;
+  --cp-surface: #152b48;
+  --cp-surface-soft: #1b3557;
+  --cp-border: #305071;
+  --cp-border-strong: #8aa4c4;
+  --cp-text: #f5f7fa;
+  --cp-text-muted: #d2d9e4;
+  --cp-text-soft: #b6c2d4;
+  --cp-accent: #ffcd00;
+  --cp-accent-hover: #e4b700;
+  --cp-accent-soft: rgba(255, 205, 0, 0.16);
+  --cp-accent-fg: #0c2340;
+  --cp-success: #57b983;
+  --cp-danger: #f28b82;
+  --cp-warning: #ffcd00;
+  --cp-link: #d7e7ff;
+  --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.36);
+  --cp-overlay: rgba(11, 27, 49, 0.86);
+  --cp-panel: rgba(16, 37, 64, 0.82);
+  --cp-panel-strong: rgba(16, 37, 64, 0.96);
+  --cp-sheen: rgba(255, 205, 0, 0.14);
+  --cp-highlight: rgba(215, 231, 255, 0.1);
+  --cp-city-tokyo-border: #b7d0f2;
+  --cp-city-tokyo-bg: rgba(183, 208, 242, 0.16);
+  --cp-city-tokyo-text: #d9e8ff;
+  --cp-city-kyoto-border: #ffcd00;
+  --cp-city-kyoto-bg: rgba(255, 205, 0, 0.2);
+  --cp-city-kyoto-text: #ffde5a;
+  --cp-city-osaka-border: #74d09f;
+  --cp-city-osaka-bg: rgba(116, 208, 159, 0.18);
+  --cp-city-osaka-text: #a8e4c2;
+}
+
+html[data-scheme="jets"][data-theme="light"] {
+  --cp-bg: #f2f7f4;
+  --cp-bg-elevated: #f8fbf9;
+  --cp-surface: #ffffff;
+  --cp-surface-soft: #e6f0ea;
+  --cp-border: #b8d4c3;
+  --cp-border-strong: #125740;
+  --cp-text: #0a3326;
+  --cp-text-muted: #2e5e48;
+  --cp-text-soft: #3d6e58;
+  --cp-accent: #125740;
+  --cp-accent-hover: #0d3d2d;
+  --cp-accent-soft: rgba(18, 87, 64, 0.12);
+  --cp-accent-fg: #ffffff;
+  --cp-success: #125740;
+  --cp-danger: #9f2f2f;
+  --cp-warning: #2e7d4e;
+  --cp-link: #125740;
+  --cp-shadow: 0 18px 48px rgba(18, 87, 64, 0.14);
+  --cp-overlay: rgba(255, 255, 255, 0.85);
+  --cp-panel: rgba(255, 255, 255, 0.9);
+  --cp-panel-strong: rgba(255, 255, 255, 0.97);
+  --cp-sheen: rgba(18, 87, 64, 0.1);
+  --cp-highlight: rgba(18, 87, 64, 0.1);
+  --cp-city-tokyo-border: #125740;
+  --cp-city-tokyo-bg: rgba(18, 87, 64, 0.1);
+  --cp-city-tokyo-text: #0a3326;
+  --cp-city-kyoto-border: #2e7d4e;
+  --cp-city-kyoto-bg: rgba(46, 125, 78, 0.12);
+  --cp-city-kyoto-text: #1e5c35;
+  --cp-city-osaka-border: #1a6b4a;
+  --cp-city-osaka-bg: rgba(26, 107, 74, 0.14);
+  --cp-city-osaka-text: #0f4830;
+}
+
+html[data-scheme="jets"][data-theme="dark"] {
+  --cp-bg: #081a11;
+  --cp-bg-elevated: #0c2218;
+  --cp-surface: #112b1e;
+  --cp-surface-soft: #163526;
+  --cp-border: #255038;
+  --cp-border-strong: #4db37e;
+  --cp-text: #e6f5ee;
+  --cp-text-muted: #b0d4c0;
+  --cp-text-soft: #8bbfa4;
+  --cp-accent: #3ec87a;
+  --cp-accent-hover: #2db568;
+  --cp-accent-soft: rgba(62, 200, 122, 0.18);
+  --cp-accent-fg: #081a11;
+  --cp-success: #3ec87a;
+  --cp-danger: #f28b82;
+  --cp-warning: #6fd4a0;
+  --cp-link: #7de0b0;
+  --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.38);
+  --cp-overlay: rgba(8, 26, 17, 0.86);
+  --cp-panel: rgba(12, 34, 24, 0.82);
+  --cp-panel-strong: rgba(12, 34, 24, 0.96);
+  --cp-sheen: rgba(62, 200, 122, 0.12);
+  --cp-highlight: rgba(62, 200, 122, 0.14);
+  --cp-city-tokyo-border: #4db37e;
+  --cp-city-tokyo-bg: rgba(77, 179, 126, 0.18);
+  --cp-city-tokyo-text: #a0dbb8;
+  --cp-city-kyoto-border: #3ec87a;
+  --cp-city-kyoto-bg: rgba(62, 200, 122, 0.2);
+  --cp-city-kyoto-text: #8eeabb;
+  --cp-city-osaka-border: #6fd4a0;
+  --cp-city-osaka-bg: rgba(111, 212, 160, 0.2);
+  --cp-city-osaka-text: #aae8c8;
+}
+
+html[data-scheme="jhu"][data-theme="light"] {
+  --cp-bg: #f3f7fc;
+  --cp-bg-elevated: #f8fbff;
+  --cp-surface: #ffffff;
+  --cp-surface-soft: #edf4fb;
+  --cp-border: #c8d9ed;
+  --cp-border-strong: #002d72;
+  --cp-text: #002d72;
+  --cp-text-muted: #365b87;
+  --cp-text-soft: #4a6990;
+  --cp-accent: #002d72;
+  --cp-accent-hover: #001f4f;
+  --cp-accent-soft: rgba(0, 45, 114, 0.12);
+  --cp-accent-fg: #ffffff;
+  --cp-success: #86c8bc;
+  --cp-danger: #b4233a;
+  --cp-warning: #0077d8;
+  --cp-link: #0077d8;
+  --cp-shadow: 0 18px 48px rgba(0, 45, 114, 0.16);
+  --cp-overlay: rgba(255, 255, 255, 0.85);
+  --cp-panel: rgba(255, 255, 255, 0.9);
+  --cp-panel-strong: rgba(255, 255, 255, 0.97);
+  --cp-sheen: rgba(78, 151, 224, 0.14);
+  --cp-highlight: rgba(0, 119, 216, 0.12);
+  --cp-city-tokyo-border: #002d72;
+  --cp-city-tokyo-bg: rgba(0, 45, 114, 0.1);
+  --cp-city-tokyo-text: #002d72;
+  --cp-city-kyoto-border: #0077d8;
+  --cp-city-kyoto-bg: rgba(0, 119, 216, 0.12);
+  --cp-city-kyoto-text: #0057a1;
+  --cp-city-osaka-border: #86c8bc;
+  --cp-city-osaka-bg: rgba(134, 200, 188, 0.18);
+  --cp-city-osaka-text: #2d7469;
+}
+
+html[data-scheme="jhu"][data-theme="dark"] {
+  --cp-bg: #08172e;
+  --cp-bg-elevated: #0d2240;
+  --cp-surface: #112a4b;
+  --cp-surface-soft: #163459;
+  --cp-border: #2d4b73;
+  --cp-border-strong: #8db9ee;
+  --cp-text: #eef5ff;
+  --cp-text-muted: #c7d9f0;
+  --cp-text-soft: #aac3e2;
+  --cp-accent: #4e97e0;
+  --cp-accent-hover: #2e83d7;
+  --cp-accent-soft: rgba(78, 151, 224, 0.2);
+  --cp-accent-fg: #061426;
+  --cp-success: #86c8bc;
+  --cp-danger: #f08ea1;
+  --cp-warning: #4e97e0;
+  --cp-link: #86bcff;
+  --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.38);
+  --cp-overlay: rgba(8, 23, 46, 0.86);
+  --cp-panel: rgba(13, 34, 64, 0.82);
+  --cp-panel-strong: rgba(13, 34, 64, 0.96);
+  --cp-sheen: rgba(134, 200, 188, 0.14);
+  --cp-highlight: rgba(78, 151, 224, 0.14);
+  --cp-city-tokyo-border: #8db9ee;
+  --cp-city-tokyo-bg: rgba(141, 185, 238, 0.18);
+  --cp-city-tokyo-text: #c7deff;
+  --cp-city-kyoto-border: #4e97e0;
+  --cp-city-kyoto-bg: rgba(78, 151, 224, 0.2);
+  --cp-city-kyoto-text: #99c6f3;
+  --cp-city-osaka-border: #86c8bc;
+  --cp-city-osaka-bg: rgba(134, 200, 188, 0.2);
+  --cp-city-osaka-text: #b6e1d9;
+}

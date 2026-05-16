@@ -1,0 +1,383 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>⛩️ Kyoto Neighborhood Guide</title>
+    <script src="assets/scripts/theme.js?v=20260507d"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css?v=20260507d" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="assets/scripts/site-nav.js?v=20260507d"></script>
+    <style>
+      :root {
+        --guide-accent-border: var(--cp-city-kyoto-border);
+        --guide-accent-bg: var(--cp-city-kyoto-bg);
+        --guide-accent-text: var(--cp-city-kyoto-text);
+      }
+
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+        line-height: 1.5;
+        color: var(--cp-text);
+        background: var(--cp-bg);
+      }
+
+      .guide {
+        max-width: 700px;
+        margin: 20px auto;
+        background: var(--cp-surface);
+        padding: 24px;
+        border-radius: 8px;
+        border: 1px solid var(--cp-border);
+        box-shadow: var(--cp-shadow);
+      }
+
+      .header {
+        border-bottom: 3px solid var(--guide-accent-border);
+        padding-bottom: 12px;
+        margin-bottom: 18px;
+      }
+
+      h1 { font-size: 1.6rem; margin-bottom: 4px; color: var(--guide-accent-text); }
+      .subtitle { font-size: 0.85rem; color: var(--cp-text-muted); }
+
+      h2 {
+        font-size: 1.1rem;
+        margin: 24px 0 10px;
+        color: var(--cp-text);
+        border-left: 3px solid var(--guide-accent-border);
+        padding-left: 10px;
+        scroll-margin-top: 5rem;
+      }
+
+      .section { margin-bottom: 14px; }
+
+      .item {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        margin-bottom: 8px;
+      }
+
+      .label {
+        font-weight: 600;
+        color: var(--guide-accent-text);
+      }
+
+      .tip {
+        background: var(--guide-accent-bg);
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 0.85rem;
+        margin: 8px 0;
+        border-left: 3px solid var(--guide-accent-border);
+      }
+
+      ul {
+        margin: 8px 0 10px 20px;
+        font-size: 0.9rem;
+      }
+
+      li { margin-bottom: 6px; }
+
+      .jump-list {
+        columns: 2;
+        column-gap: 24px;
+      }
+
+      a { color: var(--cp-link); }
+      a:hover { color: var(--cp-accent-hover); }
+
+      .divider {
+        border-bottom: 1px solid var(--cp-border);
+        margin: 18px 0;
+      }
+
+      .back-link {
+        display: inline-block;
+        margin-top: 18px;
+        font-size: 0.85rem;
+      }
+
+      @media (max-width: 700px) {
+        .guide { margin: 12px auto; padding: 16px; }
+        .jump-list { columns: 1; }
+      }
+
+      @media print {
+        body { background: var(--cp-surface); padding: 0; }
+        .guide { box-shadow: none; max-width: 100%; margin: 0 auto; }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <div class="guide">
+      <div class="header">
+        <h1>⛩️ Kyoto Neighborhood Guide</h1>
+        <p class="subtitle">Fast, phone-friendly reference from Cross Hotel Kyoto (Kawaramachi)</p>
+      </div>
+
+      <section id="quick-links">
+        <h2>🗺️ Quick Jump</h2>
+        <div class="section">
+          <p class="item">Base: Cross Hotel Kyoto puts you within walking distance of Kawaramachi, Pontocho, Nishiki, and Gion.</p>
+          <ul class="jump-list">
+            <li><a href="#gion">Gion</a></li>
+            <li><a href="#kawaramachi">Kawaramachi</a></li>
+            <li><a href="#nishiki-market">Nishiki Market</a></li>
+            <li><a href="#fushimi-inari">Fushimi Inari Taisha</a></li>
+            <li><a href="#kinkaku-ji">Kinkaku-ji</a></li>
+            <li><a href="#arashiyama">Arashiyama Bamboo Grove</a></li>
+            <li><a href="#kiyomizu-dera">Kiyomizu-dera</a></li>
+            <li><a href="#philosophers-path">Philosopher's Path</a></li>
+            <li><a href="#pontocho">Pontocho Alley</a></li>
+            <li><a href="#sannenzaka">Sannenzaka &amp; Ninenzaka</a></li>
+            <li><a href="#kyoto-station">Kyoto Station</a></li>
+            <li><a href="#nara">Nara Day Trip</a></li>
+          </ul>
+          <div class="tip">💡 Kyoto is busiest from 10 AM-3 PM. For major temples and bamboo, aim for opening time or just before sunset.</div>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="gion">
+        <h2>🏮 Gion (The Historic Heart)</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> The classic Kyoto postcard: cobblestone lanes, wooden machiya houses, and a slower, lantern-lit feel after dark.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Gion%2C+Kyoto" target="_blank" rel="noopener">Open Gion in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>Hanami-koji and Shirakawa canal for the most atmospheric evening walk.</li>
+            <li>Machiya townhouses and small traditional shops.</li>
+            <li>Yasaka Shrine as an easy anchor point.</li>
+            <li>Best launch point for Sannenzaka, Ninenzaka, and Kiyomizu-dera.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> Walk east from Cross Hotel, cross the Kamo River at Shijo, and you are in Gion in about 10 minutes.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Best at dusk. Stay quiet on the narrow lanes, and never photograph Geiko/Maiko without permission.</p>
+          <div class="tip">📸 Some Gion alleys ban street photography. If in doubt, skip the shot.</div>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="kawaramachi">
+        <h2>🛍️ Kawaramachi (The Lively Center)</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Kyoto's main shopping-and-dining engine room: busy, local, and easy for quick meals, coffee stops, and covered wandering on a rainy day.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Kawaramachi%2C+Kyoto" target="_blank" rel="noopener">Open Kawaramachi in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>Teramachi and Shinkyogoku covered arcades.</li>
+            <li>Department stores, cafes, and easy lunch options.</li>
+            <li>Pontocho and Nishiki Market within a short walk.</li>
+            <li>Convenient Keihan and Hankyu access for day trips and cross-town moves.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> You are already here. Cross Hotel Kyoto sits in the Kawaramachi area, so most sights are a 0-10 minute walk.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Use this area as your reset zone between temple visits. If weather turns bad, the covered arcades are the easiest backup plan.</p>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="nishiki-market">
+        <h2>🍢 Nishiki Market ("Kyoto's Kitchen")</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Narrow, crowded, snack-heavy, and fun—more food lane than full market, with knives, sweets, skewers, and local Kyoto specialties packed into one strip.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Nishiki+Market%2C+Kyoto" target="_blank" rel="noopener">Open Nishiki Market in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>Soy milk donuts, skewers, pickles, and adventurous bites like tako tamago.</li>
+            <li>Aritsugu knife shop for a classic Kyoto souvenir.</li>
+            <li>Kyoto pantry items: tea, sesame, spices, and sweets.</li>
+            <li>Great lunch stop before or after arcade shopping.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> Walk west from Cross Hotel for about 8-10 minutes; the market runs east-west just north of Shijo.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Most stalls wind down by 5 PM. Buy a snack, step to the side to eat it, then keep moving.</p>
+          <div class="tip">🍡 The "no eating while walking" rule is real here. Stop at the stall or a side space first.</div>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="fushimi-inari">
+        <h2>🦊 Fushimi Inari Taisha</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Iconic, energetic, and mystical once you climb beyond the crowded lower gates. The higher you go, the quieter it gets.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Fushimi+Inari+Taisha" target="_blank" rel="noopener">Open Fushimi Inari in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>Thousands of vermilion torii gates.</li>
+            <li>Yotsutsuji viewpoint for the best payoff without doing the full mountain.</li>
+            <li>Fox ema plaques and small shrine clusters along the path.</li>
+            <li>Free entry and open 24/7.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> Walk about 8 minutes to Gion-Shijo Station, take the Keihan Main Line to Fushimi-Inari Station, then walk 5 minutes to the shrine entrance.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Do not judge it by the packed first few minutes. Keep climbing to the first big fork or Yotsutsuji for thinner crowds and better photos.</p>
+          <div class="tip">⏱️ Arrive by 6:30-7:00 AM if you want the gates before the tour-bus wave.</div>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="kinkaku-ji">
+        <h2>🏯 Kinkaku-ji (Golden Pavilion)</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Short, dramatic, and very photogenic—a polished Zen garden walk built around one unforgettable golden view.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Kinkaku-ji" target="_blank" rel="noopener">Open Kinkaku-ji in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>The golden pavilion reflected in the pond.</li>
+            <li>Beautifully maintained Zen landscaping.</li>
+            <li>Sekkatei teahouse area near the exit.</li>
+            <li>Classic postcard stop that is easy to pair with Arashiyama.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> From Shijo-Kawaramachi, take Kyoto City Bus 12 or 59 toward Kinkakuji-michi, then walk a few minutes to the temple.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Treat it as a one-view stop, not a long visit. Snap your main pond photo first, then enjoy the garden path on the way out.</p>
+          <div class="tip">🏯 The route is one-way. Once you pass the pavilion viewpoint, you cannot circle back for a second try.</div>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="arashiyama">
+        <h2>🎋 Arashiyama Bamboo Grove</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Quiet and magical for a brief window in the early morning; crowded and rushed later. Pair it with the surrounding district, not as a standalone blockbuster.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Arashiyama+Bamboo+Grove" target="_blank" rel="noopener">Open Arashiyama Bamboo Grove in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>The bamboo path itself and the sound of the stalks in the wind.</li>
+            <li>Tenryu-ji gardens right next door.</li>
+            <li>Nonomiya Shrine inside the grove area.</li>
+            <li>Optional add-ons: riverfront stroll or Monkey Park.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> Walk to Kyoto-Kawaramachi Station, take the Hankyu Line to Katsura, transfer to Arashiyama Station, then walk about 10 minutes to the grove.</p>
+          <p class="item"><span class="label">Pro Tips:</span> The grove is smaller than photos suggest, so stack it with Tenryu-ji, the river, or coffee nearby to make the trip feel worth it.</p>
+          <div class="tip">🌅 Arrive by 6:30 AM for the version you actually want to remember.</div>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="kiyomizu-dera">
+        <h2>🏛️ Kiyomizu-dera</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Big, scenic, and busy—one of Kyoto's great showpiece temples, with a dramatic wooden stage and a memorable uphill approach.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Kiyomizu-dera" target="_blank" rel="noopener">Open Kiyomizu-dera in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>The huge wooden terrace with city views.</li>
+            <li>Otowa waterfall below the main hall.</li>
+            <li>Jishu Shrine and its love stones nearby.</li>
+            <li>The surrounding old-street walk through Ninenzaka and Sannenzaka.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> Taxi is easiest from Cross Hotel (about 10-15 minutes). Transit option: bus to Kiyomizu-michi or Gojozaka, then walk uphill 10 minutes.</p>
+          <p class="item"><span class="label">Pro Tips:</span> The approach is steep, so save your energy for the hill. Early morning gives you the best mix of cooler weather and cleaner photos.</p>
+          <div class="tip">🥾 Wear good shoes—this stop is part temple, part uphill old-town walk.</div>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="philosophers-path">
+        <h2>🌿 Philosopher's Path</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Calm, green, and reflective in late May—less "must-see spectacle," more pleasant Kyoto breathing room.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Philosopher%27s+Path%2C+Kyoto" target="_blank" rel="noopener">Open Philosopher's Path in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>Canal-side walking between the Ginkaku-ji and Nanzen-ji areas.</li>
+            <li>Lush spring-green trees instead of cherry blossoms in your season.</li>
+            <li>Small cafes, pottery shops, and textile boutiques along the route.</li>
+            <li>An easy pairing with Ginkaku-ji or a relaxed afternoon wander.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> Take a taxi in about 15-20 minutes, or catch a bus toward the Ginkaku-ji area and start from the north end.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Walk one direction only instead of trying to cover every connected temple. Morning or late afternoon is nicest because shade is limited in stretches.</p>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="pontocho">
+        <h2>🏮 Pontocho Alley</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Narrow, intimate, and best after dark—lanterns, tiny restaurants, and a little bit of old-Kyoto drama right by the river.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Pontocho+Alley%2C+Kyoto" target="_blank" rel="noopener">Open Pontocho Alley in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>Lantern-lit alley walking a block from the Kamo River.</li>
+            <li>Restaurants ranging from casual izakaya to splurge kaiseki.</li>
+            <li>Kamogawa yuka riverside dining decks in season.</li>
+            <li>Easy late-night stroll after dinner in Kawaramachi or Gion.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> About a 2-3 minute walk from Cross Hotel Kyoto.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Great for dinner, but many places are tiny and reservation-friendly. Pick the vibe first—quick bite, yakitori, or special meal—then commit.</p>
+          <div class="tip">🍽️ May-September is yuka season. If you want a river-deck table, book ahead.</div>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="sannenzaka">
+        <h2>🌸 Sannenzaka &amp; Ninenzaka Streets</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> One of Kyoto's prettiest old-street walks: stone lanes, shopfronts, sweets, and photo spots all the way up toward Kiyomizu-dera.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Sannenzaka%2C+Kyoto" target="_blank" rel="noopener">Open Sannenzaka in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>Traditional storefronts, tea shops, and snack stops.</li>
+            <li>Great approach route to Kiyomizu-dera.</li>
+            <li>One of the best areas for that "old Kyoto" feeling.</li>
+            <li>Good souvenir zone if you want something prettier than station shopping.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> Walk through Gion and continue uphill toward Yasaka Pagoda; expect about 20-25 minutes from Cross Hotel. Taxi is faster if you want to save your legs.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Best before the tour groups or after dinner when the lanes calm down. Combine with Kiyomizu-dera instead of treating it as a separate outing.</p>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="kyoto-station">
+        <h2>🚄 Kyoto Station</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Huge, modern, and efficient—less charming than old Kyoto, but incredibly useful for day trips, shinkansen moves, ramen, and logistics.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Kyoto+Station" target="_blank" rel="noopener">Open Kyoto Station in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>Shinkansen, JR lines, buses, and the Haruka airport link.</li>
+            <li>Skyway tunnel and rooftop views.</li>
+            <li>Kyoto Ramen Koji on the 10th floor.</li>
+            <li>Coin lockers, pharmacy, and tourist info for practical resets.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> Taxi from Cross Hotel is usually the easiest move with luggage and takes about 10-15 minutes. City buses also run directly but can get stuck in traffic.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Use Kyoto Station as your day-trip launch point for Nara, Osaka, or Hiroshima. If you are arriving before hotel check-in, lockers here make the first day much easier.</p>
+          <div class="tip">🧳 Coin lockers near the Shinkansen gates and B1 fill fast—grab one early if you need it.</div>
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="nara">
+        <h2>🦌 Nara Day Trip</h2>
+        <div class="section">
+          <p class="item"><span class="label">Vibe:</span> Ancient, green, and easygoing once you reach the park—more open and walkable than Kyoto, with deer everywhere and giant-history energy.</p>
+          <p class="item"><span class="label">Map:</span> <a href="https://www.google.com/maps/search/?api=1&query=Nara+Park" target="_blank" rel="noopener">Open Nara Park in Google Maps</a></p>
+          <p class="item"><span class="label">Highlights:</span></p>
+          <ul>
+            <li>Nara Park and its bowing deer.</li>
+            <li>Todai-ji and the huge Great Buddha.</li>
+            <li>Nakatanidou mochi-pounding shop.</li>
+            <li>Compact, mostly walkable sightseeing once you arrive.</li>
+          </ul>
+          <p class="item"><span class="label">Getting There:</span> Taxi to Kyoto Station, then take the Kintetsu Kyoto Line to Kintetsu Nara Station (about 35-45 minutes). Kintetsu drops you closer to the deer park than JR.</p>
+          <p class="item"><span class="label">Pro Tips:</span> Buy deer crackers only when you are ready to use them immediately. Keep moving, watch for droppings, and show open empty hands when you are out of food.</p>
+          <div class="tip">✋ Deer understand the cracker wrapper sound. Once they hear it, you are part of the show.</div>
+        </div>
+      </section>
+
+      <a class="back-link" href="visual-schedule.html">← Back to Visual Planner</a>
+    </div>
+  </body>
+</html>

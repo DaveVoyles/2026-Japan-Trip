@@ -1,0 +1,394 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Japan Trip 3D Timeline</title>
+    <link rel="stylesheet" href="../assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="../assets/scripts/site-nav.js?v=20260507d"></script>
+    <style>
+      :root {
+        --cp-bg: #f7f4ef;
+        --cp-surface: rgba(255, 255, 255, 0.9);
+        --cp-border: #dedede;
+        --cp-text: #242424;
+        --cp-text-muted: #5c5c5c;
+        --cp-accent: #b11f4b;
+        --cp-link: #0078d4;
+        --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.14);
+      }
+
+      html[data-theme="dark"] {
+        --cp-bg: #1f1f1f;
+        --cp-surface: rgba(34, 34, 34, 0.86);
+        --cp-border: #474747;
+        --cp-text: #dedede;
+        --cp-text-muted: #a8a8a8;
+        --cp-accent: #fd8ea1;
+        --cp-link: #4da6ff;
+        --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.35);
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family:
+          "Segoe UI",
+          Aptos,
+          Calibri,
+          -apple-system,
+          BlinkMacSystemFont,
+          sans-serif;
+        color: var(--cp-text);
+        background:
+          radial-gradient(
+            circle at 10% 8%,
+            rgba(177, 31, 75, 0.18) 0,
+            transparent 35%
+          ),
+          radial-gradient(
+            circle at 88% 14%,
+            rgba(0, 120, 212, 0.12) 0,
+            transparent 25%
+          ),
+          var(--cp-bg);
+      }
+
+      .wrap {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 18px;
+      }
+
+      .hero {
+        background: var(--cp-surface);
+        border: 1px solid var(--cp-border);
+        border-radius: 16px;
+        box-shadow: var(--cp-shadow);
+        padding: 18px;
+        margin-bottom: 14px;
+      }
+
+      .hero h1 {
+        font-size: 1.6rem;
+        margin-bottom: 6px;
+      }
+
+      .hero p {
+        color: var(--cp-text-muted);
+        margin-bottom: 10px;
+      }
+
+      .viz-shell {
+        position: relative;
+        min-height: 520px;
+        border-radius: 16px;
+        overflow: hidden;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        background: linear-gradient(
+          160deg,
+          rgba(10, 17, 32, 0.95),
+          rgba(26, 12, 30, 0.95)
+        );
+        box-shadow: var(--cp-shadow);
+      }
+
+      #timelineCanvas {
+        width: 100%;
+        height: 520px;
+        display: block;
+      }
+
+      .info {
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        background: rgba(14, 14, 14, 0.72);
+        color: #f3f3f3;
+        border: 1px solid rgba(255, 255, 255, 0.16);
+        border-radius: 12px;
+        width: min(340px, 78vw);
+        padding: 12px;
+        -webkit-backdrop-filter: blur(4px);
+        backdrop-filter: blur(4px);
+      }
+
+      .info h3 {
+        margin-bottom: 6px;
+        font-size: 1rem;
+      }
+
+      .info p {
+        color: #dbdbdb;
+        font-size: 0.86rem;
+        line-height: 1.45;
+      }
+
+      .hint {
+        margin-top: 8px;
+        color: #aab4c8;
+        font-size: 0.78rem;
+      }
+
+      @media (max-width: 700px) {
+        #timelineCanvas,
+        .viz-shell {
+          min-height: 430px;
+          height: 430px;
+        }
+
+        .info {
+          width: calc(100% - 20px);
+          left: 10px;
+          right: 10px;
+        }
+      }
+    </style>
+  </head>
+  <body data-nav-root="..">
+    <main class="wrap">
+      <section class="hero">
+        <h1>🧱 3D Day Timeline</h1>
+        <p>
+          A WebGL timeline with one pillar per day. Tap a pillar to inspect that
+          day and jump into its detail page.
+        </p>
+      </section>
+
+      <section class="viz-shell">
+        <canvas id="timelineCanvas"></canvas>
+        <aside class="info" id="infoCard">
+          <h3>Day 1 — Travel and Arrival</h3>
+          <p>Tap any pillar to preview that day.</p>
+          <p class="hint">
+            Drag to orbit · Scroll/pinch to zoom · Tap a highlighted card link
+            to open that day.
+          </p>
+        </aside>
+      </section>
+    </main>
+
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://unpkg.com/three@0.165.0/build/three.module.js",
+          "three/addons/": "https://unpkg.com/three@0.165.0/examples/jsm/"
+        }
+      }
+    </script>
+    <script type="module">
+      import * as THREE from "three";
+      import { OrbitControls } from "three/addons/controls/OrbitControls.js";
+
+      const days = [
+        {
+          d: 1,
+          city: "Tokyo",
+          title: "Travel and Arrival",
+          link: "day-01.html",
+          vibe: 0.9,
+        },
+        {
+          d: 2,
+          city: "Tokyo",
+          title: "Shibuya and Harajuku",
+          link: "day-02.html",
+          vibe: 1.1,
+        },
+        {
+          d: 3,
+          city: "Tokyo",
+          title: "Toyosu, Ginza & Roppongi Art",
+          link: "day-03.html",
+          vibe: 1.15,
+        },
+        {
+          d: 4,
+          city: "Tokyo",
+          title: "Asakusa and Akihabara",
+          link: "day-04.html",
+          vibe: 1.08,
+        },
+        {
+          d: 5,
+          city: "Kyoto",
+          title: "Tokyo to Kyoto",
+          link: "day-05.html",
+          vibe: 1.0,
+        },
+        {
+          d: 6,
+          city: "Kyoto",
+          title: "Arashiyama and Gold Pavilion",
+          link: "day-06.html",
+          vibe: 1.2,
+        },
+        {
+          d: 7,
+          city: "Osaka",
+          title: "Kyoto to Osaka",
+          link: "day-07.html",
+          vibe: 0.95,
+        },
+        {
+          d: 8,
+          city: "Osaka",
+          title: "Osaka Free Day",
+          link: "day-08.html",
+          vibe: 1.12,
+        },
+        {
+          d: 9,
+          city: "Tokyo",
+          title: "Osaka to Tokyo Return",
+          link: "day-09.html",
+          vibe: 0.88,
+        },
+        {
+          d: 10,
+          city: "Tokyo",
+          title: "Departure",
+          link: "day-10.html",
+          vibe: 0.75,
+        },
+      ];
+
+      const cityColor = {
+        Tokyo: 0xef476f,
+        Kyoto: 0xffd166,
+        Osaka: 0x06d6a0,
+      };
+
+      const info = document.getElementById("infoCard");
+      const canvas = document.getElementById("timelineCanvas");
+
+      const scene = new THREE.Scene();
+      scene.fog = new THREE.Fog(0x111827, 9, 30);
+
+      const renderer = new THREE.WebGLRenderer({
+        canvas,
+        antialias: true,
+        alpha: true,
+      });
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+      renderer.setSize(canvas.clientWidth, canvas.clientHeight, false);
+
+      const camera = new THREE.PerspectiveCamera(
+        52,
+        canvas.clientWidth / canvas.clientHeight,
+        0.1,
+        120,
+      );
+      camera.position.set(0, 5.2, 12.5);
+
+      const controls = new OrbitControls(camera, canvas);
+      controls.enableDamping = true;
+      controls.enablePan = false;
+      controls.minDistance = 6;
+      controls.maxDistance = 19;
+      controls.maxPolarAngle = Math.PI / 2.03;
+
+      const hemi = new THREE.HemisphereLight(0xcfdcff, 0x0a0f1a, 1.15);
+      scene.add(hemi);
+
+      const dir = new THREE.DirectionalLight(0xffffff, 1.0);
+      dir.position.set(7, 10, 4);
+      scene.add(dir);
+
+      const floor = new THREE.Mesh(
+        new THREE.PlaneGeometry(28, 14),
+        new THREE.MeshStandardMaterial({
+          color: 0x111b2b,
+          roughness: 0.92,
+          metalness: 0.03,
+        }),
+      );
+      floor.rotation.x = -Math.PI / 2;
+      scene.add(floor);
+
+      const bars = [];
+      const spacing = 2.2;
+      const startX = -((days.length - 1) * spacing) / 2;
+
+      days.forEach((day, i) => {
+        const h = 0.9 + day.vibe * 1.8;
+        const geo = new THREE.BoxGeometry(1.05, h, 1.05);
+        const mat = new THREE.MeshStandardMaterial({
+          color: cityColor[day.city],
+          emissive: cityColor[day.city],
+          emissiveIntensity: 0.13,
+          roughness: 0.35,
+          metalness: 0.22,
+        });
+
+        const bar = new THREE.Mesh(geo, mat);
+        bar.position.set(startX + i * spacing, h / 2, 0);
+        bar.userData = day;
+        scene.add(bar);
+        bars.push(bar);
+
+        const cap = new THREE.Mesh(
+          new THREE.SphereGeometry(0.18, 18, 18),
+          new THREE.MeshBasicMaterial({ color: 0xffffff }),
+        );
+        cap.position.set(bar.position.x, h + 0.18, 0);
+        scene.add(cap);
+      });
+
+      const raycaster = new THREE.Raycaster();
+      const pointer = new THREE.Vector2();
+      let selected = null;
+
+      function setInfo(day) {
+        info.innerHTML = `
+          <h3>Day ${day.d} — ${day.title}</h3>
+          <p><strong>City:</strong> ${day.city}</p>
+          <p><a href="${day.link}" style="color:#7cc4ff; text-decoration:none;">Open Day ${day.d} details →</a></p>
+          <p class="hint">Tap another pillar to switch days.</p>
+        `;
+      }
+
+      setInfo(days[0]);
+
+      canvas.addEventListener("pointerdown", (event) => {
+        const rect = canvas.getBoundingClientRect();
+        pointer.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
+        pointer.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
+
+        raycaster.setFromCamera(pointer, camera);
+        const hit = raycaster.intersectObjects(bars)[0];
+        if (!hit) return;
+
+        if (selected) selected.material.emissiveIntensity = 0.13;
+        selected = hit.object;
+        selected.material.emissiveIntensity = 0.35;
+        setInfo(selected.userData);
+      });
+
+      const clock = new THREE.Clock();
+      function animate() {
+        const t = clock.getElapsedTime();
+        bars.forEach((bar, i) => {
+          bar.position.z = Math.sin(t * 0.9 + i * 0.35) * 0.12;
+        });
+        controls.update();
+        renderer.render(scene, camera);
+        requestAnimationFrame(animate);
+      }
+      animate();
+
+      function resize() {
+        const w = canvas.clientWidth;
+        const h = canvas.clientHeight;
+        camera.aspect = w / h;
+        camera.updateProjectionMatrix();
+        renderer.setSize(w, h, false);
+      }
+      window.addEventListener("resize", resize);
+    </script>
+  </body>
+</html>

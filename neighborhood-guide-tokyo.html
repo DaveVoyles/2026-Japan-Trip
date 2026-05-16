@@ -1,0 +1,1747 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tokyo Neighborhood Guide</title>
+    <script>
+      (() => {
+        const param = new URLSearchParams(window.location.search).get(
+          "clawpilotTheme",
+        );
+        const theme =
+          param ||
+          (window.matchMedia("(prefers-color-scheme: dark)").matches
+            ? "dark"
+            : "light");
+        document.documentElement.setAttribute("data-theme", theme);
+      })();
+    </script>
+    <script src="assets/scripts/theme.js?v=20260507d"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css?v=20260507d" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="assets/scripts/site-nav.js?v=20260507d"></script>
+    <style>
+      :root {
+        color-scheme: light;
+        --cp-bg: #f7f4ef;
+        --cp-bg-elevated: #fcfbf8;
+        --cp-surface: #ffffff;
+        --cp-surface-soft: #f5f5f5;
+        --cp-border: #dedede;
+        --cp-border-strong: #919191;
+        --cp-text: #242424;
+        --cp-text-muted: #5c5c5c;
+        --cp-text-soft: #6f6f6f;
+        --cp-accent: #b11f4b;
+        --cp-accent-hover: #9a1a41;
+        --cp-accent-soft: rgba(177, 31, 75, 0.08);
+        --cp-accent-fg: #ffffff;
+        --cp-success: #16a34a;
+        --cp-danger: #dc2626;
+        --cp-warning: #f59e0b;
+        --cp-link: #0078d4;
+        --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.12);
+        --cp-overlay: rgba(255, 255, 255, 0.8);
+        --cp-panel: rgba(255, 255, 255, 0.86);
+        --cp-panel-strong: rgba(255, 255, 255, 0.96);
+        --cp-sheen: rgba(255, 255, 255, 0.55);
+        --cp-highlight: rgba(177, 31, 75, 0.12);
+      }
+      html[data-theme="dark"] {
+        color-scheme: dark;
+        --cp-bg: #3d3b3a;
+        --cp-bg-elevated: #343231;
+        --cp-surface: #292929;
+        --cp-surface-soft: #2e2e2e;
+        --cp-border: #474747;
+        --cp-border-strong: #5f5f5f;
+        --cp-text: #dedede;
+        --cp-text-muted: #919191;
+        --cp-text-soft: #b0b0b0;
+        --cp-accent: #fd8ea1;
+        --cp-accent-hover: #fb7b91;
+        --cp-accent-soft: rgba(253, 142, 161, 0.14);
+        --cp-accent-fg: #1a1a1a;
+        --cp-success: #4ade80;
+        --cp-danger: #f87171;
+        --cp-warning: #fbbf24;
+        --cp-link: #4da6ff;
+        --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
+        --cp-overlay: rgba(41, 41, 41, 0.88);
+        --cp-panel: rgba(41, 41, 41, 0.72);
+        --cp-panel-strong: rgba(41, 41, 41, 0.96);
+        --cp-sheen: rgba(255, 255, 255, 0.04);
+        --cp-highlight: rgba(253, 142, 161, 0.12);
+      }
+
+      :root {
+        --guide-accent-border: var(--cp-city-tokyo-border);
+        --guide-accent-bg: var(--cp-city-tokyo-bg);
+        --guide-accent-text: var(--cp-city-tokyo-text);
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family:
+          "Segoe UI",
+          Aptos,
+          Calibri,
+          -apple-system,
+          BlinkMacSystemFont,
+          sans-serif;
+        line-height: 1.5;
+        color: var(--cp-text);
+        background: var(--cp-bg);
+      }
+
+      .guide {
+        max-width: 700px;
+        margin: 20px auto;
+        background: var(--cp-surface);
+        padding: 24px;
+        border-radius: 8px;
+        border: 1px solid var(--cp-border);
+        box-shadow: var(--cp-shadow);
+      }
+
+      .header {
+        border-bottom: 3px solid var(--guide-accent-border);
+        padding-bottom: 12px;
+        margin-bottom: 18px;
+      }
+
+      h1 {
+        font-size: 1.6rem;
+        margin-bottom: 4px;
+        color: var(--guide-accent-text);
+      }
+      .subtitle {
+        font-size: 0.85rem;
+        color: var(--cp-text-muted);
+      }
+
+      h2 {
+        font-size: 1.1rem;
+        margin: 24px 0 10px;
+        color: var(--cp-text);
+        border-left: 3px solid var(--guide-accent-border);
+        padding-left: 10px;
+      }
+
+      .section {
+        margin-bottom: 14px;
+        scroll-margin-top: 5rem;
+      }
+
+      .item {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        margin-bottom: 8px;
+      }
+
+      .label {
+        font-weight: 600;
+        color: var(--guide-accent-text);
+      }
+
+      .bullet-list {
+        padding-left: 20px;
+        margin: 0 0 10px;
+      }
+
+      .bullet-list li {
+        font-size: 0.9rem;
+        margin-bottom: 6px;
+      }
+
+      .tip-box {
+        background: var(--guide-accent-bg);
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 0.85rem;
+        margin: 8px 0;
+        border-left: 3px solid var(--guide-accent-border);
+      }
+
+      .comparison-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.85rem;
+        margin: 10px 0;
+      }
+
+      .comparison-table th,
+      .comparison-table td {
+        text-align: left;
+        padding: 6px 10px;
+        border: 1px solid var(--cp-border);
+        vertical-align: top;
+      }
+
+      .comparison-table th {
+        background: var(--guide-accent-bg);
+        font-weight: 600;
+        color: var(--guide-accent-text);
+      }
+
+      .recommended {
+        font-weight: 700;
+      }
+
+      a {
+        color: var(--cp-link);
+      }
+      a:hover {
+        color: var(--cp-accent-hover);
+      }
+
+      .quick-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px 10px;
+        margin-top: 8px;
+      }
+
+      .quick-links a {
+        font-size: 0.85rem;
+        text-decoration: none;
+      }
+
+      .divider {
+        border-bottom: 1px solid var(--cp-border);
+        margin: 18px 0;
+      }
+
+      .back-link {
+        display: inline-block;
+        margin-top: 18px;
+        font-size: 0.85rem;
+      }
+
+      .reference-section {
+        margin-top: 24px;
+      }
+
+      .reference-toggle {
+        background: var(--guide-accent-soft);
+        border: 1px solid var(--guide-accent-border);
+        border-radius: 6px;
+        padding: 12px;
+        cursor: pointer;
+        font-weight: 600;
+        color: var(--guide-accent-text);
+        margin-bottom: 12px;
+        user-select: none;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .reference-toggle:hover {
+        background: var(--cp-highlight);
+      }
+
+      .reference-toggle::before {
+        content: "▶";
+        display: inline-block;
+        transition: transform 0.2s;
+        font-size: 0.9rem;
+      }
+
+      details[open] .reference-toggle::before {
+        transform: rotate(90deg);
+      }
+
+      .reference-content {
+        padding: 12px;
+        background: var(--cp-surface-soft);
+        border: 1px solid var(--cp-border);
+        border-top: none;
+        border-radius: 0 0 6px 6px;
+      }
+
+      .place-item {
+        margin-bottom: 14px;
+        padding-bottom: 12px;
+        border-bottom: 1px solid var(--cp-border);
+      }
+
+      .place-item:last-child {
+        border-bottom: none;
+        margin-bottom: 0;
+        padding-bottom: 0;
+      }
+
+      .place-name {
+        font-weight: 700;
+        font-size: 0.95rem;
+        color: var(--guide-accent-text);
+        margin-bottom: 2px;
+      }
+
+      .place-name a {
+        text-decoration: none;
+      }
+
+      .place-name a:hover {
+        text-decoration: underline;
+      }
+
+      .place-japanese {
+        font-size: 0.8rem;
+        color: var(--cp-text-muted);
+        margin-bottom: 4px;
+        font-style: italic;
+      }
+
+      .place-description {
+        font-size: 0.85rem;
+        line-height: 1.5;
+        color: var(--cp-text);
+        margin-bottom: 4px;
+      }
+
+      .place-visit {
+        font-size: 0.8rem;
+        color: var(--cp-text-soft);
+        font-style: italic;
+      }
+
+      @media (max-width: 700px) {
+        .guide {
+          margin: 12px auto;
+          padding: 16px;
+        }
+      }
+
+      @media print {
+        body {
+          background: var(--cp-surface);
+          padding: 0;
+        }
+        .guide {
+          box-shadow: none;
+          max-width: 100%;
+          margin: 0 auto;
+        }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <div class="guide">
+      <div class="header">
+        <h1>🗼 Tokyo Neighborhood Guide</h1>
+        <p class="subtitle">
+          Fast, practical area notes from a Shinjuku hotel base
+        </p>
+        <div class="quick-links">
+          <a href="#shinjuku">Shinjuku</a>
+          <a href="#shibuya">Shibuya</a>
+          <a href="#harajuku">Harajuku</a>
+          <a href="#ginza">Ginza</a>
+          <a href="#asakusa">Asakusa &amp; Akihabara</a>
+          <a href="#roppongi">Roppongi</a>
+          <a href="#shinjuku-station">Shinjuku Station</a>
+          <a href="#omoide-yokocho">Omoide Yokocho</a>
+          <a href="#meiji-jingu">Meiji Jingu</a>
+        </div>
+      </div>
+
+      <div class="tip-box">
+        📍 Good first-day flow:
+        <strong>Meiji Jingu → Harajuku → Shibuya</strong>. Save
+        <strong>Ginza</strong> and <strong>Asakusa/Akihabara</strong> for
+        separate half-days.
+        <a
+          href="https://www.google.com/maps/search/Ginza+Six+OR+Uniqlo+Ginza+OR+Kabukicho+Godzilla+OR+Shinjuku+Gyoen+OR+Omoide+Yokocho+OR+Hachiko+Shibuya+OR+Shibuya+Parco+OR+Shibuya+Sky+OR+Meiji+Shrine+OR+Senso-ji+OR+Super+Potato+Akihabara+OR+Kappabashi+Kitchen+Town"
+          target="_blank"
+          rel="noopener"
+          >Open overall map</a
+        >.
+      </div>
+
+      <table class="comparison-table">
+        <thead>
+          <tr>
+            <th>Area</th>
+            <th>Best For</th>
+            <th>Best Time</th>
+            <th>From Shinjuku</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="recommended">Shinjuku ✅</td>
+            <td>Nightlife, food, easy logistics</td>
+            <td>Late afternoon to night</td>
+            <td>Walk</td>
+          </tr>
+          <tr>
+            <td>Shibuya</td>
+            <td>Crossing, views, pop culture</td>
+            <td>Late afternoon</td>
+            <td>JR Yamanote ~7 min</td>
+          </tr>
+          <tr>
+            <td>Harajuku</td>
+            <td>Streetwear, shrines, cafes</td>
+            <td>Morning to lunch</td>
+            <td>JR Yamanote ~4 min</td>
+          </tr>
+          <tr>
+            <td>Ginza</td>
+            <td>Shopping, depachika, polished walk</td>
+            <td>Weekday afternoon / weekend paseo</td>
+            <td>Marunouchi Line ~20 min</td>
+          </tr>
+          <tr>
+            <td>Asakusa &amp; Akihabara</td>
+            <td>Temples, retro tech, souvenirs</td>
+            <td>Early temple + late-morning arcades</td>
+            <td>JR to Akihabara ~20 min</td>
+          </tr>
+          <tr>
+            <td>Roppongi</td>
+            <td>Museums, skyline, evening art</td>
+            <td>Afternoon to evening</td>
+            <td>Oedo Line ~12 min</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="divider"></div>
+
+      <section class="section" id="shinjuku">
+        <h2>🌆 Shinjuku (The Neon Jungle)</h2>
+        <p class="item">
+          <span class="label">Vibe:</span> Tokyo at full volume: neon, crowds,
+          food, nightlife, and one of the city’s easiest launchpads. East side
+          is chaotic and fun; west side is calmer and more businesslike.
+          <a
+            href="https://www.google.com/maps/search/Shinjuku"
+            target="_blank"
+            rel="noopener"
+            >Google Maps</a
+          >
+        </p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul class="bullet-list">
+          <li>
+            Kabukicho and the Godzilla Head for classic neon-Tokyo energy.
+          </li>
+          <li>
+            Shinjuku Gyoen for a reset when the station area gets intense.
+          </li>
+          <li>Tokyo Metropolitan Government Building for free city views.</li>
+          <li>
+            Isetan Shinjuku depachika for excellent bento, sweets, and gifts.
+          </li>
+        </ul>
+        <p class="item">
+          <span class="label">Getting There:</span> You’re already based here.
+          From Keio Plaza, most Shinjuku spots are a 10-20 minute walk depending
+          on which side of the station you want.
+        </p>
+        <p class="item">
+          <span class="label">Pro Tips:</span> Use the west or south side when
+          you want a calmer entry/exit. Kabukicho is fun, but ignore anyone
+          pitching bars or "cheap drinks."
+        </p>
+        <div class="tip-box">
+          🌃 Best used as your dinner-and-night-walk district, not your first
+          place for a quiet morning.
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section class="section" id="shibuya">
+        <h2>🚥 Shibuya (The Youth Pulse)</h2>
+        <p class="item">
+          <span class="label">Vibe:</span> Loud, stylish, and youthful — the
+          city’s most recognizable burst of street life. Great for
+          people-watching, big views, and flagship stores.
+          <a
+            href="https://www.google.com/maps/search/Shibuya+Scramble+Crossing"
+            target="_blank"
+            rel="noopener"
+            >Google Maps</a
+          >
+        </p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul class="bullet-list">
+          <li>Shibuya Scramble and the Hachiko statue.</li>
+          <li>Shibuya Sky for one of the best open-air views in Tokyo.</li>
+          <li>Miyashita Park for a rooftop break between stops.</li>
+          <li>
+            Shibuya Parco for Nintendo Tokyo, Pokémon Center, and other
+            pop-culture shops.
+          </li>
+        </ul>
+        <p class="item">
+          <span class="label">Getting There:</span> JR Yamanote Line from
+          Shinjuku to Shibuya takes about 7 minutes. If you start in Harajuku,
+          you can walk down Cat Street into Shibuya.
+        </p>
+        <p class="item">
+          <span class="label">Pro Tips:</span> Book Shibuya Sky weeks ahead if
+          you want sunset. Coin lockers are plentiful in the station, but the
+          area is most enjoyable if you arrive light.
+        </p>
+        <div class="tip-box">
+          📷 For the classic crossing photo, use the area around Scramble Square
+          or magnet-facing viewpoints instead of stopping in the middle.
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section class="section" id="harajuku">
+        <h2>👟 Harajuku (Streetwear &amp; Cat Street)</h2>
+        <p class="item">
+          <span class="label">Vibe:</span> Fashion extremes in one compact zone:
+          hyper-busy Takeshita Street, cool side-street boutiques, and leafy
+          shrine grounds nearby.
+          <a
+            href="https://www.google.com/maps/search/Harajuku"
+            target="_blank"
+            rel="noopener"
+            >Google Maps</a
+          >
+        </p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul class="bullet-list">
+          <li>Takeshita Street for the full kawaii, snack-heavy spectacle.</li>
+          <li>Cat Street for better-paced vintage shopping and streetwear.</li>
+          <li>
+            Omotesando for architecture, flagship stores, and a more polished
+            walk.
+          </li>
+          <li>Coffee stops and hidden boutiques tucked off the main lanes.</li>
+        </ul>
+        <p class="item">
+          <span class="label">Getting There:</span> JR Yamanote Line from
+          Shinjuku to Harajuku is about 4 minutes. Harajuku also connects
+          naturally to Meiji Jingu and a downhill walk into Shibuya.
+        </p>
+        <p class="item">
+          <span class="label">Pro Tips:</span> Takeshita gets slammed by midday;
+          do it early or skip straight to Cat Street if you want something more
+          relaxed. Harajuku Station has handy lockers near the Omotesando side.
+        </p>
+        <div class="tip-box">
+          🛍️ Harajuku works best in the morning, then roll south into Shibuya as
+          the day gets busier.
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section class="section" id="ginza">
+        <h2>👜 Ginza (The Polished Heart)</h2>
+        <p class="item">
+          <span class="label">Vibe:</span> Tokyo’s refined shopping district —
+          quieter, cleaner-lined, and much less frantic than the west-side
+          nightlife hubs.
+          <a
+            href="https://www.google.com/maps/search/Ginza"
+            target="_blank"
+            rel="noopener"
+            >Google Maps</a
+          >
+        </p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul class="bullet-list">
+          <li>
+            Weekend Chuo-dori pedestrian paradise when the main street closes to
+            cars.
+          </li>
+          <li>Ginza Six and Uniqlo Ginza for destination-scale shopping.</li>
+          <li>Kabuki-za Theatre area for a traditional culture stop.</li>
+          <li>
+            Mitsukoshi Ginza depachika and Itoya for food gifts and stationery.
+          </li>
+        </ul>
+        <p class="item">
+          <span class="label">Getting There:</span> Take the Marunouchi Line
+          from Shinjuku to Ginza in roughly 20 minutes. It’s also close to Tokyo
+          Station if you’re pairing it with Shinkansen logistics.
+        </p>
+        <p class="item">
+          <span class="label">Pro Tips:</span> Carry your passport for tax-free
+          shopping over ¥5,500. If you want a calmer Tokyo shopping day, choose
+          Ginza over Shibuya.
+        </p>
+        <div class="tip-box">
+          🛍️ Great rainy-day district: department stores, food halls, and
+          covered shopping mean you can stay productive without a perfect
+          forecast.
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section class="section" id="asakusa">
+        <h2>⛩️ Asakusa &amp; Akihabara (Temples &amp; Tech)</h2>
+        <p class="item">
+          <span class="label">Vibe:</span> One of the best Tokyo pairings: old
+          Tokyo temple atmosphere in Asakusa, then neon hobby-and-arcade energy
+          in Akihabara.
+          <a
+            href="https://www.google.com/maps/search/Senso-ji+Temple"
+            target="_blank"
+            rel="noopener"
+            >Google Maps</a
+          >
+        </p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul class="bullet-list">
+          <li>
+            Senso-ji and Nakamise for the classic first-timer temple walk.
+          </li>
+          <li>
+            Asakusa Culture Tourist Information Center for a free observation
+            deck.
+          </li>
+          <li>
+            Super Potato, Taito Station, and BEEP in Akihabara for retro-game
+            browsing.
+          </li>
+          <li>
+            Kappabashi Kitchen Town for knives, ceramics, and fake food samples.
+          </li>
+        </ul>
+        <p class="item">
+          <span class="label">Getting There:</span> Easiest plan from Shinjuku
+          is JR to Akihabara in about 20 minutes, then hop onward to Asakusa or
+          reverse it depending on your day. This area is best done as a
+          dedicated east-side outing.
+        </p>
+        <p class="item">
+          <span class="label">Pro Tips:</span> Do Senso-ji by 6:30 AM if you
+          want quiet temple time, and remember there’s no photography inside the
+          main hall. Akihabara shops usually don’t get going until around 11:00
+          AM; Kappabashi tends to close early around 5:00 PM.
+        </p>
+        <div class="tip-box">
+          🎮 Ideal combo: early Asakusa, late-morning Kappabashi, then Akihabara
+          once the gaming shops are actually open.
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section class="section" id="roppongi">
+        <h2>🖼️ Roppongi (The Art Triangle)</h2>
+        <p class="item">
+          <span class="label">Vibe:</span> More international, more polished,
+          and strongly museum-centered by day — then more nightlife-heavy after
+          dark.
+          <a
+            href="https://www.google.com/maps/search/Roppongi+Hills"
+            target="_blank"
+            rel="noopener"
+            >Google Maps</a
+          >
+        </p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul class="bullet-list">
+          <li>Mori Art Museum for contemporary shows and tower views.</li>
+          <li>
+            National Art Center for big rotating exhibitions and standout
+            architecture.
+          </li>
+          <li>
+            Suntory Museum of Art in Tokyo Midtown for traditional craft and
+            design.
+          </li>
+          <li>Tokyo City View for one of the better skyline lookouts.</li>
+        </ul>
+        <p class="item">
+          <span class="label">Getting There:</span> From the hotel, walk to
+          Tochomae or Shinjuku-area Oedo Line access and ride direct to Roppongi
+          in about 10-12 minutes.
+        </p>
+        <p class="item">
+          <span class="label">Pro Tips:</span> Check museum closure days before
+          you go, and do not follow any street tout into a bar here or in
+          Kabukicho. Roppongi is strongest as an afternoon-into-evening plan.
+        </p>
+        <div class="tip-box">
+          ⚠️ Best version of Roppongi: museum first, skyline second, drinks only
+          in places you picked yourself.
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section class="section" id="shinjuku-station">
+        <h2>🚉 Shinjuku Station (Train Hub)</h2>
+        <p class="item">
+          <span class="label">Vibe:</span> Functional chaos — the busiest rail
+          station in the world, but incredibly useful once you pick the right
+          exit and line.
+          <a
+            href="https://www.google.com/maps/search/Shinjuku+Station"
+            target="_blank"
+            rel="noopener"
+            >Google Maps</a
+          >
+        </p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul class="bullet-list">
+          <li>
+            Direct access to JR, subway, private rail, and long-distance
+            day-trip routes.
+          </li>
+          <li>
+            Fast connections to Shibuya, Harajuku, Akihabara, and Tokyo Station.
+          </li>
+          <li>
+            Department stores, food halls, and shopping wrapped around the
+            station complex.
+          </li>
+          <li>
+            Useful split personalities: east for energy, west for
+            hotels/skyscrapers, south for shopping.
+          </li>
+        </ul>
+        <p class="item">
+          <span class="label">Getting There:</span> From Keio Plaza, this is
+          your home station area — roughly a 10-15 minute walk depending on
+          which entrance or underground passage you use.
+        </p>
+        <p class="item">
+          <span class="label">Pro Tips:</span> Decide your exit before you leave
+          the platform. Avoid rush hour with luggage if possible, and use coin
+          lockers only if you truly need them — navigating is easier when you
+          travel light.
+        </p>
+        <div class="tip-box">
+          🧭 If you get disoriented, reset by following signs for a major exit
+          rather than trying to improvise through the underground maze.
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section class="section" id="omoide-yokocho">
+        <h2>🍢 Omoide Yokocho</h2>
+        <p class="item">
+          <span class="label">Vibe:</span> Narrow, smoky, nostalgic, and one of
+          the easiest ways to get a tiny-skillet, postwar-alley Tokyo feeling
+          without leaving central Shinjuku.
+          <a
+            href="https://www.google.com/maps/search/Omoide+Yokocho"
+            target="_blank"
+            rel="noopener"
+            >Google Maps</a
+          >
+        </p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul class="bullet-list">
+          <li>Rows of miniature yakitori and izakaya counters.</li>
+          <li>Great atmosphere for a short snack-and-beer stop after dark.</li>
+          <li>
+            Retro lantern-lit photo moments tucked right beside the station.
+          </li>
+          <li>Easy add-on to a Kabukicho or west-side Shinjuku night.</li>
+        </ul>
+        <p class="item">
+          <span class="label">Getting There:</span> Walk from the hotel toward
+          Shinjuku Station’s west/northwest side; it’s an easy 15-minute
+          Shinjuku evening add-on.
+        </p>
+        <p class="item">
+          <span class="label">Pro Tips:</span> Go with a small group, expect
+          tight seating, and keep cash or a backup card handy. It’s more about
+          atmosphere than a long, leisurely meal.
+        </p>
+        <div class="tip-box">
+          🍺 Best move: one or two skewers here, then continue elsewhere if you
+          want a fuller dinner.
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section class="section" id="meiji-jingu">
+        <h2>🌲 Meiji Jingu</h2>
+        <p class="item">
+          <span class="label">Vibe:</span> A surprisingly quiet, forested shrine
+          retreat that feels far removed from nearby Harajuku crowds.
+          <a
+            href="https://www.google.com/maps/search/Meiji+Jingu"
+            target="_blank"
+            rel="noopener"
+            >Google Maps</a
+          >
+        </p>
+        <p class="item"><span class="label">Highlights:</span></p>
+        <ul class="bullet-list">
+          <li>The giant torii approach and long wooded paths.</li>
+          <li>Main shrine buildings and broad gravel courtyards.</li>
+          <li>
+            A peaceful cultural contrast to the shopping streets next door.
+          </li>
+          <li>Easy pairing with Harajuku or Omotesando on the same outing.</li>
+        </ul>
+        <p class="item">
+          <span class="label">Getting There:</span> JR Yamanote from Shinjuku to
+          Harajuku takes about 4 minutes, then it’s a short walk to the shrine
+          entrances. A taxi is also easy if you want a simpler start.
+        </p>
+        <p class="item">
+          <span class="label">Pro Tips:</span> Bow once before entering the
+          torii, walk on the sides of the path rather than the center, and go
+          early for the calmest visit.
+        </p>
+        <div class="tip-box">
+          🙏 Strong morning opener before Harajuku shops wake up.
+        </div>
+      </section>
+
+      <div class="divider"></div>
+
+      <div class="reference-section">
+        <details>
+          <summary class="reference-toggle">
+            📚 Places & References (English Guide)
+          </summary>
+          <div class="reference-content">
+            <h3
+              style="
+                font-size: 0.95rem;
+                margin: 12px 0 10px;
+                color: var(--guide-accent-text);
+                border-left: 3px solid var(--guide-accent-border);
+                padding-left: 10px;
+              "
+            >
+              Shibuya & Harajuku
+            </h3>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.meijijingu.or.jp/en/" target="_blank"
+                  >Meiji Jingu (Meiji Shrine)</a
+                >
+              </div>
+              <div class="place-japanese">明治神宮</div>
+              <div class="place-description">
+                One of Japan's most important Shinto shrines, dedicated to the
+                Emperor Meiji. It's surrounded by a peaceful, forested grove and
+                accessed by walking under traditional torii gates. The shrine
+                features broad gravel courtyards and is a popular place to draw
+                fortune-telling papers (omikuji). Locals bow at the entrance
+                torii gate as a sign of respect.
+              </div>
+              <div class="place-visit">
+                Days 2-3: Morning visit recommended (before 10 AM for calm)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Takeshita+Street"
+                  target="_blank"
+                  >Takeshita Street</a
+                >
+              </div>
+              <div class="place-japanese">竹下通り</div>
+              <div class="place-description">
+                Harajuku's most famous pedestrian shopping street, packed with
+                fashion boutiques, crepe stands, and kawaii (cute) culture. It's
+                narrow, crowded, and quintessential youth-Tokyo. Morning visits
+                are quieter than afternoons. The street stretches about 400
+                meters from Harajuku Station and connects to nearby cafes and
+                shops.
+              </div>
+              <div class="place-visit">
+                Day 2: Morning preferred (before noon)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Cat+Street+Harajuku"
+                  target="_blank"
+                  >Cat Street (Omotesando Kodo)</a
+                >
+              </div>
+              <div class="place-japanese">キャットストリート</div>
+              <div class="place-description">
+                A quieter, more upscale shopping street in Harajuku that runs
+                parallel to Takeshita. Known for vintage boutiques, independent
+                designers, and artisanal cafes. It has a relaxed, refined vibe
+                compared to Takeshita Street's frenzy. A great spot to discover
+                unique fashion and escape crowds.
+              </div>
+              <div class="place-visit">
+                Day 2: Mid-morning to midday transition
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Shibuya+Scramble+Crossing"
+                  target="_blank"
+                  >Shibuya Scramble Crossing</a
+                >
+              </div>
+              <div class="place-japanese">渋谷スクランブル交差点</div>
+              <div class="place-description">
+                The world's busiest pedestrian crossing, filmed countless times
+                in movies and shows. Thousands of people cross simultaneously at
+                this intersection. It's iconic Tokyo and a must-photograph
+                moment. Best views from the Starbucks on the corner or the
+                pedestrian bridge nearby. Photos are most dramatic at dusk.
+              </div>
+              <div class="place-visit">
+                Day 2: Late afternoon (around 3-5 PM)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Shibuya+Sky"
+                  target="_blank"
+                  >Shibuya Sky</a
+                >
+              </div>
+              <div class="place-japanese">渋谷スカイ</div>
+              <div class="place-description">
+                A 46-story observation deck located atop Scramble Square
+                offering 360-degree views of Tokyo from one of the tallest
+                buildings in the area. The viewing floor is open-air and gives a
+                stunning perspective of the city's density and scale.
+                Pre-booking is essential, especially for sunset or evening
+                slots.
+              </div>
+              <div class="place-visit">
+                Day 2: 2:00 PM (Booking QSJ919058 confirmed)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Hachiko+statue+Shibuya"
+                  target="_blank"
+                  >Hachiko Statue</a
+                >
+              </div>
+              <div class="place-japanese">忠犬ハチ公像</div>
+              <div class="place-description">
+                A statue of Hachiko, a famous Akita dog known for his loyalty to
+                his owner. Located outside Shibuya Station, it's one of Tokyo's
+                most recognizable meeting points and photo spots. The statue has
+                become a symbol of loyalty and is always crowded with tourists
+                and locals.
+              </div>
+              <div class="place-visit">Day 2: Near Shibuya Scramble visit</div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.parco.co.jp/" target="_blank"
+                  >Shibuya Parco</a
+                >
+              </div>
+              <div class="place-japanese">渋谷パルコ</div>
+              <div class="place-description">
+                A major fashion and entertainment shopping center in Shibuya
+                housing flagship stores like Nintendo Tokyo and Pokémon Center.
+                Multiple floors feature clothing, electronics, and pop-culture
+                merchandise. It's one of Japan's premier pop-culture retail
+                destinations.
+              </div>
+              <div class="place-visit">
+                Day 2: Evening shopping (after Shibuya Sky)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Nintendo+Tokyo"
+                  target="_blank"
+                  >Nintendo Tokyo</a
+                >
+              </div>
+              <div class="place-japanese">ニンテンドウ トウキョウ</div>
+              <div class="place-description">
+                An official Nintendo experience store inside Shibuya Parco
+                featuring the latest games, exclusive merchandise, and
+                interactive displays. It's a pilgrimage destination for gaming
+                fans and a great place to find hard-to-find Nintendo products
+                not available internationally.
+              </div>
+              <div class="place-visit">
+                Day 2: Shibuya Parco visit (if time allows)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.pokemon.co.jp/gp/pokecen/" target="_blank"
+                  >Pokémon Center</a
+                >
+              </div>
+              <div class="place-japanese">ポケモンセンター</div>
+              <div class="place-description">
+                An official Pokémon merchandise store inside Shibuya Parco with
+                exclusive Japanese Pokémon items, collectibles, and
+                region-specific products. Shelves are stocked with cards, toys,
+                apparel, and gifts not found in Western stores. Known for
+                limited-edition collaborations with other brands.
+              </div>
+              <div class="place-visit">
+                Day 2: Shibuya Parco visit (pop-culture stop)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Marion+Crepes+Harajuku"
+                  target="_blank"
+                  >Marion Crepes</a
+                >
+              </div>
+              <div class="place-japanese">マリオンクレープ</div>
+              <div class="place-description">
+                A famous crepe stand on Takeshita Street known for sweet and
+                savory crepes made to order. Fluffy crepes filled with whipped
+                cream, Nutella, strawberries, and other toppings are a Harajuku
+                tradition. Popular with tourists and locals for a quick,
+                inexpensive sweet treat.
+              </div>
+              <div class="place-visit">
+                Day 2: Harajuku midday (crepe break)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.cosme.net/" target="_blank"
+                  >@Cosme Tokyo</a
+                >
+              </div>
+              <div class="place-japanese">@コスメ トウキョウ</div>
+              <div class="place-description">
+                A large cosmetics and beauty products flagship store in Harajuku
+                showcasing Japanese and international skincare, makeup, and
+                wellness products. It's a paradise for beauty enthusiasts and
+                one of the best places to find cult Japanese beauty items (sheet
+                masks, serums, face rollers) at reasonable prices.
+              </div>
+              <div class="place-visit">
+                Day 2: Harajuku shopping (Debbie's preference)
+              </div>
+            </div>
+
+            <h3
+              style="
+                font-size: 0.95rem;
+                margin: 12px 0 10px;
+                color: var(--guide-accent-text);
+                border-left: 3px solid var(--guide-accent-border);
+                padding-left: 10px;
+              "
+            >
+              Shinjuku
+            </h3>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Kabukicho+Shinjuku"
+                  target="_blank"
+                  >Kabukicho</a
+                >
+              </div>
+              <div class="place-japanese">歌舞伎町</div>
+              <div class="place-description">
+                Shinjuku's famous entertainment and red-light district known for
+                its neon signs, pachinko parlors, karaoke, bars, and
+                restaurants. It's one of Tokyo's most lively night-time areas
+                with tremendous energy and a classic "neon Tokyo" aesthetic.
+                Daytime is quieter; nighttime is buzzing with activity.
+              </div>
+              <div class="place-visit">
+                Evenings: Part of Shinjuku nightlife exploration
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Godzilla+Head+Kabukicho"
+                  target="_blank"
+                  >Godzilla Head</a
+                >
+              </div>
+              <div class="place-japanese">ゴジラヘッド</div>
+              <div class="place-description">
+                A famous Godzilla sculpture mounted on the roof of a building in
+                Kabukicho, right next to Shinjuku Station. It's become an iconic
+                photo spot and symbol of Shinjuku's pop-culture energy. The head
+                occasionally "roars" with sound and light effects, adding to its
+                theatrical appeal.
+              </div>
+              <div class="place-visit">
+                Evenings or rainy day photo opportunity
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Shinjuku+Gyoen"
+                  target="_blank"
+                  >Shinjuku Gyoen</a
+                >
+              </div>
+              <div class="place-japanese">新宿御苑</div>
+              <div class="place-description">
+                A large, peaceful urban park in Shinjuku featuring landscaped
+                gardens, trees, and open greenspace. It offers a quiet retreat
+                from the chaotic Shinjuku streets and is especially beautiful
+                during cherry blossom season. The park is free to enter and
+                includes a tea house where you can rest.
+              </div>
+              <div class="place-visit">
+                Anytime for a peaceful break from crowds
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Tokyo+Metropolitan+Government+Building"
+                  target="_blank"
+                  >Tokyo Metropolitan Government Building</a
+                >
+              </div>
+              <div class="place-japanese">東京都庁</div>
+              <div class="place-description">
+                A twin-tower government building in Shinjuku with free
+                observation decks on the 45th floor offering panoramic views of
+                Tokyo and beyond. On clear days, you can see Mount Fuji from the
+                north observation deck. It's free and accessible to the public,
+                making it an excellent budget-friendly alternative to paid
+                observation decks.
+              </div>
+              <div class="place-visit">
+                Anytime, especially for free city views
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.isetan.mistore.jp/" target="_blank"
+                  >Isetan Shinjuku</a
+                >
+              </div>
+              <div class="place-japanese">伊勢丹新宿</div>
+              <div class="place-description">
+                A flagship department store in Shinjuku known for its food halls
+                (depachika) featuring premium bento, Japanese sweets, and gift
+                items. The depachika is particularly famous for high-quality
+                prepared foods and beautiful gift packaging. Excellent place to
+                find souvenirs and snacks.
+              </div>
+              <div class="place-visit">
+                Anytime for gift shopping or food hall exploration
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Omoide+Yokocho+Shinjuku"
+                  target="_blank"
+                  >Omoide Yokocho</a
+                >
+              </div>
+              <div class="place-japanese">思い出横丁</div>
+              <div class="place-description">
+                A narrow alleyway in Shinjuku lined with tiny yakitori (grilled
+                chicken) and izakaya (casual bar) restaurants. The nostalgic,
+                postwar atmosphere with paper lanterns and intimate seating
+                makes it feel like stepping back in time. It's perfect for a
+                quick skewer and beer experience in an authentically retro
+                setting.
+              </div>
+              <div class="place-visit">
+                Evenings for atmospheric yakitori snack
+              </div>
+            </div>
+
+            <h3
+              style="
+                font-size: 0.95rem;
+                margin: 12px 0 10px;
+                color: var(--guide-accent-text);
+                border-left: 3px solid var(--guide-accent-border);
+                padding-left: 10px;
+              "
+            >
+              Ginza & Nihonbashi
+            </h3>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.ginza6.tokyo/" target="_blank"
+                  >Ginza Six</a
+                >
+              </div>
+              <div class="place-japanese">ギンザシックス</div>
+              <div class="place-description">
+                A luxury shopping complex in Ginza with designer boutiques,
+                restaurants, and a rooftop garden. It combines contemporary
+                architecture with high-end retail and is a symbol of Ginza's
+                refined shopping culture. The building also houses art
+                exhibitions and seasonal events.
+              </div>
+              <div class="place-visit">Day 3: Afternoon Ginza shopping</div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.uniqlo.com/jp/en/" target="_blank"
+                  >Uniqlo Ginza</a
+                >
+              </div>
+              <div class="place-japanese">ユニクロ銀座</div>
+              <div class="place-description">
+                A flagship Uniqlo store in Ginza showcasing the brand's full
+                range of minimalist, quality basics (shirts, jeans, thermal
+                wear). The Ginza location is particularly large and
+                well-stocked. Great for basic clothing at reasonable prices or
+                trying the latest seasonal collections.
+              </div>
+              <div class="place-visit">
+                Day 3: Afternoon Ginza shopping (Debbie's preference)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Itoya+Ginza"
+                  target="_blank"
+                  >Itoya</a
+                >
+              </div>
+              <div class="place-japanese">伊藤屋</div>
+              <div class="place-description">
+                A legendary nine-story stationery and specialty goods store in
+                Ginza. It stocks premium pens, paper, notebooks, washi tape, and
+                creative supplies from around the world. A paradise for
+                stationary lovers and gift-seekers looking for beautiful, unique
+                Japanese items.
+              </div>
+              <div class="place-visit">
+                Day 3: Afternoon Ginza shopping (stationery/gifts)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Chuo-dori+Ginza"
+                  target="_blank"
+                  >Chuo-dori</a
+                >
+              </div>
+              <div class="place-japanese">中央通り</div>
+              <div class="place-description">
+                Ginza's main shopping boulevard that closes to car traffic on
+                weekends, becoming a pedestrian paradise. Lined with luxury
+                boutiques, galleries, and cafes, it's one of Tokyo's most
+                refined shopping experiences. The street is wide, clean, and
+                elegant—a stark contrast to the chaos of Shinjuku.
+              </div>
+              <div class="place-visit">
+                Weekends or weekday afternoons for shopping
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.kabuki-za.co.jp/en/" target="_blank"
+                  >Kabuki-za Theatre</a
+                >
+              </div>
+              <div class="place-japanese">歌舞伎座</div>
+              <div class="place-description">
+                Historic kabuki theater in Ginza where traditional Japanese
+                kabuki performances are held. Even if you don't see a full
+                performance, the ornate architecture is worth viewing.
+                Single-act tickets allow you to watch just one part of a
+                performance without committing to a full evening.
+              </div>
+              <div class="place-visit">
+                Optional cultural stop in Ginza area
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Mitsukoshi+Ginza"
+                  target="_blank"
+                  >Mitsukoshi Ginza</a
+                >
+              </div>
+              <div class="place-japanese">三越銀座</div>
+              <div class="place-description">
+                A historic high-end department store in Ginza known for its food
+                halls (depachika) with premium prepared foods, desserts, and
+                gift items. The store embodies Japanese luxury and
+                craftsmanship. Perfect for finding quality gifts, seasonal
+                sweets, and prepared meals.
+              </div>
+              <div class="place-visit">
+                Anytime for gift shopping and food hall browsing
+              </div>
+            </div>
+
+            <h3
+              style="
+                font-size: 0.95rem;
+                margin: 12px 0 10px;
+                color: var(--guide-accent-text);
+                border-left: 3px solid var(--guide-accent-border);
+                padding-left: 10px;
+              "
+            >
+              Asakusa & Akihabara
+            </h3>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.senso-ji.jp/english/" target="_blank"
+                  >Senso-ji Temple</a
+                >
+              </div>
+              <div class="place-japanese">浅草寺</div>
+              <div class="place-description">
+                Tokyo's oldest temple, founded in 645, dedicated to
+                Avalokiteshvara (Kannon), the bodhisattva of mercy. It features
+                a massive red lantern (chōchin), traditional architecture, and
+                gates. Visitors can draw fortune-telling papers (omikuji) and
+                observe locals making offerings. The main hall is off-limits to
+                photography, but the grounds are spectacular.
+              </div>
+              <div class="place-visit">
+                Day 4: Early morning (before 6:30 AM for quiet)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Nakamise+Asakusa"
+                  target="_blank"
+                  >Nakamise Shopping Street</a
+                >
+              </div>
+              <div class="place-japanese">仲見世通り</div>
+              <div class="place-description">
+                A covered shopping arcade leading to Senso-ji Temple selling
+                traditional souvenirs, snacks, toys, and temple-related goods.
+                The street is busy but offers a slice of old Tokyo commerce and
+                culture. It's a great place to pick up small gifts and try
+                traditional Japanese snacks.
+              </div>
+              <div class="place-visit">
+                Day 4: Morning with Senso-ji Temple visit
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Asakusa+Culture+Tourist+Information+Center"
+                  target="_blank"
+                  >Asakusa Culture Tourist Information Center</a
+                >
+              </div>
+              <div class="place-japanese">浅草文化観光センター</div>
+              <div class="place-description">
+                A modern information center with a free observation deck on the
+                8th floor offering views of Senso-ji Temple and the surrounding
+                area. Helpful staff can provide local maps and recommendations.
+                The observation deck is free and offers a different perspective
+                of Asakusa's traditional streetscape.
+              </div>
+              <div class="place-visit">Day 4: Near Senso-ji Temple visit</div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Yanaka+Ginza"
+                  target="_blank"
+                  >Yanaka Ginza</a
+                >
+              </div>
+              <div class="place-japanese">谷中銀座</div>
+              <div class="place-description">
+                A charming, narrow shopping street in Yanaka that preserves
+                prewar Tokyo's residential character. Lined with small
+                family-run shops, cafes, and restaurants, it feels like a
+                neighborhood frozen in time. The pace is relaxed and the
+                atmosphere is intimate—perfect for experiencing old Tokyo away
+                from tourist crowds.
+              </div>
+              <div class="place-visit">
+                Day 4: Morning walk before Senso-ji (pre-war exploration)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Kappabashi+Kitchen+Town"
+                  target="_blank"
+                  >Kappabashi Kitchen Town</a
+                >
+              </div>
+              <div class="place-japanese">合羽橋道具街</div>
+              <div class="place-description">
+                A specialized wholesale and retail street famous for restaurant
+                equipment, beautiful ceramics, knives, and plastic food display
+                models. The fake food samples (food models) are intricately
+                crafted and collectible. It's a unique shopping experience
+                showcasing traditional Japanese craftsmanship and culinary
+                culture.
+              </div>
+              <div class="place-visit">
+                Day 4: Between Asakusa and Akihabara (optional short stop)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.superpotatoworld.com/" target="_blank"
+                  >Super Potato</a
+                >
+              </div>
+              <div class="place-japanese">スーパーポテト</div>
+              <div class="place-description">
+                A famous retro video game shop in Akihabara specializing in
+                vintage consoles, games, and collectibles. Multi-floor store
+                packed with treasures for retro gaming enthusiasts (Famicom,
+                SNES, Sega, etc.). A paradise for Dave's retro gaming interests
+                with rare finds and fair prices.
+              </div>
+              <div class="place-visit">
+                Day 4: Afternoon Akihabara (Dave's main stop)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.taito.co.jp/en" target="_blank"
+                  >Taito Station</a
+                >
+              </div>
+              <div class="place-japanese">タイトーステーション</div>
+              <div class="place-description">
+                A large arcade chain featuring UFO catcher games (claw
+                machines), rhythm games (MaiMai, Taiko), retro video games, and
+                gachapon (capsule toy) machines. Multiple floors of gaming fun
+                with clean facilities and a steady supply of new games. Great
+                for spending coins and trying arcade games you won't find
+                elsewhere.
+              </div>
+              <div class="place-visit">
+                Day 4: Afternoon Akihabara (gachapon & arcade games)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.mandarake.co.jp/" target="_blank"
+                  >Mandarake Complex</a
+                >
+              </div>
+              <div class="place-japanese">まんだらけコンプレックス</div>
+              <div class="place-description">
+                A multi-floor otaku (anime/manga enthusiast) superstore in
+                Akihabara selling anime, manga, figures, collectibles, and
+                memorabilia. Each floor is dedicated to a different category
+                (Doujinshi, figures, vintage anime, etc.). A comprehensive
+                destination for collecting anime and pop-culture items.
+              </div>
+              <div class="place-visit">
+                Day 4: Afternoon Akihabara (otaku collectibles)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Kanda+Myojin+Shrine"
+                  target="_blank"
+                  >Kanda Myojin Shrine</a
+                >
+              </div>
+              <div class="place-japanese">神田明神</div>
+              <div class="place-description">
+                One of Tokyo's oldest and most important shrines (established
+                730 AD), recently popular with anime fans due to its appearance
+                in the anime "A Certain Magical Index." It blends historical
+                significance with pop-culture appeal. Visitors can purchase ema
+                (wooden prayer plaques) and amulets related to both traditional
+                and anime themes.
+              </div>
+              <div class="place-visit">
+                Day 4: Optional Akihabara add-on (anime shrine)
+              </div>
+            </div>
+
+            <h3
+              style="
+                font-size: 0.95rem;
+                margin: 12px 0 10px;
+                color: var(--guide-accent-text);
+                border-left: 3px solid var(--guide-accent-border);
+                padding-left: 10px;
+              "
+            >
+              Roppongi & Nihonbashi
+            </h3>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.mori.art.museum/en/" target="_blank"
+                  >Mori Art Museum</a
+                >
+              </div>
+              <div class="place-japanese">森美術館</div>
+              <div class="place-description">
+                A contemporary art museum located on the 52-53rd floors of
+                Roppongi Hills with rotating exhibitions of contemporary and
+                international art. Admission includes access to Tokyo City View
+                observation deck with 360-degree panoramic views. The museum is
+                highly regarded for its curated shows and the views alone are
+                worth the visit.
+              </div>
+              <div class="place-visit">
+                Day 3: Evening visit (5 PM), optional based on energy
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.nact.jp/en/" target="_blank"
+                  >National Art Center</a
+                >
+              </div>
+              <div class="place-japanese">国立新美術館</div>
+              <div class="place-description">
+                Japan's largest art museum by area, located in Roppongi with
+                rotating exhibitions of contemporary, international, and
+                traditional art. The architecture (by Kisho Kurokawa) is
+                striking with a distinctive wave-shaped glass exterior. Free
+                entry to the building and some exhibitions, paid admission for
+                special exhibitions.
+              </div>
+              <div class="place-visit">Optional Roppongi museum visit</div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.suntory.co.jp/museum/en/" target="_blank"
+                  >Suntory Museum of Art</a
+                >
+              </div>
+              <div class="place-japanese">サントリー美術館</div>
+              <div class="place-description">
+                A museum in Tokyo Midtown focused on Japanese traditional
+                crafts, design, and contemporary art. Known for its refined
+                exhibitions of ceramics, lacquerware, and textiles. The museum
+                emphasizes the intersection of fine art and everyday beauty in
+                Japanese culture.
+              </div>
+              <div class="place-visit">Optional Roppongi museum visit</div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a href="https://www.tokyo-midtown.com/" target="_blank"
+                  >Tokyo Midtown</a
+                >
+              </div>
+              <div class="place-japanese">東京ミッドタウン</div>
+              <div class="place-description">
+                A large mixed-use complex in Roppongi with office towers, shops,
+                restaurants, and the Suntory Museum. The complex has a modern,
+                upscale feel with high-end retail and dining. Beautiful in the
+                evening with illuminated greenspace and outdoor seating areas.
+              </div>
+              <div class="place-visit">
+                Roppongi evening destination for museums and dining
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Tokyo+City+View+Roppongi"
+                  target="_blank"
+                  >Tokyo City View</a
+                >
+              </div>
+              <div class="place-japanese">東京シティビュー</div>
+              <div class="place-description">
+                An observation deck on the 52nd floor of Roppongi Hills offering
+                panoramic 360-degree views of Tokyo. Admission is included with
+                Mori Art Museum entry or available separately. Known for having
+                one of the best unobstructed skyline views in Tokyo, especially
+                beautiful at night.
+              </div>
+              <div class="place-visit">
+                Day 3: Optional with Mori Art Museum visit
+              </div>
+            </div>
+
+            <h3
+              style="
+                font-size: 0.95rem;
+                margin: 12px 0 10px;
+                color: var(--guide-accent-text);
+                border-left: 3px solid var(--guide-accent-border);
+                padding-left: 10px;
+              "
+            >
+              Markets & Restaurants
+            </h3>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Toyosu+Market"
+                  target="_blank"
+                  >Toyosu Market</a
+                >
+              </div>
+              <div class="place-japanese">豊洲市場</div>
+              <div class="place-description">
+                Tokyo's main wholesale fish and produce market (moved from
+                Tsukiji). The market has a public area where visitors can eat
+                fresh sushi and seafood at specialized restaurants. Early
+                morning (7-10 AM) offers the most energy and freshest
+                selections. A fascinating look at Tokyo's food supply chain and
+                a great place to eat exceptional sushi at market prices.
+              </div>
+              <div class="place-visit">Day 3: Morning/brunch (10:30 AM)</div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Daiwa+Sushi+Toyosu"
+                  target="_blank"
+                  >Daiwa Sushi</a
+                >
+              </div>
+              <div class="place-japanese">大和寿司</div>
+              <div class="place-description">
+                A famous sushi counter in Toyosu Market serving omakase (chef's
+                choice) with the freshest fish available that morning. Diners
+                sit directly at the counter and the chef prepares pieces to
+                order. Known for exceptional quality and a lively market
+                atmosphere. Expect lines, but the experience is authentic and
+                memorable.
+              </div>
+              <div class="place-visit">
+                Day 3: Morning/brunch at Toyosu Market
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Sushi+Dai+Toyosu"
+                  target="_blank"
+                  >Sushi Dai</a
+                >
+              </div>
+              <div class="place-japanese">寿司大</div>
+              <div class="place-description">
+                Another highly-regarded sushi counter in Toyosu Market offering
+                fresh omakase with excellent value. Similar to Daiwa Sushi, this
+                is a no-frills, quality-first experience with a dedicated sushi
+                chef. Lines are long (especially on weekends), but turnover is
+                quick and the fresh fish makes the wait worthwhile.
+              </div>
+              <div class="place-visit">
+                Day 3: Morning/brunch at Toyosu Market (alternative)
+              </div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Tempura+Daikokuya+Asakusa"
+                  target="_blank"
+                  >Tempura Daikokuya</a
+                >
+              </div>
+              <div class="place-japanese">天麩羅大黒屋</div>
+              <div class="place-description">
+                A traditional tempura restaurant in Asakusa with a casual
+                counter and cozy atmosphere. Known for light, crispy tempura and
+                attentive service. A great spot for a quick lunch after visiting
+                Senso-ji Temple. No English menu, but photos and gestures work
+                well.
+              </div>
+              <div class="place-visit">Day 4: Lunch around Asakusa (12 PM)</div>
+            </div>
+
+            <div class="place-item">
+              <div class="place-name">
+                <a
+                  href="https://www.google.com/maps/search/Ichiran+Ramen+Shibuya"
+                  target="_blank"
+                  >Ichiran Ramen</a
+                >
+              </div>
+              <div class="place-japanese">一蘭ラーメン</div>
+              <div class="place-description">
+                A famous tonkotsu (pork bone) ramen chain with a location in
+                Shibuya. Known for smooth, creamy broth and thin noodles. Each
+                seat is a private booth (you choose your broth intensity and
+                toppings before eating). Fast, efficient, and delicious—a
+                quintessential Tokyo quick-meal experience.
+              </div>
+              <div class="place-visit">
+                Day 2: Evening dinner (8 PM) in Shibuya
+              </div>
+            </div>
+          </div>
+        </details>
+      </div>
+
+      <a class="back-link" href="visual-schedule.html"
+        >← Back to Visual Planner</a
+      >
+    </div>
+  </body>
+</html>

@@ -1,0 +1,240 @@
+[
+  {
+    "dayNumber": 1,
+    "date": "Sun May 24 – Mon May 25",
+    "startCityClass": "city-tokyo",
+    "endCityClass": "city-tokyo",
+    "transfer": "Flight UA131",
+    "morning": "Depart for Newark with extra buffer, check bags at Terminal C, and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
+    "daytime": "In transit across the Pacific, prioritize rest blocks, water, and light movement every few hours so arrival day is manageable.",
+    "night": "Land at Haneda, clear immigration/customs, withdraw startup cash, take Limousine Bus to Keio Plaza, then keep dinner simple at Omoide Yokocho.",
+    "details": [
+      "Flight: UA131 (EWR → HND), approx. 14 hours.",
+      "Arrival flow: Visit Japan Web QR → ATM → bus ticket counter.",
+      "Limousine Bus (HND → Keio Plaza): Buy ticket at the Arrivals Lobby counter (look for 'Airport Limousine' signs). Cost ~¥1,300. Journey ~75 min to Keio Plaza Hotel Shinjuku stop. Buses run every 20–30 min. No reservation needed — pay at counter.",
+      "Hotel: Keio Plaza Hotel (Shinjuku).",
+      "Goal: survive travel day and minimize decision fatigue."
+    ],
+    "note": "Long-haul transition day. Keep expectations low and recover quickly.",
+    "brief": {
+      "today": "Fly EWR to HND",
+      "next": "Immigration + Keio Plaza check-in",
+      "backup": "Sleep/reset on arrival",
+      "ops": "UA131, eSIM, cash, bus to Keio Plaza"
+    }
+  },
+  {
+    "dayNumber": 2,
+    "startCityClass": "city-tokyo",
+    "endCityClass": "city-tokyo",
+    "transfer": "",
+    "splitDay": true,
+    "splitNote": "Dave/Debbie may split for different interests",
+    "morning": "Start in Shinjuku, then take the Yamanote Line to Harajuku for Meiji Jingu before crowds. Keep the pace easy while body clocks adjust.",
+    "daytime": "Work through Harajuku and Shibuya: Takeshita Street, @Cosme, crossing viewpoints, then practical shopping at Tokyu Hands or Loft.",
+    "night": "Use the booked 2:00 PM Shibuya Sky entry as the afternoon anchor, then do Shibuya Crossing photos and shopping before heading to Shinjuku for the capybara café.",
+    "details": [
+      "Primary anchors: Meiji Jingu → Harajuku → Shibuya Crossing → Shibuya Sky.",
+      "Rain backup: Nakano Broadway (indoor-heavy).",
+      "Food target: crepes + snacks throughout.",
+      "Keep feet fresh: this is a high-step urban day."
+    ],
+    "note": "Acclimation + iconic Tokyo visuals in one compact zone.",
+    "brief": {
+      "today": "Harajuku + Shibuya Sky + Cappiness",
+      "next": "Shibuya Crossing photos",
+      "backup": "Nakano Broadway if rain",
+      "ops": "Yamanote Line; Shibuya Sky QSJ919058; Cappiness 5JFRH9B 5:15 PM"
+    }
+  },
+  {
+    "dayNumber": 3,
+    "startCityClass": "city-tokyo",
+    "endCityClass": "city-tokyo",
+    "transfer": "",
+    "morning": "Relaxed start; head to Toyosu Market for a late-morning visit before heading to Ginza.",
+    "daytime": "Structured Ginza shopping block: Itoya, Uniqlo, Onitsuka Tiger.",
+    "night": "Roppongi art stop at Mori Art Museum (open late).",
+    "details": [
+      "Pokemon Cafe note: closed through late June for renovations.",
+      "Rain resilience: Toyosu + Ginza + Mori Art Museum are all indoors.",
+      "Mori Art Museum stays open until 10 PM — no rush on timing.",
+      "Consider backup coffee break between Toyosu and Ginza."
+    ],
+    "note": "Balanced day: immersive art, food market, and free-time cushion.",
+    "brief": {
+      "today": "Toyosu + Ginza + Roppongi",
+      "next": "Mori Art Museum evening",
+      "backup": "Odaiba or teamLab if available",
+      "ops": "Tsukiji Line to Shijo-mae for Toyosu"
+    }
+  },
+  {
+    "dayNumber": 4,
+    "startCityClass": "city-tokyo",
+    "endCityClass": "city-tokyo",
+    "transfer": "",
+    "morning": "Start at Senso-ji for temple atmosphere and Omikuji, then walk to Kappabashi for practical shopping (knives, kitchenware, food models).",
+    "daytime": "Head to Akihabara: Super Potato, Mandarake, arcades, and nearby electronics browsing.",
+    "night": "Flexible close: optional themed cafe or Kanda Myojin.",
+    "details": [
+      "Tax-free opportunity day for shopping-heavy stops.",
+      "Akihabara is rain-friendly due to indoor concentration.",
+      "Carry a short target list to avoid decision overload.",
+      "Transit is straightforward via Ginza and JR lines."
+    ],
+    "note": "Classic old-Tokyo + pop-culture contrast day.",
+    "brief": {
+      "today": "Asakusa temple + Akihabara retro",
+      "next": "Kappabashi kitchen street",
+      "backup": "Short Yanaka loop",
+      "ops": "Ginza Line to Asakusa; JR Sobu Line to Akihabara"
+    }
+  },
+  {
+    "dayNumber": 5,
+    "startCityClass": "city-tokyo",
+    "endCityClass": "city-kyoto",
+    "transfer": "Shinkansen Nozomi",
+    "morning": "Check out Tokyo base, get to Tokyo Station early, secure ekiben and drinks, then board Nozomi with right-side seating preference for views.",
+    "daytime": "Arrive Kyoto, drop bags at Cross Hotel, and ease into the city with Nishiki Market sampling instead of a rigid attraction sprint.",
+    "night": "Use golden hour in Gion, respect no-photo private lanes, and finish at Pontocho Alley for atmospheric riverside dinner options.",
+    "details": [
+      "Major transfer day — protect buffer time around station logistics.",
+      "Hotel shift: Keio Plaza Hotel Shinjuku → Cross Hotel Kyoto Kawaramachi.",
+      "Shinjuku → Tokyo Station: JR Chuo Rapid Line from Shinjuku Station (~25 min, ¥220). Walk 5 min from Keio Plaza to Shinjuku Station south gates.",
+      "At Tokyo Station: follow 'Tokaido Shinkansen' signs. Buy ekiben at Gransta food hall BEFORE passing through the gates — great selection, can't come back.",
+      "Luggage forwarding (takkyubin): request at hotel concierge the evening before. Yamato Transport delivers bags to Cross Hotel Kyoto by next afternoon (~¥1,500–2,000/bag). Travel hands-free on the train.",
+      "Seat already reserved — Mt Fuji visible on the left (A/B side) approximately 40 min after departure.",
+      "Energy strategy: sightseeing light, ambiance heavy. Evening in Gion is the reward."
+    ],
+    "note": "First intercity rail day. Keep schedule disciplined but calm.",
+    "brief": {
+      "today": "Tokyo to Kyoto bullet train",
+      "next": "Nishiki Market + Gion stroll",
+      "backup": "Kyoto Station area shopping if tired",
+      "ops": "JR Shinjuku→Tokyo Stn (25 min, ¥220); ekiben at Gransta before gates; Nozomi ~10 AM; Mt Fuji ~40 min in on left (A/B seats); takkyubin night before if going luggage-free"
+    }
+  },
+  {
+    "dayNumber": 6,
+    "startCityClass": "city-kyoto",
+    "endCityClass": "city-kyoto",
+    "transfer": "",
+    "splitDay": true,
+    "splitNote": "Kichi Kichi reservation (7 PM) — coordination needed",
+    "morning": "Start early at Arashiyama Bamboo Grove before tour buses, then recover with coffee and a short decompression pause.",
+    "daytime": "Use taxi optimization to Kinkaku-ji, then transition to Kiyomizu-dera and the Sannenzaka/Ninenzaka streets for a layered cultural block.",
+    "night": "If Kichi Kichi reservation succeeds, center dinner there; otherwise use teppanyaki or relaxed Kyoto comfort food nearby.",
+    "details": [
+      "High-step day with hills and temple stairs; footwear matters.",
+      "Rain backup: Sanjusangendo or Kyoto National Museum.",
+      "This day rewards early starts more than speed.",
+      "Keep hydration and snack cadence consistent."
+    ],
+    "note": "Most photogenic Kyoto day; crowd timing is everything.",
+    "brief": {
+      "today": "Arashiyama early",
+      "next": "Kinkaku-ji + Kiyomizu",
+      "backup": "Sanjusangen-do",
+      "ops": "Kichi Kichi backup dinner needed"
+    }
+  },
+  {
+    "dayNumber": 7,
+    "startCityClass": "city-kyoto",
+    "endCityClass": "city-osaka",
+    "transfer": "Train (Kyoto → Osaka)",
+    "morning": "Hit Fushimi Inari at early gates and push beyond the first viewpoint for quieter torii sections and better photo rhythm.",
+    "daytime": "Complete Kyoto checkout, transfer to Osaka, check in near Dotonbori, and leave room for a soft landing before evening crowds.",
+    "night": "Lean into Osaka's neon core: takoyaki, Glico sign photos, and Hozenji Yokocho for an older-lane contrast to the main strip.",
+    "details": [
+      "Hotel shift: Cross Hotel Kyoto Kawaramachi → Cross Hotel Osaka Dotonbori.",
+      "Best transfer: Hankyu Kyoto Line from Kyoto-Kawaramachi Station (3-min walk from hotel) to Osaka-Umeda (~43 min, ¥430), then Osaka Metro Midosuji Line to Namba (~5 min, ¥180). Total: ~50 min, ~¥610.",
+      "Luggage forwarding: request takkyubin at hotel front desk the night before (~¥1,000–1,500/bag). Bags arrive at Cross Hotel Osaka by afternoon — travel hands-free on the train.",
+      "Cross Hotel Osaka check-in is typically 3 PM; if arriving earlier, hotel holds bags. Dotonbori is a 5-min walk from the hotel.",
+      "Treat morning (Fushimi Inari) as the highlight; transfer is the easy part."
+    ],
+    "note": "Second city move with a high-energy Osaka arrival.",
+    "brief": {
+      "today": "Fushimi Inari early",
+      "next": "Kyoto to Osaka move",
+      "backup": "TeamLab optional",
+      "ops": "Hankyu from Kyoto-Kawaramachi→Umeda (43 min, ¥430) + Metro to Namba (5 min, ¥180); takkyubin night before recommended; Cross Hotel Osaka check-in 3 PM"
+    }
+  },
+  {
+    "dayNumber": 8,
+    "startCityClass": "city-osaka",
+    "endCityClass": "city-osaka",
+    "transfer": "",
+    "splitDay": true,
+    "splitNote": "Split block: Den Den Town vs Shinsaibashi — plan beforehand",
+    "morning": "Ease into the day with coffee, then explore Osaka Castle grounds for open-space walking and skyline framing shots.",
+    "daytime": "Use Kuromon Market as the central fuel stop, then split intentionally: Den Den Town (retro/gaming) versus Shinsaibashi (shopping/beauty/sweets).",
+    "night": "Regroup around Namba/Hozenji and walk Dotonbori at night for photos, snacks, and a relaxed shared dinner.",
+    "details": [
+      "Purpose-built flexible day with optional pacing changes.",
+      "Easy to adapt for weather because many stops cluster by transit hubs.",
+      "Good day for souvenir and specialty store catches.",
+      "Keep meeting checkpoints explicit when splitting up."
+    ],
+    "note": "Free-form Osaka day designed around both interests.",
+    "brief": {
+      "today": "Osaka Castle + Kuromon",
+      "next": "Den Den Town / Shinsaibashi",
+      "backup": "Short Namba loop",
+      "ops": "Split-day plan, regroup at Hozenji"
+    }
+  },
+  {
+    "dayNumber": 9,
+    "startCityClass": "city-osaka",
+    "endCityClass": "city-tokyo",
+    "transfer": "Shinkansen Nozomi (Res #2005)",
+    "deadline": {
+      "type": "critical",
+      "label": "🚨 BOOK SHINKANSEN TODAY (May 2)"
+    },
+    "morning": "Take one final Osaka block (castle grounds or food repeat), then consolidate luggage and move toward Shin-Osaka without rushing.",
+    "daytime": "Board Shinkansen back to Tokyo area, prioritize easy transfer to Shinagawa/Haneda-side hotel for departure-day confidence.",
+    "night": "Final Japan dinner near hotel or Haneda Garden, with optional onsen stop if energy remains.",
+    "details": [
+      "Last major train move — protect buffer around station transfers.",
+      "Cross Hotel Osaka → Shin-Osaka: walk ~5 min to Namba Station, take Osaka Metro Midosuji Line to Shin-Osaka (~12 min, ¥290). Allow 25 min total.",
+      "Reservation #2005 is already booked for Nozomi at 2:15 PM from Shin-Osaka. Journey to Shinagawa ~2h22m.",
+      "Mt Fuji visible on the right (D/E seat side) approximately 40 min after Shin-Osaka departure.",
+      "Luggage forwarding option: ask Cross Hotel Osaka desk the night before to send bags to Shinagawa Prince Hotel (~¥1,500–2,000/bag via Yamato). Bags arrive Day 10 morning.",
+      "Shinagawa Prince Hotel: 3-min walk from Shinagawa Station Central Exit (west gates), easy to spot."
+    ],
+    "note": "Return logistics day with comfort-first decisions.",
+    "brief": {
+      "today": "Osaka to Tokyo transfer",
+      "next": "Haneda-area check-in",
+      "backup": "Shinagawa fallback",
+      "ops": "Namba→Shin-Osaka: Metro Midosuji (12 min, ¥290); Nozomi Res #2005 at 14:15; Shinagawa Prince 3-min walk from station; takkyubin night before optional"
+    }
+  },
+  {
+    "dayNumber": 10,
+    "startCityClass": "city-tokyo",
+    "endCityClass": "city-tokyo",
+    "transfer": "Flight UA130",
+    "morning": "Slow final morning with breakfast and a controlled last-minute shopping pass (snacks, gifts, duty-free targets).",
+    "daytime": "Complete checkout and arrive at Haneda with enough margin for check-in, security, and stress-free gate pacing.",
+    "night": "Board UA130 and begin return to EWR; keep comfort and hydration prioritized for landing recovery.",
+    "details": [
+      "Terminal: Haneda T3 (United check-in area typically K/L rows).",
+      "Target airport arrival: around 2:30 PM for a 5:45 PM departure.",
+      "Good final buys: Tokyo Banana, Royce, travel-safe sweets.",
+      "Closeout task: confirm documents and carry-on essentials before security."
+    ],
+    "note": "Departure day with intentional buffer and low complexity.",
+    "brief": {
+      "today": "Haneda breakfast + checkout",
+      "next": "Duty free + UA130",
+      "backup": "Skip shopping if slow",
+      "ops": "Build airport buffer, keep carry-on essentials ready"
+    }
+  }
+]

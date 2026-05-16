@@ -1,0 +1,705 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Japan Trip Day Visualization</title>
+    <script src="../assets/scripts/theme.js?v=20260507a"></script>
+    <link rel="stylesheet" href="../assets/styles/theme.css?v=20260507a" />
+    <link rel="stylesheet" href="../assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="../assets/scripts/site-nav.js?v=20260507d"></script>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        position: relative;
+        overflow-x: hidden;
+        font-family:
+          "Segoe UI",
+          Aptos,
+          Calibri,
+          -apple-system,
+          BlinkMacSystemFont,
+          sans-serif;
+        color: var(--cp-text);
+        background:
+          radial-gradient(
+            circle at 10% 12%,
+            var(--cp-accent-soft) 0,
+            transparent 34%
+          ),
+          radial-gradient(
+            circle at 85% 8%,
+            var(--cp-highlight) 0,
+            transparent 22%
+          ),
+          var(--cp-bg);
+      }
+
+      .webgl-bg {
+        position: fixed;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        pointer-events: none;
+        opacity: 0.35;
+      }
+
+      .wrap {
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 20px;
+        position: relative;
+        z-index: 1;
+      }
+
+      .hero {
+        border: 1px solid var(--cp-border);
+        border-radius: 16px;
+        background: var(--cp-panel-strong);
+        box-shadow: var(--cp-shadow);
+        padding: 18px;
+        margin-bottom: 16px;
+      }
+
+      .title {
+        margin: 0;
+        font-size: 1.9rem;
+      }
+
+      .subtitle {
+        margin: 6px 0 0;
+        color: var(--cp-text-muted);
+      }
+
+      .btn {
+        border: 1px solid var(--cp-border-strong);
+        background: var(--cp-accent);
+        color: var(--cp-accent-fg);
+        border-radius: 10px;
+        padding: 8px 12px;
+        font-size: 0.9rem;
+        font-family: inherit;
+        text-decoration: none;
+        cursor: pointer;
+      }
+
+      .btn:hover {
+        background: var(--cp-accent-hover);
+      }
+
+      .btn-secondary {
+        background: var(--cp-surface);
+        color: var(--cp-text);
+      }
+
+      .btn-secondary:hover {
+        background: var(--cp-surface-soft);
+      }
+
+      .card {
+        border: 1px solid var(--cp-border);
+        border-radius: 16px;
+        background: var(--cp-surface);
+        box-shadow: var(--cp-shadow);
+        overflow: hidden;
+      }
+
+      .head {
+        padding: 14px;
+        border-bottom: 1px solid var(--cp-border);
+        background: var(--cp-bg-elevated);
+      }
+
+      .meta {
+        margin: 0;
+        color: var(--cp-text-muted);
+        font-size: 0.9rem;
+      }
+
+      .name {
+        margin: 6px 0 10px;
+        font-size: 1.35rem;
+      }
+
+      .city-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+
+      .city-chip {
+        border-radius: 999px;
+        padding: 5px 11px;
+        font-size: 0.85rem;
+        border: 1px solid var(--cp-border-strong);
+        background: var(--cp-surface-soft);
+      }
+
+      .city-tokyo {
+        border-color: var(--cp-link);
+        color: var(--cp-link);
+      }
+
+      .city-kyoto {
+        border-color: var(--cp-success);
+        color: var(--cp-success);
+      }
+
+      .city-osaka {
+        border-color: var(--cp-warning);
+        color: var(--cp-warning);
+      }
+
+      .arrow {
+        color: var(--cp-text-soft);
+      }
+
+      .transfer {
+        margin-left: auto;
+        font-size: 0.8rem;
+        color: var(--cp-text-muted);
+        border: 1px dashed var(--cp-border-strong);
+        border-radius: 999px;
+        padding: 4px 9px;
+      }
+
+      .parts {
+        padding: 14px;
+        display: grid;
+        gap: 10px;
+      }
+
+      .part {
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        padding: 10px;
+        background: var(--cp-surface-soft);
+      }
+
+      .part h3 {
+        margin: 0 0 6px;
+        font-size: 0.95rem;
+      }
+
+      .part p {
+        margin: 0;
+        color: var(--cp-text-muted);
+        line-height: 1.5;
+      }
+
+      .detail-list {
+        margin: 0;
+        padding-left: 18px;
+        color: var(--cp-text-muted);
+        line-height: 1.5;
+      }
+
+      .detail-list li {
+        margin: 4px 0;
+      }
+
+      .time-plan {
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        padding: 10px;
+        background: var(--cp-surface-soft);
+      }
+
+      .traveler-brief {
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        padding: 10px;
+        background: var(--cp-bg-elevated);
+      }
+
+      .traveler-brief h3 {
+        margin: 0 0 8px;
+        color: var(--cp-accent);
+        font-size: 0.95rem;
+      }
+
+      .brief-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+      }
+
+      .brief-item {
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        background: var(--cp-surface);
+        padding: 9px;
+      }
+
+      .brief-label {
+        display: block;
+        color: var(--cp-text);
+        font-size: 0.8rem;
+        font-weight: 700;
+        margin-bottom: 4px;
+      }
+
+      .brief-value {
+        color: var(--cp-text-muted);
+        font-size: 0.9rem;
+        line-height: 1.4;
+      }
+
+      .time-plan h3 {
+        margin: 0 0 8px;
+        color: var(--cp-accent);
+        font-size: 0.95rem;
+      }
+
+      .time-grid {
+        display: grid;
+        gap: 7px;
+      }
+
+      .time-row {
+        display: grid;
+        grid-template-columns: 110px 1fr;
+        gap: 10px;
+        align-items: start;
+        border-bottom: 1px solid var(--cp-border);
+        padding-bottom: 6px;
+      }
+
+      .time-row:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+      }
+
+      .time-label {
+        color: var(--cp-text);
+        font-weight: 600;
+        font-size: 0.86rem;
+      }
+
+      .time-activity {
+        color: var(--cp-text-muted);
+        font-size: 0.9rem;
+        line-height: 1.45;
+      }
+
+      .part-morning h3,
+      .part-day h3,
+      .part-night h3 {
+        color: var(--cp-warning);
+      }
+
+      .foot {
+        padding: 10px 14px 14px;
+        color: var(--cp-text-soft);
+        font-size: 0.9rem;
+      }
+
+      .pager {
+        margin-top: 14px;
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+      }
+
+      .alert {
+        margin: 12px 0;
+        padding: 12px;
+        border-radius: 12px;
+        border-left: 4px solid;
+        font-size: 0.9rem;
+        line-height: 1.5;
+      }
+
+      .alert-critical {
+        background: rgba(220, 38, 38, 0.08);
+        border-left-color: var(--cp-danger);
+        color: var(--cp-danger);
+      }
+
+      .alert-warning {
+        background: rgba(245, 158, 11, 0.08);
+        border-left-color: var(--cp-warning);
+        color: var(--cp-warning);
+      }
+
+      .alert-split {
+        background: rgba(59, 130, 246, 0.08);
+        border-left-color: var(--cp-link);
+        color: var(--cp-link);
+      }
+
+      .badge {
+        display: inline-block;
+        font-size: 0.75rem;
+        font-weight: 500;
+        padding: 3px 8px;
+        border-radius: 12px;
+        margin-right: 6px;
+      }
+
+      .badge-split {
+        background: rgba(59, 130, 246, 0.1);
+        color: var(--cp-link);
+      }
+
+      .badge-deadline-critical {
+        background: rgba(220, 38, 38, 0.12);
+        color: var(--cp-danger);
+      }
+
+      @media (max-width: 700px) {
+        .wrap {
+          padding: 14px;
+        }
+
+        .title {
+          font-size: 1.45rem;
+        }
+
+        .brief-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media print {
+        body {
+          background: var(--cp-surface);
+        }
+
+        .wrap {
+          max-width: none;
+          padding: 0;
+        }
+
+        .hero,
+        .pager {
+          box-shadow: none;
+        }
+
+        .pager,
+        .btn {
+          display: none;
+        }
+
+        .card {
+          box-shadow: none;
+          break-inside: avoid;
+          page-break-inside: avoid;
+        }
+      }
+    </style>
+  </head>
+  <body data-nav-root="..">
+    <canvas id="dayWebglBg" class="webgl-bg" aria-hidden="true"></canvas>
+    <main class="wrap">
+      <section class="hero">
+        <h1 class="title" id="pageTitle">Japan Day Visualization</h1>
+        <p class="subtitle" id="pageSubtitle">
+          Single-day Morning / Day / Night snapshot
+        </p>
+      </section>
+
+      <article class="card" id="dayCard"></article>
+      <div class="pager">
+        <a class="btn btn-secondary" id="prevLink" href="#">Previous Day</a>
+        <a class="btn btn-secondary" id="nextLink" href="#">Next Day</a>
+      </div>
+    </main>
+
+    <script>
+      async function init() {
+        let days;
+        try {
+          const res = await fetch("../data/days.json");
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          days = await res.json();
+        } catch (err) {
+          document.getElementById("dayCard").innerHTML =
+            `<p style="color:var(--cp-error,#c00);padding:1rem;">⚠️ Could not load day data. ${err.message}</p>`;
+          console.error("days.json load failed:", err);
+          return;
+        }
+
+        let cityGuideAnchors = {};
+        try {
+          const anchorRes = await fetch("../data/city-guide-anchors.json");
+          if (anchorRes.ok) cityGuideAnchors = await anchorRes.json();
+        } catch (e) {
+          console.warn("city-guide-anchors.json load failed:", e);
+        }
+
+        const params = new URLSearchParams(window.location.search);
+        const requestedDay = Number(params.get("day") || 1);
+        const dayCount = days.length;
+        const dayNumber = Number.isNaN(requestedDay)
+          ? 1
+          : Math.min(dayCount, Math.max(1, requestedDay));
+        const item = days[dayNumber - 1];
+        const brief = item.brief || {};
+
+        document.getElementById("pageTitle").textContent =
+          `${item.dayLabel} Visualization`;
+        document.getElementById("pageSubtitle").textContent =
+          `${item.date} • ${item.title}`;
+
+        const dayCard = document.getElementById("dayCard");
+
+        // City guide anchor map loaded from ../data/city-guide-anchors.json
+
+        function escapeRegex(value) {
+          return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+        }
+
+        function linkCityGuideTerms(text, url) {
+          if (typeof text !== "string") {
+            return text;
+          }
+
+          let result = text;
+          Object.entries(cityGuideAnchors).forEach(([id, name]) => {
+            const safeName = escapeRegex(name);
+            const pattern = new RegExp(`\\b${safeName}\\b`, "g");
+            result = result.replace(
+              pattern,
+              `<a href="../city-guide.html#${id}" class="guide-link">${name}</a>`,
+            );
+          });
+          // If an explicit URL is provided (e.g., Google Maps), prefer that
+          if (url) {
+            return `<a href="${url}" target="_blank" rel="noopener noreferrer" style="color: var(--cp-link); text-decoration: none;">${text}</a>`;
+          }
+          return result;
+        }
+
+        dayCard.innerHTML = `
+        <div class="head">
+          <p class="meta">${item.dayLabel} • ${item.date}</p>
+          <h2 class="name">${item.title}</h2>
+          <div class="city-row">
+            <span class="city-chip ${item.startCityClass}">${item.startCity}</span>
+            <span class="arrow">-></span>
+            <span class="city-chip ${item.endCityClass}">${item.endCity}</span>
+            ${item.transfer ? `<span class="transfer">${item.transfer}</span>` : ""}
+          </div>
+        </div>
+        ${
+          item.deadline
+            ? `<div class="alert alert-${item.deadline.type}">${item.deadline.label}</div>`
+            : ""
+        }
+        ${
+          item.splitDay
+            ? `<div class="alert alert-split">🔀 Split Day: ${item.splitNote}</div>`
+            : ""
+        }
+        <div class="parts">
+          <section class="traveler-brief">
+            <h3>Today / Next / Backup</h3>
+            <div class="brief-grid">
+              <div class="brief-item"><span class="brief-label">Today</span><span class="brief-value">${brief.today}</span></div>
+              <div class="brief-item"><span class="brief-label">Next</span><span class="brief-value">${brief.next}</span></div>
+              <div class="brief-item"><span class="brief-label">Backup</span><span class="brief-value">${brief.backup}</span></div>
+              <div class="brief-item"><span class="brief-label">Ops note</span><span class="brief-value">${brief.ops}</span></div>
+            </div>
+          </section>
+          <section class="part part-morning">
+            <h3>Morning</h3>
+            <p>${linkCityGuideTerms(item.morning)}</p>
+          </section>
+          <section class="part part-day">
+            <h3>Day</h3>
+            <p>${linkCityGuideTerms(item.daytime)}</p>
+          </section>
+          <section class="part part-night">
+            <h3>Night</h3>
+            <p>${linkCityGuideTerms(item.night)}</p>
+          </section>
+          <section class="part">
+            <h3>Details</h3>
+            <ul class="detail-list">
+              ${(item.details || []).map((detail) => `<li>${linkCityGuideTerms(detail)}</li>`).join("")}
+            </ul>
+          </section>
+          <section class="time-plan">
+            <h3>Exact Time Plan</h3>
+            <div class="time-grid">
+              ${(item.timeline || [])
+                .map(
+                  (entry) => `
+                    <div class="time-row">
+                      <div class="time-label">${entry.time}</div>
+                      <div class="time-activity">${linkCityGuideTerms(entry.activity, entry.url)}</div>
+                    </div>
+                  `,
+                )
+                .join("")}
+            </div>
+          </section>
+        </div>
+        <div class="foot">${item.note}</div>
+      `;
+
+        const prevLink = document.getElementById("prevLink");
+        const nextLink = document.getElementById("nextLink");
+
+        if (dayNumber > 1) {
+          const prevNum = String(dayNumber - 1).padStart(2, "0");
+          prevLink.href = `day-${prevNum}.html`;
+          prevLink.textContent = `Previous Day (${dayNumber - 1})`;
+        } else {
+          prevLink.href = "../visual-schedule.html";
+          prevLink.textContent = "Back to Planner";
+        }
+
+        if (dayNumber < dayCount) {
+          const nextNum = String(dayNumber + 1).padStart(2, "0");
+          nextLink.href = `day-${nextNum}.html`;
+          nextLink.textContent = `Next Day (${dayNumber + 1})`;
+        } else {
+          nextLink.href = "../visual-schedule.html";
+          nextLink.textContent = "Back to Planner";
+        }
+      }
+      init();
+    </script>
+    <script type="module">
+      import * as THREE from "https://unpkg.com/three@0.165.0/build/three.module.js";
+
+      const canvas = document.getElementById("dayWebglBg");
+      const renderer = new THREE.WebGLRenderer({
+        canvas,
+        antialias: true,
+        alpha: true,
+        powerPreference: "high-performance",
+      });
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+
+      const scene = new THREE.Scene();
+      const camera = new THREE.PerspectiveCamera(55, 1, 0.1, 100);
+      camera.position.set(0, 0, 11);
+
+      // Dense particle field (Tokyo/Kyoto/Osaka palette)
+      const pointCount = 720;
+      const pointGeo = new THREE.BufferGeometry();
+      const pointPos = new Float32Array(pointCount * 3);
+      const pointCol = new Float32Array(pointCount * 3);
+      const palette = [
+        new THREE.Color(0xef476f),
+        new THREE.Color(0xffd166),
+        new THREE.Color(0x06d6a0),
+        new THREE.Color(0x4dabf7),
+      ];
+
+      for (let i = 0; i < pointCount; i++) {
+        pointPos[i * 3] = (Math.random() - 0.5) * 24;
+        pointPos[i * 3 + 1] = (Math.random() - 0.5) * 14;
+        pointPos[i * 3 + 2] = (Math.random() - 0.5) * 8;
+        const c = palette[i % palette.length];
+        pointCol[i * 3] = c.r;
+        pointCol[i * 3 + 1] = c.g;
+        pointCol[i * 3 + 2] = c.b;
+      }
+      pointGeo.setAttribute("position", new THREE.BufferAttribute(pointPos, 3));
+      pointGeo.setAttribute("color", new THREE.BufferAttribute(pointCol, 3));
+
+      const points = new THREE.Points(
+        pointGeo,
+        new THREE.PointsMaterial({
+          size: 0.085,
+          transparent: true,
+          opacity: 0.7,
+          vertexColors: true,
+          blending: THREE.AdditiveBlending,
+          depthWrite: false,
+        }),
+      );
+      scene.add(points);
+
+      // Accent geometry for extra motion depth
+      const ringA = new THREE.Mesh(
+        new THREE.TorusGeometry(5.2, 0.06, 18, 140),
+        new THREE.MeshBasicMaterial({
+          color: 0x4dabf7,
+          transparent: true,
+          opacity: 0.2,
+        }),
+      );
+      const ringB = new THREE.Mesh(
+        new THREE.TorusGeometry(3.9, 0.05, 18, 120),
+        new THREE.MeshBasicMaterial({
+          color: 0xfd8ea1,
+          transparent: true,
+          opacity: 0.18,
+        }),
+      );
+      ringB.rotation.x = Math.PI / 5;
+      scene.add(ringA);
+      scene.add(ringB);
+
+      const glow = new THREE.Mesh(
+        new THREE.SphereGeometry(1.4, 24, 24),
+        new THREE.MeshBasicMaterial({
+          color: 0xffffff,
+          transparent: true,
+          opacity: 0.05,
+        }),
+      );
+      glow.position.set(0, 0.2, -2.5);
+      scene.add(glow);
+
+      let targetX = 0;
+      let targetY = 0;
+      window.addEventListener("pointermove", (e) => {
+        targetX = (e.clientX / window.innerWidth - 0.5) * 0.7;
+        targetY = (e.clientY / window.innerHeight - 0.5) * 0.45;
+      });
+
+      function resize() {
+        const w = window.innerWidth;
+        const h = window.innerHeight;
+        renderer.setSize(w, h, false);
+        camera.aspect = w / h;
+        camera.updateProjectionMatrix();
+      }
+      resize();
+      window.addEventListener("resize", resize);
+
+      const posAttr = pointGeo.getAttribute("position");
+      const basePos = posAttr.array.slice();
+      let t = 0;
+
+      function animate() {
+        t += 0.006;
+
+        for (let i = 0; i < pointCount; i++) {
+          const i3 = i * 3;
+          posAttr.array[i3] =
+            basePos[i3] + Math.sin(t * 1.25 + i * 0.19) * 0.08;
+          posAttr.array[i3 + 1] =
+            basePos[i3 + 1] + Math.cos(t * 1.1 + i * 0.17) * 0.08;
+        }
+        posAttr.needsUpdate = true;
+
+        points.rotation.y += 0.0008;
+        ringA.rotation.z += 0.0014;
+        ringB.rotation.z -= 0.0011;
+        glow.scale.setScalar(1 + Math.sin(t * 2.2) * 0.05);
+
+        camera.position.x += (targetX - camera.position.x) * 0.035;
+        camera.position.y += (-targetY - camera.position.y) * 0.035;
+        camera.lookAt(0, 0, 0);
+
+        renderer.render(scene, camera);
+        requestAnimationFrame(animate);
+      }
+      animate();
+    </script>
+  </body>
+</html>

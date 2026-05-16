@@ -1,0 +1,364 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Transit Guide — Japan 2026</title>
+    <script src="assets/scripts/theme.js?v=20260507d"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css?v=20260507d" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="assets/scripts/site-nav.js?v=20260507d"></script>
+    <style>
+      :root {
+        --guide-accent-border: var(--cp-accent);
+        --guide-accent-bg: var(--cp-accent-soft);
+        --guide-accent-text: var(--cp-accent);
+      }
+
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+        line-height: 1.5;
+        color: var(--cp-text);
+        background: var(--cp-bg);
+      }
+
+      .guide {
+        max-width: 700px;
+        margin: 20px auto;
+        background: var(--cp-surface);
+        padding: 24px;
+        border-radius: 8px;
+        border: 1px solid var(--cp-border);
+        box-shadow: var(--cp-shadow);
+      }
+
+      .header {
+        border-bottom: 3px solid var(--guide-accent-border);
+        padding-bottom: 12px;
+        margin-bottom: 18px;
+      }
+
+      h1 { font-size: 1.6rem; margin-bottom: 4px; color: var(--guide-accent-text); }
+      .subtitle { font-size: 0.85rem; color: var(--cp-text-muted); }
+
+      h2 {
+        font-size: 1.1rem;
+        margin: 24px 0 10px;
+        color: var(--cp-text);
+        border-left: 3px solid var(--guide-accent-border);
+        padding-left: 10px;
+        scroll-margin-top: 5rem;
+      }
+
+      .section { margin-bottom: 14px; }
+
+      .item {
+        font-size: 0.9rem;
+        line-height: 1.5;
+        margin-bottom: 8px;
+      }
+
+      .label {
+        font-weight: 600;
+        color: var(--guide-accent-text);
+      }
+
+      .tip {
+        background: var(--guide-accent-bg);
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 0.85rem;
+        margin: 8px 0;
+        border-left: 3px solid var(--guide-accent-border);
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.85rem;
+        margin: 10px 0;
+      }
+
+      th, td {
+        text-align: left;
+        padding: 6px 10px;
+        border: 1px solid var(--cp-border);
+      }
+
+      th {
+        background: var(--guide-accent-bg);
+        font-weight: 600;
+        color: var(--guide-accent-text);
+      }
+
+      .recommended { font-weight: 700; }
+
+      a { color: var(--cp-link); }
+      a:hover { color: var(--cp-accent-hover); }
+
+      .divider {
+        border-bottom: 1px solid var(--cp-border);
+        margin: 18px 0;
+      }
+
+      .back-link {
+        display: inline-block;
+        margin-top: 18px;
+        font-size: 0.85rem;
+      }
+
+      @media (max-width: 700px) {
+        .guide { margin: 12px auto; padding: 16px; }
+      }
+
+      @media print {
+        body { background: var(--cp-surface); padding: 0; }
+        .guide { box-shadow: none; max-width: 100%; margin: 0 auto; }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <div class="guide">
+      <div class="header">
+        <h1>🚄 Transit Guide</h1>
+        <p class="subtitle">Buses, trains, flights, IC cards, taxis &amp; luggage forwarding</p>
+      </div>
+
+      <!-- ===== LIMOUSINE BUS ===== -->
+      <h2 id="limousine-bus">🚌 Airport Limousine Bus</h2>
+      <div class="section">
+        <div class="item">
+          <span class="label">What:</span> A public airport shuttle operated by
+          <a href="https://www.limousinebus.co.jp/en/" target="_blank" rel="noopener">Limousine Bus Co.</a>
+          — not private, despite the name. Just a comfortable coach.
+        </div>
+        <div class="item">
+          <span class="label">Route:</span> Haneda Airport → Keio Plaza Hotel (Shinjuku).
+          <strong>Stops directly at the hotel's front door</strong> — no dragging luggage
+          through Shinjuku Station.
+        </div>
+        <div class="item">
+          <span class="label">Cost:</span> ~¥1,200–1,600/person (~$8–11 USD)
+        </div>
+        <div class="item">
+          <span class="label">Duration:</span> ~35–50 min from Haneda
+        </div>
+        <div class="item">
+          <span class="label">How:</span> After customs, follow signs to the
+          <strong>Limousine Bus counter</strong> in the arrival hall. Buy tickets
+          at the counter or kiosk. Buses to Shinjuku/Keio Plaza run frequently.
+        </div>
+        <div class="tip">
+          ⏱️ <strong>Day 1 timeline:</strong> Land 1:35 PM → customs ~2:15 PM → bus ~2:30 PM → hotel ~3:00 PM
+          (right when check-in opens).
+        </div>
+
+        <table>
+          <thead>
+            <tr><th>Option</th><th>Cost</th><th>Time</th><th>Luggage Hassle</th></tr>
+          </thead>
+          <tbody>
+            <tr class="recommended"><td>Limousine Bus ✅</td><td>~$10/person</td><td>40 min</td><td>None — curb to curb</td></tr>
+            <tr><td>Keikyu train + walk</td><td>~$4/person</td><td>30 min</td><td>High — stairs, transfers</td></tr>
+            <tr><td>Taxi</td><td>~$80 total</td><td>30 min</td><td>None, but 8× the price</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="divider"></div>
+
+      <!-- ===== SHINKANSEN ===== -->
+      <h2 id="shinkansen">🚅 Shinkansen (Bullet Train)</h2>
+      <div class="section">
+        <div class="item">
+          <span class="label">Your routes:</span>
+        </div>
+        <div class="item">
+          <strong>Day 5 (May 29):</strong> Tokyo → Kyoto — Nozomi, Green Car, conf# 2003.
+          Departs 10:00 AM, arrives ~12:15 PM.
+        </div>
+        <div class="item">
+          <strong>Day 9 (Jun 2):</strong> Osaka → Tokyo — Nozomi, Green Car, conf# 2005.
+          Departs 2:15 PM, arrives ~6:45 PM.
+        </div>
+
+        <table>
+          <thead>
+            <tr><th>Ticket Type</th><th>Cost (One Way)</th><th>Details</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Ordinary Car</td><td>~¥14,000 ($93)</td><td>3×2 seating, comfortable, plenty of legroom</td></tr>
+            <tr class="recommended"><td>Green Car ✅</td><td>~¥19,000 ($126)</td><td>2×2 seating, heated seats, quieter, dedicated luggage space</td></tr>
+          </tbody>
+        </table>
+
+        <div class="tip">
+          🗻 <strong>Mt. Fuji view:</strong> Sit in <strong>Seat E</strong> (right side headed to Kyoto)
+          for the best view. Book via the SmartEx app 1 month ahead for best selection.
+        </div>
+
+        <div class="item" style="margin-top: 12px;">
+          <span class="label">How to book:</span>
+        </div>
+        <div class="item">
+          1. <strong><a href="https://smart-ex.jp/en/" target="_blank" rel="noopener">SmartEx App</a> (Recommended):</strong>
+          Link a credit card + your Suica IC card number. Book on your phone, tap your phone at the Shinkansen gate — no paper ticket.
+        </div>
+        <div class="item">
+          2. <strong>Station machines:</strong> Green machines marked "Shinkansen" → English → Purchase Ticket → Tokaido Shinkansen. Pay with credit card.
+        </div>
+
+        <div class="tip">
+          🧳 <strong>Baggage 160 Rule:</strong> If your luggage total dimensions exceed 160 cm (~62 in),
+          you <strong>must</strong> reserve a seat with an "Oversized Baggage Area" (usually the last row).
+          Penalty: ¥1,000 fine. Filter for it in SmartEx.
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <!-- ===== DAY 9 RETURN ===== -->
+      <h2 id="return-strategy">🔄 Day 9 Return: Osaka → Haneda</h2>
+      <div class="section">
+        <div class="item">
+          Your return flight is from <strong>Haneda (HND) at 5:45 PM</strong>.
+          Here's the transfer chain:
+        </div>
+        <div class="item">
+          1. <strong>Shin-Osaka Station</strong> → Board Nozomi ~2:00 PM
+        </div>
+        <div class="item">
+          2. <strong>Shinagawa Station</strong> (NOT Tokyo Station) → arrive ~4:25 PM
+        </div>
+        <div class="item">
+          3. Walk to <strong>Keikyu Line</strong> transfer gate → Keikyu Airport Express to Haneda T3 (~15–20 min)
+        </div>
+        <div class="item">
+          4. <strong>Arrive Haneda</strong> ~3:00–3:30 PM — perfect for 5:45 PM flight
+        </div>
+        <div class="tip">
+          💡 <strong>Why Shinagawa?</strong> Much easier airport train transfer than enormous Tokyo Station.
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <!-- ===== IC CARDS ===== -->
+      <h2 id="ic-cards">💳 IC Cards (Suica)</h2>
+      <div class="section">
+        <div class="item">
+          Your key to the city — works on trains, subways, buses, vending machines, and convenience stores (7-Eleven, Lawson, FamilyMart).
+        </div>
+
+        <table>
+          <thead>
+            <tr><th>Card Type</th><th>Cost</th><th>How to Get</th><th>Notes</th></tr>
+          </thead>
+          <tbody>
+            <tr class="recommended">
+              <td>Mobile Suica ✅</td>
+              <td>Free</td>
+              <td>Apple Wallet → "+" → Transit Card → Suica</td>
+              <td>Top up with Amex/MC (Visa often fails with foreign cards). <a href="https://www.jreast.co.jp/e/pass/suica_mobile/" target="_blank" rel="noopener">Guide</a></td>
+            </tr>
+            <tr>
+              <td>Welcome Suica</td>
+              <td>Free</td>
+              <td>Vending machines at Haneda/Narita arrival hall</td>
+              <td>Valid 28 days, no refund on balance. Good phone-dies backup. <a href="https://www.jreast.co.jp/e/welcomesuica/welcomesuica.html" target="_blank" rel="noopener">Info</a></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="item" style="margin-top: 8px;">
+          <span class="label">Usage tips:</span>
+        </div>
+        <div class="item">• <strong>Tap In / Tap Out</strong> on the yellow reader at ticket gates.</div>
+        <div class="item">• Keep ~¥2,000 ($13) loaded. Max balance: ¥20,000 ($133).</div>
+        <div class="item">• Look for the IC logo at shops and vending machines.</div>
+      </div>
+
+      <div class="divider"></div>
+
+      <!-- ===== FLIGHTS ===== -->
+      <h2 id="flights">✈️ Flights</h2>
+      <div class="section">
+        <table>
+          <thead>
+            <tr><th>Leg</th><th>Date</th><th>Flight</th><th>Departs</th><th>Notes</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>EWR → HND</td><td>May 24</td><td>UA131</td><td>11:35 AM</td><td>Arrives May 25 @ 1:35 PM JST</td></tr>
+            <tr><td>HND → EWR</td><td>Jun 3</td><td>UA130</td><td>5:45 PM</td><td>Direct from Haneda T3</td></tr>
+          </tbody>
+        </table>
+        <div class="tip">
+          🕐 <strong>Departure day:</strong> Arrive at Haneda T3 by 3:00 PM for the 5:45 PM flight.
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <!-- ===== LUGGAGE FORWARDING ===== -->
+      <h2 id="luggage">📦 Luggage Forwarding (Takkyubin)</h2>
+      <div class="section">
+        <div class="item">
+          <strong>Don't haul heavy bags on the train.</strong> Ship them to your next hotel instead.
+        </div>
+
+        <table>
+          <thead>
+            <tr><th>Service</th><th>Cost</th><th>Speed</th><th>How</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><a href="https://www.kuronekoyamato.co.jp/en/" target="_blank" rel="noopener">Yamato Transport</a> (Black Cat)</td>
+              <td>~¥2,000–3,500/bag ($15–25)</td>
+              <td>Next day</td>
+              <td>Ask hotel front desk: "Takkyubin, please"</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="item" style="margin-top: 8px;">
+          <span class="label">Procedure:</span>
+        </div>
+        <div class="item">1. <strong>Night before:</strong> Pack large suitcase. Keep a small backpack with essentials for 1 night.</div>
+        <div class="item">2. <strong>Morning:</strong> Bring bags to hotel lobby.</div>
+        <div class="item">3. <strong>Form:</strong> Staff help fill out the waybill. You need the <strong>address and phone number</strong> of your next hotel.</div>
+        <div class="item">4. <strong>Payment:</strong> Usually cash only, or charged to room.</div>
+        <div class="item">5. <strong>Arrival:</strong> Bags waiting in your room at the next hotel.</div>
+      </div>
+
+      <div class="divider"></div>
+
+      <!-- ===== TAXIS ===== -->
+      <h2 id="taxi">🚕 Taxi Apps</h2>
+      <div class="section">
+        <table>
+          <thead>
+            <tr><th>App</th><th>Coverage</th><th>Payment</th><th>Notes</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><a href="https://www.uber.com/" target="_blank" rel="noopener">Uber</a></td>
+              <td>Tokyo, Kyoto, Osaka</td>
+              <td>In-app (credit card)</td>
+              <td>Hails standard taxis. Easy English UI. Slightly pricier (dispatch fee).</td>
+            </tr>
+            <tr>
+              <td><a href="https://go.mo-t.com/" target="_blank" rel="noopener">GO</a></td>
+              <td>Nationwide</td>
+              <td>In-app (credit card)</td>
+              <td>Dominant local app. Requires SMS verification — set up in US first if possible.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <a class="back-link" href="visual-schedule.html">← Back to Visual Planner</a>
+    </div>
+  </body>
+</html>

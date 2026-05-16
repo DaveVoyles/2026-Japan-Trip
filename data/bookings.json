@@ -1,0 +1,227 @@
+{
+  "hotels": [
+    {
+      "name": "Keio Plaza Hotel Shinjuku (Leg 1)",
+      "dates": "May 25-29",
+      "status": "confirmed",
+      "address": "2-2-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-8330",
+      "details": {
+        "Conf #": "27044SG326462",
+        "Room": "Premier Grand Two Queens",
+        "Floor": "35th",
+        "Amenities": "Breakfast + Club Lounge",
+        "Booked": "Feb 4, 2026"
+      }
+    },
+    {
+      "name": "Cross Hotel Kyoto Kawaramachi (Leg 2)",
+      "dates": "May 29-31",
+      "status": "confirmed",
+      "address": "640-1 Naginataboko-cho, Shijo-Kawaramachi, Shimogyo-ku, Kyoto 600-8492",
+      "details": {
+        "Res #": "3336-0459-3387",
+        "Room": "Superior Twin & Sofa Bed",
+        "Breakfast": "Included",
+        "Payment": "Pay on-site",
+        "Booked": "Feb 4, 2026"
+      }
+    },
+    {
+      "name": "Cross Hotel Osaka Dotonbori (Leg 3)",
+      "dates": "May 31 - Jun 2",
+      "status": "confirmed",
+      "address": "2-5-15 Shinsaibashisuji, Chuo-ku, Osaka 542-0085",
+      "details": {
+        "Conf #": "2389859595",
+        "Status": "Paid in full",
+        "Check-in": "3 PM / Check-out: 11 AM",
+        "Booked": "Feb 9, 2026 (Chase Travel)"
+      }
+    },
+    {
+      "name": "Shinagawa Prince Hotel (Leg 4)",
+      "dates": "Jun 2-3",
+      "status": "confirmed",
+      "address": "4-10-30 Takanawa, Minato-ku, Tokyo 108-8611",
+      "details": {
+        "Conf #": "2453539268",
+        "Room": "Main Tower Corner Twin Room with Extra Bed",
+        "Floor": "18th-26th",
+        "Check-in": "3:00 PM / Check-out: 11:00 AM",
+        "Cost": "$218.67 (paid with points)",
+        "Booked": "May 5, 2026 (Chase Travel)"
+      }
+    }
+  ],
+  "flights": [
+    {
+      "name": "Outbound: EWR → Haneda",
+      "dates": "May 24-25",
+      "status": "confirmed",
+      "details": {
+        "Flight": "UA131",
+        "Class": "Premium Economy",
+        "Duration": "~14 hours",
+        "Confirmation": "See booking confirmation email"
+      }
+    },
+    {
+      "name": "Return: Haneda → EWR",
+      "dates": "Jun 3",
+      "status": "confirmed",
+      "details": {
+        "Flight": "UA130",
+        "Depart": "5:45 PM",
+        "Class": "Economy (assumed)",
+        "Confirmation": "See booking confirmation email"
+      }
+    }
+  ],
+  "trains": [
+    {
+      "name": "Tokyo → Kyoto Shinkansen",
+      "dates": "May 29",
+      "status": "confirmed",
+      "details": {
+        "Train": "Nozomi (Green Car)",
+        "Depart Tokyo": "10:00 AM",
+        "Arrive Kyoto": "12:15 PM",
+        "Passengers": "3 adults",
+        "Payment": "MasterCard via Smart EX app",
+        "Cost": "56,520 JPY",
+        "Res #": "2003",
+        "Booked": "May 5, 2026"
+      }
+    },
+    {
+      "name": "Osaka → Tokyo Shinkansen",
+      "dates": "Jun 2",
+      "status": "confirmed",
+      "details": {
+        "Train": "Nozomi (Green Car)",
+        "Depart Shin-Osaka": "2:15 PM",
+        "Arrive Shinagawa": "6:45 PM",
+        "Passengers": "3 adults",
+        "Payment": "SmartEx",
+        "Res #": "2005",
+        "Booked": "May 5, 2026"
+      }
+    },
+    {
+      "name": "Kintetsu Train (Day 5 Nara)",
+      "dates": "May 30",
+      "status": "walk-up",
+      "details": {
+        "Route": "Kyoto → Nara",
+        "Payment": "Pay with IC Card on-site",
+        "Cost": "~¥720 round trip",
+        "Note": "Walk-up, no advance booking needed"
+      }
+    }
+  ],
+  "dining": [
+    {
+      "name": "Pokemon Cafe Tokyo",
+      "dates": "May 27",
+      "status": "closed",
+      "details": {
+        "Status": "CLOSED through late June",
+        "Action": "REMOVED from itinerary",
+        "Alternative": "Free time on Day 3"
+      }
+    },
+    {
+      "name": "Kirby Cafe Tokyo",
+      "dates": "May 28",
+      "status": "sold-out",
+      "details": {
+        "Status": "SOLD OUT",
+        "Booking Deadline": "April 10 @ 6 PM JST (monthly drop)",
+        "Action": "Remove as fixed plan; keep Akihabara/Asakusa flexible",
+        "Alternative": "Maid cafe, Kanda Myojin, or extra arcade time"
+      }
+    },
+    {
+      "name": "Omoide Yokocho (Tokyo)",
+      "dates": "May 25",
+      "status": "walk-up",
+      "details": {
+        "Time": "7:30 PM",
+        "Type": "Walk-in yakitori alley",
+        "Location": "Near Shinjuku Station",
+        "Note": "Casual, no reservation"
+      }
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Shibuya Sky",
+      "dates": "May 26",
+      "status": "confirmed",
+      "details": {
+        "Time": "2:00 PM JST",
+        "Confirmation #": "QSJ919058",
+        "Tickets": "3 x Adult (Aged 12+)",
+        "Booking Platform": "Klook",
+        "Note": "Sunset/golden-hour slots were sold out; itinerary now anchors around the 2:00 PM entry.",
+        "Cost": "~¥3,200-4,500 per person"
+      }
+    },
+    {
+      "name": "🦙 CAPPINESS Shinjuku (Capybara Café)",
+      "dates": "May 26",
+      "status": "confirmed",
+      "details": {
+        "Time": "5:15 PM JST",
+        "Booking ID": "5JFRH9B",
+        "Booking Platform": "TableCheck",
+        "Payment": "Credit card registered at booking — charged on day of visit",
+        "Note": "Yamanote Line from Shibuya ~10 min. If capybaras are unwell, café may close — they will notify via TableCheck."
+      }
+    },
+    {
+      "name": "Studio Ghibli Museum",
+      "dates": "May 28",
+      "status": "sold-out",
+      "details": {
+        "Status": "TICKETS SOLD OUT",
+        "Booking Deadline": "March 10 (PASSED)",
+        "Booking Window": "2 months in advance",
+        "Note": "Booking deadline was missed. Wishlist for future trip."
+      }
+    },
+    {
+      "name": "Osaka Castle",
+      "dates": "Jun 1",
+      "status": "walk-up",
+      "details": {
+        "Time": "8:30 AM",
+        "Type": "Walk-up entry",
+        "Cost": "~¥1,000",
+        "Note": "No advance booking needed"
+      }
+    },
+    {
+      "name": "Kuromon Market (Osaka)",
+      "dates": "Jun 1",
+      "status": "walk-up",
+      "details": {
+        "Time": "11:30 AM",
+        "Type": "Walk-up food market",
+        "Cost": "Variable (food purchases)",
+        "Note": "No booking needed"
+      }
+    },
+    {
+      "name": "Dotonbori (Osaka)",
+      "dates": "Jun 1",
+      "status": "walk-up",
+      "details": {
+        "Time": "Evening",
+        "Type": "Walk-up shopping + dining",
+        "Cost": "Variable",
+        "Note": "No booking needed"
+      }
+    }
+  ]
+}

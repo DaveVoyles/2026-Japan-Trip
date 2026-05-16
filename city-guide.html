@@ -1,0 +1,2452 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Japan 2026 — City Guide</title>
+    <script src="assets/scripts/theme.js?v=20260507a"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css?v=20260507a" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="assets/scripts/site-nav.js?v=20260507d"></script>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family:
+          "Segoe UI",
+          Aptos,
+          Calibri,
+          -apple-system,
+          BlinkMacSystemFont,
+          sans-serif;
+        color: var(--cp-text);
+        background:
+          radial-gradient(
+            circle at 10% 12%,
+            var(--cp-accent-soft) 0,
+            transparent 34%
+          ),
+          radial-gradient(
+            circle at 85% 8%,
+            var(--cp-highlight) 0,
+            transparent 22%
+          ),
+          var(--cp-bg);
+        min-height: 100vh;
+      }
+      .wrap {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+
+      /* ── Hero ── */
+      .hero {
+        background: var(--cp-panel-strong);
+        border: 1px solid var(--cp-border);
+        border-radius: 16px;
+        box-shadow: var(--cp-shadow);
+        padding: 28px 32px 20px;
+        margin-bottom: 24px;
+      }
+      .hero h1 {
+        font-size: 2rem;
+        background: linear-gradient(135deg, var(--cp-accent), var(--cp-link));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin-bottom: 6px;
+      }
+      .hero p {
+        color: var(--cp-text-muted);
+        margin-bottom: 16px;
+      }
+      /* ── City Tabs ── */
+      .tabs {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+      .city-nav {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 20px;
+        flex-wrap: wrap;
+      }
+      .tab-btn {
+        border: 2px solid var(--cp-border);
+        background: var(--cp-surface);
+        color: var(--cp-text-muted);
+        border-radius: 12px;
+        padding: 10px 20px;
+        font-size: 1rem;
+        font-family: inherit;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+      .tab-btn:hover {
+        border-color: var(--cp-accent);
+        color: var(--cp-text);
+      }
+      .tab-btn.active {
+        border-color: var(--cp-accent);
+        background: var(--cp-accent);
+        color: var(--cp-accent-fg);
+      }
+      .tab-panel {
+        display: none;
+      }
+      .tab-panel.active {
+        display: block;
+      }
+
+      /* ── Section headers ── */
+      .section-header {
+        font-size: 1.4rem;
+        font-weight: 700;
+        margin: 28px 0 14px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        color: var(--cp-text);
+      }
+      .section-header::after {
+        content: "";
+        flex: 1;
+        height: 1px;
+        background: var(--cp-border);
+      }
+
+      /* ── Neighborhood cards ── */
+      .hood-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 14px;
+        margin-bottom: 8px;
+      }
+      .hood-card {
+        background: var(--cp-surface);
+        border: 1px solid var(--cp-border);
+        border-radius: 12px;
+        padding: 16px;
+        box-shadow: var(--cp-shadow);
+      }
+      .hood-name {
+        font-size: 1.05rem;
+        font-weight: 700;
+        margin-bottom: 4px;
+      }
+      .hood-vibe {
+        font-size: 0.85rem;
+        color: var(--cp-text-muted);
+        margin-bottom: 10px;
+        font-style: italic;
+      }
+      .hood-bullets {
+        list-style: none;
+        padding: 0;
+      }
+      .hood-bullets li {
+        font-size: 0.88rem;
+        color: var(--cp-text-soft);
+        padding: 3px 0 3px 14px;
+        position: relative;
+      }
+      .hood-bullets li::before {
+        content: "·";
+        position: absolute;
+        left: 4px;
+        color: var(--cp-accent);
+        font-weight: 700;
+      }
+      .hood-access {
+        font-size: 0.8rem;
+        color: var(--cp-text-muted);
+        margin-top: 10px;
+        padding-top: 8px;
+        border-top: 1px solid var(--cp-border);
+      }
+
+      /* ── Attraction rows ── */
+      .attraction-group {
+        margin-bottom: 24px;
+      }
+      .attraction-group-title {
+        font-size: 1rem;
+        font-weight: 700;
+        color: var(--cp-text-muted);
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 10px;
+        padding-bottom: 6px;
+        border-bottom: 1px solid var(--cp-border);
+      }
+      .attraction-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+      .attraction-card {
+        background: var(--cp-surface);
+        border: 1px solid var(--cp-border);
+        border-radius: 12px;
+        padding: 14px 16px;
+        box-shadow: var(--cp-shadow);
+        display: grid;
+        grid-template-columns: auto 1fr auto;
+        gap: 10px 14px;
+        align-items: start;
+        cursor: pointer;
+        transition: border-color 0.2s;
+      }
+      .attraction-card:hover {
+        border-color: var(--cp-accent);
+      }
+      .attraction-card.expanded {
+        border-color: var(--cp-accent);
+      }
+      .cost-badge {
+        font-size: 0.75rem;
+        font-weight: 700;
+        padding: 4px 8px;
+        border-radius: 6px;
+        background: var(--cp-accent-soft);
+        color: var(--cp-accent);
+        white-space: nowrap;
+        min-width: 36px;
+        text-align: center;
+      }
+      .attraction-main {
+        min-width: 0;
+      }
+      .attraction-name {
+        font-size: 0.98rem;
+        font-weight: 700;
+        color: var(--cp-link);
+        text-decoration: none;
+        display: inline-block;
+        margin-bottom: 2px;
+      }
+      .attraction-name:hover {
+        text-decoration: underline;
+      }
+      .guide-link {
+        color: var(--cp-link);
+        text-decoration: underline;
+        text-underline-offset: 2px;
+      }
+      .guide-link:hover {
+        color: var(--cp-accent);
+      }
+      .attraction-summary {
+        font-size: 0.88rem;
+        color: var(--cp-text-muted);
+      }
+      .attraction-expand-btn {
+        background: none;
+        border: none;
+        color: var(--cp-text-muted);
+        cursor: pointer;
+        font-size: 1.1rem;
+        padding: 2px 6px;
+        border-radius: 6px;
+        transition: background 0.15s;
+      }
+      .attraction-expand-btn:hover {
+        background: var(--cp-surface-soft);
+      }
+      .attraction-detail {
+        grid-column: 1 / -1;
+        font-size: 0.88rem;
+        color: var(--cp-text-soft);
+        line-height: 1.55;
+        padding-top: 4px;
+        display: none;
+      }
+      .attraction-card.expanded .attraction-detail {
+        display: block;
+      }
+      .attraction-card.expanded .attraction-expand-btn {
+        color: var(--cp-accent);
+      }
+      .pro-con {
+        display: flex;
+        gap: 16px;
+        margin-top: 8px;
+        flex-wrap: wrap;
+      }
+      .pro,
+      .con {
+        font-size: 0.83rem;
+        padding: 4px 8px;
+        border-radius: 6px;
+      }
+      .pro {
+        background: rgba(22, 163, 74, 0.1);
+        color: var(--cp-success);
+      }
+      .con {
+        background: rgba(220, 38, 38, 0.1);
+        color: var(--cp-danger);
+      }
+      .avail-chip {
+        display: inline-block;
+        font-size: 0.75rem;
+        padding: 2px 7px;
+        border-radius: 12px;
+        border: 1px solid var(--cp-border);
+        color: var(--cp-text-muted);
+        margin-top: 6px;
+        margin-right: 4px;
+      }
+      .avail-chip.book {
+        border-color: var(--cp-warning);
+        color: var(--cp-warning);
+      }
+      .avail-chip.en-high {
+        border-color: var(--cp-success);
+        color: var(--cp-success);
+      }
+
+      /* ── Tips box ── */
+      .tips-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 12px;
+        margin-bottom: 8px;
+      }
+      .tip-card {
+        background: var(--cp-surface);
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        padding: 14px;
+      }
+      .tip-card h4 {
+        font-size: 0.9rem;
+        margin-bottom: 6px;
+      }
+      .tip-card p,
+      .tip-card li {
+        font-size: 0.86rem;
+        color: var(--cp-text-soft);
+        line-height: 1.5;
+      }
+      .tip-card ul {
+        padding-left: 16px;
+      }
+
+      /* ── Map link ── */
+      .map-link {
+        display: none;
+        align-items: center;
+        gap: 6px;
+        font-size: 0.88rem;
+        color: var(--cp-link);
+        text-decoration: none;
+        border: 1px solid var(--cp-border);
+        background: var(--cp-surface);
+        border-radius: 8px;
+        padding: 7px 12px;
+        margin-left: auto;
+      }
+      .map-link.active {
+        display: inline-flex;
+      }
+      .map-link:hover {
+        border-color: var(--cp-link);
+      }
+
+      @media (max-width: 640px) {
+        .hero {
+          padding: 20px;
+        }
+        .hero h1 {
+          font-size: 1.5rem;
+        }
+        .city-nav {
+          align-items: stretch;
+        }
+        .tabs,
+        .map-link {
+          width: 100%;
+        }
+        .map-link {
+          justify-content: center;
+          margin-left: 0;
+        }
+        .attraction-card {
+          grid-template-columns: auto 1fr;
+        }
+        .attraction-expand-btn {
+          display: none;
+        }
+        .attraction-detail {
+          display: block !important;
+        }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <main class="wrap">
+      <section class="hero">
+        <h1>🗾 Japan 2026 — City Guide</h1>
+        <p>
+          Neighborhoods, attractions, tips, and what to do across all three
+          cities.
+        </p>
+      </section>
+
+      <div class="city-nav">
+        <div class="tabs">
+          <button class="tab-btn active" onclick="switchTab('tokyo', this)">
+            🗼 Tokyo
+          </button>
+          <button class="tab-btn" onclick="switchTab('kyoto', this)">
+            ⛩️ Kyoto
+          </button>
+          <button class="tab-btn" onclick="switchTab('osaka', this)">
+            🐙 Osaka
+          </button>
+        </div>
+        <a
+          class="map-link active"
+          data-map-link="tokyo"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.google.com/maps/search/Ginza+Six+OR+Shibuya+Sky+OR+Meiji+Shrine+OR+Senso-ji+OR+Super+Potato+Akihabara+OR+Yanaka+Ginza+OR+Mori+Art+Museum+OR+Cat+Street+Harajuku+OR+Kappabashi+Kitchen+Town"
+        >
+          📍 Open Tokyo Sightseeing Map
+        </a>
+        <a
+          class="map-link"
+          data-map-link="kyoto"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.google.com/maps/search/Kiyomizu-dera+OR+Fushimi+Inari+Taisha+OR+Kinkaku-ji+OR+Arashiyama+Bamboo+Grove+OR+Nishiki+Market+OR+Gion+Shijo+Station+OR+Philosopher's+Path"
+        >
+          📍 Open Kyoto Sightseeing Map
+        </a>
+        <a
+          class="map-link"
+          data-map-link="osaka"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.google.com/maps/search/Dotonbori+Glico+Man+OR+Den+Den+Town+OR+Kuromon+Market+OR+Osaka+Castle+OR+Shinsaibashi+OR+Hozenji+Yokocho"
+        >
+          📍 Open Osaka Sightseeing Map
+        </a>
+      </div>
+
+      <!-- ══════════════ TOKYO ══════════════ -->
+      <div id="tab-tokyo" class="tab-panel active">
+        <h2 class="section-header">Neighborhoods</h2>
+        <div class="hood-grid">
+          <div class="hood-card" id="shinjuku">
+            <div class="hood-name">Shinjuku 🌃</div>
+            <div class="hood-vibe">Neon Jungle — Tokyo at full volume</div>
+            <ul class="hood-bullets">
+              <li>Kabukicho / Godzilla head at Hotel Gracery</li>
+              <li>Omoide Yokocho (Piss Alley) yakitori</li>
+              <li>Shinjuku Gyoen park</li>
+              <li>Free observation deck at Metro Govt Building</li>
+            </ul>
+            <div class="hood-access">
+              🚆 World's busiest station. Gateway to western day trips.
+            </div>
+          </div>
+          <div class="hood-card" id="shibuya">
+            <div class="hood-name">Shibuya 🔀</div>
+            <div class="hood-vibe">Youth Pulse — iconic crossing & culture</div>
+            <ul class="hood-bullets">
+              <li>Scramble Crossing (world's busiest)</li>
+              <li>Hachiko statue meeting point</li>
+              <li>Shibuya Parco: Nintendo Tokyo, Pokemon Center</li>
+              <li>Shibuya Sky observation deck (book ahead!)</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Yamanote Line + multiple subway lines. Perfect base for
+              Harajuku.
+            </div>
+          </div>
+          <div class="hood-card" id="harajuku">
+            <div class="hood-name">Harajuku &amp; Cat Street 🎀</div>
+            <div class="hood-vibe">
+              Youth fashion — kawaii to high streetwear
+            </div>
+            <ul class="hood-bullets">
+              <li>Takeshita Street — kawaii culture &amp; crepes</li>
+              <li>
+                Cat Street — indie boutiques, cafes, vintage (much calmer than
+                Takeshita)
+              </li>
+              <li>Omotesando — Tokyo's Champs-Élysées</li>
+            </ul>
+            <div class="hood-access">
+              🚆 JR Harajuku Station or Meiji-jingumae Station.
+            </div>
+          </div>
+          <div class="hood-card" id="yanaka">
+            <div class="hood-name">Yanaka 🏮</div>
+            <div class="hood-vibe">
+              Pre-war Tokyo — quiet &amp; nostalgic Shitamachi
+            </div>
+            <ul class="hood-bullets">
+              <li>Yanaka Ginza shopping street (cat-themed shops)</li>
+              <li>Tennoji Temple &amp; bronze Buddha</li>
+              <li>Yuyake Dandan "Sunset Stairs"</li>
+              <li>Nippori Fabric Town nearby</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Nippori Station (JR Yamanote / Keisei Line).
+            </div>
+          </div>
+          <div class="hood-card" id="roppongi">
+            <div class="hood-name">Roppongi 🎨</div>
+            <div class="hood-vibe">
+              Art Triangle — world-class museums &amp; views
+            </div>
+            <ul class="hood-bullets">
+              <li>Mori Art Museum (53rd floor, open until 10 PM)</li>
+              <li>National Art Center — wavy glass architecture</li>
+              <li>Suntory Museum of Art — traditional Japanese craft</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Roppongi Station (Hibiya + Oedo Lines). 1 stop from Ginza on
+              Hibiya Line.
+            </div>
+          </div>
+          <div class="hood-card" id="akihabara">
+            <div class="hood-name">Asakusa &amp; Akihabara ⚡</div>
+            <div class="hood-vibe">Old Tokyo meets Cyber Tokyo</div>
+            <ul class="hood-bullets">
+              <li>Senso-ji Temple — arrive 6:30 AM to beat crowds</li>
+              <li>Kappabashi Kitchen Town — knives &amp; plastic food</li>
+              <li>Akihabara: Super Potato, Mandarake, Taito Station</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Asakusa Station (Ginza Line). Akihabara on JR/Hibiya.
+            </div>
+          </div>
+          <div class="hood-card" id="ginza">
+            <div class="hood-name">Ginza 💎</div>
+            <div class="hood-vibe">
+              Polished Heart — luxury &amp; fine dining
+            </div>
+            <ul class="hood-bullets">
+              <li>Ginza Six — high-end art &amp; fashion</li>
+              <li>Uniqlo Ginza — 12 floors, world's largest</li>
+              <li>Itoya — 12-floor stationery heaven</li>
+              <li>Weekend pedestrian paradise on Chuo-dori</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Ginza, Hibiya, Marunouchi Lines. 1 stop to Tokyo Station.
+            </div>
+          </div>
+          <div class="hood-card" id="kawaguchiko">
+            <div class="hood-name">Lake Kawaguchiko 🗻</div>
+            <div class="hood-vibe">Day trip — iconic Mt. Fuji views</div>
+            <ul class="hood-bullets">
+              <li>Oishi Park — seasonal flowers + Fuji framing</li>
+              <li>Mt. Fuji Panoramic Ropeway</li>
+              <li>Chureito Pagoda (nearby Shimoyureito)</li>
+            </ul>
+            <div class="hood-access">
+              🚌 ~1h 45m express bus from Shinjuku. Book early. Full-day
+              commitment.
+            </div>
+          </div>
+        </div>
+
+        <h2 class="section-header">What to Do</h2>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🎮 Akihabara — Dave</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="super-potato" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.superpotato.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Super Potato</a
+                >
+                <div class="attraction-summary">
+                  Mecca of retro gaming — 3 floors of Famicom, SNES, and rare
+                  consoles.
+                </div>
+                <div class="attraction-detail">
+                  The top floor features a retro arcade with a small candy shop.
+                  Look for the "throne" made of game cartridges for a photo op.
+                  Prices are higher than other shops, but the selection is
+                  unmatched.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Unmatched retro selection; nostalgic atmosphere</span
+                    >
+                    <span class="con"
+                      >⚠️ Pricier than other retro shops; very cramped</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: Medium</span
+                    ><span class="avail-chip">Opens 11 AM</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="taito-station" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.taito.co.jp/en"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Taito Station Akihabara</a
+                >
+                <div class="attraction-summary">
+                  Massive arcade — UFO catchers, rhythm games, purikura sticker
+                  booths.
+                </div>
+                <div class="attraction-detail">
+                  The basement often houses purikura (photo sticker booths).
+                  Check out the rhythm game floor for locals performing feats on
+                  maimai and Taiko no Tatsujin.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ High-energy; great for rhythm games and photo
+                      booths</span
+                    >
+                    <span class="con"
+                      >⚠️ Loud; claw machines are designed to be difficult</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="beep-akihabara" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.akihabara-beep.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >BEEP Akihabara</a
+                >
+                <div class="attraction-summary">
+                  Vintage Japanese PC games, PC-98/X68000 hardware, and chiptune
+                  music.
+                </div>
+                <div class="attraction-detail">
+                  Located in a basement — feels like a dungeon of tech history.
+                  They stock fan-made hardware accessories for connecting old
+                  consoles to modern TVs.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Deep-cut PC history; rare hardware you won't find
+                      elsewhere</span
+                    >
+                    <span class="con"
+                      >⚠️ Very small; limited English for technical items</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip">English: Low</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">⛩️ Temples &amp; Shrines</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="meiji-jingu" onclick="toggleCard(this)">
+              <div class="cost-badge">Free</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.meijijingu.or.jp/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Meiji Jingu Shrine</a
+                >
+                <div class="attraction-summary">
+                  A serene forested Shinto shrine in the heart of Tokyo — a calm
+                  contrast to Harajuku just steps away. Day 2 morning anchor.
+                </div>
+                <div class="attraction-detail">
+                  Dedicated to Emperor Meiji and Empress Shoken. The forested
+                  path through the torii gate feels miles from the city. Arrive
+                  before 9 AM to beat tour groups. Iris garden blooms in June.
+                  Look for sake barrels gifted from French wineries lined along
+                  the path.
+                  <div class="pro-con">
+                    <span class="pro">✅ Free; genuinely peaceful in a dense city; easy from Harajuku Station</span>
+                    <span class="con">⚠️ Gets crowded mid-morning; no indoor exhibits</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span>
+                    <span class="avail-chip">Opens at sunrise</span>
+                    <span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="senso-ji" onclick="toggleCard(this)">
+              <div class="cost-badge">Free</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.senso-ji.jp/english/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Senso-ji Temple</a
+                >
+                <div class="attraction-summary">
+                  Tokyo's oldest and most famous temple in the Asakusa district
+                  — the iconic red lantern gate. Day 4 anchor.
+                </div>
+                <div class="attraction-detail">
+                  The Kaminarimon (Thunder Gate) with its giant red lantern is
+                  one of the most photographed spots in Japan. Nakamise-dori
+                  shopping street leads up to the main hall. Draw an Omikuji
+                  (fortune slip) — if bad luck, tie it to the rack to leave it
+                  behind. The 5-story pagoda is nearby and worth a photo.
+                  <div class="pro-con">
+                    <span class="pro">✅ Free; iconic photo spots; great souvenir shopping on Nakamise</span>
+                    <span class="con">⚠️ Can be very crowded by 10 AM; some stalls are touristy</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span>
+                    <span class="avail-chip">Open 24hrs (grounds)</span>
+                    <span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🌅 Views &amp; Experiences</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="shibuya-sky" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://shibuya-sky.jp/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Shibuya Sky</a
+                >
+                <div class="attraction-summary">
+                  Open-air rooftop observatory on the 47th floor of Shibuya
+                  Scramble Square — stunning views of the Crossing and city.
+                  <strong>Booked: Day 2, 2:00 PM (QSJ919058).</strong>
+                </div>
+                <div class="attraction-detail">
+                  One of the newest and most dramatic viewpoints in Tokyo. The
+                  open-air deck on top lets you look straight down at Shibuya
+                  Crossing. Sunset/golden hour slots sell out first — book 2–4
+                  weeks ahead. The indoor Sky Stage lounge has cocktails.
+                  <div class="pro-con">
+                    <span class="pro">✅ Best aerial view of the Crossing; outdoor deck feels exhilarating</span>
+                    <span class="con">⚠️ Must book in advance; golden hour sells out quickly</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip book">Reservation Required</span>
+                    <span class="avail-chip">Shibuya Scramble Square 46F</span>
+                    <span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="shinkansen" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://global.jr-central.co.jp/en/tickets/type/shinkansen/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Shinkansen (Bullet Train)</a
+                >
+                <div class="attraction-summary">
+                  Japan's high-speed rail network — for this trip, the key route
+                  is Tokyo → Kyoto → Osaka on the Tokaido Shinkansen.
+                </div>
+                <div class="attraction-detail">
+                  Nozomi trains are the fastest at about 2h15m from Tokyo to
+                  Kyoto, but they do not accept the JR Pass. Hikari is slightly
+                  slower at about 2h40m and does accept the JR Pass. Tickets can
+                  be reserved at any JR ticket office (みどりの窓口) or at
+                  Shinkansen vending machines. Reserve a window seat (madogawa)
+                  and specify direction for Mt. Fuji views: A/B seats heading
+                  west, D/E seats heading east. At Tokyo Station, enter through
+                  the Tokaido Shinkansen gates and buy ekiben at Gransta before
+                  going through, since food options inside are limited. At
+                  Shin-Osaka, follow the Shinkansen signs from the Osaka Metro
+                  exit — it's a dedicated Shinkansen hub, not a regular metro
+                  stop. Large bags officially should not live in the overhead
+                  racks unless they fit, so oversized luggage reservations or
+                  Yamato takkyubin forwarding (about ¥1,500–2,000 per bag) are
+                  the cleaner play. Mt. Fuji appears about 40 minutes after
+                  leaving Tokyo on the left side heading west, and on the right
+                  side heading east back toward Tokyo.
+                  <div class="pro-con">
+                    <span class="pro">✅ Fastest intercity option, easy reservations, and great Mt. Fuji window-seat payoff</span>
+                    <span class="con">⚠️ Nozomi/JR Pass rules and oversized luggage policies can trip you up</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip book">Seat Reservation Recommended</span>
+                    <span class="avail-chip">Tokaido Shinkansen</span>
+                    <span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🐟 Food Markets</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="toyosu-market" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.toyosu-market.or.jp/english/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Toyosu Market</a
+                >
+                <div class="attraction-summary">
+                  The modern replacement for Tsukiji — Japan's largest wholesale
+                  fish market with inner-market tuna auctions. Day 3 morning.
+                </div>
+                <div class="attraction-detail">
+                  The tuna auction viewing is lottery-based (apply months ahead)
+                  but the outer market restaurants are open to all. Arrive
+                  hungry — sushi breakfasts here are among the best in Tokyo.
+                  Daiwa Sushi and Sushi Dai have long lines but are worth it.
+                  The market itself is viewable from glass walkways.
+                  <div class="pro-con">
+                    <span class="pro">✅ Freshest sushi in Tokyo; interesting working market atmosphere</span>
+                    <span class="con">⚠️ Lines at top counters can be 1–2 hours; closes early (~2 PM)</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in (restaurant area)</span>
+                    <span class="avail-chip">Best 9–11 AM</span>
+                    <span class="avail-chip en-high">English: Low</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="teamlab-planets" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.teamlab.art/e/planets/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >teamLab Planets (チームラボ プラネッツ)</a
+                >
+                <div class="attraction-summary">
+                  An immersive digital art museum in Toyosu with barefoot,
+                  room-scale installations of water, light, and mirrors.
+                </div>
+                <div class="attraction-detail">
+                  One of Tokyo's most Instagrammable experiences, teamLab
+                  Planets puts you inside interactive environments you walk
+                  through barefoot. It's in Toyosu near Toyosu Market, and
+                  advance booking is essential because popular slots sell out
+                  weeks ahead. Bring socks to leave at the entrance, allow about
+                  1.5–2 hours, and note that shorts or skirts work better than
+                  long pants in the water rooms. Weekday mornings are the least
+                  crowded. Book your timed slot at teamlab.art/e/planets.
+                  Different from teamLab Borderless, which moved to Azabudai
+                  Hills — Planets is the Toyosu one.
+                  <div class="pro-con">
+                    <span class="pro">✅ Highly memorable, visually wild, and easy to pair with Toyosu Market</span>
+                    <span class="con">⚠️ Must pre-book; water rooms and mirrored floors can be awkward in long pants</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip book">Advance Booking Essential</span>
+                    <span class="avail-chip">Toyosu</span>
+                    <span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🎀 Harajuku &amp; Cat Street</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="cat-street" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.gotokyo.org/en/destinations/western-tokyo/harajuku/index.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Cat Street</a
+                >
+                <div class="attraction-summary">
+                  The relaxed backseat of Harajuku — streetwear boutiques,
+                  vintage, and specialty cafes. Added: Day 2.
+                </div>
+                <div class="attraction-detail">
+                  A pedestrianized path following an underground river. Brands
+                  like Supreme, The North Face, and Neighborhood sit alongside
+                  quiet coffee shops like The Roastery by Nozy Coffee. Much less
+                  chaotic than Takeshita — perfect for stylish wandering and
+                  quality secondhand clothing.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Relaxed; best place for streetwear and "cool"
+                      boutiques</span
+                    >
+                    <span class="con"
+                      >⚠️ Shops can be expensive; easy to miss without a
+                      map</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🏮 Yanaka — Pre-War Tokyo</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="yanaka-ginza" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.gotokyo.org/en/spot/478/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Yanaka Ginza</a
+                >
+                <div class="attraction-summary">
+                  A time capsule of "Shitamachi" Tokyo — cat shops, street food,
+                  traditional crafts. Added: Day 4 morning.
+                </div>
+                <div class="attraction-detail">
+                  Perfect for a slow morning walk. Try menchi-katsu (minced meat
+                  cutlets) or cat-themed snacks. The "Sunset Stairs" (Yuyake
+                  Dandan) offer a nostalgic view of the street. Great for
+                  traditional bamboo crafts and ceramics at non-luxury prices.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Authentic historical atmosphere; great street
+                      food</span
+                    >
+                    <span class="con"
+                      >⚠️ Some shops close on irregular days; no major headline
+                      attractions</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🎨 Roppongi Art Triangle</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="mori-art-museum" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.mori.art.museum/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Mori Art Museum</a
+                >
+                <div class="attraction-summary">
+                  Contemporary art on the 53rd floor of Roppongi Hills — open
+                  until 10 PM. Added: Day 3 evening.
+                </div>
+                <div class="attraction-detail">
+                  Ticket usually includes access to the Tokyo City View
+                  observation deck. The exhibitions are always cutting-edge and
+                  international. Perfect evening stop from Ginza — one stop on
+                  the Hibiya Line.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ World-class modern art + city view in one ticket; open
+                      late</span
+                    >
+                    <span class="con"
+                      >⚠️ Exhibits change frequently — check current show before
+                      going</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.nact.jp/english/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >The National Art Center</a
+                >
+                <div class="attraction-summary">
+                  Japan's largest museum — iconic wavy glass architecture; no
+                  permanent collection.
+                </div>
+                <div class="attraction-detail">
+                  Designed by Kisho Kurokawa, the building itself is a work of
+                  art. Hosts several massive rotating exhibitions
+                  simultaneously. The suspended cone café (Salon de Thé Rond) is
+                  a famous architectural photo spot.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Architectural masterpiece; massive high-quality
+                      rotating shows</span
+                    >
+                    <span class="con"
+                      >⚠️ Closed Tuesdays; can be crowded for popular
+                      shows</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip">Closed Tuesdays</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🛍️ Shopping — Debbie</div>
+          <div class="attraction-list">
+            <div class="attraction-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.ito-ya.co.jp/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Itoya Ginza</a
+                >
+                <div class="attraction-summary">
+                  12 floors of premium stationery — must-visit for paper and pen
+                  lovers.
+                </div>
+                <div class="attraction-detail">
+                  Design your own custom notebook on one floor. The 12th floor
+                  has a rooftop café growing their own lettuce hydroponically.
+                  An entire floor dedicated to fine fountain pens where you can
+                  test-write with pens worth thousands.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Stationery heaven; custom notebook service is a great
+                      souvenir</span
+                    >
+                    <span class="con"
+                      >⚠️ 12 floors is a lot of walking; busy on weekends</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.afm-teahouse.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Aoyama Flower Market Tea House</a
+                >
+                <div class="attraction-summary">
+                  Tea house inside a greenhouse — eat surrounded by seasonal
+                  blooms.
+                </div>
+                <div class="attraction-detail">
+                  Menu features flower-infused teas and desserts like rose
+                  jelly. Incredibly popular for photos — reservations
+                  practically mandatory. French Toast is their signature, often
+                  decorated with edible flowers.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Stunning unique dining environment; very
+                      Instagrammable</span
+                    >
+                    <span class="con"
+                      >⚠️ Long waits without reservations; limited menu</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip book">Book Online</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="kappabashi" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.kappabashi.or.jp/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Kappabashi Kitchen Town</a
+                >
+                <div class="attraction-summary">
+                  Realistic plastic food samples and high-quality Japanese
+                  knives — optional stop on Day 4.
+                </div>
+                <div class="attraction-detail">
+                  Visit Kama-Asa for world-class knives. Visit Maizuru for the
+                  most intricate plastic food displays. Some knife shops offer
+                  on-the-spot engraving so you can personalize with your name in
+                  Katakana.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Best place for high-quality kitchenware and unique
+                      food samples</span
+                    >
+                    <span class="con"
+                      >⚠️ Most shops close ~5 PM; many closed Sundays</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip">Shops close ~5 PM</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🦙 Unique Experiences</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="cappiness" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.tablecheck.com/en/shops/cappiness/reserve"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >CAPPINESS Shinjuku — Capybara Café</a
+                >
+                <div class="attraction-summary">
+                  Hang out with giant capybaras in a relaxed café setting in Shinjuku.
+                </div>
+                <div class="attraction-detail">
+                  One of the few places in the world where you can interact with
+                  capybaras up close — feed them, pet them, and take photos.
+                  Sessions are time-limited and reservations are required via
+                  TableCheck. <strong>Our booking: May 26 at 5:15 PM (ID: 5JFRH9B).</strong>
+                  About 10 min on the Yamanote Line from Shibuya.
+                  Note: if the capybaras are unwell the café may close with
+                  advance notice through TableCheck.
+                  <div class="pro-con">
+                    <span class="pro">✅ Genuinely unique experience; very calm and photogenic animals</span>
+                    <span class="con">⚠️ Must book in advance; sessions sell out quickly</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip book">Reservation Required</span
+                    ><span class="avail-chip en-high">English: Medium</span
+                    ><span class="avail-chip">Shinjuku</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="omoide-yokocho" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.gotokyo.org/en/spot/44/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Omoide Yokocho (Memory Lane / Piss Alley)</a
+                >
+                <div class="attraction-summary">
+                  A narrow smoky alleyway in Shinjuku packed with tiny yakitori
+                  bars — one of Tokyo's most atmospheric first-night dinner spots.
+                </div>
+                <div class="attraction-detail">
+                  Dating back to post-WWII, Omoide Yokocho is a maze of tiny
+                  yakitori bars, most with only 6–8 seats. Smoke from charcoal
+                  grills fills the lane; cold beer and grilled chicken skewers
+                  are the move. Located immediately west of Shinjuku Station
+                  north exit, it comes alive from around 5–6 PM. Most places are
+                  cash only, and there are no reservations — just walk up and
+                  grab an open seat. It's perfect for a low-stakes first-night
+                  dinner after a long travel day since you can simply point at
+                  what other people are eating. Go before 7 PM to avoid the
+                  longest lines; the alley is tiny, so a 10-minute wait is
+                  normal.
+                  <div class="pro-con">
+                    <span class="pro">✅ Atmospheric, easy first-night dinner, and minimal menu navigation needed</span>
+                    <span class="con">⚠️ Tiny seating, smoky lanes, and brief waits are normal</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in only</span
+                    ><span class="avail-chip">Shinjuku Station North Exit</span
+                    ><span class="avail-chip en-high">English: Low</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🗻 Day Trips</div>
+          <div class="attraction-list">
+            <div class="attraction-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.japan-guide.com/e/e6906.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Lake Kawaguchiko</a
+                >
+                <div class="attraction-summary">
+                  Most accessible Fuji Five Lakes view — iconic Mt. Fuji
+                  framing. Optional Day 4 swap.
+                </div>
+                <div class="attraction-detail">
+                  Visit Oishi Park for the classic Fuji + flowers framing. Take
+                  the ropeway for a high-altitude view. For the postcard shot, a
+                  short train to Shimoyureito reaches the Chureito Pagoda.
+                  Full-day commitment — ~1h 45m bus each way from Shinjuku.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Most reliable Fuji views; beautiful lakeside
+                      scenery</span
+                    >
+                    <span class="con"
+                      >⚠️ Fuji is often hidden by clouds; 2-hour commute each
+                      way</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip book">Book Bus Early</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🗓️ Markets — Check Calendar</div>
+          <div class="attraction-list">
+            <div class="attraction-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.antique-market.jp/english/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Oedo Antique Market</a
+                >
+                <div class="attraction-summary">
+                  Japan's largest outdoor antique market at Tokyo International
+                  Forum. ⚠️ Not available on our trip dates.
+                </div>
+                <div class="attraction-detail">
+                  A treasure hunter's dream: Edo-period woodblock prints,
+                  vintage kimonos, mid-century ceramics, rare collectibles. Held
+                  under the stunning glass architecture of the Forum.
+                  <strong>2026 dates: May 9/24, Jun 7/28</strong> — none fall
+                  within the May 25–Jun 3 trip window.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Incredible authentic Japanese history; stunning
+                      location</span
+                    >
+                    <span class="con"
+                      >⚠️ Only twice monthly; weather-dependent; not available
+                      on our dates</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip book"
+                      >Check Calendar (1st &amp; 3rd Sunday)</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <h2 class="section-header">Tips &amp; Essentials</h2>
+        <div class="tips-grid">
+          <div class="tip-card">
+            <h4>🚆 Getting Around</h4>
+            <ul>
+              <li>
+                Get a <strong>Suica</strong> card at airport or add to Apple
+                Wallet before arrival
+              </li>
+              <li>JR Yamanote Line (green loop) is your lifeline</li>
+              <li>Stand on the <strong>LEFT</strong> on escalators</li>
+              <li>Avoid rush hour 7:30–9:30 AM with luggage</li>
+            </ul>
+          </div>
+          <div class="tip-card">
+            <h4>⛩️ Temple Tips</h4>
+            <ul>
+              <li>Senso-ji: arrive 6:30 AM to beat the crowds</li>
+              <li>Meiji Shrine: bow before the giant Torii gates</li>
+              <li>
+                Shibuya Sky: book 4+ weeks ahead; sunset sells out instantly
+              </li>
+              <li>Akihabara shops don't open until 11 AM</li>
+            </ul>
+          </div>
+          <div class="tip-card">
+            <h4>🛍️ Shopping</h4>
+            <ul>
+              <li>Carry passport for tax-free on purchases over ¥5,500</li>
+              <li>
+                Basement food halls (Depachika) at Isetan Shinjuku or Mitsukoshi
+                Ginza are unmissable
+              </li>
+              <li>Coin lockers at major stations for day-bag drops</li>
+            </ul>
+          </div>
+          <div class="tip-card">
+            <h4>🍱 Food Culture</h4>
+            <ul>
+              <li>No eating while walking — find a spot or eat at the stall</li>
+              <li>Public trash cans are rare; carry a small bag</li>
+              <li>7-Eleven or Japan Post Bank ATMs for reliable cash</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══════════════ KYOTO ══════════════ -->
+      <div id="tab-kyoto" class="tab-panel">
+        <h2 class="section-header">Neighborhoods</h2>
+        <div class="hood-grid">
+          <div class="hood-card" id="gion">
+            <div class="hood-name">Gion 🏮</div>
+            <div class="hood-vibe">The Kyoto of your imagination</div>
+            <ul class="hood-bullets">
+              <li>Cobblestone Sannenzaka &amp; Ninenzaka lanes</li>
+              <li>Traditional wooden machiya townhouses</li>
+              <li>Geiko/Maiko spotting in the evenings</li>
+              <li>Yasaka Shrine at the east end</li>
+            </ul>
+            <div class="hood-access">
+              🚶 Walkable to Kiyomizu-dera and Gion Shijo Station.
+            </div>
+          </div>
+          <div class="hood-card" id="kawaramachi">
+            <div class="hood-name">Kawaramachi 🛍️</div>
+            <div class="hood-vibe">Lively center — shopping, food, arcades</div>
+            <ul class="hood-bullets">
+              <li>Pontocho Alley — lantern-lit riverside dining</li>
+              <li>Nishiki Market ("Kyoto's Kitchen")</li>
+              <li>Teramachi covered arcade</li>
+              <li>Retro game hunting (Surugaya)</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Hankyu and Keihan lines. Best base for Osaka access too.
+            </div>
+          </div>
+          <div class="hood-card" id="arashiyama">
+            <div class="hood-name">Arashiyama 🎋</div>
+            <div class="hood-vibe">Nature escape — bamboo &amp; riverside</div>
+            <ul class="hood-bullets">
+              <li>Bamboo Grove — magical before 7:30 AM</li>
+              <li>Tenryu-ji Zen garden</li>
+              <li>Monkey Park Iwatayama (Dave)</li>
+              <li>Rickshaw rides through private bamboo paths</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Randen tram or JR Sagano Line to Saga-Arashiyama.
+            </div>
+          </div>
+          <div class="hood-card" id="fushimi">
+            <div class="hood-name">Fushimi 🦊</div>
+            <div class="hood-vibe">Fox shrine — thousands of torii gates</div>
+            <ul class="hood-bullets">
+              <li>Open 24/7 — go at dawn for empty paths</li>
+              <li>Hike to Yotsutsuji viewpoint (~40 min up)</li>
+              <li>Fox-shaped ema votive plaques</li>
+              <li>Small tea houses with kitsune udon</li>
+            </ul>
+            <div class="hood-access">
+              🚆 JR Inari Station (2 min walk to entrance).
+            </div>
+          </div>
+        </div>
+
+        <h2 class="section-header">What to Do</h2>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">⛩️ Temples &amp; Shrines</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="fushimi-inari" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://inari.jp/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Fushimi Inari Taisha</a
+                >
+                <div class="attraction-summary">
+                  The Fox shrine with thousands of vermillion torii gates. Day 7
+                  early morning.
+                </div>
+                <div class="attraction-detail">
+                  Hike to Yotsutsuji (~40 min) for great views and fewer people.
+                  Small tea houses serve boiled eggs and kitsune udon along the
+                  way. Try the Omokaru Ishi lucky stone — if it feels lighter
+                  than expected, your wish will come true.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Iconic scenery; open 24/7; free to enter</span
+                    >
+                    <span class="con"
+                      >⚠️ Extremely crowded at the base; full hike is
+                      demanding</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Open 24/7</span
+                    ><span class="avail-chip">Go at 6:30 AM</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="kinkaku-ji" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://kinkakuji.jp/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Kinkaku-ji (Golden Pavilion)</a
+                >
+                <div class="attraction-summary">
+                  The gold leaf pavilion reflected in a mirror pond — Day 6
+                  afternoon.
+                </div>
+                <div class="attraction-detail">
+                  One-way path — once you pass the pavilion you can't go back,
+                  so take your time. Stop at the Sekkatei Teahouse for matcha
+                  and sweets. Look for the bronze phoenix on the roof
+                  symbolizing rebirth.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Stunning visual impact; beautifully maintained Zen
+                      gardens</span
+                    >
+                    <span class="con"
+                      >⚠️ No access inside the pavilion; can feel like a tourist
+                      conveyor belt</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="kiyomizu-dera" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.kiyomizudera.or.jp/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Kiyomizu-dera</a
+                >
+                <div class="attraction-summary">
+                  Massive wooden stage with sweeping Kyoto views — Day 6
+                  afternoon.
+                </div>
+                <div class="attraction-detail">
+                  Built without a single nail. Drink from the Otowa waterfall
+                  below for health, longevity, or success (pick one!). Walk
+                  between the two "love stones" with eyes closed at Jishu Shrine
+                  for good luck.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Incredible engineering and views; surrounding streets
+                      full of character</span
+                    >
+                    <span class="con"
+                      >⚠️ Very steep walk to reach the entrance; almost always
+                      crowded</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🌿 Nature &amp; Culture</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="arashiyama-bamboo" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://kyoto.travel/en/sightseeing_information/sagano_arashiyama.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Arashiyama Bamboo Grove</a
+                >
+                <div class="attraction-summary">
+                  Towering bamboo that's magical at dawn — tourist trap by 10
+                  AM. Day 6 early morning.
+                </div>
+                <div class="attraction-detail">
+                  The sound of bamboo swaying is one of Japan's "100
+                  Soundscapes." Connects directly to Tenryu-ji temple gardens.
+                  Nonomiya Shrine is hidden inside the grove — where imperial
+                  princesses purified themselves.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Unique otherworldly atmosphere; great for photos early
+                      morning</span
+                    >
+                    <span class="con"
+                      >⚠️ Much smaller than it looks in photos; loses magic when
+                      crowded</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Open 24/7</span
+                    ><span class="avail-chip">Go before 7:30 AM</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="philosophers-path" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://kyoto.travel/en/sightseeing_information/philosophers_path.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Philosopher's Path</a
+                >
+                <div class="attraction-summary">
+                  Peaceful canal walk connecting Ginkaku-ji to Nanzen-ji — lush
+                  green in May.
+                </div>
+                <div class="attraction-detail">
+                  Named after a philosopher who meditated while walking here.
+                  Home to many friendly stray cats cared for by locals. Small
+                  boutiques selling handmade pottery and dyed textiles along the
+                  canal.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Relaxing scenic walk; connects several major
+                      temples</span
+                    >
+                    <span class="con"
+                      >⚠️ Can be quite long; limited shade in some
+                      sections</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Open 24/7</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🍡 Food &amp; Shopping</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="nishiki-market" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://nishikikoji.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Nishiki Market</a
+                >
+                <div class="attraction-summary">
+                  "Kyoto's Kitchen" — 400-year-old covered street market. Day 5
+                  afternoon.
+                </div>
+                <div class="attraction-detail">
+                  Try tako tamago (baby octopus with quail egg inside its head)
+                  if you're adventurous. Stop at Aritsugu — a legendary knife
+                  shop founded in 1560 that originally made swords for the
+                  Imperial House. Also has a Snoopy Cha-ya themed tea house.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Incredible variety of local snacks and unique
+                      kitchenware</span
+                    >
+                    <span class="con"
+                      >⚠️ Very narrow; "no eating while walking" enforced</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in (10 AM – 5 PM)</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <h2 class="section-header">Tips &amp; Essentials</h2>
+        <div class="tips-grid">
+          <div class="tip-card">
+            <h4>⏰ Timing</h4>
+            <ul>
+              <li>
+                Temples busiest 10 AM – 3 PM; arrive at opening (8:30 AM) or 1
+                hr before closing
+              </li>
+              <li>Bamboo Grove: before 7:30 AM only</li>
+              <li>Fushimi Inari: sunrise or after 4 PM for fewer crowds</li>
+            </ul>
+          </div>
+          <div class="tip-card">
+            <h4>💴 Cash &amp; Access</h4>
+            <ul>
+              <li>
+                Many small temples and shops are cash-only — carry ¥10,000 daily
+              </li>
+              <li>
+                7-Eleven ATM near Gion Shijo Station accepts foreign cards
+              </li>
+              <li>Kyoto City Bus day pass (¥700) if taking 3+ rides</li>
+            </ul>
+          </div>
+          <div class="tip-card">
+            <h4>📸 Photo Etiquette</h4>
+            <ul>
+              <li>Never photograph inside temple buildings</li>
+              <li>Never photograph Geisha/Maiko without permission</li>
+              <li>Some Gion lanes have photography bans — respect signage</li>
+            </ul>
+          </div>
+          <div class="tip-card">
+            <h4>🍃 May Highlight</h4>
+            <ul>
+              <li>
+                <strong>Shinryoku (Fresh Green):</strong> maple leaves glow
+                bright green — best at Arashiyama and Tofukuji
+              </li>
+              <li>
+                <strong>Kamogawa Yuka:</strong> riverside open-air dinner decks
+                along Pontocho from May onwards — book ahead
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- ══════════════ OSAKA ══════════════ -->
+      <div id="tab-osaka" class="tab-panel">
+        <h2 class="section-header">Neighborhoods</h2>
+        <div class="hood-grid">
+          <div class="hood-card" id="dotonbori">
+            <div class="hood-name">Dotonbori &amp; Namba 🐙</div>
+            <div class="hood-vibe">
+              Soul of Osaka — neon, street food, kuidaore
+            </div>
+            <ul class="hood-bullets">
+              <li>Glico Man sign on Ebisubashi Bridge</li>
+              <li>Takoyaki and okonomiyaki everywhere</li>
+              <li>Don Quijote Ferris Wheel</li>
+              <li>Hozenji Yokocho — mossy lantern alley contrast</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Gateway to southern Osaka and Kansai Airport (Nankai Rapi:t).
+            </div>
+          </div>
+          <div class="hood-card" id="shinsaibashi">
+            <div class="hood-name">Shinsaibashi 🛍️</div>
+            <div class="hood-vibe">
+              Shopping corridor — fashion, beauty, sweets
+            </div>
+            <ul class="hood-bullets">
+              <li>Covered Shinsaibashi-suji arcade</li>
+              <li>Amerika-mura (Amemura) — vintage &amp; streetwear</li>
+              <li>High-street and mid-range brand stores</li>
+              <li>Debbie's afternoon split destination</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Shinsaibashi Station (Midosuji Line). 5 min walk from
+              Dotonbori.
+            </div>
+          </div>
+          <div class="hood-card" id="den-den-town">
+            <div class="hood-name">Den Den Town 🕹️</div>
+            <div class="hood-vibe">
+              Osaka's Akihabara — often cheaper than Tokyo
+            </div>
+            <ul class="hood-bullets">
+              <li>Retro games and figures along "Ota Road"</li>
+              <li>Multi-story Gachapon centers</li>
+              <li>Maid cafes and anime billboards</li>
+              <li>Dave's afternoon split destination</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Nipponbashi Station (Sennichimae Line or Sakaisuji Line).
+            </div>
+          </div>
+          <div class="hood-card" id="osaka-castle">
+            <div class="hood-name">Osaka Castle &amp; Kuromon 🏯</div>
+            <div class="hood-vibe">History &amp; food — morning anchors</div>
+            <ul class="hood-bullets">
+              <li>Osaka Castle grounds — open park walking</li>
+              <li>Kuromon Market — "Osaka's Kitchen"</li>
+              <li>300+ food vendors, skewers, and fresh seafood</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Tanimachi 4-chome Station for castle. Nipponbashi for Kuromon.
+            </div>
+          </div>
+        </div>
+
+        <h2 class="section-header">What to Do</h2>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🏯 Sightseeing</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="osaka-castle-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.osakacastle.net/english/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Osaka Castle</a
+                >
+                <div class="attraction-summary">
+                  Iconic castle with expansive park grounds — Day 8 morning
+                  anchor.
+                </div>
+                <div class="attraction-detail">
+                  The grounds are free to walk; the castle interior costs ~¥600.
+                  A great place for open-space walking and skyline framing
+                  shots. Cherry blossom season (late March/April) is peak, but
+                  late May green is beautiful too.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Beautiful park; great photo opportunities; peaceful
+                      morning walk</span
+                    >
+                    <span class="con"
+                      >⚠️ Interior is mostly modern museum; exterior is more
+                      impressive than inside</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://osaka-info.jp/en/spot/dotonbori/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Dotonbori</a
+                >
+                <div class="attraction-summary">
+                  Neon heart of Osaka — Glico Man sign, street food, canal walk.
+                  Day 7 evening and Day 8.
+                </div>
+                <div class="attraction-detail">
+                  Best photo spot for the Glico Man is Ebisubashi Bridge. Try
+                  takoyaki from a street vendor. The canal cruise is cheesy but
+                  fun at night. Look for Kuidaore Taro, the famous drumming
+                  clown statue.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Incredible energy; iconic neon visuals; best street
+                      food variety</span
+                    >
+                    <span class="con"
+                      >⚠️ Can be overwhelming; watch out for tourist-trap
+                      restaurants</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Open 24/7</span
+                    ><span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🎮 Den Den Town — Dave</div>
+          <div class="attraction-list">
+            <div class="attraction-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://osaka-info.jp/en/spot/nipponbashi-denden-town/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Den Den Town</a
+                >
+                <div class="attraction-summary">
+                  Osaka's Akihabara — grittier, less touristy, often cheaper for
+                  retro games. Day 8 afternoon (Dave).
+                </div>
+                <div class="attraction-detail">
+                  Side streets packed with electronics parts and used figures.
+                  Multi-story Gachapon centers with hundreds of machines stacked
+                  floor-to-ceiling. Walk down Ota Road for the highest
+                  concentration of anime billboards.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Often better prices than Akihabara; less touristy
+                      feel</span
+                    >
+                    <span class="con"
+                      >⚠️ More spread out; can feel gritty compared to
+                      Tokyo</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🍜 Food (Debbie)</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="kuromon-market" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.kuromon.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Kuromon Market</a
+                >
+                <div class="attraction-summary">
+                  300+ vendors of fresh seafood, meats, and produce — "Osaka's
+                  Kitchen." Day 8 brunch.
+                </div>
+                <div class="attraction-detail">
+                  Osaka's version of Nishiki Market but more raw and lively.
+                  Great for fresh uni (sea urchin), wagyu skewers, and giant
+                  scallops grilled on the spot. Arrive hungry — most vendors
+                  give generous tastings.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Fresh, high quality; exciting atmosphere</span
+                    >
+                    <span class="con"
+                      >⚠️ Gets very crowded by 11 AM; most stalls close by 2
+                      PM</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in (9 AM – 2 PM best)</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://mizuno-osaka.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Mizuno Okonomiyaki</a
+                >
+                <div class="attraction-summary">
+                  Michelin Bib Gourmand okonomiyaki with a unique yam-based
+                  batter. Day 9 lunch.
+                </div>
+                <div class="attraction-detail">
+                  The "Yamaimo-yaki" uses yam instead of flour for a uniquely
+                  fluffy texture. Sit at the counter to watch chefs prepare the
+                  pancakes on the teppan grill right in front of you.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Michelin-quality; unique yam batter option</span
+                    >
+                    <span class="con"
+                      >⚠️ Very small; long wait; limited seating for
+                      groups</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in (line moves fast)</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="http://www.rikuro.co.jp/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Rikuro Ojisan Cheesecake</a
+                >
+                <div class="attraction-summary">
+                  Famous jiggly cheesecake in Namba — they ring a bell when
+                  fresh batches emerge.
+                </div>
+                <div class="attraction-detail">
+                  More soufflé than cheesecake — light, eggy, not too sweet.
+                  Watch the staff brand the logo onto the jiggly cakes with a
+                  hot iron. Locals recommend chilling it in a fridge to change
+                  the texture to a denser cheesecake.
+                  <div class="pro-con">
+                    <span class="pro"
+                      >✅ Unique light texture; fun to watch the branding
+                      process</span
+                    >
+                    <span class="con"
+                      >⚠️ Long lines for fresh cakes; more subtle flavor than
+                      expected</span
+                    >
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in (expect a line)</span
+                    ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="attraction-group">
+          <div class="attraction-group-title">🏮 Nightlife &amp; Atmosphere</div>
+          <div class="attraction-list">
+            <div class="attraction-card" id="hozenji-yokocho" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://maps.app.goo.gl/hozenji"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Hozenji Yokocho</a
+                >
+                <div class="attraction-summary">
+                  A narrow moss-covered alley behind Dotonbori — old Osaka at
+                  its most atmospheric. Day 7 evening.
+                </div>
+                <div class="attraction-detail">
+                  Named for the Hozen-ji temple whose stone deity is covered in
+                  moss from decades of water offerings. Lined with tiny
+                  traditional izakayas dating back to pre-war Osaka. Perfect
+                  for a quiet drink after Dotonbori's neon. Almost no English
+                  menus — point and trust.
+                  <div class="pro-con">
+                    <span class="pro">✅ Authentic old-Osaka feel; great contrast to Dotonbori's chaos</span>
+                    <span class="con">⚠️ Very small restaurants; English menus rare</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span>
+                    <span class="avail-chip">Best after dark</span>
+                    <span class="avail-chip en-high">English: Low</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+          </div>
+        </div>
+
+        <h2 class="section-header">Tips &amp; Essentials</h2>
+        <div class="tips-grid">
+          <div class="tip-card">
+            <h4>🚶 Escalator Rule</h4>
+            <p>
+              Stand on the <strong>RIGHT</strong> in Osaka — opposite of Tokyo!
+              Walk on the left.
+            </p>
+          </div>
+          <div class="tip-card">
+            <h4>🍢 Food Rules</h4>
+            <ul>
+              <li>
+                Kushikatsu: <strong>No double dipping</strong> into the communal
+                sauce — ever
+              </li>
+              <li>
+                Osaka is "Japan's Kitchen" — street food is always the move
+              </li>
+              <li>Takoyaki: eat them right away, before they cool</li>
+            </ul>
+          </div>
+          <div class="tip-card">
+            <h4>🚆 Getting to Tokyo</h4>
+            <ul>
+              <li>Midosuji Subway to Shin-Osaka, then Shinkansen</li>
+              <li>Book Shinkansen via Smart EX — done!</li>
+              <li>Green Car seat: right side for Fuji views on return</li>
+            </ul>
+          </div>
+          <div class="tip-card">
+            <h4>⚠️ Avoid</h4>
+            <ul>
+              <li>Touts in Dotonbori offering "cheap drinks" — ignore them</li>
+              <li>
+                Missing the last train home — taxis are expensive after midnight
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script>
+      const guideLinkTerms = [
+        "Aoyama Flower Market Tea House",
+        "Arashiyama Bamboo Grove",
+        "BEEP Akihabara",
+        "Chureito Pagoda",
+        "Dotonbori",
+        "Ebisubashi Bridge",
+        "Fushimi Inari Taisha",
+        "Gion Shijo Station",
+        "Ginkaku-ji",
+        "Glico Man",
+        "Don Quijote Ferris Wheel",
+        "Hozenji Yokocho",
+        "Hozenji Yokocho",
+        "Hotel Gracery",
+        "Isetan Shinjuku",
+        "Itoya Ginza",
+        "JR Harajuku Station",
+        "JR Sagano Line",
+        "Kappabashi Kitchen Town",
+        "Kyoto City Bus",
+        "Kinkaku-ji",
+        "Kiyomizu-dera",
+        "Kuromon Market",
+        "Lake Kawaguchiko",
+        "Meiji-jingumae Station",
+        "Mitsukoshi Ginza",
+        "Mt. Fuji",
+        "Mizuno Okonomiyaki",
+        "Monkey Park Iwatayama",
+        "Mori Art Museum",
+        "Mt. Fuji Panoramic Ropeway",
+        "Nankai Rapi:t",
+        "Nipponbashi Station",
+        "Nippori Fabric Town",
+        "Nippori Station",
+        "Nishiki Market",
+        "Nintendo Tokyo",
+        "Nonomiya Shrine",
+        "Oedo Antique Market",
+        "Oishi Park",
+        "Omokaru Ishi",
+        "Omoide Yokocho",
+        "Osaka Castle",
+        "Philosopher's Path",
+        "Pokemon Center",
+        "Rikuro Ojisan Cheesecake",
+        "Sannenzaka",
+        "Senso-ji Temple",
+        "Shibuya Parco",
+        "Shibuya Sky",
+        "Shinjuku Gyoen",
+        "Shinsaibashi Station",
+        "Shinsaibashi-suji",
+        "Shimoyureito",
+        "Suntory Museum of Art",
+        "Super Potato",
+        "Taito Station Akihabara",
+        "Takeshita Street",
+        "Tennoji Temple",
+        "Tenryu-ji",
+        "The National Art Center",
+        "The Roastery by Nozy Coffee",
+        "Tokyo City View",
+        "Tokyo International Forum",
+        "Tokyo Metropolitan Government Building",
+        "Tokyo Station",
+        "Uniqlo Ginza",
+        "Yanaka Ginza",
+        "Yasaka Shrine",
+        "Yuyake Dandan",
+        "Aritsugu",
+        "Akihabara",
+        "Amerika-mura",
+        "Amemura",
+        "Arashiyama",
+        "Asakusa",
+        "Cat Street",
+        "Chuo-dori",
+        "Dotonbori",
+        "Famicom",
+        "Fushimi",
+        "Gachapon",
+        "Geiko",
+        "Ginza Six",
+        "Ginza",
+        "Gion",
+        "Hankyu",
+        "Hachiko",
+        "Harajuku",
+        "Hibiya Line",
+        "Imperial House",
+        "Kabukicho",
+        "Kamogawa Yuka",
+        "Keihan",
+        "Kawaramachi",
+        "Keisei Line",
+        "Kuidaore Taro",
+        "Mandarake",
+        "Marunouchi Lines",
+        "Maiko",
+        "Midosuji Line",
+        "Namba",
+        "Nanzen-ji",
+        "Ninenzaka",
+        "Nippori",
+        "Oedo Lines",
+        "Omotesando",
+        "Ota Road",
+        "Otowa waterfall",
+        "Pontocho",
+        "Randen",
+        "Roppongi",
+        "Roppongi Station",
+        "Saga-Arashiyama",
+        "Sakaisuji Line",
+        "Sekkatei Teahouse",
+        "Sennichimae Line",
+        "Shibuya",
+        "Shinjuku",
+        "Shinsaibashi",
+        "Shitamachi",
+        "Smart EX",
+        "Snoopy Cha-ya",
+        "Surugaya",
+        "Taiko no Tatsujin",
+        "Tanimachi 4-chome Station",
+        "Teramachi",
+        "Tofukuji",
+        "Yamanote Line",
+        "Yamaimo-yaki",
+        "Yotsutsuji",
+      ].map((term) => ({
+        term,
+        lowerTerm: term.toLocaleLowerCase(),
+        url: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+          `${term} Japan`,
+        )}`,
+      }));
+
+      function isTermBoundary(text, index, length) {
+        const wordChar = /[\p{L}\p{N}_-]/u;
+        const previous = text[index - 1];
+        const next = text[index + length];
+        return (
+          (!previous || !wordChar.test(previous)) &&
+          (!next || !wordChar.test(next))
+        );
+      }
+
+      function findNextGuideLink(text) {
+        const lowerText = text.toLocaleLowerCase();
+        let bestMatch = null;
+        guideLinkTerms.forEach((link) => {
+          let index = lowerText.indexOf(link.lowerTerm);
+          while (index !== -1) {
+            if (isTermBoundary(text, index, link.term.length)) {
+              if (
+                !bestMatch ||
+                index < bestMatch.index ||
+                (index === bestMatch.index &&
+                  link.term.length > bestMatch.link.term.length)
+              ) {
+                bestMatch = { index, link };
+              }
+              break;
+            }
+            index = lowerText.indexOf(link.lowerTerm, index + 1);
+          }
+        });
+        return bestMatch;
+      }
+
+      function linkGuideTextNode(node) {
+        const text = node.nodeValue;
+        let remaining = text;
+        let linked = false;
+        const fragment = document.createDocumentFragment();
+
+        while (remaining) {
+          const match = findNextGuideLink(remaining);
+          if (!match) {
+            fragment.append(document.createTextNode(remaining));
+            break;
+          }
+
+          const matchedText = remaining.slice(
+            match.index,
+            match.index + match.link.term.length,
+          );
+          fragment.append(
+            document.createTextNode(remaining.slice(0, match.index)),
+          );
+
+          const link = document.createElement("a");
+          link.className = "guide-link";
+          link.href = match.link.url;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          link.textContent = matchedText;
+          fragment.append(link);
+
+          remaining = remaining.slice(match.index + match.link.term.length);
+          linked = true;
+        }
+
+        if (linked) {
+          node.parentNode.replaceChild(fragment, node);
+        }
+      }
+
+      function linkGuideProperNouns() {
+        const walker = document.createTreeWalker(
+          document.querySelector("main"),
+          NodeFilter.SHOW_TEXT,
+          {
+            acceptNode(node) {
+              if (!node.nodeValue.trim()) {
+                return NodeFilter.FILTER_REJECT;
+              }
+              if (node.parentElement.closest("a, button, script, style")) {
+                return NodeFilter.FILTER_REJECT;
+              }
+              return NodeFilter.FILTER_ACCEPT;
+            },
+          },
+        );
+        const textNodes = [];
+        while (walker.nextNode()) {
+          textNodes.push(walker.currentNode);
+        }
+        textNodes.forEach(linkGuideTextNode);
+      }
+
+      function switchTab(city, btn) {
+        document
+          .querySelectorAll(".tab-panel")
+          .forEach((p) => p.classList.remove("active"));
+        document
+          .querySelectorAll(".tab-btn")
+          .forEach((b) => b.classList.remove("active"));
+        document.getElementById("tab-" + city).classList.add("active");
+        btn.classList.add("active");
+        document
+          .querySelectorAll("[data-map-link]")
+          .forEach((link) =>
+            link.classList.toggle("active", link.dataset.mapLink === city),
+          );
+      }
+
+      function activateTabForHash(hash) {
+        if (!hash) return;
+        const target = document.querySelector(hash);
+        if (!target) return;
+        const panel = target.closest(".tab-panel");
+        if (!panel) return;
+        const city = panel.id.replace("tab-", "");
+        const btn = document.querySelector(`.tab-btn[onclick*="'${city}'"]`);
+        if (btn) switchTab(city, btn);
+        setTimeout(() => target.scrollIntoView({ behavior: "smooth", block: "center" }), 80);
+      }
+
+      if (window.location.hash) {
+        activateTabForHash(window.location.hash);
+      }
+      window.addEventListener("hashchange", () => activateTabForHash(window.location.hash));
+
+      function toggleCard(card) {
+        card.classList.toggle("expanded");
+      }
+
+      linkGuideProperNouns();
+    </script>
+  </body>
+</html>
