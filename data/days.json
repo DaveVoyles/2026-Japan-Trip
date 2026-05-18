@@ -42,16 +42,8 @@
         "activity": "Drop off car at SNAP Parking — Rental ID 123520709. Reserved through May 24 - June 4."
       },
       {
-        "time": "08:45 AM",
-        "activity": "Depart SNAP Parking for Newark Airport (EWR Terminal C). Travel time: ~10 minutes."
-      },
-      {
-        "time": "08:55 AM",
-        "activity": "Arrive at EWR Terminal C."
-      },
-      {
         "time": "09:00 AM - 10:45 AM",
-        "activity": "Check in, check bags, and proceed through security."
+        "activity": "Check in, check bags, and proceed through security at EWR Terminal C."
       },
       {
         "time": "11:35 AM",
