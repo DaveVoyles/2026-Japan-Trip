@@ -8,10 +8,12 @@
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "Flight UA131",
-    "morning": "Depart for Newark with extra buffer, check bags at Terminal C, and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
+    "morning": "Leave Narberth PA early, drive to SNAP Parking (Covered Valet) to drop off car, then travel to Newark (EWR Terminal C). Check bags and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
     "daytime": "In transit across the Pacific, prioritize rest blocks, water, and light movement every few hours so arrival day is manageable.",
     "night": "Land at Haneda, clear immigration/customs, withdraw startup cash, take Limousine Bus to Keio Plaza, then keep dinner simple at Omoide Yokocho.",
     "details": [
+      "Parking: SNAP Parking (Covered Valet) — Rental ID 123520709. Cost $281.20 (paid via SpotHero).",
+      "Drive from Narberth PA to SNAP Parking: ~45 min. Then ~45 min to EWR Terminal C.",
       "Flight: UA131 (EWR → HND), approx. 14 hours.",
       "Arrival flow: Visit Japan Web QR → ATM → bus ticket counter.",
       "Limousine Bus (HND → Keio Plaza): Buy ticket at the Arrivals Lobby counter (look for 'Airport Limousine' signs). Cost ~¥1,300. Journey ~75 min to Keio Plaza Hotel Shinjuku stop. Buses run every 20–30 min. No reservation needed — pay at counter.",
@@ -28,8 +30,20 @@
     "goal": "Survive the flight. Hydrate. Sleep.",
     "timeline": [
       {
-        "time": "08:30 AM",
-        "activity": "Leave for Newark Airport (EWR)."
+        "time": "07:00 AM",
+        "activity": "Leave Narberth PA for SNAP Parking."
+      },
+      {
+        "time": "08:00 AM - 08:30 AM",
+        "activity": "Drop off car at SNAP Parking (Covered Valet) — Rental ID 123520709. Reserved through May 24 - June 4."
+      },
+      {
+        "time": "08:45 AM",
+        "activity": "Depart SNAP Parking for Newark Airport (EWR Terminal C)."
+      },
+      {
+        "time": "10:00 AM - 11:15 AM",
+        "activity": "Check in, check bags at Terminal C, and proceed through security."
       },
       {
         "time": "11:35 AM",
