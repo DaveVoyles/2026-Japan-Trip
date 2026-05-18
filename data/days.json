@@ -8,7 +8,7 @@
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "Flight UA131",
-    "morning": "Leave Narberth PA early, drive to SNAP Parking (Covered Valet) to drop off car, then travel to Newark (EWR Terminal C). Check bags and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
+    "morning": "Leave Narberth PA at 6:30 AM to arrive at SNAP Parking by 8:30 AM (1 hr 47 min drive, 99.3 miles). Drop off car at valet, then 10-minute ride to Newark (EWR Terminal C). Check bags and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
     "daytime": "In transit across the Pacific, prioritize rest blocks, water, and light movement every few hours so arrival day is manageable.",
     "night": "Land at Haneda, clear immigration/customs, withdraw startup cash, take Limousine Bus to Keio Plaza, then keep dinner simple at Omoide Yokocho.",
     "details": [
@@ -30,20 +30,28 @@
     "goal": "Survive the flight. Hydrate. Sleep.",
     "timeline": [
       {
-        "time": "07:00 AM",
+        "time": "06:30 AM",
         "activity": "Leave Narberth PA for SNAP Parking."
       },
       {
-        "time": "08:00 AM - 08:30 AM",
-        "activity": "Drop off car at SNAP Parking (Covered Valet) — Rental ID 123520709. Reserved through May 24 - June 4."
+        "time": "08:30 AM",
+        "activity": "Arrive at SNAP Parking (Covered Valet). Travel time: 1 hr 47 min (99.3 miles)."
+      },
+      {
+        "time": "08:30 AM - 08:40 AM",
+        "activity": "Drop off car at SNAP Parking — Rental ID 123520709. Reserved through May 24 - June 4."
       },
       {
         "time": "08:45 AM",
-        "activity": "Depart SNAP Parking for Newark Airport (EWR Terminal C)."
+        "activity": "Depart SNAP Parking for Newark Airport (EWR Terminal C). Travel time: ~10 minutes."
       },
       {
-        "time": "10:00 AM - 11:15 AM",
-        "activity": "Check in, check bags at Terminal C, and proceed through security."
+        "time": "08:55 AM",
+        "activity": "Arrive at EWR Terminal C."
+      },
+      {
+        "time": "09:00 AM - 10:45 AM",
+        "activity": "Check in, check bags, and proceed through security."
       },
       {
         "time": "11:35 AM",
