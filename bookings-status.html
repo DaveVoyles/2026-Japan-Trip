@@ -368,6 +368,7 @@
         confirmed: "Confirmed",
         pending: "Pending",
         critical: "Critical",
+        considering: "Considering",
         "walk-up": "Walk-Up",
         "sold-out": "Sold Out",
         closed: "Closed",
@@ -375,6 +376,7 @@
 
       const summaryStatusOrder = [
         { status: "confirmed", icon: "✅" },
+        { status: "considering", icon: "🤔" },
         { status: "pending", icon: "🟡" },
         { status: "critical", icon: "🔴" },
         { status: "sold-out", icon: "⛔" },
@@ -391,7 +393,7 @@
       ];
 
       const needsAction = (booking) =>
-        booking.status === "pending" || booking.status === "critical";
+        booking.status === "pending" || booking.status === "critical" || booking.status === "considering";
       const noBookingNeeded = (booking) =>
         ["walk-up", "sold-out", "closed"].includes(booking.status);
 
