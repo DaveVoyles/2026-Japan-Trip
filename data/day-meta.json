@@ -10,7 +10,7 @@
     "night": "Land at Haneda, clear immigration/customs, withdraw startup cash, take Limousine Bus to Keio Plaza, then keep dinner simple at Omoide Yokocho.",
     "details": [
       "Parking: SNAP Parking (Covered Valet) — Rental ID 123520709. Cost $281.20 (paid via SpotHero).",
-      "Drive from Narberth PA to SNAP Parking: ~45 min. Then ~45 min to EWR Terminal C.",
+      "Drive from Narberth PA to SNAP Parking: 1 hr 47 min (99.3 miles). SNAP valet transfer to EWR Terminal C: ~10 min.",
       "Flight: UA131 (EWR → HND), approx. 14 hours.",
       "Arrival flow: Visit Japan Web QR → ATM → bus ticket counter.",
       "Limousine Bus (HND → Keio Plaza): Buy ticket at the Arrivals Lobby counter (look for 'Airport Limousine' signs). Cost ~¥1,300. Journey ~75 min to Keio Plaza Hotel Shinjuku stop. Buses run every 20–30 min. No reservation needed — pay at counter.",
@@ -34,21 +34,22 @@
     "splitDay": true,
     "splitNote": "Dave/Debbie may split for different interests",
     "morning": "Start in Shinjuku, then take the Yamanote Line to Harajuku for Meiji Jingu before crowds. Keep the pace easy while body clocks adjust.",
-    "daytime": "Work through Harajuku and Shibuya: Takeshita Street, @Cosme, crossing viewpoints, then practical shopping at Tokyu Hands or Loft.",
+    "daytime": "Work through Harajuku and Shibuya: Takeshita Street, @Cosme, optional SHARE LOUNGE rest stop at Shibuya Sakura Stage, then Shibuya Sky and crossing viewpoints.",
     "night": "Use the booked 2:00 PM Shibuya Sky entry as the afternoon anchor, then do Shibuya Crossing photos and shopping before heading to Shinjuku for the capybara café.",
     "details": [
       "Primary anchors: Meiji Jingu → Harajuku → Shibuya Crossing → Shibuya Sky.",
       "Rain backup: Nakano Broadway (indoor-heavy).",
       "Food target: crepes + snacks throughout, with a real lunch/rest buffer before Shibuya Sky.",
+      "Optional 12:45 PM rest stop: SHARE LOUNGE at TSUTAYA Shibuya Sakura Stage (4F). Time-based lounge with soft drinks/snacks, walk-in OK, ~¥1,870/hr adult soft-drink plan; app payment may save 10%. It is a rest stop near Shibuya Station, not a Shibuya Crossing viewpoint.",
       "Keep feet fresh: this is a high-step urban day.",
       "First cut if tired: shorten Harajuku/Cat Street shopping so the 2:00 PM Shibuya Sky and 5:15 PM CAPPINESS anchors stay easy."
     ],
     "note": "Acclimation + iconic Tokyo visuals in one compact zone.",
     "brief": {
-      "today": "Harajuku + Shibuya Sky + Cappiness",
+      "today": "Harajuku + SHARE LOUNGE + Shibuya Sky + Cappiness",
       "next": "Shibuya Crossing photos",
       "backup": "Nakano Broadway if rain",
-      "ops": "Yamanote Line; Shibuya Sky QSJ919058; Cappiness 5JFRH9B 5:15 PM"
+      "ops": "Yamanote Line; SHARE LOUNGE Sakura Stage; Shibuya Sky QSJ919058; Cappiness 5JFRH9B 5:15 PM"
     }
   },
   {

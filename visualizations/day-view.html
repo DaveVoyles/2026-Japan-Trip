@@ -499,6 +499,11 @@
             ? `<div class="alert alert-split">🔀 Split Day: ${item.splitNote}</div>`
             : ""
         }
+        ${
+          dayNumber === 2
+            ? `<div class="alert alert-split">🗺️ Route prototype: <a href="day-02-route.html">View the Day 2 map-style progression</a></div>`
+            : ""
+        }
         <div class="parts">
           <section class="traveler-brief">
             <h3>Today / Next / Backup</h3>
