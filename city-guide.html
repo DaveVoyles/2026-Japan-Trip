@@ -468,6 +468,7 @@
               <li>Hachiko statue meeting point</li>
               <li>Shibuya Parco: Nintendo Tokyo, Pokemon Center</li>
               <li>Shibuya Sky observation deck (book ahead!)</li>
+              <li>Hands/Loft for practical shopping after Shibuya Sky</li>
             </ul>
             <div class="hood-access">
               🚆 Yamanote Line + multiple subway lines. Perfect base for
@@ -481,6 +482,7 @@
             </div>
             <ul class="hood-bullets">
               <li>Takeshita Street — kawaii culture &amp; crepes</li>
+              <li>Marion Crepes or a cafe reset before Shibuya Sky</li>
               <li>
                 Cat Street — indie boutiques, cafes, vintage (much calmer than
                 Takeshita)
@@ -528,6 +530,7 @@
               <li>Senso-ji Temple — arrive 6:30 AM to beat crowds</li>
               <li>Kappabashi Kitchen Town — knives &amp; plastic food</li>
               <li>Akihabara: Super Potato, Mandarake, Taito Station</li>
+              <li>Kanda Myojin is the easy shrine add-on near Akihabara</li>
             </ul>
             <div class="hood-access">
               🚆 Asakusa Station (Ginza Line). Akihabara on JR/Hibiya.
@@ -542,6 +545,7 @@
               <li>Ginza Six — high-end art &amp; fashion</li>
               <li>Uniqlo Ginza — 12 floors, world's largest</li>
               <li>Itoya — 12-floor stationery heaven</li>
+              <li>Onitsuka Tiger for Japan-made sneaker shopping</li>
               <li>Weekend pedestrian paradise on Chuo-dori</li>
             </ul>
             <div class="hood-access">
@@ -1444,6 +1448,19 @@
               🚆 JR Inari Station (2 min walk to entrance).
             </div>
           </div>
+          <div class="hood-card" id="nara">
+            <div class="hood-name">Nara Day Trip 🦌</div>
+            <div class="hood-vibe">Ancient capital — deer, Great Buddha, open park walking</div>
+            <ul class="hood-bullets">
+              <li>Nara Park and its bowing deer</li>
+              <li>Todai-ji and the Great Buddha</li>
+              <li>Nakatanidou mochi-pounding shop</li>
+              <li>Compact route once you reach Kintetsu Nara</li>
+            </ul>
+            <div class="hood-access">
+              🚆 Kintetsu Kyoto Line to Kintetsu Nara Station; closer to the park than JR Nara.
+            </div>
+          </div>
         </div>
 
         <h2 class="section-header">What to Do</h2>
@@ -1565,12 +1582,75 @@
               </div>
               <button class="attraction-expand-btn" tabindex="-1">▾</button>
             </div>
+            <div class="attraction-card" id="todai-ji" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.todaiji.or.jp/en/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Todai-ji</a
+                >
+                <div class="attraction-summary">
+                  Nara's Great Buddha temple — the cultural anchor of the Day 6 Nara trip.
+                </div>
+                <div class="attraction-detail">
+                  The Daibutsuden hall is one of Nara's most important historic sights,
+                  with the massive bronze Great Buddha inside. Pair it with Nara Park
+                  as one walkable loop from Kintetsu Nara Station.
+                  <div class="pro-con">
+                    <span class="pro">✅ Major historic anchor; unforgettable scale</span>
+                    <span class="con">⚠️ Can be crowded; keep bags light for the park walk</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-in</span>
+                    <span class="avail-chip">Day 6 priority</span>
+                    <span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
           </div>
         </div>
 
         <div class="attraction-group">
           <div class="attraction-group-title">🌿 Nature &amp; Culture</div>
           <div class="attraction-list">
+            <div class="attraction-card" id="nara-park" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.google.com/maps/search/?api=1&query=Nara+Park"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Nara Park</a
+                >
+                <div class="attraction-summary">
+                  Wide open park famous for bowing deer — Day 6's top-priority experience.
+                </div>
+                <div class="attraction-detail">
+                  Buy deer crackers only when you're ready to feed immediately.
+                  The deer recognize the wrapper sound, so keep moving and show
+                  open empty hands when you're out of food. Watch for droppings
+                  and give yourself time to enjoy the park instead of rushing it.
+                  <div class="pro-con">
+                    <span class="pro">✅ Memorable, easygoing, and very walkable</span>
+                    <span class="con">⚠️ Deer can swarm once crackers appear</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip">Open park</span>
+                    <span class="avail-chip">Kintetsu Nara access</span>
+                    <span class="avail-chip en-high">English: High</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
             <div class="attraction-card" id="arashiyama-bamboo" onclick="toggleCard(this)">
               <div class="cost-badge">$</div>
               <div class="attraction-main">
@@ -1686,6 +1766,68 @@
                   <div>
                     <span class="avail-chip">Walk-in (10 AM – 5 PM)</span
                     ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="nakatanidou" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.google.com/maps/search/?api=1&query=Nakatanidou+Nara"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Nakatanidou</a
+                >
+                <div class="attraction-summary">
+                  Famous Nara mochi-pounding shop — quick food/photo stop before returning to Kyoto.
+                </div>
+                <div class="attraction-detail">
+                  Known for rapid live mochi-pounding demonstrations and fresh
+                  yomogi mochi. Treat it as a short snack stop near the Nara route,
+                  not a long sit-down meal.
+                  <div class="pro-con">
+                    <span class="pro">✅ Fast, fun, and easy to pair with Nara Park</span>
+                    <span class="con">⚠️ Crowds gather around demonstration times</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-up snack</span>
+                    <span class="avail-chip">Day 6 lunch window</span>
+                    <span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="kichi-kichi" onclick="toggleCard(this)">
+              <div class="cost-badge">$$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.google.com/maps/search/?api=1&query=Kichi+Kichi+Omurice+Kyoto"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Kichi Kichi Omurice</a
+                >
+                <div class="attraction-summary">
+                  Showy Kyoto omurice counter — only use as Day 6 dinner anchor if a reservation works out.
+                </div>
+                <div class="attraction-detail">
+                  This is a fun performance-style dinner but not worth derailing the
+                  Nara-first day without a confirmed slot. If it is unavailable,
+                  keep dinner easy around Gion or Pontocho.
+                  <div class="pro-con">
+                    <span class="pro">✅ Memorable show-cooking experience if booked</span>
+                    <span class="con">⚠️ Hard to reserve; do not build the whole day around it</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip book">Reservation needed</span>
+                    <span class="avail-chip">Day 6 optional</span>
+                    <span class="avail-chip en-high">English: Medium</span>
                   </div>
                 </div>
               </div>
@@ -1867,7 +2009,7 @@
                 </div>
                 <div class="attraction-detail">
                   Best photo spot for the Glico Man is Ebisubashi Bridge. Try
-                  takoyaki from a street vendor. The canal cruise is cheesy but
+                  takoyaki at Acchichi Honpo by the bridge or from another street vendor. The canal cruise is cheesy but
                   fun at night. Look for Kuidaore Taro, the famous drumming
                   clown statue.
                   <div class="pro-con">
@@ -1970,6 +2112,37 @@
                   <div>
                     <span class="avail-chip">Walk-in (9 AM – 2 PM best)</span
                     ><span class="avail-chip en-high">English: Medium</span>
+                  </div>
+                </div>
+              </div>
+              <button class="attraction-expand-btn" tabindex="-1">▾</button>
+            </div>
+            <div class="attraction-card" id="acchichi-honpo" onclick="toggleCard(this)">
+              <div class="cost-badge">$</div>
+              <div class="attraction-main">
+                <a
+                  class="attraction-name"
+                  href="https://www.google.com/maps/search/?api=1&query=Acchichi+Honpo+Dotonbori"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onclick="event.stopPropagation()"
+                  >Acchichi Honpo</a
+                >
+                <div class="attraction-summary">
+                  Dotonbori takoyaki stop near the bridge — Day 7 street-food target.
+                </div>
+                <div class="attraction-detail">
+                  A convenient first Osaka snack after check-in. Eat takoyaki while
+                  it is hot, but carefully — the center stays molten. If the line is
+                  bad, use it as a landmark and pick another busy takoyaki stand nearby.
+                  <div class="pro-con">
+                    <span class="pro">✅ Right in the Dotonbori flow; easy first bite</span>
+                    <span class="con">⚠️ Popular location; line can build at peak times</span>
+                  </div>
+                  <div>
+                    <span class="avail-chip">Walk-up</span>
+                    <span class="avail-chip">Day 7</span>
+                    <span class="avail-chip en-high">English: Medium</span>
                   </div>
                 </div>
               </div>
@@ -2140,6 +2313,7 @@
         "Aoyama Flower Market Tea House",
         "Arashiyama Bamboo Grove",
         "BEEP Akihabara",
+        "Acchichi Honpo",
         "Chureito Pagoda",
         "Dotonbori",
         "Ebisubashi Bridge",
@@ -2156,9 +2330,12 @@
         "JR Harajuku Station",
         "JR Sagano Line",
         "Kappabashi Kitchen Town",
+        "Kanda Myojin",
         "Kyoto City Bus",
         "Kinkaku-ji",
         "Kiyomizu-dera",
+        "Kintetsu Nara Station",
+        "Kichi Kichi Omurice",
         "Kuromon Market",
         "Lake Kawaguchiko",
         "Meiji-jingumae Station",
@@ -2167,8 +2344,11 @@
         "Mizuno Okonomiyaki",
         "Monkey Park Iwatayama",
         "Mori Art Museum",
+        "Onitsuka Tiger",
         "Mt. Fuji Panoramic Ropeway",
+        "Nakatanidou",
         "Nankai Rapi:t",
+        "Nara Park",
         "Nipponbashi Station",
         "Nippori Fabric Town",
         "Nippori Station",
@@ -2203,6 +2383,7 @@
         "Tokyo International Forum",
         "Tokyo Metropolitan Government Building",
         "Tokyo Station",
+        "Todai-ji",
         "Uniqlo Ginza",
         "Yanaka Ginza",
         "Yasaka Shrine",
@@ -2223,6 +2404,7 @@
         "Ginza Six",
         "Ginza",
         "Gion",
+        "Hands",
         "Hankyu",
         "Hachiko",
         "Harajuku",
@@ -2235,11 +2417,13 @@
         "Keisei Line",
         "Kuidaore Taro",
         "Mandarake",
+        "Marion Crepes",
         "Marunouchi Lines",
         "Maiko",
         "Midosuji Line",
         "Namba",
         "Nanzen-ji",
+        "Nara",
         "Ninenzaka",
         "Nippori",
         "Oedo Lines",
@@ -2255,6 +2439,8 @@
         "Sekkatei Teahouse",
         "Sennichimae Line",
         "Shibuya",
+        "Shibuya Crossing",
+        "Loft",
         "Shinjuku",
         "Shinsaibashi",
         "Shitamachi",
@@ -2265,6 +2451,7 @@
         "Tanimachi 4-chome Station",
         "Teramachi",
         "Tofukuji",
+        "Tokyu Hands",
         "Yamanote Line",
         "Yamaimo-yaki",
         "Yotsutsuji",

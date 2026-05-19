@@ -190,13 +190,12 @@
     "daytime": "Structured Ginza shopping block: Itoya, Uniqlo, Onitsuka Tiger.",
     "night": "Roppongi art stop at Mori Art Museum (open late).",
     "details": [
-      "Pokemon Cafe note: closed through late June for renovations.",
       "Rain resilience: Toyosu + Ginza + Mori Art Museum are all indoors.",
       "Mori Art Museum stays open until 10 PM — no rush on timing.",
       "The immersive digital-art museum stop is removed from the plan.",
       "Consider backup coffee break between Toyosu and Ginza."
     ],
-    "note": "Balanced day: immersive art, food market, and free-time cushion.",
+    "note": "Balanced day: food market, Ginza shopping, and a flexible evening art stop.",
     "brief": {
       "today": "Toyosu + Ginza + Roppongi",
       "next": "Mori Art Museum evening",
@@ -240,8 +239,8 @@
         "url": "https://www.google.com/maps/search/Mori+Art+Museum+Roppongi+Hills"
       },
       {
-        "label": "Pokemon Cafe",
-        "url": "https://www.google.com/maps/search/PokemonCafeTokyo"
+        "label": "Ginza Six",
+        "url": "https://www.google.com/maps/search/Ginza+Six"
       }
     ],
     "keyPhrases": [

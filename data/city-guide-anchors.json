@@ -11,6 +11,7 @@
   "kawaramachi": "Kawaramachi",
   "arashiyama": "Arashiyama",
   "fushimi": "Fushimi",
+  "nara": "Nara Day Trip",
   "dotonbori": "Dotonbori",
   "shinsaibashi": "Shinsaibashi",
   "den-den-town": "Den Den Town",
@@ -30,6 +31,10 @@
   "yanaka-ginza": "Yanaka Ginza",
   "cat-street": "Cat Street",
   "fushimi-inari": "Fushimi Inari Taisha",
+  "nara-park": "Nara Park",
+  "todai-ji": "Todai-ji",
+  "nakatanidou": "Nakatanidou",
+  "kichi-kichi": "Kichi Kichi Omurice",
   "kinkaku-ji": "Kinkaku-ji",
   "kiyomizu-dera": "Kiyomizu-dera",
   "arashiyama-bamboo": "Arashiyama Bamboo Grove",
@@ -37,5 +42,6 @@
   "nishiki-market": "Nishiki Market",
   "osaka-castle-card": "Osaka Castle",
   "kuromon-market": "Kuromon Market",
+  "acchichi-honpo": "Acchichi Honpo",
   "hozenji-yokocho": "Hozenji Yokocho"
 }
