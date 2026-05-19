@@ -6,33 +6,27 @@ This directory holds the data files consumed by the site's visualization and boo
 
 ## Files
 
-### `days.json` — ⚠️ Auto-generated. Do NOT edit by hand.
+### `days.json` — ✏️ Hand-authored itinerary data
 
-Generated at publish time by `scripts/build-day-data.js`.  
-Source inputs: `Daily-Briefings/*.md` + `day-meta.json`
+The full day-by-day itinerary data. This repo currently does not include the old generator/source briefing files, so update this file directly and keep the summary mirrors in sync.
 
-**Consumed by:** `docs/visualizations/day-view.html` (fetched at runtime via `fetch('../data/days.json')`)
+**Consumed by:** `visualizations/day-view.html` (fetched at runtime via `fetch('../data/days.json')`)
 
-**Schema:** See `Daily-Briefings/FORMAT.md` → "Complete Output Shape" section.
-
-**To regenerate locally:**
-```bash
-node scripts/build-day-data.js
-```
+**Sync notes:** When changing a day, also check `data/day-meta.json`, `index.html`, `visual-schedule.html`, and visualization summary pages for duplicated labels or summaries.
 
 ---
 
 ### `day-meta.json` — ✏️ Hand-authored narrative fields
 
-Provides the narrative and operational fields for each day that are not parseable from markdown tables.
+Provides a reference mirror of narrative and operational fields for each day.
 
-**Consumed by:** `scripts/build-day-data.js` (merged into `days.json` by `dayNumber`)
+**Consumed by:** Maintainers as a summary source; keep it aligned with `days.json` by `dayNumber`.
 
 **Schema — all fields per day entry:**
 
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
-| `dayNumber` | number | ✅ | Day index (1–10); must match the `NN-` prefix in the briefing filename |
+| `dayNumber` | number | ✅ | Day index (1–10); must match the corresponding day in `days.json` |
 | `date` | string | ✅ | Human-readable date (e.g. `"Mon May 26"`) |
 | `startCityClass` | string | ✅ | CSS class for city chip: `city-tokyo`, `city-kyoto`, or `city-osaka` |
 | `endCityClass` | string | ✅ | CSS class for destination city chip (same values) |
@@ -54,10 +48,10 @@ Provides the narrative and operational fields for each day that are not parseabl
 
 ### `bookings.json` — ✏️ Hand-authored bookings data
 
-Drives the `docs/bookings-status.html` page.  
+Drives the `bookings-status.html` page.  
 Also included in the service worker precache for offline access.
 
-**Consumed by:** `docs/bookings-status.html` (fetched at runtime)
+**Consumed by:** `bookings-status.html` (fetched at runtime)
 
 **Top-level structure:**
 ```json
@@ -72,7 +66,7 @@ Also included in the service worker precache for offline access.
 
 Each item has: `name`, `dates`, `status`, `details` (object of key/value pairs).
 
-**Status values:** `confirmed` | `sold-out` | `closed` | `walk-up`
+**Status values:** `confirmed` | `pending` | `critical` | `considering` | `sold-out` | `closed` | `walk-up`
 
 ---
 

@@ -238,7 +238,7 @@
     },
     {
       "name": "Sumo Morning Practice Tour (Tokyo)",
-      "dates": "Jun 2",
+      "dates": "Future optional",
       "status": "considering",
       "details": {
         "Time": "7:00 AM",
@@ -246,12 +246,12 @@
         "Klook ID": "#93976",
         "Cost": "~¥10,000/person",
         "Location": "Ryogoku (20 min from Shinagawa)",
-        "Note": "English-guided sumo stable visit. Limited daily capacity — book early."
+        "Note": "Not currently slotted in the itinerary because Jun 2 is the Osaka → Tokyo transfer day. Keep only as a future-trip idea unless the route changes."
       }
     },
     {
       "name": "Tokyo Skytree (Both Decks)",
-      "dates": "Jun 2",
+      "dates": "Future optional",
       "status": "considering",
       "details": {
         "Time": "11:00 AM",
@@ -259,12 +259,12 @@
         "Klook ID": "#41352",
         "Cost": "~¥3,100 (saves ¥300-400 vs walk-up)",
         "Location": "Near Ryogoku — combine with sumo morning",
-        "Note": "Japan's tallest structure, 634m. Two observation decks at 350m and 450m."
+        "Note": "Not currently slotted in the itinerary because Jun 2 is the Osaka → Tokyo transfer day. Keep only as a future optional idea."
       }
     },
     {
       "name": "Tokyo Tower (Both Decks)",
-      "dates": "Jun 2",
+      "dates": "Future optional",
       "status": "considering",
       "details": {
         "Time": "Evening",
@@ -272,7 +272,7 @@
         "Klook ID": "#4911",
         "Cost": "~¥3,300 (saves ¥200 vs walk-up)",
         "Location": "Minato — pair with Zojoji Temple (free)",
-        "Note": "Classic 333m landmark, open until 23:00. 3rd highest observation point in Tokyo."
+        "Note": "Not currently slotted in the itinerary. Consider only if the final Shinagawa evening has unexpected energy and clear weather."
       }
     },
     {
@@ -303,7 +303,7 @@
     },
     {
       "name": "Osaka Castle (Klook Skip-Line)",
-      "dates": "May 31",
+      "dates": "Jun 1",
       "status": "considering",
       "details": {
         "Time": "2:00 PM",
@@ -311,7 +311,7 @@
         "Klook ID": "#30110",
         "Cost": "¥1,200 (skips 30+ min queue)",
         "Location": "15 min from Namba by subway",
-        "Note": "Includes NEW Toyotomi Stone Wall Museum (opened 2025). Skip the line with Klook."
+        "Note": "Only consider if Day 8 keeps Osaka Castle and you want interior/skip-line access; otherwise walk the grounds."
       }
     },
     {

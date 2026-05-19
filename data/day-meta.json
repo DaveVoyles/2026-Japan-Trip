@@ -36,8 +36,9 @@
     "details": [
       "Primary anchors: Meiji Jingu → Harajuku → Shibuya Crossing → Shibuya Sky.",
       "Rain backup: Nakano Broadway (indoor-heavy).",
-      "Food target: crepes + snacks throughout.",
-      "Keep feet fresh: this is a high-step urban day."
+      "Food target: crepes + snacks throughout, with a real lunch/rest buffer before Shibuya Sky.",
+      "Keep feet fresh: this is a high-step urban day.",
+      "First cut if tired: shorten Harajuku/Cat Street shopping so the 2:00 PM Shibuya Sky and 5:15 PM CAPPINESS anchors stay easy."
     ],
     "note": "Acclimation + iconic Tokyo visuals in one compact zone.",
     "brief": {
@@ -59,13 +60,14 @@
       "Pokemon Cafe note: closed through late June for renovations.",
       "Rain resilience: Toyosu + Ginza + Mori Art Museum are all indoors.",
       "Mori Art Museum stays open until 10 PM — no rush on timing.",
+      "The immersive digital-art museum stop is removed from the plan.",
       "Consider backup coffee break between Toyosu and Ginza."
     ],
     "note": "Balanced day: immersive art, food market, and free-time cushion.",
     "brief": {
       "today": "Toyosu + Ginza + Roppongi",
       "next": "Mori Art Museum evening",
-      "backup": "Odaiba or teamLab if available",
+      "backup": "Odaiba or extra Ginza/Roppongi time",
       "ops": "Tsukiji Line to Shijo-mae for Toyosu"
     }
   },
@@ -74,14 +76,15 @@
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "",
-    "morning": "Start at Senso-ji for temple atmosphere and Omikuji, then walk to Kappabashi for practical shopping (knives, kitchenware, food models).",
+    "morning": "Start with an Old Tokyo block: choose Yanaka first if you want quiet lanes, or go straight to Senso-ji and Kappabashi if shopping energy is higher.",
     "daytime": "Head to Akihabara: Super Potato, Mandarake, arcades, and nearby electronics browsing.",
     "night": "Flexible close: optional themed cafe or Kanda Myojin.",
     "details": [
       "Tax-free opportunity day for shopping-heavy stops.",
       "Akihabara is rain-friendly due to indoor concentration.",
       "Carry a short target list to avoid decision overload.",
-      "Transit is straightforward via Ginza and JR lines."
+      "Transit is straightforward via Ginza and JR lines.",
+      "First cut if tired: choose either Yanaka or Kappabashi, not both."
     ],
     "note": "Classic old-Tokyo + pop-culture contrast day.",
     "brief": {
@@ -105,7 +108,8 @@
       "Shinjuku → Tokyo Station: JR Chuo Rapid Line from Shinjuku Station (~25 min, ¥220). Walk 5 min from Keio Plaza to Shinjuku Station south gates.",
       "At Tokyo Station: follow 'Tokaido Shinkansen' signs. Buy ekiben at Gransta food hall BEFORE passing through the gates — great selection, can't come back.",
       "Luggage forwarding (takkyubin): request at hotel concierge the evening before. Yamato Transport delivers bags to Cross Hotel Kyoto by next afternoon (~¥1,500–2,000/bag). Travel hands-free on the train.",
-      "Seat already reserved — Mt Fuji visible on the left (A/B side) approximately 40 min after departure.",
+      "Mt Fuji is typically visible from the right side headed from Tokyo to Kyoto (Seat E side); verify actual reserved car/seat in SmartEX before departure.",
+      "If Cross Hotel check-in is delayed, store bags at the hotel or Kyoto Station lockers and keep Nishiki/Gion flexible.",
       "Energy strategy: sightseeing light, ambiance heavy. Evening in Gion is the reward."
     ],
     "note": "First intercity rail day. Keep schedule disciplined but calm.",
@@ -113,7 +117,7 @@
       "today": "Tokyo to Kyoto bullet train",
       "next": "Nishiki Market + Gion stroll",
       "backup": "Kyoto Station area shopping if tired",
-      "ops": "JR Shinjuku→Tokyo Stn (25 min, ¥220); ekiben at Gransta before gates; Nozomi ~10 AM; Mt Fuji ~40 min in on left (A/B seats); takkyubin night before if going luggage-free"
+      "ops": "JR Shinjuku→Tokyo Stn (25 min, ¥220); ekiben at Gransta before gates; Nozomi ~10 AM; Mt Fuji ~40 min in on Seat E/right side; takkyubin night before if going luggage-free"
     }
   },
   {
@@ -125,19 +129,20 @@
     "splitNote": "Kichi Kichi reservation (7 PM) — coordination needed",
     "morning": "Make Nara the top priority: use Kyoto Station as the launch point, take Kintetsu to Nara, then focus on Nara Park and Todai-ji before crowds build.",
     "daytime": "Keep the Nara loop compact with deer, the Great Buddha, Nakatanidou mochi, and lunch before returning to Kyoto mid-afternoon.",
-    "night": "Use Kiyomizu-dera, Sannenzaka/Ninenzaka, and an easy Gion-area dinner as the Kyoto evening block.",
+    "night": "Take the Kyoto evening slowly: Kiyomizu-dera, Sannenzaka/Ninenzaka, golden-hour Gion, then an easy dinner around Gion or Pontocho.",
     "details": [
       "Nara is the priority today; Arashiyama and Kinkaku-ji are intentionally dropped to keep the route sane.",
       "Kintetsu Kyoto Line is preferred because Kintetsu Nara Station is closer to Nara Park than JR Nara.",
       "Buy deer crackers only when ready to feed immediately; keep moving and show open empty hands when out.",
-      "Rain backup: Sanjusangendo or Kyoto National Museum."
+      "Rain backup: Sanjusangendo or Kyoto National Museum.",
+      "First cut if tired: keep Nara and dinner, but skip or shorten the Kiyomizu uphill block."
     ],
-    "note": "Nara-first cultural day with a compact Kyoto evening finish.",
+    "note": "Nara-first cultural day with room to linger through Kyoto's evening lanes.",
     "brief": {
       "today": "Nara day trip",
       "next": "Kiyomizu + Ninenzaka",
       "backup": "Sanjusangen-do",
-      "ops": "Kintetsu Kyoto→Nara walk-up; IC card OK; Kichi Kichi backup dinner needed"
+      "ops": "Kintetsu Kyoto→Nara walk-up; IC card OK; Kiyomizu optional if tired"
     }
   },
   {
@@ -153,13 +158,14 @@
       "Best transfer: Hankyu Kyoto Line from Kyoto-Kawaramachi Station (3-min walk from hotel) to Osaka-Umeda (~43 min, ¥430), then Osaka Metro Midosuji Line to Namba (~5 min, ¥180). Total: ~50 min, ~¥610.",
       "Luggage forwarding: request takkyubin at hotel front desk the night before (~¥1,000–1,500/bag). Bags arrive at Cross Hotel Osaka by afternoon — travel hands-free on the train.",
       "Cross Hotel Osaka check-in is typically 3 PM; if arriving earlier, hotel holds bags. Dotonbori is a 5-min walk from the hotel.",
-      "Treat morning (Fushimi Inari) as the highlight; transfer is the easy part."
+      "Treat morning (Fushimi Inari) as the highlight, but keep it shallow if Day 6 ran long.",
+      "First cut if tired: shorten Fushimi Inari to the lower torii loop and protect checkout/transfer timing."
     ],
     "note": "Second city move with a high-energy Osaka arrival.",
     "brief": {
       "today": "Fushimi Inari early",
       "next": "Kyoto to Osaka move",
-      "backup": "TeamLab optional",
+      "backup": "Short Fushimi lower loop",
       "ops": "Hankyu from Kyoto-Kawaramachi→Umeda (43 min, ¥430) + Metro to Namba (5 min, ¥180); takkyubin night before recommended; Cross Hotel Osaka check-in 3 PM"
     }
   },
@@ -177,7 +183,9 @@
       "Purpose-built flexible day with optional pacing changes.",
       "Easy to adapt for weather because many stops cluster by transit hubs.",
       "Good day for souvenir and specialty store catches.",
-      "Keep meeting checkpoints explicit when splitting up."
+      "Keep meeting checkpoints explicit when splitting up.",
+      "Osaka Castle lives on this day; Day 9 should stay low-risk before the train.",
+      "Optional south-Osaka branch (Shinsekai/Abeno Harukas) only if everyone wants to trade away split-shopping time."
     ],
     "note": "Free-form Osaka day designed around both interests.",
     "brief": {
@@ -192,11 +200,7 @@
     "startCityClass": "city-osaka",
     "endCityClass": "city-tokyo",
     "transfer": "Shinkansen Nozomi (Res #2005)",
-    "deadline": {
-      "type": "critical",
-      "label": "🚨 BOOK SHINKANSEN TODAY (May 2)"
-    },
-    "morning": "Take one final Osaka block (castle grounds or food repeat), then consolidate luggage and move toward Shin-Osaka without rushing.",
+    "morning": "Keep the final Osaka morning low-risk: breakfast, last Namba/Dotonbori food or souvenirs, then consolidate luggage and move toward Shin-Osaka without rushing.",
     "daytime": "Board Shinkansen back to Tokyo area, prioritize easy transfer to Shinagawa/Haneda-side hotel for departure-day confidence.",
     "night": "Final Japan dinner near hotel or Haneda Garden, with optional onsen stop if energy remains.",
     "details": [
@@ -221,11 +225,13 @@
     "endCityClass": "city-tokyo",
     "transfer": "Flight UA130",
     "morning": "Slow final morning with breakfast and a controlled last-minute shopping pass (snacks, gifts, duty-free targets).",
-    "daytime": "Complete checkout and arrive at Haneda with enough margin for check-in, security, and stress-free gate pacing.",
+    "daytime": "Complete checkout, leave Shinagawa by a hard airport-transfer time, and arrive at Haneda with enough margin for check-in, security, and stress-free gate pacing.",
     "night": "Board UA130 and begin return to EWR; keep comfort and hydration prioritized for landing recovery.",
     "details": [
       "Terminal: Haneda T3 (United check-in area typically K/L rows).",
       "Target airport arrival: around 2:30 PM for a 5:45 PM departure.",
+      "Hard move: leave Shinagawa by about 1:15 PM even if shopping is still tempting.",
+      "Only do Don Quijote Haneda Garden if luggage handling is easy; otherwise go straight to airline check-in and use duty-free shops after security.",
       "Good final buys: Tokyo Banana, Royce, travel-safe sweets.",
       "Closeout task: confirm documents and carry-on essentials before security."
     ],
@@ -234,7 +240,7 @@
       "today": "Haneda breakfast + checkout",
       "next": "Duty free + UA130",
       "backup": "Skip shopping if slow",
-      "ops": "Build airport buffer, keep carry-on essentials ready"
+      "ops": "Leave Shinagawa by 1:15 PM; keep carry-on essentials ready"
     }
   }
 ]
