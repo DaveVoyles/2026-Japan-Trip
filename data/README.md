@@ -14,6 +14,14 @@ The full day-by-day itinerary data. This repo currently does not include the old
 
 **Sync notes:** When changing a day, also check `data/day-meta.json`, `index.html`, `visual-schedule.html`, and visualization summary pages for duplicated labels or summaries.
 
+**Drift check:** After itinerary edits, run:
+
+```bash
+node -e "for (const f of ['data/days.json','data/day-meta.json','data/bookings.json','data/city-guide-anchors.json']) JSON.parse(require('fs').readFileSync(f,'utf8')); console.log('JSON OK')"
+```
+
+Then search for stale removed items and duplicated summaries in `index.html`, `visual-schedule.html`, `visualizations/webgl-timeline.html`, and `transit-guide.html`.
+
 ---
 
 ### `day-meta.json` — ✏️ Hand-authored narrative fields

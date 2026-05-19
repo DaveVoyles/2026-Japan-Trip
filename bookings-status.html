@@ -124,6 +124,12 @@
         color: var(--cp-danger);
       }
 
+      .status-considering {
+        background: var(--cp-surface-soft);
+        border: 1px solid var(--cp-highlight);
+        color: var(--cp-text);
+      }
+
       .status-walk-up {
         background: var(--cp-surface-soft);
         border: 1px solid var(--cp-link);
@@ -387,13 +393,19 @@
       const filterDefs = [
         { id: "all", label: "All" },
         { id: "needs-action", label: "Needs action" },
+        { id: "considering", label: "Considering" },
         { id: "pending", label: "Pending" },
         { id: "confirmed", label: "Confirmed" },
         { id: "no-booking", label: "No booking needed" },
       ];
 
+      const isFutureOptional = (booking) =>
+        booking.status === "considering" &&
+        /future optional/i.test(booking.dates || "");
       const needsAction = (booking) =>
-        booking.status === "pending" || booking.status === "critical" || booking.status === "considering";
+        booking.status === "pending" ||
+        booking.status === "critical" ||
+        (booking.status === "considering" && !isFutureOptional(booking));
       const noBookingNeeded = (booking) =>
         ["walk-up", "sold-out", "closed"].includes(booking.status);
 
@@ -430,7 +442,7 @@
           const detail = document.createElement("p");
           title.textContent = "No critical booking actions";
           detail.textContent =
-            "Pending work is clear for now. Re-check time-sensitive attractions close to the booking window.";
+            "Pending work is clear for now. Future optional ideas stay visible under Considering, but do not block the active plan.";
           card.appendChild(title);
           card.appendChild(detail);
           nextActions.appendChild(card);
@@ -486,7 +498,7 @@
 
         document.querySelectorAll(".booking-card").forEach((card) => {
           const show = shouldShowBooking(
-            { status: card.dataset.status },
+            { status: card.dataset.status, dates: card.dataset.dates },
             filter,
           );
           card.classList.toggle("is-hidden", !show);
@@ -519,6 +531,7 @@
             const card = document.createElement("div");
             card.className = "booking-card";
             card.dataset.status = booking.status;
+            card.dataset.dates = booking.dates;
 
             const header = document.createElement("div");
             header.className = "booking-header";

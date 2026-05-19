@@ -74,6 +74,7 @@ Data lives in `data/` and is consumed by pages at runtime via `fetch()`.
 
 | Leg | Dates | Property |
 |-----|-------|----------|
-| Tokyo | May 24–28 | Keio Plaza Hotel Shinjuku |
-| Kyoto | May 28–31 | Cross Hotel Kyoto Kawaramachi |
-| Osaka | May 31–Jun 3 | Cross Hotel Osaka Dotonbori |
+| Tokyo | May 25–29 | Keio Plaza Hotel Shinjuku |
+| Kyoto | May 29–31 | Cross Hotel Kyoto Kawaramachi |
+| Osaka | May 31–Jun 2 | Cross Hotel Osaka Dotonbori |
+| Tokyo final night | Jun 2–3 | Shinagawa Prince Hotel |

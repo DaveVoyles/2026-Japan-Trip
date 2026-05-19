@@ -14,7 +14,7 @@
     { name: "City Guide", href: "city-guide.html" },
     { name: "Bookings", href: "bookings-status.html" },
   ];
-  const githubUrl = "https://github.com/DaveVoyles/2026-Japan-Trip/tree/main";
+  const githubUrl = "https://github.com/DaveVoyles/2026-Japan-Trip-site/tree/main";
 
   const ensureMeta = (name, content) => {
     if (document.head.querySelector(`meta[name="${name}"]`)) {
@@ -50,7 +50,7 @@
 
     window.addEventListener("load", () => {
       navigator.serviceWorker
-        .register(rootAsset("sw.js?v=20260516b"))
+        .register(rootAsset("sw.js?v=20260519a"))
         .catch((error) =>
           console.warn("Offline cache registration failed", error),
         );
@@ -58,15 +58,7 @@
   };
 
   ensurePwaMetadata();
-  // SW disabled — uncomment registerOfflineCache() to re-enable offline caching
-  // registerOfflineCache();
-
-  // Unregister any previously installed service workers so stale cache is cleared
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.getRegistrations().then((regs) => {
-      regs.forEach((r) => r.unregister());
-    });
-  }
+  registerOfflineCache();
 
   const nav = document.createElement("nav");
   nav.className = "site-nav";
@@ -120,6 +112,7 @@
   nav.innerHTML = `
     <div class="site-nav__inner">
       <div class="site-nav__brand">Japan Trip 2026</div>
+      <div class="site-nav__freshness" title="Reload once on Wi-Fi after itinerary changes so offline pages are current.">Updated May 19</div>
       <button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-nav-links">
         Menu
       </button>

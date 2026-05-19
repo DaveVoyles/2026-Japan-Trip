@@ -5,10 +5,12 @@
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "Flight UA131",
-    "morning": "Depart for Newark with extra buffer, check bags at Terminal C, and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
+    "morning": "Leave Narberth PA at 6:30 AM to arrive at SNAP Parking by 8:30 AM (1 hr 47 min drive, 99.3 miles). Drop off car at valet, then 10-minute ride to Newark (EWR Terminal C). Check bags and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
     "daytime": "In transit across the Pacific, prioritize rest blocks, water, and light movement every few hours so arrival day is manageable.",
     "night": "Land at Haneda, clear immigration/customs, withdraw startup cash, take Limousine Bus to Keio Plaza, then keep dinner simple at Omoide Yokocho.",
     "details": [
+      "Parking: SNAP Parking (Covered Valet) — Rental ID 123520709. Cost $281.20 (paid via SpotHero).",
+      "Drive from Narberth PA to SNAP Parking: ~45 min. Then ~45 min to EWR Terminal C.",
       "Flight: UA131 (EWR → HND), approx. 14 hours.",
       "Arrival flow: Visit Japan Web QR → ATM → bus ticket counter.",
       "Limousine Bus (HND → Keio Plaza): Buy ticket at the Arrivals Lobby counter (look for 'Airport Limousine' signs). Cost ~¥1,300. Journey ~75 min to Keio Plaza Hotel Shinjuku stop. Buses run every 20–30 min. No reservation needed — pay at counter.",
@@ -25,6 +27,7 @@
   },
   {
     "dayNumber": 2,
+    "date": "Tue May 26",
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "",
@@ -50,6 +53,7 @@
   },
   {
     "dayNumber": 3,
+    "date": "Wed May 27",
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "",
@@ -57,13 +61,12 @@
     "daytime": "Structured Ginza shopping block: Itoya, Uniqlo, Onitsuka Tiger.",
     "night": "Roppongi art stop at Mori Art Museum (open late).",
     "details": [
-      "Pokemon Cafe note: closed through late June for renovations.",
       "Rain resilience: Toyosu + Ginza + Mori Art Museum are all indoors.",
       "Mori Art Museum stays open until 10 PM — no rush on timing.",
       "The immersive digital-art museum stop is removed from the plan.",
       "Consider backup coffee break between Toyosu and Ginza."
     ],
-    "note": "Balanced day: immersive art, food market, and free-time cushion.",
+    "note": "Balanced day: food market, Ginza shopping, and a flexible evening art stop.",
     "brief": {
       "today": "Toyosu + Ginza + Roppongi",
       "next": "Mori Art Museum evening",
@@ -73,6 +76,7 @@
   },
   {
     "dayNumber": 4,
+    "date": "Thu May 28",
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "",
@@ -96,6 +100,7 @@
   },
   {
     "dayNumber": 5,
+    "date": "Fri May 29",
     "startCityClass": "city-tokyo",
     "endCityClass": "city-kyoto",
     "transfer": "Shinkansen Nozomi",
@@ -122,6 +127,7 @@
   },
   {
     "dayNumber": 6,
+    "date": "Sat May 30",
     "startCityClass": "city-kyoto",
     "endCityClass": "city-kyoto",
     "transfer": "",
@@ -147,6 +153,7 @@
   },
   {
     "dayNumber": 7,
+    "date": "Sun May 31",
     "startCityClass": "city-kyoto",
     "endCityClass": "city-osaka",
     "transfer": "Train (Kyoto → Osaka)",
@@ -171,6 +178,7 @@
   },
   {
     "dayNumber": 8,
+    "date": "Mon Jun 1",
     "startCityClass": "city-osaka",
     "endCityClass": "city-osaka",
     "transfer": "",
@@ -197,6 +205,7 @@
   },
   {
     "dayNumber": 9,
+    "date": "Tue Jun 2",
     "startCityClass": "city-osaka",
     "endCityClass": "city-tokyo",
     "transfer": "Shinkansen Nozomi (Res #2005)",
@@ -221,6 +230,7 @@
   },
   {
     "dayNumber": 10,
+    "date": "Wed Jun 3",
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "Flight UA130",
