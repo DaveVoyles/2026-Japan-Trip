@@ -264,81 +264,123 @@
         line-height: 1.45;
       }
 
-      .route-visual {
-        display: block;
-        width: 100%;
-        min-height: 420px;
+      .time-route {
+        display: grid;
+        gap: 12px;
+        padding: 14px;
         background: var(--cp-surface);
       }
 
-      .route-line {
-        fill: none;
-        stroke: var(--cp-accent);
-        stroke-width: 7;
-        stroke-linecap: round;
-        stroke-linejoin: round;
+      .time-route-legend {
+        margin: 0;
+        border: 1px solid var(--cp-border);
+        border-radius: 0.625rem;
+        padding: 10px 12px;
+        background: var(--cp-bg-elevated);
+        color: var(--cp-text-muted);
+        font-size: 0.92rem;
+        line-height: 1.45;
       }
 
-      .route-shadow {
-        fill: none;
-        stroke: var(--cp-accent-soft);
-        stroke-width: 18;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
-
-      .connector-line {
-        fill: none;
-        stroke: var(--cp-border-strong);
-        stroke-width: 3;
-        stroke-dasharray: 9 9;
-        stroke-linecap: round;
-      }
-
-      .segment-label,
-      .stop-label,
-      .time-label,
-      .stop-number {
-        font-family:
-          "Segoe UI",
-          Aptos,
-          Calibri,
-          -apple-system,
-          BlinkMacSystemFont,
-          sans-serif;
-      }
-
-      .segment-label {
-        fill: var(--cp-text-muted);
-        font-size: 15px;
-        font-weight: 800;
-        letter-spacing: 0.03em;
+      .time-segment-label {
+        margin: 12px 0 2px;
+        color: var(--cp-text-muted);
+        font-size: 0.82rem;
+        font-weight: 900;
+        letter-spacing: 0.04em;
         text-transform: uppercase;
       }
 
-      .stop-pin {
-        fill: var(--cp-accent);
-        stroke: var(--cp-accent-fg);
-        stroke-width: 4;
+      .time-stop {
+        display: grid;
+        grid-template-columns: auto minmax(0, 1fr);
+        gap: 12px;
+        align-items: start;
       }
 
-      .stop-number {
-        fill: var(--cp-accent-fg);
-        font-size: 16px;
+      .time-pin {
+        display: inline-grid;
+        place-items: center;
+        width: 36px;
+        height: 36px;
+        border-radius: 999px;
+        background: var(--cp-accent);
+        color: var(--cp-accent-fg);
+        font-size: 0.95rem;
         font-weight: 900;
-        text-anchor: middle;
-        dominant-baseline: middle;
       }
 
-      .stop-label {
-        fill: var(--cp-text);
-        font-size: 15px;
+      .time-card {
+        display: grid;
+        gap: 6px;
+        border: 1px solid var(--cp-border);
+        border-radius: 0.625rem;
+        padding: 12px;
+        background: var(--cp-panel-strong);
+      }
+
+      .time-card h3 {
+        margin: 0;
+        font-size: 1rem;
+      }
+
+      .time-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        color: var(--cp-text-muted);
+        font-size: 0.9rem;
+        font-weight: 700;
+      }
+
+      .time-card p {
+        margin: 0;
+        color: var(--cp-text-muted);
+        line-height: 1.5;
+      }
+
+      .time-gap {
+        display: grid;
+        grid-template-columns: 36px minmax(0, 1fr);
+        gap: 12px;
+        align-items: center;
+      }
+
+      .time-gap-spine {
+        justify-self: center;
+        width: 3px;
+        height: 38px;
+        border-radius: 999px;
+        background: var(--cp-border-strong);
+      }
+
+      .time-gap-content {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 10px;
+        align-items: center;
+      }
+
+      .time-gap-track {
+        height: 10px;
+        border-radius: 999px;
+        background: var(--cp-surface-soft);
+        overflow: hidden;
+      }
+
+      .time-gap-bar {
+        width: var(--gap-width, 28%);
+        min-width: 18px;
+        height: 100%;
+        border-radius: inherit;
+        background: var(--cp-accent);
+      }
+
+      .time-gap-label {
+        color: var(--cp-text-muted);
+        font-size: 0.86rem;
         font-weight: 800;
-      }
-
-      .time-label {
-        fill: var(--cp-text-muted);
-        font-size: 12px;
+        white-space: nowrap;
       }
 
       .side-panel {
@@ -437,8 +479,9 @@
           grid-template-columns: 1fr;
         }
 
-        .route-visual {
-          min-height: 360px;
+        .time-gap-content {
+          grid-template-columns: 1fr;
+          gap: 6px;
         }
       }
 
@@ -447,8 +490,12 @@
           padding: 14px;
         }
 
-        .route-visual {
-          min-height: 300px;
+        .time-route {
+          padding: 10px;
+        }
+
+        .time-gap-label {
+          white-space: normal;
         }
       }
     </style>
@@ -467,7 +514,6 @@
     </main>
 
     <script>
-      const svgNamespace = "http://www.w3.org/2000/svg";
       const params = new URLSearchParams(window.location.search);
       const parsedDay = Number(params.get("day") || 1);
       const dayNumber = Number.isFinite(parsedDay) && parsedDay > 0 ? Math.floor(parsedDay) : 1;
@@ -501,12 +547,6 @@
         return link;
       }
 
-      function createSvgEl(tag, attrs = {}) {
-        const node = document.createElementNS(svgNamespace, tag);
-        Object.entries(attrs).forEach(([key, value]) => node.setAttribute(key, value));
-        return node;
-      }
-
       function stopSortValue(stop, fallback) {
         const numeric = Number(stop.order);
         return Number.isFinite(numeric) ? numeric : fallback;
@@ -523,15 +563,29 @@
         );
       }
 
-      function buildPath(points) {
-        if (!points.length) return "";
-        return points
-          .map((point, index) => `${index === 0 ? "M" : "L"} ${point.x} ${point.y}`)
-          .join(" ");
-      }
-
       function stopLabel(stop) {
         return stop.label || stop.area || `Stop ${stop.displayOrder}`;
+      }
+
+      function parseTimeToMinutes(value) {
+        if (typeof value !== "string") return null;
+        const match = value.match(/^(\d{1,2}):(\d{2})\s*([AP]M)$/i);
+        if (!match) return null;
+        let hour = Number(match[1]);
+        const minute = Number(match[2]);
+        const period = match[3].toUpperCase();
+        if (!Number.isFinite(hour) || !Number.isFinite(minute)) return null;
+        if (period === "PM" && hour !== 12) hour += 12;
+        if (period === "AM" && hour === 12) hour = 0;
+        return hour * 60 + minute;
+      }
+
+      function formatDuration(minutes) {
+        if (!Number.isFinite(minutes) || minutes <= 0) return "next stop";
+        if (minutes < 60) return `${minutes} min`;
+        const hours = Math.floor(minutes / 60);
+        const remainder = minutes % 60;
+        return remainder ? `${hours} hr ${remainder} min` : `${hours} hr`;
       }
 
       function showEmptyRoute(message) {
@@ -581,118 +635,83 @@
         actions.hidden = false;
       }
 
-      function renderRouteSvg(route) {
+      function renderRouteTimeline(route) {
         const segments = Array.isArray(route.segments) ? route.segments : [];
         const stops = getAllStops(segments).sort((a, b) =>
           stopSortValue(a, a.stopIndex) - stopSortValue(b, b.stopIndex),
         );
-        const width = 920;
-        const rowGap = 132;
-        const height = Math.max(320, 120 + segments.length * rowGap);
-        const svg = createSvgEl("svg", {
-          class: "route-visual",
-          viewBox: `0 0 ${width} ${height}`,
-          role: "img",
-          "aria-labelledby": "mapTitle mapDesc",
-        });
 
-        const title = createSvgEl("title", { id: "mapTitle" });
-        title.textContent = `${route.title || "Route"} abstract progression`;
-        svg.appendChild(title);
-        const desc = createSvgEl("desc", { id: "mapDesc" });
-        desc.textContent = "Abstract route progression showing stops grouped by segment. It is not a geographic map.";
-        svg.appendChild(desc);
-
-        const positionedStops = [];
-        segments.forEach((segment, segmentIndex) => {
-          const segmentStops = (segment.stops || []).map((stop, stopIndex) => ({
-            ...stop,
-            segmentIndex,
-            stopIndex,
-            displayOrder: stop.order || stopIndex + 1,
-          }));
-          const y = 86 + segmentIndex * rowGap;
-          const count = Math.max(segmentStops.length, 1);
-          const startX = 90;
-          const endX = width - 90;
-          const step = count === 1 ? 0 : (endX - startX) / (count - 1);
-
-          const segmentText = createSvgEl("text", {
-            class: "segment-label",
-            x: startX,
-            y: Math.max(24, y - 42),
-          });
-          segmentText.textContent = segment.label || `Segment ${segmentIndex + 1}`;
-          svg.appendChild(segmentText);
-
-          const points = segmentStops.map((stop, stopIndex) => ({
-            x: count === 1 ? width / 2 : startX + step * stopIndex,
-            y: y + (stopIndex % 2 === 0 ? 0 : 22),
-            stop,
-          }));
-          positionedStops.push(...points);
-
-          if (points.length > 1) {
-            svg.appendChild(createSvgEl("path", { class: "route-shadow", d: buildPath(points) }));
-            svg.appendChild(createSvgEl("path", { class: "route-line", d: buildPath(points) }));
-          }
-        });
-
-        for (let index = 1; index < positionedStops.length; index += 1) {
-          if (positionedStops[index - 1].stop.segmentIndex !== positionedStops[index].stop.segmentIndex) {
-            svg.appendChild(
-              createSvgEl("path", {
-                class: "connector-line",
-                d: buildPath([positionedStops[index - 1], positionedStops[index]]),
-              }),
-            );
-          }
-        }
-
-        positionedStops.forEach((point) => {
-          const group = createSvgEl("g");
-          const order = String(point.stop.displayOrder);
-          const label = stopLabel(point.stop);
-          const labelX = point.x > width - 250 ? point.x - 150 : point.x + 24;
-          const textAnchor = point.x > width - 250 ? "end" : "start";
-
-          group.appendChild(createSvgEl("circle", { class: "stop-pin", cx: point.x, cy: point.y, r: 18 }));
-          const number = createSvgEl("text", { class: "stop-number", x: point.x, y: point.y + 1 });
-          number.textContent = order;
-          group.appendChild(number);
-
-          const stopText = createSvgEl("text", {
-            class: "stop-label",
-            x: labelX,
-            y: point.y - 6,
-            "text-anchor": textAnchor,
-          });
-          stopText.textContent = label;
-          group.appendChild(stopText);
-
-          const timeText = createSvgEl("text", {
-            class: "time-label",
-            x: labelX,
-            y: point.y + 14,
-            "text-anchor": textAnchor,
-          });
-          timeText.textContent = point.stop.time || point.stop.area || "";
-          group.appendChild(timeText);
-          svg.appendChild(group);
-        });
+        const container = createEl("div", "time-route");
+        container.setAttribute("role", "list");
+        container.setAttribute("aria-label", `${route.title || "Route"} time progression`);
+        container.appendChild(
+          createEl(
+            "p",
+            "time-route-legend",
+            "Longer bars mean more scheduled time between stop anchors. This is a planning timeline, not physical map distance; open Google Maps for exact routing.",
+          ),
+        );
 
         if (!stops.length) {
-          const empty = createSvgEl("text", {
-            class: "stop-label",
-            x: width / 2,
-            y: height / 2,
-            "text-anchor": "middle",
-          });
-          empty.textContent = "No stops defined for this route.";
-          svg.appendChild(empty);
+          container.appendChild(createEl("p", "time-route-legend", "No stops defined for this route."));
+          return container;
         }
 
-        return svg;
+        const timedGaps = stops
+          .slice(0, -1)
+          .map((stop, index) => {
+            const current = parseTimeToMinutes(stop.time);
+            const next = parseTimeToMinutes(stops[index + 1].time);
+            return current !== null && next !== null ? Math.max(0, next - current) : null;
+          })
+          .filter((value) => value !== null);
+        const maxGap = Math.max(30, ...timedGaps);
+        let currentSegmentIndex = -1;
+
+        stops.forEach((stop, index) => {
+          if (stop.segmentIndex !== currentSegmentIndex) {
+            currentSegmentIndex = stop.segmentIndex;
+            const label = segments[currentSegmentIndex]?.label || `Segment ${currentSegmentIndex + 1}`;
+            container.appendChild(createEl("h3", "time-segment-label", label));
+          }
+
+          const row = createEl("article", "time-stop");
+          row.setAttribute("role", "listitem");
+          row.appendChild(createEl("span", "time-pin", String(stop.displayOrder)));
+
+          const card = createEl("div", "time-card");
+          card.appendChild(createEl("h3", "", stopLabel(stop)));
+          const meta = createEl("div", "time-meta");
+          if (stop.time) meta.appendChild(createEl("span", "", stop.time));
+          if (stop.area) meta.appendChild(createEl("span", "", stop.area));
+          if (meta.children.length) card.appendChild(meta);
+          if (stop.summary) card.appendChild(createEl("p", "", stop.summary));
+          if (stop.mapsUrl) {
+            card.appendChild(createLink("", stop.mapsUrl, "Open stop in Google Maps", true));
+          }
+          row.appendChild(card);
+          container.appendChild(row);
+
+          if (index < stops.length - 1) {
+            const current = parseTimeToMinutes(stop.time);
+            const next = parseTimeToMinutes(stops[index + 1].time);
+            const gapMinutes = current !== null && next !== null ? Math.max(0, next - current) : null;
+            const width = gapMinutes === null ? 28 : Math.max(18, Math.min(100, Math.round((gapMinutes / maxGap) * 100)));
+            const gap = createEl("div", "time-gap");
+            gap.appendChild(createEl("span", "time-gap-spine"));
+            const gapContent = createEl("div", "time-gap-content");
+            const track = createEl("div", "time-gap-track");
+            const bar = createEl("div", "time-gap-bar");
+            bar.style.setProperty("--gap-width", `${width}%`);
+            track.appendChild(bar);
+            gapContent.appendChild(track);
+            gapContent.appendChild(createEl("span", "time-gap-label", `Next: ${formatDuration(gapMinutes)}`));
+            gap.appendChild(gapContent);
+            container.appendChild(gap);
+          }
+        });
+
+        return container;
       }
 
       function renderNotes(route) {
@@ -758,10 +777,10 @@
         head.appendChild(createEl("h2", "", "Route progression"));
         head.querySelector("h2").id = "routeProgressionTitle";
         head.appendChild(
-          createEl("p", "", "Abstract stop order by segment. Use Google Maps for exact turn-by-turn navigation."),
+          createEl("p", "", "Stop order by segment, with connector length based on scheduled time between anchors."),
         );
         visualPanel.appendChild(head);
-        visualPanel.appendChild(renderRouteSvg(route));
+        visualPanel.appendChild(renderRouteTimeline(route));
 
         const side = createEl("div", "side-panel");
         const notes = renderNotes(route);
