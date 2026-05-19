@@ -107,8 +107,6 @@
 
       .hero,
       .panel,
-      .segment,
-      .stop-card,
       .empty-state {
         border: 1px solid var(--cp-border);
         border-radius: 16px;
@@ -243,21 +241,18 @@
         overflow: hidden;
       }
 
-      .panel-head,
-      .segment-head {
+      .panel-head {
         border-bottom: 1px solid var(--cp-border);
         background: var(--cp-bg-elevated);
         padding: 14px 16px;
       }
 
-      .panel-head h2,
-      .segment-head h2 {
+      .panel-head h2 {
         margin: 0 0 4px;
         font-size: 1.08rem;
       }
 
-      .panel-head p,
-      .segment-head p {
+      .panel-head p {
         margin: 0;
         color: var(--cp-text-muted);
         font-size: 0.92rem;
@@ -404,55 +399,42 @@
         line-height: 1.55;
       }
 
-      .segment {
+      .map-panel {
         overflow: hidden;
       }
 
-      .stop-list {
+      .map-body {
         display: grid;
-        gap: 10px;
-        padding: 12px;
-      }
-
-      .stop-card {
-        display: grid;
-        gap: 8px;
+        gap: 12px;
         padding: 14px;
-        background: var(--cp-surface);
-        box-shadow: none;
       }
 
-      .stop-card h3 {
-        display: flex;
-        align-items: center;
-        gap: 9px;
-        margin: 0;
-        font-size: 1rem;
+      .map-frame {
+        width: 100%;
+        min-height: 420px;
+        border: 1px solid var(--cp-border);
+        border-radius: 0.625rem;
+        background: var(--cp-surface-soft);
       }
 
-      .stop-order {
-        display: inline-grid;
-        place-items: center;
-        min-width: 28px;
-        height: 28px;
-        border-radius: 999px;
-        background: var(--cp-accent);
-        color: var(--cp-accent-fg);
-        font-size: 0.85rem;
-        font-weight: 900;
-      }
-
-      .stop-meta {
+      .map-actions {
         display: flex;
         flex-wrap: wrap;
-        gap: 8px;
-        color: var(--cp-text-muted);
-        font-size: 0.9rem;
-        font-weight: 700;
+        gap: 10px;
       }
 
-      .stop-card p {
+      .map-note {
         margin: 0;
+        color: var(--cp-text-muted);
+        font-size: 0.92rem;
+        line-height: 1.5;
+      }
+
+      .map-fallback {
+        border: 1px solid var(--cp-border);
+        border-radius: 0.625rem;
+        padding: 16px;
+        background: var(--cp-surface-soft);
         color: var(--cp-text-muted);
         line-height: 1.5;
       }
@@ -496,6 +478,10 @@
 
         .time-gap-label {
           white-space: normal;
+        }
+
+        .map-frame {
+          min-height: 320px;
         }
       }
     </style>
@@ -586,6 +572,29 @@
         const hours = Math.floor(minutes / 60);
         const remainder = minutes % 60;
         return remainder ? `${hours} hr ${remainder} min` : `${hours} hr`;
+      }
+
+      function googleMapsEmbedUrl(mapUrl) {
+        if (!mapUrl) return "";
+        let source;
+        try {
+          source = new URL(mapUrl);
+        } catch {
+          return "";
+        }
+        const origin = source.searchParams.get("origin");
+        const destination = source.searchParams.get("destination");
+        if (!origin || !destination) return "";
+
+        const embed = new URL("https://maps.google.com/maps");
+        embed.searchParams.set("output", "embed");
+        embed.searchParams.set("saddr", origin);
+        const waypoints = (source.searchParams.get("waypoints") || "")
+          .split("|")
+          .map((value) => value.trim())
+          .filter(Boolean);
+        embed.searchParams.set("daddr", [...waypoints, destination].join(" to:"));
+        return embed.toString();
       }
 
       function showEmptyRoute(message) {
@@ -728,40 +737,44 @@
         return panel;
       }
 
-      function renderStopCards(route) {
-        const container = createEl("aside", "side-panel");
-        container.setAttribute("aria-label", `Day ${route.dayNumber} route segments`);
-        (route.segments || []).forEach((segment, segmentIndex) => {
-          const section = createEl("section", "segment");
-          const head = createEl("div", "segment-head");
-          head.appendChild(createEl("h2", "", segment.label || `Segment ${segmentIndex + 1}`));
-          head.appendChild(
-            createEl("p", "", `${(segment.stops || []).length} stop${(segment.stops || []).length === 1 ? "" : "s"}`),
+      function renderMapPanel(route) {
+        const panel = createEl("section", "panel map-panel");
+        panel.setAttribute("aria-labelledby", "routeMapTitle");
+        const head = createEl("div", "panel-head");
+        head.appendChild(createEl("h2", "", "Relative map"));
+        head.querySelector("h2").id = "routeMapTitle";
+        head.appendChild(createEl("p", "", "A live Google Maps preview for where the day moves from the starting point."));
+        panel.appendChild(head);
+
+        const body = createEl("div", "map-body");
+        const embedUrl = googleMapsEmbedUrl(route.mapUrl);
+        if (embedUrl) {
+          const frame = document.createElement("iframe");
+          frame.className = "map-frame";
+          frame.src = embedUrl;
+          frame.loading = "lazy";
+          frame.referrerPolicy = "no-referrer-when-downgrade";
+          frame.title = `Day ${route.dayNumber} Google Maps route preview`;
+          body.appendChild(frame);
+        } else {
+          body.appendChild(
+            createEl("p", "map-fallback", "Map preview is unavailable for this route, but the full Google Maps route is still linked below."),
           );
-          section.appendChild(head);
-
-          const stopList = createEl("div", "stop-list");
-          (segment.stops || []).forEach((stop, stopIndex) => {
-            const card = createEl("article", "stop-card");
-            const title = createEl("h3");
-            title.appendChild(createEl("span", "stop-order", String(stop.order || stopIndex + 1)));
-            title.appendChild(document.createTextNode(stopLabel(stop)));
-            card.appendChild(title);
-
-            const meta = createEl("div", "stop-meta");
-            if (stop.time) meta.appendChild(createEl("span", "", stop.time));
-            if (stop.area) meta.appendChild(createEl("span", "", stop.area));
-            if (meta.children.length) card.appendChild(meta);
-            if (stop.summary) card.appendChild(createEl("p", "", stop.summary));
-            if (stop.mapsUrl) {
-              card.appendChild(createLink("", stop.mapsUrl, "Open stop in Google Maps", true));
-            }
-            stopList.appendChild(card);
-          });
-          section.appendChild(stopList);
-          container.appendChild(section);
-        });
-        return container;
+        }
+        body.appendChild(
+          createEl(
+            "p",
+            "map-note",
+            "Use this as spatial context only. The left timeline remains the planning view; Google Maps handles live transit, walking, and traffic details.",
+          ),
+        );
+        if (route.mapUrl) {
+          const actions = createEl("div", "map-actions");
+          actions.appendChild(createLink("btn", route.mapUrl, "Open full route", true));
+          body.appendChild(actions);
+        }
+        panel.appendChild(body);
+        return panel;
       }
 
       function renderRoute(route) {
@@ -783,9 +796,9 @@
         visualPanel.appendChild(renderRouteTimeline(route));
 
         const side = createEl("div", "side-panel");
+        side.appendChild(renderMapPanel(route));
         const notes = renderNotes(route);
         if (notes) side.appendChild(notes);
-        side.appendChild(renderStopCards(route));
         content.append(visualPanel, side);
       }
 
