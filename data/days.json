@@ -397,40 +397,48 @@
     "date": "Sat May 30",
     "startCity": "Kyoto",
     "endCity": "Kyoto",
-    "title": "Arashiyama & Golden Pavilion",
+    "title": "Nara Day Trip & Kiyomizu",
     "startCityClass": "city-kyoto",
     "endCityClass": "city-kyoto",
     "transfer": "",
     "splitDay": true,
     "splitNote": "Kichi Kichi reservation (7 PM) — coordination needed",
-    "morning": "Start early at Arashiyama Bamboo Grove before tour buses, then recover with coffee and a short decompression pause.",
-    "daytime": "Use taxi optimization to Kinkaku-ji, then transition to Kiyomizu-dera and the Sannenzaka/Ninenzaka streets for a layered cultural block.",
-    "night": "If Kichi Kichi reservation succeeds, center dinner there; otherwise use teppanyaki or relaxed Kyoto comfort food nearby.",
+    "morning": "Make Nara the top priority: use Kyoto Station as the launch point, take Kintetsu to Nara, then focus on Nara Park and Todai-ji before crowds build.",
+    "daytime": "Keep the Nara loop compact with deer, the Great Buddha, Nakatanidou mochi, and lunch before returning to Kyoto mid-afternoon.",
+    "night": "Use Kiyomizu-dera, Sannenzaka/Ninenzaka, and an easy Gion-area dinner as the Kyoto evening block.",
     "details": [
-      "High-step day with hills and temple stairs; footwear matters.",
-      "Rain backup: Sanjusangendo or Kyoto National Museum.",
-      "This day rewards early starts more than speed.",
-      "Keep hydration and snack cadence consistent."
+      "Nara is the priority today; Arashiyama and Kinkaku-ji are intentionally dropped to keep the route sane.",
+      "Kintetsu Kyoto Line is preferred because Kintetsu Nara Station is closer to Nara Park than JR Nara.",
+      "Buy deer crackers only when ready to feed immediately; keep moving and show open empty hands when out.",
+      "Rain backup: Sanjusangendo or Kyoto National Museum."
     ],
-    "note": "Most photogenic Kyoto day; crowd timing is everything.",
+    "note": "Nara-first cultural day with a compact Kyoto evening finish.",
     "brief": {
-      "today": "Arashiyama early",
-      "next": "Kinkaku-ji + Kiyomizu",
+      "today": "Nara day trip",
+      "next": "Kiyomizu + Ninenzaka",
       "backup": "Sanjusangen-do",
-      "ops": "Kichi Kichi backup dinner needed"
+      "ops": "Kintetsu Kyoto→Nara walk-up; IC card OK; Kichi Kichi backup dinner needed"
     },
-    "goal": "Bamboo forest (early), Golden Pavilion, and the Philosopher's Path.",
+    "goal": "Nara Park, Todai-ji, bowing deer, and a Kyoto evening walk.",
     "timeline": [
       {
-        "time": "07:00 AM",
-        "activity": "Arashiyama Bamboo Grove. Why Early? Crowds ruin it by 9 AM. Coffee: % Arabica Kyoto Arashiyama (Iconic latte)."
+        "time": "08:00 AM",
+        "activity": "Depart Cross Hotel Kyoto for Kyoto Station, then take the Kintetsu Kyoto Line to Kintetsu Nara Station. Pay with IC card on-site; no advance booking needed."
       },
       {
-        "time": "10:00 AM",
-        "activity": "Kinkaku-ji (Golden Pavilion). Transport: Taxi from Arashiyama (~25 mins) is faster than bus."
+        "time": "09:15 AM",
+        "activity": "Nara Park and Todai-ji. Top priority: bowing deer, the Great Buddha, and a relaxed park walk. Buy deer crackers only when ready to feed immediately."
       },
       {
-        "time": "02:00 PM",
+        "time": "12:00 PM",
+        "activity": "Nakatanidou mochi-pounding shop and lunch near Kintetsu Nara before heading back to Kyoto."
+      },
+      {
+        "time": "01:30 PM",
+        "activity": "Return Kintetsu Nara → Kyoto Station, then taxi or transit back toward Higashiyama for the evening Kyoto block."
+      },
+      {
+        "time": "03:00 PM",
         "activity": "Kiyomizu-dera (The Wooden Stage). Prepare: Huge uphill walk. Wear sneakers. Shop: Sannenzaka/Ninenzaka streets (traditional houses)."
       },
       {
@@ -440,12 +448,16 @@
     ],
     "navigation": [
       {
-        "label": "Bamboo Grove Entrance",
-        "url": "https://www.google.com/maps/search/BambooGrove"
+        "label": "Kintetsu Nara Station",
+        "url": "https://www.google.com/maps/search/KintetsuNaraStation"
       },
       {
-        "label": "Kinkaku-ji (Golden Pavilion)",
-        "url": "https://www.google.com/maps/search/Kinkakuji"
+        "label": "Nara Park",
+        "url": "https://www.google.com/maps/search/NaraPark"
+      },
+      {
+        "label": "Todai-ji",
+        "url": "https://www.google.com/maps/search/Todai-ji"
       },
       {
         "label": "Kiyomizu-dera",
@@ -458,7 +470,8 @@
     ],
     "rainyDayOption": "**Sanjusangen-do** (1001 Kannon Statues) is entirely indoors. **Kyoto National Museum** is across the street.",
     "keyPhrases": [
-      "\"Goshuin o itadakemasu ka?\" (Can I receive a temple stamp? *If you buy a book*)",
+      "\"Kintetsu Nara made onegaishimasu.\" (To Kintetsu Nara, please.)",
+      "\"Shika senbei wa doko de kaemasu ka?\" (Where can I buy deer crackers?)",
       "\"Koko wa shashin OK desu ka?\" (Is photography OK here?)"
     ]
   },
