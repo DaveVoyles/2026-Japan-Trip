@@ -18,6 +18,7 @@ https://davevoyles.github.io/2026-Japan-Trip-site/
 |------|-------------|
 | `index.html` | Landing page — 10 day cards with search, links to all sections |
 | `visualizations/day-view.html` | Main day-by-day itinerary viewer (data-driven) |
+| `visualizations/route-view.html` | Day 2–10 route planning viewer (data-driven) |
 | `visualizations/day-01.html` … `day-10.html` | Per-day static detail pages |
 | `visual-schedule.html` | Visual schedule and route overview |
 | `bookings-status.html` | Booking tracker (hotels, flights, trains, dining, attractions) |
@@ -51,6 +52,7 @@ Data lives in `data/` and is consumed by pages at runtime via `fetch()`.
 | File | Authored | Consumed by | Description |
 |------|----------|-------------|-------------|
 | `data/days.json` | ✏️ Hand-authored | `visualizations/day-view.html` | Full day-by-day itinerary data |
+| `data/routes.json` | ✏️ Hand-authored | `visualizations/route-view.html` | High-level route planning data for Days 2–10 |
 | `data/day-meta.json` | ✏️ Hand-authored | Reference mirror for day summaries | Narrative fields (morning/afternoon/night summaries, notes, ops) |
 | `data/bookings.json` | ✏️ Hand-authored | `bookings-status.html` | Hotels, flights, trains, dining, attractions with status |
 | `data/city-guide-anchors.json` | ✏️ Hand-authored | `visualizations/day-view.html` | Deep-link anchors into city guide tabs |

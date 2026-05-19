@@ -435,6 +435,24 @@
           console.warn("city-guide-anchors.json load failed:", e);
         }
 
+        const routeDayNumbers = new Set();
+        try {
+          const routeRes = await fetch("../data/routes.json");
+          if (routeRes.ok) {
+            const routes = await routeRes.json();
+            if (Array.isArray(routes)) {
+              routes.forEach((route) => {
+                const routeDayNumber = Number(route.dayNumber);
+                if (!Number.isNaN(routeDayNumber)) {
+                  routeDayNumbers.add(routeDayNumber);
+                }
+              });
+            }
+          }
+        } catch (e) {
+          console.warn("routes.json load failed:", e);
+        }
+
         const params = new URLSearchParams(window.location.search);
         const requestedDay = Number(params.get("day") || 1);
         const dayCount = days.length;
@@ -500,8 +518,8 @@
             : ""
         }
         ${
-          dayNumber === 2
-            ? `<div class="alert alert-split">🗺️ Route prototype: <a href="day-02-route.html">View the Day 2 map-style progression</a></div>`
+          dayNumber > 1 && routeDayNumbers.has(dayNumber)
+            ? `<div class="alert alert-split">🗺️ Route view: <a href="route-view.html?day=${dayNumber}">View the Day ${dayNumber} map-style progression</a></div>`
             : ""
         }
         <div class="parts">

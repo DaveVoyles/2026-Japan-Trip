@@ -1,0 +1,658 @@
+[
+  {
+    "dayNumber": 2,
+    "title": "Shibuya & Harajuku",
+    "routeType": "split-day",
+    "summary": "Ease into Tokyo with a Shinjuku start, Harajuku shrine and shopping, Shibuya views, then the capybara café back in Shinjuku.",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Keio+Plaza+Hotel+Tokyo&destination=CAPPINESS+Shinjuku&waypoints=Meiji+Jingu%7CHarajuku+Cat+Street%7CSHARE+LOUNGE+TSUTAYA+Shibuya+Sakura+Stage%7CShibuya+Sky%7CShibuya+Crossing",
+    "notes": [
+      "Keep Harajuku/Cat Street flexible so the 2:00 PM Shibuya Sky and 5:15 PM CAPPINESS bookings stay easy.",
+      "SHARE LOUNGE is a rest stop near Shibuya Station, not a crossing viewpoint.",
+      "Rain backup from the day plan is Nakano Broadway."
+    ],
+    "segments": [
+      {
+        "label": "Morning: Shinjuku to Harajuku",
+        "stops": [
+          {
+            "order": 1,
+            "time": "08:30 AM",
+            "label": "Shinjuku breakfast",
+            "area": "Shinjuku",
+            "summary": "Start near the hotel with buffet breakfast or Sarabeth's before transit.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sarabeth's+Lumine+Shinjuku"
+          },
+          {
+            "order": 2,
+            "time": "10:00 AM",
+            "label": "Meiji Jingu",
+            "area": "Harajuku / Yoyogi",
+            "summary": "Take the Yamanote Line to Harajuku and visit the shrine before crowds build.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Meiji+Jingu+Tokyo"
+          },
+          {
+            "order": 3,
+            "time": "12:00 PM",
+            "label": "Harajuku / Cat Street",
+            "area": "Harajuku",
+            "summary": "Takeshita Street, Cat Street, crepes, and a flexible lunch or coffee reset.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cat+Street+Harajuku+Tokyo"
+          }
+        ]
+      },
+      {
+        "label": "Afternoon and evening: Shibuya to Shinjuku",
+        "stops": [
+          {
+            "order": 4,
+            "time": "12:45 PM",
+            "label": "SHARE LOUNGE Sakura Stage",
+            "area": "Shibuya",
+            "summary": "Optional timed rest stop with drinks and snacks before Shibuya Sky.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SHARE+LOUNGE+TSUTAYA+Shibuya+Sakura+Stage"
+          },
+          {
+            "order": 5,
+            "time": "02:00 PM",
+            "label": "Shibuya Sky",
+            "area": "Shibuya",
+            "summary": "Booked early-afternoon city view from Shibuya Scramble Square.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shibuya+Sky"
+          },
+          {
+            "order": 6,
+            "time": "03:30 PM",
+            "label": "Shibuya Crossing",
+            "area": "Shibuya",
+            "summary": "Crossing photos plus Tokyu Hands, Loft, Magnet, or nearby viewpoints.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shibuya+Crossing"
+          },
+          {
+            "order": 7,
+            "time": "05:15 PM",
+            "label": "CAPPINESS Shinjuku",
+            "area": "Shinjuku",
+            "summary": "Return by Yamanote Line for the booked capybara café visit.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CAPPINESS+Shinjuku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayNumber": 3,
+    "title": "Toyosu, Ginza & Roppongi",
+    "routeType": "city-cluster",
+    "summary": "Indoor-friendly Tokyo day linking Toyosu seafood, Ginza shopping, and an evening art stop in Roppongi.",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Keio+Plaza+Hotel+Tokyo&destination=Roppongi+Hills+Mori+Art+Museum&waypoints=Toyosu+Market%7CGinza+Six",
+    "notes": [
+      "Toyosu, Ginza, and Mori Art Museum are strong rain-day anchors.",
+      "Mori Art Museum is open late, so the evening can stay flexible.",
+      "The removed immersive digital-art museum stop is not included."
+    ],
+    "segments": [
+      {
+        "label": "Market and shopping",
+        "stops": [
+          {
+            "order": 1,
+            "time": "07:00 AM",
+            "label": "Toyosu Market",
+            "area": "Toyosu",
+            "summary": "Seafood breakfast and outer market walk; skip tuna auction unless pre-booked.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toyosu+Market+Tokyo"
+          },
+          {
+            "order": 2,
+            "time": "10:30 AM",
+            "label": "Coffee reset",
+            "area": "Toyosu / Ginza",
+            "summary": "Snack or coffee pause before shifting toward Ginza.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=coffee+near+Toyosu+Market"
+          },
+          {
+            "order": 3,
+            "time": "12:30 PM",
+            "label": "Ginza",
+            "area": "Ginza",
+            "summary": "Main boulevard, Ginza Six, Itoya, Uniqlo, Onitsuka Tiger, and depachika lunch.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ginza+Six+Tokyo"
+          }
+        ]
+      },
+      {
+        "label": "Evening art",
+        "stops": [
+          {
+            "order": 4,
+            "time": "04:00 PM",
+            "label": "Roppongi Hills / Mori Art Museum",
+            "area": "Roppongi",
+            "summary": "Museum visit, city views from the art floor, and the spider sculpture courtyard.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mori+Art+Museum+Roppongi+Hills"
+          },
+          {
+            "order": 5,
+            "time": "07:00 PM",
+            "label": "Dinner in Roppongi",
+            "area": "Roppongi",
+            "summary": "Low-key izakaya dinner nearby or return to Shinjuku if energy is low.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=izakaya+near+Roppongi+Station"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayNumber": 4,
+    "title": "Asakusa & Akihabara",
+    "routeType": "city-cluster",
+    "summary": "Optional old-Tokyo morning, temple and kitchen street stops, then Akihabara retro games and evening shrine or café choice.",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Keio+Plaza+Hotel+Tokyo&destination=Kanda+Myojin+Shrine&waypoints=Yanaka+Ginza%7CSenso-ji%7CKappabashi+Dougu+Street%7CAkihabara+Electric+Town",
+    "notes": [
+      "Yanaka is optional and should be skipped if Asakusa or Kappabashi needs more time.",
+      "Akihabara is a good rain-friendly shopping block.",
+      "Carry a short tax-free shopping target list to avoid decision overload."
+    ],
+    "segments": [
+      {
+        "label": "Old Tokyo and Asakusa",
+        "stops": [
+          {
+            "order": 1,
+            "time": "08:30 AM",
+            "label": "Optional Yanaka",
+            "area": "Yanaka",
+            "summary": "Short pre-war Tokyo walk through Yanaka Ginza and temple lanes near Nippori.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yanaka+Ginza+Tokyo"
+          },
+          {
+            "order": 2,
+            "time": "10:30 AM",
+            "label": "Senso-ji",
+            "area": "Asakusa",
+            "summary": "Temple visit with cleansing fountain and omikuji fortune draw.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Senso-ji+Temple+Asakusa"
+          },
+          {
+            "order": 3,
+            "time": "12:00 PM",
+            "label": "Kappabashi",
+            "area": "Asakusa / Ueno",
+            "summary": "Kitchen Town browsing for knives and food samples after lunch.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kappabashi+Dougu+Street+Tokyo"
+          }
+        ]
+      },
+      {
+        "label": "Akihabara evening",
+        "stops": [
+          {
+            "order": 4,
+            "time": "03:00 PM",
+            "label": "Akihabara",
+            "area": "Akihabara",
+            "summary": "Electric Town targets: Super Potato, Mandarake, arcades, gachapon, and UFO catchers.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Akihabara+Electric+Town"
+          },
+          {
+            "order": 5,
+            "time": "06:00 PM",
+            "label": "Kanda Myojin / themed café",
+            "area": "Kanda / Akihabara",
+            "summary": "Choose the anime-linked shrine or a themed café depending on energy.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanda+Myojin+Shrine+Tokyo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayNumber": 5,
+    "title": "Bullet Train to Kyoto",
+    "routeType": "intercity-transfer",
+    "summary": "Protected transfer day from Shinjuku to Kyoto, with ekiben at Tokyo Station and a relaxed Nishiki-to-Gion first evening.",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Keio+Plaza+Hotel+Tokyo&destination=Gion+Kyoto&waypoints=Tokyo+Station%7CKyoto+Station%7CCross+Hotel+Kyoto%7CNishiki+Market",
+    "notes": [
+      "Use JR Chuo Rapid from Shinjuku to Tokyo Station and follow Tokaido Shinkansen signs.",
+      "Buy ekiben at Gransta before passing through the Shinkansen gates.",
+      "Takkyubin the night before is recommended for luggage-free train travel."
+    ],
+    "segments": [
+      {
+        "label": "Tokyo to Kyoto transfer",
+        "stops": [
+          {
+            "order": 1,
+            "time": "08:30 AM",
+            "label": "Keio Plaza / Shinjuku",
+            "area": "Shinjuku",
+            "summary": "Leave the hotel for Shinjuku Station with buffer for the JR Chuo Rapid Line.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Keio+Plaza+Hotel+Tokyo"
+          },
+          {
+            "order": 2,
+            "time": "09:15 AM",
+            "label": "Tokyo Station",
+            "area": "Marunouchi",
+            "summary": "Arrive, find Tokaido Shinkansen gates, and buy ekiben at Gransta before entry.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokyo+Station+Gransta"
+          },
+          {
+            "order": 3,
+            "time": "10:00 AM",
+            "label": "Shinkansen",
+            "area": "Tokyo to Kyoto",
+            "summary": "Nozomi ride toward Kyoto; Seat E side is preferred for potential Mt Fuji views.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokaido+Shinkansen+Tokyo+Station"
+          },
+          {
+            "order": 4,
+            "time": "12:15 PM",
+            "label": "Kyoto Station",
+            "area": "Kyoto Station",
+            "summary": "Arrive in Kyoto and shift by taxi toward the hotel.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto+Station"
+          },
+          {
+            "order": 5,
+            "time": "01:00 PM",
+            "label": "Cross Hotel Kyoto",
+            "area": "Kawaramachi",
+            "summary": "Drop bags or check in if available before the first Kyoto walk.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross+Hotel+Kyoto"
+          }
+        ]
+      },
+      {
+        "label": "Kyoto first evening",
+        "stops": [
+          {
+            "order": 6,
+            "time": "02:00 PM",
+            "label": "Nishiki Market",
+            "area": "Downtown Kyoto",
+            "summary": "400-year-old market snack walk: soy milk donuts, octopus, and browsing.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nishiki+Market+Kyoto"
+          },
+          {
+            "order": 7,
+            "time": "05:00 PM",
+            "label": "Gion / Pontocho",
+            "area": "Gion",
+            "summary": "Main-street geisha-spotting stroll and dinner zone; avoid private no-photo lanes.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gion+Pontocho+Kyoto"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayNumber": 6,
+    "title": "Nara Day Trip & Kiyomizu",
+    "routeType": "intercity-transfer",
+    "summary": "Prioritize Nara Park and Todai-ji, then return to Kyoto for Higashiyama, Kiyomizu, and a Gion/Pontocho dinner.",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Cross+Hotel+Kyoto&destination=Pontocho+Kyoto&waypoints=Kyoto+Station%7CKintetsu+Nara+Station%7CNara+Park%7CTodai-ji%7CNakatanidou%7CKiyomizu-dera%7CSannenzaka+Ninenzaka",
+    "notes": [
+      "Kintetsu is preferred because Kintetsu Nara Station is closer to Nara Park than JR Nara.",
+      "Buy deer crackers only when ready to feed immediately.",
+      "If tired, keep Nara and dinner but skip or shorten the Kiyomizu uphill block."
+    ],
+    "segments": [
+      {
+        "label": "Nara priority block",
+        "stops": [
+          {
+            "order": 1,
+            "time": "08:00 AM",
+            "label": "Kyoto hotel / Station",
+            "area": "Kyoto",
+            "summary": "Depart Cross Hotel Kyoto for Kyoto Station and the Kintetsu Kyoto Line.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross+Hotel+Kyoto"
+          },
+          {
+            "order": 2,
+            "time": "09:00 AM",
+            "label": "Kintetsu Nara",
+            "area": "Nara",
+            "summary": "Arrive near Nara Park via the station closest to the main sights.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kintetsu+Nara+Station"
+          },
+          {
+            "order": 3,
+            "time": "09:15 AM",
+            "label": "Nara Park / Todai-ji",
+            "area": "Nara Park",
+            "summary": "Bowing deer, Great Buddha, and a relaxed park walk.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nara+Park+Todai-ji"
+          },
+          {
+            "order": 4,
+            "time": "12:00 PM",
+            "label": "Nakatanidou",
+            "area": "Nara",
+            "summary": "Mochi-pounding stop and lunch near Kintetsu Nara before returning.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nakatanidou+Nara"
+          }
+        ]
+      },
+      {
+        "label": "Higashiyama evening",
+        "stops": [
+          {
+            "order": 5,
+            "time": "01:30 PM",
+            "label": "Return to Kyoto / Higashiyama",
+            "area": "Kyoto",
+            "summary": "Return by Kintetsu, then taxi or transit toward the east-side evening block.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Higashiyama+Kyoto"
+          },
+          {
+            "order": 6,
+            "time": "03:00 PM",
+            "label": "Kiyomizu-dera",
+            "area": "Higashiyama",
+            "summary": "Wooden stage visit with an uphill walk and stairs; pace slowly.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kiyomizu-dera+Kyoto"
+          },
+          {
+            "order": 7,
+            "time": "04:30 PM",
+            "label": "Sannenzaka / Ninenzaka",
+            "area": "Higashiyama",
+            "summary": "Old-street shops, sweets, ceramics, and photo stops without hard timing.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sannenzaka+Ninenzaka+Kyoto"
+          },
+          {
+            "order": 8,
+            "time": "06:00 PM",
+            "label": "Gion / Pontocho",
+            "area": "Gion",
+            "summary": "Golden-hour walk and dinner transition in the main streets and alleys.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gion+Pontocho+Kyoto"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayNumber": 7,
+    "title": "Fushimi Inari & Osaka",
+    "routeType": "intercity-transfer",
+    "summary": "Early Fushimi Inari, Kyoto checkout, simple Kyoto-to-Osaka transfer, then Dotonbori, Glico, and Hozenji.",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Cross+Hotel+Kyoto&destination=Hozenji+Yokocho+Osaka&waypoints=Fushimi+Inari+Taisha%7CKyoto-Kawaramachi+Station%7COsaka-Umeda+Station%7CNamba+Station%7CCross+Hotel+Osaka%7CDotonbori%7CGlico+Running+Man",
+    "notes": [
+      "Keep Fushimi Inari to the lower torii loop if Day 6 ran long.",
+      "Recommended transfer is Hankyu Kyoto-Kawaramachi to Osaka-Umeda, then Midosuji Line to Namba.",
+      "Cross Hotel Osaka check-in is typically 3:00 PM; leave bags if early."
+    ],
+    "segments": [
+      {
+        "label": "Kyoto morning",
+        "stops": [
+          {
+            "order": 1,
+            "time": "07:00 AM",
+            "label": "Kyoto hotel",
+            "area": "Kawaramachi",
+            "summary": "Start from Cross Hotel Kyoto and head out early to beat crowds.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross+Hotel+Kyoto"
+          },
+          {
+            "order": 2,
+            "time": "07:30 AM",
+            "label": "Fushimi Inari",
+            "area": "Fushimi",
+            "summary": "Torii gates; go beyond the first lookout only if everyone feels good.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fushimi+Inari+Taisha"
+          },
+          {
+            "order": 3,
+            "time": "11:00 AM",
+            "label": "Kyoto checkout",
+            "area": "Kawaramachi",
+            "summary": "Return, reset, and check out with takkyubin or front-desk luggage handling.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross+Hotel+Kyoto"
+          }
+        ]
+      },
+      {
+        "label": "Osaka arrival",
+        "stops": [
+          {
+            "order": 4,
+            "time": "12:00 PM",
+            "label": "Kyoto to Osaka",
+            "area": "Kyoto / Osaka",
+            "summary": "Hankyu to Osaka-Umeda, then Metro Midosuji Line to Namba.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kyoto-Kawaramachi+Station+to+Namba+Station"
+          },
+          {
+            "order": 5,
+            "time": "03:00 PM",
+            "label": "Cross Hotel Osaka / Dotonbori",
+            "area": "Namba",
+            "summary": "Check in or leave bags, then begin the Dotonbori loop hands-free.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross+Hotel+Osaka+Dotonbori"
+          },
+          {
+            "order": 6,
+            "time": "06:00 PM",
+            "label": "Glico",
+            "area": "Dotonbori",
+            "summary": "Classic Glico running man photo stop by the canal.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Glico+Running+Man+Dotonbori"
+          },
+          {
+            "order": 7,
+            "time": "08:00 PM",
+            "label": "Hozenji",
+            "area": "Namba",
+            "summary": "Moss-temple alley and old-school izakaya finish.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hozenji+Yokocho+Osaka"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayNumber": 8,
+    "title": "Osaka Free Day",
+    "routeType": "split-day",
+    "summary": "Flexible Osaka day: castle grounds, Kuromon brunch, split shopping/game routes, then regroup for Hozenji, Namba, and Dotonbori neon.",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Cross+Hotel+Osaka&destination=Dotonbori+Osaka&waypoints=Osaka+Castle%7CKuromon+Market%7CDen+Den+Town%7CShinsaibashi%7CHozenji+Yokocho",
+    "notes": [
+      "Keep explicit meeting checkpoints when splitting between Den Den Town and Shinsaibashi.",
+      "The route clusters around transit hubs, making weather pivots easy.",
+      "Optional Shinsekai/Abeno branch should trade away split-shopping time, not the evening regroup."
+    ],
+    "segments": [
+      {
+        "label": "Shared morning",
+        "stops": [
+          {
+            "order": 1,
+            "time": "08:30 AM",
+            "label": "Osaka Castle",
+            "area": "Osaka Castle Park",
+            "summary": "Grounds, photos, and an easy morning walk.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Osaka+Castle"
+          },
+          {
+            "order": 2,
+            "time": "11:30 AM",
+            "label": "Kuromon Market",
+            "area": "Nipponbashi",
+            "summary": "Brunch and snack route through the market.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kuromon+Ichiba+Market+Osaka"
+          }
+        ]
+      },
+      {
+        "label": "Split afternoon and regroup",
+        "stops": [
+          {
+            "order": 3,
+            "time": "01:30 PM",
+            "label": "Den Den Town / Shinsaibashi",
+            "area": "Nipponbashi / Shinsaibashi",
+            "summary": "Split options: retro games and arcades in Den Den Town, or shopping and sweets in Shinsaibashi.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Den+Den+Town+Osaka+Shinsaibashi"
+          },
+          {
+            "order": 4,
+            "time": "05:30 PM",
+            "label": "Hozenji / Namba",
+            "area": "Namba",
+            "summary": "Regroup near Hozenji Yokocho and Namba before the evening walk.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hozenji+Yokocho+Namba"
+          },
+          {
+            "order": 5,
+            "time": "06:30 PM",
+            "label": "Dotonbori",
+            "area": "Dotonbori",
+            "summary": "Neon, canal photos, takoyaki, and street snacks.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dotonbori+Osaka"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayNumber": 9,
+    "title": "Return to Tokyo",
+    "routeType": "intercity-transfer",
+    "summary": "Low-risk Osaka morning, fixed Nozomi transfer from Shin-Osaka to Shinagawa, then Shinagawa Prince check-in.",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Cross+Hotel+Osaka&destination=Shinagawa+Prince+Hotel&waypoints=Namba+Station%7CShin-Osaka+Station%7CShinagawa+Station",
+    "notes": [
+      "Nozomi reservation #2005 departs Shin-Osaka at 2:15 PM.",
+      "Use Midosuji Line from Namba to Shin-Osaka and protect station buffer.",
+      "Takkyubin to Shinagawa Prince the night before is optional for easier airport departure."
+    ],
+    "segments": [
+      {
+        "label": "Osaka wrap-up",
+        "stops": [
+          {
+            "order": 1,
+            "time": "09:00 AM",
+            "label": "Namba / Dotonbori",
+            "area": "Namba",
+            "summary": "Slow final morning: breakfast, snacks, pharmacy, convenience-store run, or Kuromon repeat.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Namba+Dotonbori+Osaka"
+          },
+          {
+            "order": 2,
+            "time": "12:00 PM",
+            "label": "Cross Hotel Osaka",
+            "area": "Dotonbori",
+            "summary": "Wrap up, collect or store bags, and prepare for the fixed train move.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cross+Hotel+Osaka+Dotonbori"
+          },
+          {
+            "order": 3,
+            "time": "01:30 PM",
+            "label": "Shin-Osaka",
+            "area": "Shin-Osaka",
+            "summary": "Midosuji Line from Namba to Shin-Osaka; follow Shinkansen signs.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shin-Osaka+Station"
+          }
+        ]
+      },
+      {
+        "label": "Tokyo transfer",
+        "stops": [
+          {
+            "order": 4,
+            "time": "02:15 PM",
+            "label": "Nozomi",
+            "area": "Osaka to Tokyo",
+            "summary": "Green Car Nozomi to Shinagawa; Mt Fuji may be visible on the right D/E side.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tokaido+Shinkansen+Shin-Osaka+to+Shinagawa"
+          },
+          {
+            "order": 5,
+            "time": "06:45 PM",
+            "label": "Shinagawa",
+            "area": "Shinagawa",
+            "summary": "Arrive at Shinagawa Station and use the Central Exit west gates.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shinagawa+Station"
+          },
+          {
+            "order": 6,
+            "time": "07:00 PM",
+            "label": "Shinagawa Prince Hotel",
+            "area": "Shinagawa",
+            "summary": "Check in at the Main Tower across from station gates.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shinagawa+Prince+Hotel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dayNumber": 10,
+    "title": "Departure",
+    "routeType": "airport-transfer",
+    "summary": "Final Shinagawa morning, hard airport deadline, Haneda Terminal 3 check-in, duty-free, and UA130 departure.",
+    "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Shinagawa+Prince+Hotel&destination=Haneda+Airport+Terminal+3&waypoints=Shinagawa+Station",
+    "notes": [
+      "Leave Shinagawa by 1:15 PM even if final shopping is tempting.",
+      "United check-in is typically Terminal 3 rows K/L; verify day-of signage.",
+      "Only attempt Don Quijote Haneda Garden if luggage handling is simple."
+    ],
+    "segments": [
+      {
+        "label": "Shinagawa to Haneda",
+        "stops": [
+          {
+            "order": 1,
+            "time": "09:00 AM",
+            "label": "Shinagawa",
+            "area": "Shinagawa",
+            "summary": "Last morning in Japan; confirm documents and carry-on essentials.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shinagawa+Prince+Hotel"
+          },
+          {
+            "order": 2,
+            "time": "01:15 PM",
+            "label": "Haneda T3",
+            "area": "Haneda",
+            "summary": "Hard deadline to be en route to Haneda Terminal 3.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Haneda+Airport+Terminal+3"
+          }
+        ]
+      },
+      {
+        "label": "Airport departure flow",
+        "stops": [
+          {
+            "order": 3,
+            "time": "02:00 PM",
+            "label": "Check-in",
+            "area": "Haneda T3",
+            "summary": "UA130 check-in; United counters are usually around rows K/L.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=United+Airlines+check-in+Haneda+Terminal+3"
+          },
+          {
+            "order": 4,
+            "time": "03:00 PM",
+            "label": "Security / duty-free",
+            "area": "Haneda T3",
+            "summary": "Clear security, then buy Tokyo Banana, Royce, or travel-safe sweets.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Haneda+Terminal+3+duty+free"
+          },
+          {
+            "order": 5,
+            "time": "05:45 PM",
+            "label": "UA130 departure",
+            "area": "Haneda T3",
+            "summary": "Premium Economy departure on UA130.",
+            "mapsUrl": "https://www.google.com/maps/search/?api=1&query=UA130+Haneda"
+          }
+        ]
+      }
+    ]
+  }
+]

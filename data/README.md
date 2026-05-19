@@ -17,10 +17,20 @@ The full day-by-day itinerary data. This repo currently does not include the old
 **Drift check:** After itinerary edits, run:
 
 ```bash
-node -e "for (const f of ['data/days.json','data/day-meta.json','data/bookings.json','data/city-guide-anchors.json']) JSON.parse(require('fs').readFileSync(f,'utf8')); console.log('JSON OK')"
+node -e "for (const f of ['data/days.json','data/routes.json','data/day-meta.json','data/bookings.json','data/city-guide-anchors.json']) JSON.parse(require('fs').readFileSync(f,'utf8')); console.log('JSON OK')"
 ```
 
 Then search for stale removed items and duplicated summaries in `index.html`, `visual-schedule.html`, `visualizations/webgl-timeline.html`, and `transit-guide.html`.
+
+---
+
+### `routes.json` — ✏️ Hand-authored route planning data
+
+Provides high-level route visuals for the trip route viewer. This file covers Days 2–10; Day 1 is intentionally omitted because it is the arrival day and does not need a route visual.
+
+**Consumed by:** `visualizations/route-view.html` (fetched at runtime via `fetch('../data/routes.json')`)
+
+**Planning notes:** Use this data for broad planning context, grouped stops, and route links. It is not a turn-by-turn map or live navigation source.
 
 ---
 

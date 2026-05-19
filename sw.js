@@ -1,4 +1,4 @@
-const CACHE_NAME = "japan-trip-2026-v20260519161000";
+const CACHE_NAME = "japan-trip-2026-v20260519170000";
 const PRECACHE_PATHS = [
   "./",
   "./index.html",
@@ -20,12 +20,14 @@ const PRECACHE_PATHS = [
   "./visualizations/day-10.html",
   "./visualizations/day-view.html",
   "./visualizations/index.html",
+  "./visualizations/route-view.html",
   "./visualizations/webgl-city-selector.html",
   "./visualizations/webgl-timeline.html",
   "./data/bookings.json",
   "./data/city-guide-anchors.json",
   "./data/day-meta.json",
   "./data/days.json",
+  "./data/routes.json",
   "./assets/icons/icon.svg",
   "./assets/scripts/site-nav.js",
   "./assets/scripts/theme.js",
