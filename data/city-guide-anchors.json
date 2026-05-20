@@ -1,25 +1,69 @@
 {
-  "shinjuku": "Shinjuku",
-  "shibuya": "Shibuya",
-  "harajuku": "Harajuku",
-  "yanaka": "Yanaka",
-  "roppongi": "Roppongi",
-  "akihabara": "Akihabara",
-  "ginza": "Ginza",
+  "shinjuku": {
+    "name": "Shinjuku",
+    "broad": true,
+    "suppressedBy": ["tokyo-logistics", "omoide-yokocho", "cappiness"]
+  },
+  "shibuya": {
+    "name": "Shibuya",
+    "broad": true,
+    "suppressedBy": ["share-lounge", "shibuya-sky", "shibuya-crossing", "shibuya-shopping"]
+  },
+  "harajuku": {
+    "name": "Harajuku",
+    "broad": true,
+    "suppressedBy": ["meiji-jingu", "cat-street", "takeshita-street", "marion-crepes"]
+  },
+  "yanaka": {
+    "name": "Yanaka",
+    "broad": true,
+    "suppressedBy": ["yanaka-ginza", "senso-ji", "kappabashi"]
+  },
+  "roppongi": {
+    "name": "Roppongi",
+    "broad": true,
+    "suppressedBy": ["mori-art-museum"]
+  },
+  "akihabara": {
+    "name": "Akihabara",
+    "broad": true,
+    "suppressedBy": ["super-potato", "taito-station", "beep-akihabara", "mandarake-complex", "kanda-myojin"]
+  },
+  "ginza": {
+    "name": "Ginza",
+    "broad": true,
+    "suppressedBy": ["ginza-six", "itoya-ginza", "uniqlo-ginza", "onitsuka-tiger"]
+  },
   "kawaguchiko": "Kawaguchiko",
-  "gion": "Gion",
-  "kawaramachi": "Kawaramachi",
-  "arashiyama": "Arashiyama",
+  "gion": {
+    "name": "Gion",
+    "broad": true,
+    "suppressedBy": ["pontocho-alley", "sannenzaka-ninenzaka", "kiyomizu-dera"]
+  },
+  "kawaramachi": {
+    "name": "Kawaramachi",
+    "broad": true,
+    "suppressedBy": ["kyoto-logistics", "nishiki-market", "pontocho-alley"]
+  },
+  "arashiyama": {
+    "name": "Arashiyama",
+    "broad": true,
+    "suppressedBy": ["arashiyama-bamboo", "kinkaku-ji"]
+  },
   "nara": {
     "name": "Nara Day Trip",
     "aliases": ["Kintetsu Nara Station", "JR Nara"]
   },
   "dotonbori": {
     "name": "Dotonbori",
+    "broad": true,
+    "suppressedBy": ["hozenji-yokocho", "acchichi-honpo", "mizuno-okonomiyaki", "rikuro-ojisan", "osaka-logistics"],
     "aliases": ["Namba", "Glico Man Sign", "Glico Man", "Ebisubashi Bridge"]
   },
   "shinsaibashi": {
     "name": "Shinsaibashi",
+    "broad": true,
+    "suppressedBy": ["den-den-town", "shinsekai-abeno", "osaka-logistics"],
     "aliases": ["Shinsaibashi-suji", "Shinsaibashi-suji Shopping Street"]
   },
   "den-den-town": {

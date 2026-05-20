@@ -473,10 +473,13 @@
           .flatMap(([id, entry]) => {
             const name = typeof entry === "string" ? entry : entry.name;
             const aliases = typeof entry === "string" ? [] : entry.aliases || [];
+            const suppressedBy =
+              typeof entry === "string" ? [] : entry.suppressedBy || [];
             return [name, ...aliases].map((term) => ({
               id,
               name: term,
               lowerName: term.toLocaleLowerCase(),
+              suppressedBy,
             }));
           })
           .sort((a, b) => b.name.length - a.name.length);
@@ -512,6 +515,7 @@
 
           cityGuideLinks.forEach((link) => {
             if (linkedCityGuideIds.has(link.id)) return;
+            if (link.suppressedBy.some((id) => presentCityGuideIds.has(id))) return;
 
             let index = lowerText.indexOf(link.lowerName);
             while (index !== -1) {
@@ -532,6 +536,41 @@
 
           return bestMatch;
         }
+
+        function collectDayText(day) {
+          const fields = [
+            day.morning,
+            day.daytime,
+            day.night,
+            day.brief?.today,
+            day.brief?.next,
+            day.brief?.backup,
+            day.brief?.ops,
+            ...(day.details || []),
+          ];
+          (day.timeline || []).forEach((entry) => {
+            if (!entry.url) fields.push(entry.activity);
+          });
+          return fields.filter((value) => typeof value === "string").join("\n");
+        }
+
+        function getPresentCityGuideIds(text) {
+          return new Set(
+            cityGuideLinks
+              .filter((link) => {
+                const lowerText = text.toLocaleLowerCase();
+                let index = lowerText.indexOf(link.lowerName);
+                while (index !== -1) {
+                  if (isTermBoundary(text, index, link.name.length)) return true;
+                  index = lowerText.indexOf(link.lowerName, index + 1);
+                }
+                return false;
+              })
+              .map((link) => link.id),
+          );
+        }
+
+        const presentCityGuideIds = getPresentCityGuideIds(collectDayText(item));
 
         function linkCityGuideTerms(text, url) {
           if (typeof text !== "string") {

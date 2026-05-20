@@ -61,7 +61,7 @@ Data lives in `data/` and is consumed by pages at runtime via `fetch()`.
 
 ### Service Worker & Offline
 
-`sw.js` precaches all core pages, visualization pages, data files, and assets. Once opened on Wi-Fi, the full site works offline — useful in-flight or in areas with poor connectivity. On mobile, use **Add to Home Screen** for app-like access.
+`sw.js` precaches all core pages, visualization pages, data files, and assets. Once opened on Wi-Fi, the full site works offline — useful in-flight or in areas with poor connectivity. On mobile, use **Add to Home Screen** for app-like access. Bump `CACHE_NAME` in `sw.js` whenever cached pages, data files, or city-guide link behavior change so returning devices fetch the latest trip plan.
 
 ---
 

@@ -20,7 +20,15 @@ The full day-by-day itinerary data. This repo currently does not include the old
 node -e "for (const f of ['data/days.json','data/routes.json','data/day-meta.json','data/bookings.json','data/city-guide-anchors.json']) JSON.parse(require('fs').readFileSync(f,'utf8')); console.log('JSON OK')"
 ```
 
+For city-guide anchor or link behavior changes, run:
+
+```bash
+node scripts/validate-city-guide-links.js
+```
+
 Then search for stale removed items and duplicated summaries in `index.html`, `visual-schedule.html`, `visualizations/webgl-timeline.html`, and `transit-guide.html`.
+
+Because the site uses a cache-first service worker for static assets and JSON data, bump `CACHE_NAME` in `sw.js` whenever data files, guide-link behavior, or cached HTML pages change.
 
 ---
 
@@ -31,6 +39,28 @@ Provides high-level route visuals for the trip route viewer. This file covers Da
 **Consumed by:** `visualizations/route-view.html` (fetched at runtime via `fetch('../data/routes.json')`)
 
 **Planning notes:** Use this data for broad planning context, grouped stops, and route links. It is not a turn-by-turn map or live navigation source.
+
+---
+
+### `city-guide-anchors.json` — ✏️ Hand-authored city-guide link terms
+
+Maps itinerary terms to deep-link IDs in `city-guide.html`. Values can be a simple display string or an object with aliases and optional broad-link suppression metadata:
+
+```json
+{
+  "share-lounge": {
+    "name": "SHARE LOUNGE",
+    "aliases": ["TSUTAYA Shibuya Sakura Stage", "Shibuya Sakura Stage"]
+  },
+  "shibuya": {
+    "name": "Shibuya",
+    "broad": true,
+    "suppressedBy": ["share-lounge", "shibuya-sky", "shibuya-crossing"]
+  }
+}
+```
+
+Use `suppressedBy` for broad neighborhood anchors so day pages prefer specific visit targets when both appear on the same day. Anchor names and aliases must be unique case-insensitively, and every top-level key must match an `id` in `city-guide.html`.
 
 ---
 

@@ -2935,7 +2935,7 @@
     </main>
 
     <script>
-      const guideLinkTerms = [
+      const supplementalGuideLinkTerms = [
         "Aoyama Flower Market Tea House",
         "Arashiyama Bamboo Grove",
         "BEEP Akihabara",
@@ -2948,7 +2948,6 @@
         "Ginkaku-ji",
         "Glico Man",
         "Don Quijote Ferris Wheel",
-        "Hozenji Yokocho",
         "Hozenji Yokocho",
         "Hotel Gracery",
         "Isetan Shinjuku",
@@ -3022,7 +3021,6 @@
         "Asakusa",
         "Cat Street",
         "Chuo-dori",
-        "Dotonbori",
         "Famicom",
         "Fushimi",
         "Gachapon",
@@ -3081,13 +3079,42 @@
         "Yamanote Line",
         "Yamaimo-yaki",
         "Yotsutsuji",
-      ].map((term) => ({
-        term,
-        lowerTerm: term.toLocaleLowerCase(),
-        url: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-          `${term} Japan`,
-        )}`,
-      }));
+      ];
+      let guideLinkTerms = buildGuideMapLinks(supplementalGuideLinkTerms);
+
+      function buildGuideMapLinks(terms) {
+        return [...new Set(terms)]
+          .map((term) => ({
+            term,
+            lowerTerm: term.toLocaleLowerCase(),
+            url: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+              `${term} Japan`,
+            )}`,
+          }))
+          .sort((a, b) => b.term.length - a.term.length);
+      }
+
+      function anchorEntriesToTerms(anchors) {
+        return Object.values(anchors).flatMap((entry) => {
+          const name = typeof entry === "string" ? entry : entry.name;
+          const aliases = typeof entry === "string" ? [] : entry.aliases || [];
+          return [name, ...aliases];
+        });
+      }
+
+      async function loadCanonicalGuideMapTerms() {
+        try {
+          const response = await fetch("data/city-guide-anchors.json");
+          if (!response.ok) return;
+          const anchors = await response.json();
+          guideLinkTerms = buildGuideMapLinks([
+            ...anchorEntriesToTerms(anchors),
+            ...supplementalGuideLinkTerms,
+          ]);
+        } catch (error) {
+          console.warn("city-guide-anchors.json load failed:", error);
+        }
+      }
 
       function isTermBoundary(text, index, length) {
         const wordChar = /[\p{L}\p{N}_-]/u;
@@ -3222,7 +3249,12 @@
         card.classList.toggle("expanded");
       }
 
-      linkGuideProperNouns();
+      async function initGuideLinks() {
+        await loadCanonicalGuideMapTerms();
+        linkGuideProperNouns();
+      }
+
+      initGuideLinks();
     </script>
   </body>
 </html>

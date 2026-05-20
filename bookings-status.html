@@ -96,6 +96,25 @@
         font-weight: 500;
       }
 
+      .booking-guide-link {
+        display: inline-flex;
+        width: fit-content;
+        margin: -2px 0 10px;
+        border: 1px solid var(--cp-border);
+        border-radius: 999px;
+        padding: 4px 9px;
+        background: var(--cp-accent-soft);
+        color: var(--cp-link);
+        font-size: 0.82rem;
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .booking-guide-link:hover {
+        color: var(--cp-accent-hover);
+        text-decoration: underline;
+      }
+
       .status-badge {
         display: inline-block;
         font-size: 0.75rem;
@@ -369,6 +388,7 @@
       const bookingFilters = document.getElementById("bookingFilters");
       const nextActions = document.getElementById("nextActions");
       const emptyState = document.getElementById("emptyState");
+      let cityGuideLinks = [];
 
       const statusLabels = {
         confirmed: "Confirmed",
@@ -408,6 +428,63 @@
         (booking.status === "considering" && !isFutureOptional(booking));
       const noBookingNeeded = (booking) =>
         ["walk-up", "sold-out", "closed"].includes(booking.status);
+
+      function isTermBoundary(text, index, length) {
+        const wordChar = /[\p{L}\p{N}_-]/u;
+        const previous = text[index - 1];
+        const next = text[index + length];
+        return (
+          (!previous || !wordChar.test(previous)) &&
+          (!next || !wordChar.test(next))
+        );
+      }
+
+      function buildCityGuideLinks(anchors) {
+        return Object.entries(anchors)
+          .flatMap(([id, entry]) => {
+            const name = typeof entry === "string" ? entry : entry.name;
+            const aliases = typeof entry === "string" ? [] : entry.aliases || [];
+            return [name, ...aliases].map((term) => ({
+              id,
+              name: term,
+              lowerName: term.toLocaleLowerCase(),
+            }));
+          })
+          .sort((a, b) => b.name.length - a.name.length);
+      }
+
+      function findCityGuideLink(booking) {
+        const details = booking.details || {};
+        const text = [
+          booking.name,
+          booking.dates,
+          ...Object.values(details).filter((value) => typeof value === "string"),
+        ]
+          .filter(Boolean)
+          .join("\n");
+        const lowerText = text.toLocaleLowerCase();
+        let bestMatch = null;
+
+        cityGuideLinks.forEach((link) => {
+          let index = lowerText.indexOf(link.lowerName);
+          while (index !== -1) {
+            if (isTermBoundary(text, index, link.name.length)) {
+              if (
+                !bestMatch ||
+                index < bestMatch.index ||
+                (index === bestMatch.index &&
+                  link.name.length > bestMatch.link.name.length)
+              ) {
+                bestMatch = { index, link };
+              }
+              break;
+            }
+            index = lowerText.indexOf(link.lowerName, index + 1);
+          }
+        });
+
+        return bestMatch?.link || null;
+      }
 
       function renderSummary(allItems) {
         summaryStatusOrder.forEach(({ status, icon }) => {
@@ -548,6 +625,15 @@
             header.appendChild(badge);
             card.appendChild(header);
 
+            const guideLink = findCityGuideLink(booking);
+            if (guideLink) {
+              const guideAnchor = document.createElement("a");
+              guideAnchor.className = "booking-guide-link";
+              guideAnchor.href = `city-guide.html#${guideLink.id}`;
+              guideAnchor.textContent = `City guide: ${guideLink.name}`;
+              card.appendChild(guideAnchor);
+            }
+
             const datesDiv = document.createElement("p");
             datesDiv.style.margin = "0 0 10px";
             datesDiv.style.color = "var(--cp-text-muted)";
@@ -592,8 +678,16 @@
 
       async function init() {
         try {
-          const response = await fetch("./data/bookings.json");
+          const [bookingResult, anchorResult] = await Promise.allSettled([
+            fetch("./data/bookings.json"),
+            fetch("./data/city-guide-anchors.json"),
+          ]);
+          if (bookingResult.status !== "fulfilled") throw bookingResult.reason;
+          const response = bookingResult.value;
           if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          if (anchorResult.status === "fulfilled" && anchorResult.value.ok) {
+            cityGuideLinks = buildCityGuideLinks(await anchorResult.value.json());
+          }
           const bookings = await response.json();
           const allItems = Object.entries(bookings).flatMap(([category, items]) =>
             items.map((item) => ({ ...item, category })),

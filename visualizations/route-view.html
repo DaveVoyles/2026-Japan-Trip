@@ -423,6 +423,20 @@
         gap: 10px;
       }
 
+      .guide-link-pill {
+        justify-self: start;
+        display: inline-flex;
+        align-items: center;
+        width: fit-content;
+        border: 1px solid var(--cp-border);
+        border-radius: 999px;
+        padding: 4px 9px;
+        background: var(--cp-accent-soft);
+        color: var(--cp-link);
+        font-size: 0.84rem;
+        font-weight: 800;
+      }
+
       .map-note {
         margin: 0;
         color: var(--cp-text-muted);
@@ -503,6 +517,7 @@
       const params = new URLSearchParams(window.location.search);
       const parsedDay = Number(params.get("day") || 1);
       const dayNumber = Number.isFinite(parsedDay) && parsedDay > 0 ? Math.floor(parsedDay) : 1;
+      let cityGuideLinks = [];
 
       const $ = (id) => document.getElementById(id);
 
@@ -531,6 +546,56 @@
           link.rel = "noopener noreferrer";
         }
         return link;
+      }
+
+      function isTermBoundary(text, index, length) {
+        const wordChar = /[\p{L}\p{N}_-]/u;
+        const previous = text[index - 1];
+        const next = text[index + length];
+        return (
+          (!previous || !wordChar.test(previous)) &&
+          (!next || !wordChar.test(next))
+        );
+      }
+
+      function buildCityGuideLinks(anchors) {
+        return Object.entries(anchors)
+          .flatMap(([id, entry]) => {
+            const name = typeof entry === "string" ? entry : entry.name;
+            const aliases = typeof entry === "string" ? [] : entry.aliases || [];
+            return [name, ...aliases].map((term) => ({
+              id,
+              name: term,
+              lowerName: term.toLocaleLowerCase(),
+            }));
+          })
+          .sort((a, b) => b.name.length - a.name.length);
+      }
+
+      function findCityGuideLink(values) {
+        const text = values.filter(Boolean).join("\n");
+        const lowerText = text.toLocaleLowerCase();
+        let bestMatch = null;
+
+        cityGuideLinks.forEach((link) => {
+          let index = lowerText.indexOf(link.lowerName);
+          while (index !== -1) {
+            if (isTermBoundary(text, index, link.name.length)) {
+              if (
+                !bestMatch ||
+                index < bestMatch.index ||
+                (index === bestMatch.index &&
+                  link.name.length > bestMatch.link.name.length)
+              ) {
+                bestMatch = { index, link };
+              }
+              break;
+            }
+            index = lowerText.indexOf(link.lowerName, index + 1);
+          }
+        });
+
+        return bestMatch?.link || null;
       }
 
       function stopSortValue(stop, fallback) {
@@ -698,6 +763,21 @@
           if (stop.mapsUrl) {
             card.appendChild(createLink("", stop.mapsUrl, "Open stop in Google Maps", true));
           }
+          const guideLink = findCityGuideLink([
+            stop.label,
+            stop.area,
+            stop.summary,
+          ]);
+          if (guideLink) {
+            card.appendChild(
+              createLink(
+                "guide-link-pill",
+                `../city-guide.html#${guideLink.id}`,
+                `City guide: ${guideLink.name}`,
+                false,
+              ),
+            );
+          }
           row.appendChild(card);
           container.appendChild(row);
 
@@ -804,8 +884,16 @@
 
       async function init() {
         try {
-          const response = await fetch("../data/routes.json");
+          const [routeResult, anchorResult] = await Promise.allSettled([
+            fetch("../data/routes.json"),
+            fetch("../data/city-guide-anchors.json"),
+          ]);
+          if (routeResult.status !== "fulfilled") throw routeResult.reason;
+          const response = routeResult.value;
           if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          if (anchorResult.status === "fulfilled" && anchorResult.value.ok) {
+            cityGuideLinks = buildCityGuideLinks(await anchorResult.value.json());
+          }
           const routes = await response.json();
           const route = Array.isArray(routes)
             ? routes.find((item) => Number(item.dayNumber) === dayNumber)
