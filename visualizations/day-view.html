@@ -470,11 +470,15 @@
         const dayCard = document.getElementById("dayCard");
 
         const cityGuideLinks = Object.entries(cityGuideAnchors)
-          .map(([id, name]) => ({
-            id,
-            name,
-            lowerName: name.toLocaleLowerCase(),
-          }))
+          .flatMap(([id, entry]) => {
+            const name = typeof entry === "string" ? entry : entry.name;
+            const aliases = typeof entry === "string" ? [] : entry.aliases || [];
+            return [name, ...aliases].map((term) => ({
+              id,
+              name: term,
+              lowerName: term.toLocaleLowerCase(),
+            }));
+          })
           .sort((a, b) => b.name.length - a.name.length);
         const linkedCityGuideIds = new Set();
 

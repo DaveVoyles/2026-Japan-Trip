@@ -10,52 +10,175 @@
   "gion": "Gion",
   "kawaramachi": "Kawaramachi",
   "arashiyama": "Arashiyama",
-  "fushimi": "Fushimi",
-  "nara": "Nara Day Trip",
-  "dotonbori": "Dotonbori",
-  "shinsaibashi": "Shinsaibashi",
-  "den-den-town": "Den Den Town",
+  "nara": {
+    "name": "Nara Day Trip",
+    "aliases": ["Kintetsu Nara Station", "JR Nara"]
+  },
+  "dotonbori": {
+    "name": "Dotonbori",
+    "aliases": ["Namba", "Glico Man Sign", "Glico Man", "Ebisubashi Bridge"]
+  },
+  "shinsaibashi": {
+    "name": "Shinsaibashi",
+    "aliases": ["Shinsaibashi-suji", "Shinsaibashi-suji Shopping Street"]
+  },
+  "den-den-town": {
+    "name": "Den Den Town",
+    "aliases": ["Ota Road"]
+  },
   "osaka-castle": "Osaka Castle",
-  "meiji-jingu": "Meiji Jingu Shrine",
+  "meiji-jingu": {
+    "name": "Meiji Jingu Shrine",
+    "aliases": ["Meiji Jingu"]
+  },
   "omoide-yokocho": "Omoide Yokocho",
-  "senso-ji": "Senso-ji Temple",
+  "senso-ji": {
+    "name": "Senso-ji Temple",
+    "aliases": ["Asakusa", "Nakamise-dori"]
+  },
   "shibuya-sky": "Shibuya Sky",
   "shibuya-crossing": "Shibuya Crossing",
-  "share-lounge": "SHARE LOUNGE",
-  "shinkansen": "Shinkansen",
-  "toyosu-market": "Toyosu Market",
-  "super-potato": "Super Potato",
-  "taito-station": "Taito Station",
+  "share-lounge": {
+    "name": "SHARE LOUNGE",
+    "aliases": ["TSUTAYA Shibuya Sakura Stage", "Shibuya Sakura Stage", "Sakura Stage"]
+  },
+  "shibuya-shopping": {
+    "name": "Shibuya Shopping Cluster",
+    "aliases": ["@Cosme", "Tokyu Hands", "Loft", "Mag's Park", "Magnet"]
+  },
+  "ichiran-shibuya": "Ichiran Ramen Shibuya",
+  "nakano-broadway": "Nakano Broadway",
+  "tokyo-logistics": {
+    "name": "Tokyo Hotel, Station & Airport Logistics",
+    "aliases": [
+      "Keio Plaza Hotel Shinjuku",
+      "Keio Plaza Hotel",
+      "Keio Plaza",
+      "Shinagawa Prince Hotel",
+      "Shinagawa Station",
+      "Haneda Terminal 3",
+      "Airport Limousine Bus",
+      "Haneda Garden",
+      "Haneda Airport Garden",
+      "Don Quijote",
+      "Tokyo Banana",
+      "Royce Chocolate",
+      "Duty Free Shops",
+      "United Check-in Counter"
+    ]
+  },
+  "shinkansen": {
+    "name": "Shinkansen",
+    "aliases": ["Tokyo Station", "Tokaido Shinkansen", "SmartEX", "Smart EX", "Nozomi", "Gransta"]
+  },
+  "toyosu-market": {
+    "name": "Toyosu Market",
+    "aliases": ["Sushi Dai", "Sushidai", "Daiwa Sushi"]
+  },
+  "super-potato": {
+    "name": "Super Potato",
+    "aliases": ["Super Potato Akiba"]
+  },
+  "taito-station": {
+    "name": "Taito Station",
+    "aliases": ["Taito Station Akihabara", "Gachapon", "UFO catchers"]
+  },
   "beep-akihabara": "BEEP Akihabara",
-  "mandarake-complex": "Mandarake Complex",
-  "kanda-myojin": "Kanda Myojin",
-  "mori-art-museum": "Mori Art Museum",
+  "mandarake-complex": {
+    "name": "Mandarake Complex",
+    "aliases": ["Mandarake"]
+  },
+  "kanda-myojin": {
+    "name": "Kanda Myojin",
+    "aliases": ["Kanda Myojin Shrine"]
+  },
+  "mori-art-museum": {
+    "name": "Mori Art Museum",
+    "aliases": ["Roppongi Hills", "Tokyo City View", "Mori Tower", "Louise Bourgeois spider sculpture"]
+  },
   "ginza-six": "Ginza Six",
-  "itoya-ginza": "Itoya Ginza",
-  "uniqlo-ginza": "Uniqlo Ginza",
+  "itoya-ginza": {
+    "name": "Itoya Ginza",
+    "aliases": ["Itoya"]
+  },
+  "uniqlo-ginza": {
+    "name": "Uniqlo Ginza",
+    "aliases": ["Uniqlo"]
+  },
   "onitsuka-tiger": "Onitsuka Tiger",
-  "kappabashi": "Kappabashi Kitchen Town",
-  "cappiness": "CAPPINESS Shinjuku",
+  "kappabashi": {
+    "name": "Kappabashi Kitchen Town",
+    "aliases": ["Kappabashi Street", "Kama-Asa", "Kappabashi"]
+  },
+  "cappiness": {
+    "name": "CAPPINESS Shinjuku",
+    "aliases": ["Cappiness"]
+  },
   "yanaka-ginza": "Yanaka Ginza",
   "cat-street": "Cat Street",
   "takeshita-street": "Takeshita Street",
   "marion-crepes": "Marion Crepes",
-  "fushimi-inari": "Fushimi Inari Taisha",
+  "fushimi-inari": {
+    "name": "Fushimi Inari Taisha",
+    "aliases": ["Fushimi Inari Station", "Yotsutsuji", "Fushimi Inari"]
+  },
+  "kyoto-rain-backup": {
+    "name": "Sanjusangendo & Kyoto National Museum",
+    "aliases": ["Sanjusangendo", "Kyoto National Museum", "Sanjusangen-do"]
+  },
+  "kyoto-logistics": {
+    "name": "Kyoto Hotel, Station & Transfer Logistics",
+    "aliases": [
+      "Cross Hotel Kyoto",
+      "Cross Hotel Kyoto Kawaramachi",
+      "Kyoto Station",
+      "Kyoto-Kawaramachi Station",
+      "Hankyu Kyoto Line",
+      "Kintetsu Kyoto Line",
+      "IC card",
+      "Yamato Transport",
+      "takkyubin"
+    ]
+  },
   "nara-park": "Nara Park",
   "todai-ji": "Todai-ji",
   "nakatanidou": "Nakatanidou",
   "kichi-kichi": "Kichi Kichi Omurice",
-  "pontocho-alley": "Pontocho Alley",
-  "sannenzaka-ninenzaka": "Sannenzaka and Ninenzaka",
+  "pontocho-alley": {
+    "name": "Pontocho Alley",
+    "aliases": ["Pontocho"]
+  },
+  "sannenzaka-ninenzaka": {
+    "name": "Sannenzaka and Ninenzaka",
+    "aliases": ["Sannenzaka", "Ninenzaka", "Sannenzaka/Ninenzaka"]
+  },
   "kinkaku-ji": "Kinkaku-ji",
   "kiyomizu-dera": "Kiyomizu-dera",
   "arashiyama-bamboo": "Arashiyama Bamboo Grove",
   "philosophers-path": "Philosopher's Path",
   "nishiki-market": "Nishiki Market",
-  "osaka-castle-card": "Osaka Castle",
   "kuromon-market": "Kuromon Market",
   "acchichi-honpo": "Acchichi Honpo",
   "mizuno-okonomiyaki": "Mizuno Okonomiyaki",
   "rikuro-ojisan": "Rikuro Ojisan Cheesecake",
-  "hozenji-yokocho": "Hozenji Yokocho"
+  "hozenji-yokocho": {
+    "name": "Hozenji Yokocho",
+    "aliases": ["Hozenji"]
+  },
+  "shinsekai-abeno": {
+    "name": "Shinsekai & Abeno Harukas",
+    "aliases": ["Shinsekai", "Abeno Harukas", "Tsutenkaku Tower", "Tsutenkaku"]
+  },
+  "osaka-logistics": {
+    "name": "Osaka Hotel, Namba & Shin-Osaka Logistics",
+    "aliases": [
+      "Cross Hotel Osaka",
+      "Cross Hotel Osaka Dotonbori",
+      "Osaka-Umeda",
+      "Shin-Osaka",
+      "Shin-Osaka Station",
+      "Midosuji Line",
+      "Namba Station"
+    ]
+  }
 }
