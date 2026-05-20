@@ -100,23 +100,23 @@
     "transfer": "",
     "splitDay": true,
     "splitNote": "Dave/Debbie may split for different interests",
-    "morning": "Start in Shinjuku, then take the Yamanote Line to Harajuku for Meiji Jingu before crowds. Keep the pace easy while body clocks adjust.",
+    "morning": "Start in Shinjuku, then take the Yamanote Line to Harajuku for Meiji Jingu Shrine before crowds. Keep the pace easy while body clocks adjust.",
     "daytime": "Work through Harajuku and Shibuya: Takeshita Street, @Cosme, optional SHARE LOUNGE rest stop at Shibuya Sakura Stage, then Shibuya Sky and crossing viewpoints.",
     "night": "Use the booked 2:00 PM Shibuya Sky entry as the afternoon anchor, then do Shibuya Crossing photos and shopping before heading to Shinjuku for the capybara café.",
     "details": [
-      "📍 Primary anchors: Meiji Jingu → Harajuku → Shibuya Crossing → Shibuya Sky.",
+      "📍 Primary anchors: Meiji Jingu Shrine → Harajuku → Shibuya Crossing → Shibuya Sky.",
       "☔ Rain backup: Nakano Broadway (indoor-heavy).",
       "🥞 Food target: crepes + snacks throughout, with a real lunch/rest buffer before Shibuya Sky.",
       "🛋️ Optional 12:45 PM rest stop: SHARE LOUNGE at TSUTAYA Shibuya Sakura Stage (4F). Time-based lounge with soft drinks/snacks, walk-in OK, ~¥1,870/hr adult soft-drink plan; app payment may save 10%. It is a rest stop near Shibuya Station, not a Shibuya Crossing viewpoint.",
       "👟 Keep feet fresh: this is a high-step urban day.",
-      "✂️ First cut if tired: shorten Harajuku/Cat Street shopping so the 2:00 PM Shibuya Sky and 5:15 PM CAPPINESS anchors stay easy."
+      "✂️ First cut if tired: shorten Harajuku/Cat Street shopping so the 2:00 PM Shibuya Sky and 5:15 PM CAPPINESS Shinjuku anchors stay easy."
     ],
     "note": "Acclimation + iconic Tokyo visuals in one compact zone.",
     "brief": {
-      "today": "Harajuku + SHARE LOUNGE + Shibuya Sky + Cappiness",
+      "today": "Harajuku + SHARE LOUNGE + Shibuya Sky + CAPPINESS Shinjuku",
       "next": "Shibuya Crossing photos",
       "backup": "Nakano Broadway if rain",
-      "ops": "Yamanote Line; SHARE LOUNGE Sakura Stage; Shibuya Sky QSJ919058; Cappiness 5JFRH9B 5:15 PM"
+      "ops": "Yamanote Line; SHARE LOUNGE Sakura Stage; Shibuya Sky QSJ919058; CAPPINESS Shinjuku 5JFRH9B 5:15 PM"
     },
     "goal": "Acclimatize. Soak in the neon. Shibuya Crossing.",
     "timeline": [
@@ -197,7 +197,7 @@
     "endCityClass": "city-tokyo",
     "transfer": "",
     "morning": "Relaxed start; head to Toyosu Market for a late-morning visit before heading to Ginza.",
-    "daytime": "Structured Ginza shopping block: Itoya, Uniqlo, Onitsuka Tiger.",
+    "daytime": "Structured Ginza shopping block: Itoya Ginza, Uniqlo Ginza, Onitsuka Tiger.",
     "night": "Roppongi art stop at Mori Art Museum (open late).",
     "details": [
       "☔ Rain resilience: Toyosu + Ginza + Mori Art Museum are all indoors.",
@@ -224,7 +224,7 @@
       },
       {
         "time": "12:30 PM",
-        "activity": "Ginza — walk the main boulevard. See: Ginza Six (flagship mall), Itoya (10-floor stationery store), Hermès building (Renzo Piano glass tower). Eat: Lunch at any basement food hall (depachika)."
+        "activity": "Ginza — walk the main boulevard. See: Ginza Six (flagship mall), Itoya Ginza (stationery store), Hermès building (Renzo Piano glass tower). Eat: Lunch at any basement food hall (depachika)."
       },
       {
         "time": "04:00 PM",
@@ -267,20 +267,20 @@
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "",
-    "morning": "Start with an Old Tokyo block: choose Yanaka first if you want quiet lanes, or go straight to Senso-ji and Kappabashi if shopping energy is higher.",
-    "daytime": "Head to Akihabara: Super Potato, Mandarake, arcades, and nearby electronics browsing.",
+    "morning": "Start with an Old Tokyo block: choose Yanaka first if you want quiet lanes, or go straight to Senso-ji and Kappabashi Kitchen Town if shopping energy is higher.",
+    "daytime": "Head to Akihabara: Super Potato, Mandarake Complex, arcades, and nearby electronics browsing.",
     "night": "Flexible close: optional themed cafe or Kanda Myojin.",
     "details": [
       "🛍️ Tax-free opportunity day for shopping-heavy stops.",
       "☔ Akihabara is rain-friendly due to indoor concentration.",
       "📝 Carry a short target list to avoid decision overload.",
       "🚇 Transit is straightforward via Ginza and JR lines.",
-      "✂️ First cut if tired: choose either Yanaka or Kappabashi, not both."
+      "✂️ First cut if tired: choose either Yanaka or Kappabashi Kitchen Town, not both."
     ],
     "note": "Classic old-Tokyo + pop-culture contrast day.",
     "brief": {
       "today": "Asakusa temple + Akihabara retro",
-      "next": "Kappabashi kitchen street",
+      "next": "Kappabashi Kitchen Town",
       "backup": "Short Yanaka loop",
       "ops": "Ginza Line to Asakusa; JR Sobu Line to Akihabara"
     },
@@ -296,7 +296,7 @@
       },
       {
         "time": "12:00 PM",
-        "activity": "Lunch near Asakusa/Ueno, then Kappabashi (Kitchen Town) if energy is good. Shop: knives (Kama-Asa), plastic food samples."
+        "activity": "Lunch near Asakusa/Ueno, then Kappabashi Kitchen Town if energy is good. Shop: knives (Kama-Asa), plastic food samples."
       },
       {
         "time": "03:00 PM",
@@ -434,7 +434,7 @@
     "splitNote": "Kichi Kichi reservation (7 PM) — coordination needed",
     "morning": "Make Nara the top priority: use Kyoto Station as the launch point, take Kintetsu to Nara, then focus on Nara Park and Todai-ji before crowds build.",
     "daytime": "Keep the Nara loop compact with deer, the Great Buddha, Nakatanidou mochi, and lunch before returning to Kyoto mid-afternoon.",
-    "night": "Take the Kyoto evening slowly: Kiyomizu-dera, Sannenzaka/Ninenzaka, golden-hour Gion, then an easy dinner around Gion or Pontocho.",
+    "night": "Take the Kyoto evening slowly: Kiyomizu-dera, Sannenzaka and Ninenzaka, golden-hour Gion, then an easy dinner around Gion or Pontocho Alley.",
     "details": [
       "🦌 Nara is the priority today; Arashiyama and Kinkaku-ji are intentionally dropped to keep the route sane.",
       "🚇 Kintetsu Kyoto Line is preferred because Kintetsu Nara Station is closer to Nara Park than JR Nara.",
@@ -465,7 +465,7 @@
       },
       {
         "time": "01:30 PM",
-        "activity": "Return Kintetsu Nara → Kyoto Station, then taxi or transit back toward Higashiyama for the evening Kyoto block. If tired, skip Kiyomizu and go straight to Gion/Pontocho dinner."
+        "activity": "Return Kintetsu Nara → Kyoto Station, then taxi or transit back toward Higashiyama for the evening Kyoto block. If tired, skip Kiyomizu and go straight to Gion/Pontocho Alley dinner."
       },
       {
         "time": "03:00 PM",
@@ -481,7 +481,7 @@
       },
       {
         "time": "07:00 PM",
-        "activity": "Dinner around Gion or Pontocho. If Kichi Kichi works out, use that as the anchor; otherwise pick an easy izakaya, teppanyaki, or comfort-food spot nearby."
+        "activity": "Dinner around Gion or Pontocho Alley. If Kichi Kichi works out, use that as the anchor; otherwise pick an easy izakaya, teppanyaki, or comfort-food spot nearby."
       }
     ],
     "navigation": [

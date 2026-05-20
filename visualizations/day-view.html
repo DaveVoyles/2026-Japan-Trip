@@ -469,52 +469,117 @@
 
         const dayCard = document.getElementById("dayCard");
 
-        // City guide anchor map loaded from ../data/city-guide-anchors.json
+        const cityGuideLinks = Object.entries(cityGuideAnchors)
+          .map(([id, name]) => ({
+            id,
+            name,
+            lowerName: name.toLocaleLowerCase(),
+          }))
+          .sort((a, b) => b.name.length - a.name.length);
+        const linkedCityGuideIds = new Set();
 
-        function escapeRegex(value) {
-          return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+        function escapeHtml(value) {
+          return String(value).replace(
+            /[&<>"']/g,
+            (char) =>
+              ({
+                "&": "&amp;",
+                "<": "&lt;",
+                ">": "&gt;",
+                '"': "&quot;",
+                "'": "&#39;",
+              })[char],
+          );
+        }
+
+        function isTermBoundary(text, index, length) {
+          const wordChar = /[\p{L}\p{N}_-]/u;
+          const previous = text[index - 1];
+          const next = text[index + length];
+          return (
+            (!previous || !wordChar.test(previous)) &&
+            (!next || !wordChar.test(next))
+          );
+        }
+
+        function findNextCityGuideLink(text) {
+          const lowerText = text.toLocaleLowerCase();
+          let bestMatch = null;
+
+          cityGuideLinks.forEach((link) => {
+            if (linkedCityGuideIds.has(link.id)) return;
+
+            let index = lowerText.indexOf(link.lowerName);
+            while (index !== -1) {
+              if (isTermBoundary(text, index, link.name.length)) {
+                if (
+                  !bestMatch ||
+                  index < bestMatch.index ||
+                  (index === bestMatch.index &&
+                    link.name.length > bestMatch.link.name.length)
+                ) {
+                  bestMatch = { index, link };
+                }
+                break;
+              }
+              index = lowerText.indexOf(link.lowerName, index + 1);
+            }
+          });
+
+          return bestMatch;
         }
 
         function linkCityGuideTerms(text, url) {
           if (typeof text !== "string") {
-            return text;
+            return "";
           }
 
-          let result = text;
-          Object.entries(cityGuideAnchors).forEach(([id, name]) => {
-            const safeName = escapeRegex(name);
-            const pattern = new RegExp(`\\b${safeName}\\b`, "g");
-            result = result.replace(
-              pattern,
-              `<a href="../city-guide.html#${id}" class="guide-link">${name}</a>`,
-            );
-          });
-          // If an explicit URL is provided (e.g., Google Maps), prefer that
           if (url) {
-            return `<a href="${url}" target="_blank" rel="noopener noreferrer" style="color: var(--cp-link); text-decoration: none;">${text}</a>`;
+            return `<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" style="color: var(--cp-link); text-decoration: none;">${escapeHtml(text)}</a>`;
           }
+
+          let remaining = text;
+          let result = "";
+
+          while (remaining) {
+            const match = findNextCityGuideLink(remaining);
+            if (!match) {
+              result += escapeHtml(remaining);
+              break;
+            }
+
+            const matchedText = remaining.slice(
+              match.index,
+              match.index + match.link.name.length,
+            );
+            result += escapeHtml(remaining.slice(0, match.index));
+            result += `<a href="../city-guide.html#${match.link.id}" class="guide-link">${escapeHtml(matchedText)}</a>`;
+            linkedCityGuideIds.add(match.link.id);
+            remaining = remaining.slice(match.index + match.link.name.length);
+          }
+
           return result;
         }
 
         dayCard.innerHTML = `
         <div class="head">
-          <p class="meta">${item.dayLabel} • ${item.date}</p>
-          <h2 class="name">${item.title}</h2>
+          <p class="meta">${escapeHtml(item.dayLabel)} • ${escapeHtml(item.date)}</p>
+          <h2 class="name">${escapeHtml(item.title)}</h2>
           <div class="city-row">
-            <span class="city-chip ${item.startCityClass}">${item.startCity}</span>
+            <span class="city-chip ${item.startCityClass}">${escapeHtml(item.startCity)}</span>
             <span class="arrow">-></span>
-            <span class="city-chip ${item.endCityClass}">${item.endCity}</span>
-            ${item.transfer ? `<span class="transfer">${item.transfer}</span>` : ""}
+            <span class="city-chip ${item.endCityClass}">${escapeHtml(item.endCity)}</span>
+            ${item.transfer ? `<span class="transfer">${escapeHtml(item.transfer)}</span>` : ""}
           </div>
         </div>
         ${
           item.deadline
-            ? `<div class="alert alert-${item.deadline.type}">${item.deadline.label}</div>`
+            ? `<div class="alert alert-${item.deadline.type}">${escapeHtml(item.deadline.label)}</div>`
             : ""
         }
         ${
           item.splitDay
-            ? `<div class="alert alert-split">🔀 Split Day: ${item.splitNote}</div>`
+            ? `<div class="alert alert-split">🔀 Split Day: ${escapeHtml(item.splitNote)}</div>`
             : ""
         }
         ${
@@ -526,10 +591,10 @@
           <section class="traveler-brief">
             <h3>Today / Next / Backup</h3>
             <div class="brief-grid">
-              <div class="brief-item"><span class="brief-label">Today</span><span class="brief-value">${brief.today}</span></div>
-              <div class="brief-item"><span class="brief-label">Next</span><span class="brief-value">${brief.next}</span></div>
-              <div class="brief-item"><span class="brief-label">Backup</span><span class="brief-value">${brief.backup}</span></div>
-              <div class="brief-item"><span class="brief-label">Ops note</span><span class="brief-value">${brief.ops}</span></div>
+              <div class="brief-item"><span class="brief-label">Today</span><span class="brief-value">${linkCityGuideTerms(brief.today)}</span></div>
+              <div class="brief-item"><span class="brief-label">Next</span><span class="brief-value">${linkCityGuideTerms(brief.next)}</span></div>
+              <div class="brief-item"><span class="brief-label">Backup</span><span class="brief-value">${linkCityGuideTerms(brief.backup)}</span></div>
+              <div class="brief-item"><span class="brief-label">Ops note</span><span class="brief-value">${linkCityGuideTerms(brief.ops)}</span></div>
             </div>
           </section>
           <section class="part part-morning">
@@ -557,7 +622,7 @@
                 .map(
                   (entry) => `
                     <div class="time-row">
-                      <div class="time-label">${entry.time}</div>
+                      <div class="time-label">${escapeHtml(entry.time)}</div>
                       <div class="time-activity">${linkCityGuideTerms(entry.activity, entry.url)}</div>
                     </div>
                   `,
@@ -566,7 +631,7 @@
             </div>
           </section>
         </div>
-        <div class="foot">${item.note}</div>
+        <div class="foot">${escapeHtml(item.note)}</div>
       `;
 
         const prevLink = document.getElementById("prevLink");
