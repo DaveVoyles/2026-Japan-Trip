@@ -326,7 +326,6 @@
       "🏨 Hotel shift: Keio Plaza Hotel Shinjuku → Cross Hotel Kyoto Kawaramachi.",
       "🚇 Shinjuku → Tokyo Station: JR Chuo Rapid Line from Shinjuku Station (~25 min, ¥220). Walk 5 min from Keio Plaza to Shinjuku Station south gates.",
       "🍱 At Tokyo Station: follow 'Tokaido Shinkansen' signs. Buy ekiben at Gransta food hall BEFORE passing through the gates — great selection, can't come back.",
-      "🧳 Luggage forwarding (takkyubin): request at hotel concierge the evening before. Yamato Transport delivers bags to Cross Hotel Kyoto by next afternoon (~¥1,500–2,000/bag). Travel hands-free on the train.",
       "🗻 Mt Fuji is typically visible from the right side headed from Tokyo to Kyoto (Seat E side); verify actual reserved car/seat in SmartEX before departure.",
       "🔐 If Cross Hotel check-in is delayed, store bags at the hotel or Kyoto Station lockers and keep Nishiki/Gion flexible.",
       "🔋 Energy strategy: sightseeing light, ambiance heavy. Evening in Gion is the reward."
@@ -336,13 +335,13 @@
       "today": "Tokyo to Kyoto bullet train",
       "next": "Nishiki Market + Gion stroll",
       "backup": "Kyoto Station area shopping if tired",
-      "ops": "JR Shinjuku→Tokyo Stn (25 min, ¥220); ekiben at Gransta before gates; Nozomi ~10 AM; Mt Fuji ~40 min in on Seat E/right side; takkyubin night before if going luggage-free"
+      "ops": "JR Shinjuku→Tokyo Stn (25 min, ¥220); ekiben at Gransta before gates; Nozomi ~10 AM; Mt Fuji ~40 min in on Seat E/right side"
     },
     "goal": "Bullet train, Gion, and Pontocho Alley.",
     "timeline": [
       {
         "time": "08:30 AM",
-        "activity": "Depart Keio Plaza Hotel → Tokyo Station. Best option: JR from Shinjuku Station (5-min walk from hotel): Chuo Rapid Line direct to Tokyo Station (~25 min, ¥220). Taxi alt: ~¥3,000–4,000, 20–30 min (traffic-dependent). Luggage tip: If you arranged takkyubin the night before, bags are already en route to Cross Hotel Kyoto — travel hands-free."
+        "activity": "Depart Keio Plaza Hotel → Tokyo Station. Best option: JR from Shinjuku Station (5-min walk from hotel): Chuo Rapid Line direct to Tokyo Station (~25 min, ¥220). Taxi alt: ~¥3,000–4,000, 20–30 min (traffic-dependent)."
       },
       {
         "time": "09:15 AM",
@@ -391,8 +390,7 @@
     "keyPhrases": [
       "\"Migi-gawa no seki onegaishimasu.\" (Right side seat please - if needed at ticket counter)",
       "\"Kyoto made dono gurai kakarimasu ka?\" (How long does it take to Kyoto?)",
-      "\"Ekiben hitotsu kudasai.\" (One ekiben / station bento please.)",
-      "\"Nimotsu wo okutte moraemasuka?\" (Can you arrange luggage forwarding? — ask hotel concierge night before, ~¥1,500–2,000/bag via Yamato Transport)"
+      "\"Ekiben hitotsu kudasai.\" (One ekiben / station bento please.)"
     ]
   },
   {
