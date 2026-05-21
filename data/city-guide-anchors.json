@@ -12,7 +12,7 @@
   "harajuku": {
     "name": "Harajuku",
     "broad": true,
-    "suppressedBy": ["meiji-jingu", "cat-street", "takeshita-street", "marion-crepes"]
+    "suppressedBy": ["meiji-jingu", "cat-street", "takeshita-street"]
   },
   "yanaka": {
     "name": "Yanaka",

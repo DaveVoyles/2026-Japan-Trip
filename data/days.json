@@ -10,7 +10,7 @@
     "transfer": "Flight UA131",
     "morning": "Leave Narberth PA at 6:30 AM to arrive at SNAP Parking by 8:30 AM (1 hr 47 min drive, 99.3 miles). Drop off car at valet, then 10-minute ride to Newark (EWR Terminal C). Check bags and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
     "daytime": "In transit across the Pacific, prioritize rest blocks, water, and light movement every few hours so arrival day is manageable.",
-    "night": "Land at Haneda, clear immigration/customs, withdraw startup cash, take Limousine Bus to Keio Plaza, then keep dinner simple at Omoide Yokocho.",
+    "night": "Land at Haneda, clear immigration/customs, withdraw startup cash, and take Limousine Bus to Keio Plaza.",
     "details": [
       "🅿️ Parking: SNAP Parking (Covered Valet) — Rental ID 123520709. Cost $281.20 (paid via SpotHero).",
       "🚗 Drive from Narberth PA to SNAP Parking: 1 hr 47 min (99.3 miles). SNAP valet transfer to EWR Terminal C: ~10 min.",
@@ -60,10 +60,6 @@
       {
         "time": "03:30 PM",
         "activity": "Arrive Keio Plaza Hotel Shinjuku and check in. Keep bags/simple reset first; do not add sightseeing if energy is low."
-      },
-      {
-        "time": "06:30 PM",
-        "activity": "Simple dinner near Shinjuku, ideally Omoide Yokocho if everyone is awake enough. Backup: hotel lounge, convenience store, or early sleep."
       }
     ],
     "navigation": [
@@ -121,25 +117,17 @@
     "goal": "Acclimatize. Soak in the neon. Shibuya Crossing.",
     "timeline": [
       {
-        "time": "08:30 AM",
-        "activity": "Breakfast at Konnio (Hotel Buffet) or Sarabeth's (Lumine Shinjuku)."
-      },
-      {
         "time": "10:00 AM",
         "activity": "Meiji Jingu Shrine (Yoyogi Park). Subway: Yamanote Line (Shinjuku -> Harajuku)."
       },
       {
         "time": "12:00 PM",
-        "activity": "Harajuku (Takeshita Street + Cat Street). Eat: Crepes at Marion Crepes, then pick a real lunch or coffee rest before walking toward Shibuya. If jet lag hits, skip deeper Cat Street shopping."
+        "activity": "Harajuku (Takeshita Street + Cat Street). Browse the shops and snack stands, then pick a real lunch or coffee rest before walking toward Shibuya. If jet lag hits, skip deeper Cat Street shopping."
       },
       {
         "time": "12:45 PM",
         "activity": "Optional rest stop: SHARE LOUNGE at TSUTAYA Shibuya Sakura Stage (4F, near Shibuya Station south side). Time-based lounge with soft drinks/snacks included; walk-in OK, ~¥1,870/hr per adult soft-drink plan, app payment may save 10%. Good air-conditioned break before Shibuya Sky. Note: this is not a Shibuya Crossing viewpoint.",
         "url": "https://www.sharelounge.jp/store/2334/"
-      },
-      {
-        "time": "01:15 PM",
-        "activity": "Arrive at Shibuya Scramble Square and buffer for ticket entry/security. From SHARE LOUNGE Shibuya Sakura Stage, allow about 7 minutes to walk over."
       },
       {
         "time": "02:00 PM",
@@ -216,7 +204,7 @@
     "timeline": [
       {
         "time": "07:00 AM",
-        "activity": "Toyosu Market (Outer Market). Do: Walk the outer market stalls — fresh sushi and seafood breakfast at the restaurants opening by 7 AM. Tuna auction requires advance lottery (skip unless pre-booked). Eat: Sushidai or Daiwa Sushi (arrive early to avoid 2-hour waits)."
+        "activity": "Toyosu Market (Outer Market). Walk the outer market stalls for fresh sashimi-grade seafood. Tuna auction requires advance lottery (skip unless pre-booked). Eat: Sushidai or Daiwa Sushi (arrive early to avoid 2-hour waits)."
       },
       {
         "time": "10:30 AM",
@@ -229,10 +217,6 @@
       {
         "time": "04:00 PM",
         "activity": "Roppongi Hills. See: Mori Art Museum (top floor, city views), Louise Bourgeois spider sculpture in the courtyard. Skip: Mori Tower observation deck (overpriced, city guide alternatives are better)."
-      },
-      {
-        "time": "07:00 PM",
-        "activity": "Dinner in Roppongi or return to Shinjuku. Option: Izakaya near Roppongi station for a low-key evening."
       }
     ],
     "navigation": [
@@ -346,7 +330,7 @@
     "transfer": "Shinkansen Nozomi",
     "morning": "Check out Tokyo base, get to Tokyo Station early, secure ekiben and drinks, then board Nozomi with right-side seating preference for views.",
     "daytime": "Arrive Kyoto, drop bags at Cross Hotel, and ease into the city with Nishiki Market sampling instead of a rigid attraction sprint.",
-    "night": "Use golden hour in Gion, respect no-photo private lanes, and finish at Pontocho Alley for atmospheric riverside dinner options.",
+    "night": "Use golden hour in Gion, respect no-photo private lanes, and finish with a stroll through Pontocho Alley.",
     "details": [
       "🚄 Major transfer day — protect buffer time around station logistics.",
       "🏨 Hotel shift: Keio Plaza Hotel Shinjuku → Cross Hotel Kyoto Kawaramachi.",
@@ -434,13 +418,13 @@
     "splitNote": "Kichi Kichi reservation (7 PM) — coordination needed",
     "morning": "Make Nara the top priority: use Kyoto Station as the launch point, take Kintetsu to Nara, then focus on Nara Park and Todai-ji before crowds build.",
     "daytime": "Keep the Nara loop compact with deer, the Great Buddha, Nakatanidou mochi, and lunch before returning to Kyoto mid-afternoon.",
-    "night": "Take the Kyoto evening slowly: Kiyomizu-dera, Sannenzaka and Ninenzaka, golden-hour Gion, then an easy dinner around Gion or Pontocho Alley.",
+    "night": "Take the Kyoto evening slowly: Kiyomizu-dera, Sannenzaka and Ninenzaka, and golden-hour Gion.",
     "details": [
       "🦌 Nara is the priority today; Arashiyama and Kinkaku-ji are intentionally dropped to keep the route sane.",
       "🚇 Kintetsu Kyoto Line is preferred because Kintetsu Nara Station is closer to Nara Park than JR Nara.",
       "🍘 Buy deer crackers only when ready to feed immediately; keep moving and show open empty hands when out.",
       "☔ Rain backup: Sanjusangendo or Kyoto National Museum.",
-      "✂️ First cut if tired: keep Nara and dinner, but skip or shorten the Kiyomizu uphill block."
+      "✂️ First cut if tired: keep Nara, but skip or shorten the Kiyomizu uphill block."
     ],
     "note": "Nara-first cultural day with room to linger through Kyoto's evening lanes.",
     "brief": {
@@ -465,7 +449,7 @@
       },
       {
         "time": "01:30 PM",
-        "activity": "Return Kintetsu Nara → Kyoto Station, then taxi or transit back toward Higashiyama for the evening Kyoto block. If tired, skip Kiyomizu and go straight to Gion/Pontocho Alley dinner."
+        "activity": "Return Kintetsu Nara → Kyoto Station, then taxi or transit back toward Higashiyama for the evening Kyoto block. If tired, skip Kiyomizu and go straight to Gion/Pontocho Alley."
       },
       {
         "time": "03:00 PM",
@@ -477,11 +461,7 @@
       },
       {
         "time": "06:00 PM",
-        "activity": "Golden-hour Gion walk. Stay on main streets, respect no-photo private lanes, and use this as a relaxed transition toward dinner."
-      },
-      {
-        "time": "07:00 PM",
-        "activity": "Dinner around Gion or Pontocho Alley. If Kichi Kichi works out, use that as the anchor; otherwise pick an easy izakaya, teppanyaki, or comfort-food spot nearby."
+        "activity": "Golden-hour Gion walk. Stay on main streets and respect no-photo private lanes."
       }
     ],
     "navigation": [
@@ -548,7 +528,7 @@
       },
       {
         "time": "09:30 AM",
-        "activity": "Breakfast/coffee reset and return toward Cross Hotel Kyoto. Confirm bags are packed and ready for checkout."
+        "activity": "Coffee reset and return toward Cross Hotel Kyoto. Confirm bags are packed and ready for checkout."
       },
       {
         "time": "11:00 AM",
@@ -613,7 +593,7 @@
     "splitNote": "Split block: Den Den Town vs Shinsaibashi — plan beforehand",
     "morning": "Ease into the day with coffee, then explore Osaka Castle grounds for open-space walking and skyline framing shots.",
     "daytime": "Use Kuromon Market as the central fuel stop, then split intentionally: Den Den Town (retro/gaming) versus Shinsaibashi (shopping/beauty/sweets).",
-    "night": "Regroup around Namba/Hozenji and walk Dotonbori at night for photos, snacks, and a relaxed shared dinner.",
+    "night": "Regroup around Namba/Hozenji and walk Dotonbori at night for photos and snacks.",
     "details": [
       "🧭 Purpose-built flexible day with optional pacing changes.",
       "☔ Easy to adapt for weather because many stops cluster by transit hubs.",
