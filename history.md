@@ -1,0 +1,1 @@
+- 2026-05-21: Fixed Visual Planner nav link to point to visual-schedule.html (all 10 days) instead of day-view.html (single day)
