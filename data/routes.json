@@ -215,8 +215,7 @@
     "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Keio+Plaza+Hotel+Tokyo&destination=Gion+Kyoto&waypoints=Tokyo+Station%7CKyoto+Station%7CCross+Hotel+Kyoto%7CNishiki+Market",
     "notes": [
       "Use JR Chuo Rapid from Shinjuku to Tokyo Station and follow Tokaido Shinkansen signs.",
-      "Buy ekiben at Gransta before passing through the Shinkansen gates.",
-      "Takkyubin the night before is recommended for luggage-free train travel."
+      "Buy ekiben at Gransta before passing through the Shinkansen gates."
     ],
     "segments": [
       {
@@ -527,8 +526,7 @@
     "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Cross+Hotel+Osaka&destination=Shinagawa+Prince+Hotel&waypoints=Namba+Station%7CShin-Osaka+Station%7CShinagawa+Station",
     "notes": [
       "Nozomi reservation #2005 departs Shin-Osaka at 2:15 PM.",
-      "Use Midosuji Line from Namba to Shin-Osaka and protect station buffer.",
-      "Takkyubin to Shinagawa Prince the night before is optional for easier airport departure."
+      "Use Midosuji Line from Namba to Shin-Osaka and protect station buffer."
     ],
     "segments": [
       {
@@ -599,8 +597,7 @@
     "mapUrl": "https://www.google.com/maps/dir/?api=1&travelmode=transit&origin=Shinagawa+Prince+Hotel&destination=Haneda+Airport+Terminal+3&waypoints=Shinagawa+Station",
     "notes": [
       "Leave Shinagawa by 1:15 PM even if final shopping is tempting.",
-      "United check-in is typically Terminal 3 rows K/L; verify day-of signage.",
-      "Only attempt Don Quijote Haneda Garden if luggage handling is simple."
+      "United check-in is typically Terminal 3 rows K/L; verify day-of signage."
     ],
     "segments": [
       {
