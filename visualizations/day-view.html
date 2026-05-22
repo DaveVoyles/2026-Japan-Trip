@@ -295,6 +295,69 @@
         color: var(--cp-warning);
       }
 
+      .transit-card {
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        padding: 10px;
+        background: var(--cp-surface-soft);
+      }
+
+      .transit-card h3 {
+        margin: 0 0 8px;
+        color: var(--cp-accent);
+        font-size: 0.95rem;
+      }
+
+      .transit-leg {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 7px 6px;
+        border-bottom: 1px solid var(--cp-border);
+        text-decoration: none;
+        color: inherit;
+        border-radius: 6px;
+        flex-wrap: wrap;
+        transition: background 0.15s;
+      }
+
+      .transit-leg:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+      }
+
+      .transit-leg:hover {
+        background: var(--cp-bg-elevated);
+      }
+
+      .transit-stop {
+        color: var(--cp-text);
+        font-weight: 500;
+        font-size: 0.88rem;
+      }
+
+      .transit-arrow-icon {
+        color: var(--cp-text-soft);
+        font-size: 0.85rem;
+      }
+
+      .transit-line-badge {
+        margin-left: auto;
+        font-size: 0.78rem;
+        background: var(--cp-bg-elevated);
+        border: 1px solid var(--cp-border-strong);
+        border-radius: 999px;
+        padding: 2px 8px;
+        color: var(--cp-text-muted);
+        white-space: nowrap;
+      }
+
+      .transit-map-link {
+        font-size: 0.8rem;
+        color: var(--cp-link);
+        white-space: nowrap;
+      }
+
       .foot {
         padding: 10px 14px 14px;
         color: var(--cp-text-soft);
@@ -659,6 +722,22 @@
               ${(item.details || []).map((detail) => `<li>${linkCityGuideTerms(detail)}</li>`).join("")}
             </ul>
           </section>
+          ${(item.transit && item.transit.length > 0) ? `
+          <section class="transit-card">
+            <h3>🚇 Transit</h3>
+            <div class="transit-list">
+              ${item.transit.map((leg) => `
+                <a href="${escapeHtml(leg.url)}" class="transit-leg" target="_blank" rel="noopener noreferrer">
+                  <span class="transit-stop">${escapeHtml(leg.from)}</span>
+                  <span class="transit-arrow-icon">→</span>
+                  <span class="transit-stop">${escapeHtml(leg.to)}</span>
+                  <span class="transit-line-badge">${escapeHtml(leg.line)}</span>
+                  <span class="transit-map-link">🗺️ Map</span>
+                </a>
+              `).join("")}
+            </div>
+          </section>
+          ` : ""}
           <section class="time-plan">
             <h3>Exact Time Plan</h3>
             <div class="time-grid">

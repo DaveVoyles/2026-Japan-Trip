@@ -80,6 +80,14 @@
         "url": "https://www.google.com/maps/search/OmoideYokocho"
       }
     ],
+    "transit": [
+      {
+        "from": "Haneda Airport Terminal 3",
+        "to": "Keio Plaza Hotel (Shinjuku)",
+        "line": "Airport Limousine Bus",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Haneda+International+Airport+Terminal+3,+Tokyo&destination=Keio+Plaza+Hotel,+Shinjuku,+Tokyo&travelmode=transit"
+      }
+    ],
     "keyPhrases": [
       "\"Keio Plaza Hotel made onegaishimasu.\" (To Keio Plaza Hotel, please.)",
       "\"Check-in onegaishimasu.\" (I'd like to check in.)"
@@ -169,6 +177,20 @@
       }
     ],
     "rainyDayOption": "Go straight to **Nakano Broadway** (Indoor Otaku Mall) instead of Harajuku. See: [Rainy Day Options](../Reference/rainy-day-options.md)",
+    "transit": [
+      {
+        "from": "Shinjuku Station",
+        "to": "Harajuku Station",
+        "line": "Yamanote Line",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Shinjuku+Station,+Tokyo&destination=Harajuku+Station,+Tokyo&travelmode=transit"
+      },
+      {
+        "from": "Shibuya Station",
+        "to": "Shinjuku Station",
+        "line": "Yamanote Line",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Shibuya+Station,+Tokyo&destination=Shinjuku+Station,+Tokyo&travelmode=transit"
+      }
+    ],
     "keyPhrases": [
       "\"Shashin o totte moraemasu ka?\" (Could you take a photo for us?)",
       "\"Eigo no menyu wa arimasu ka?\" (Do you have an English menu?)"
@@ -228,6 +250,20 @@
       {
         "label": "Ginza Six",
         "url": "https://www.google.com/maps/search/Ginza+Six"
+      }
+    ],
+    "transit": [
+      {
+        "from": "Shinjuku Station",
+        "to": "Shijo-mae Station (Toyosu Market)",
+        "line": "Subway (via Shimbashi → Yurikamome)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Shinjuku+Station,+Tokyo&destination=Shijo-mae+Station,+Tokyo&travelmode=transit"
+      },
+      {
+        "from": "Toyosu / Ginza",
+        "to": "Roppongi Hills",
+        "line": "Tokyo Metro Hibiya Line",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Ginza+Station,+Tokyo&destination=Roppongi+Hills,+Tokyo&travelmode=transit"
       }
     ],
     "keyPhrases": [
@@ -303,6 +339,20 @@
       }
     ],
     "rainyDayOption": "**Akihabara** is surprisingly rain-friendly (big buildings). **Asakusa** has a covered arcade (Nakamise-dori), but the temple grounds are exposed.",
+    "transit": [
+      {
+        "from": "Shinjuku Station",
+        "to": "Asakusa Station",
+        "line": "Toei Oedo / Ginza Line connection",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Shinjuku+Station,+Tokyo&destination=Asakusa+Station,+Tokyo&travelmode=transit"
+      },
+      {
+        "from": "Asakusa Station",
+        "to": "Akihabara Station",
+        "line": "JR Sobu Line",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Asakusa+Station,+Tokyo&destination=Akihabara+Station,+Tokyo&travelmode=transit"
+      }
+    ],
     "keyPhrases": [
       "\"Menzei dekimazu ka?\" (Can I do tax-free?)",
       "\"Sumimasen, kore wa doko desu ka?\" (Excuse me, where is this? _Show picture of game_)"
@@ -379,6 +429,20 @@
       {
         "label": "Pontocho Alley",
         "url": "https://www.google.com/maps/search/Pontocho"
+      }
+    ],
+    "transit": [
+      {
+        "from": "Shinjuku Station",
+        "to": "Tokyo Station",
+        "line": "JR Chuo Rapid Line",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Shinjuku+Station,+Tokyo&destination=Tokyo+Station,+Tokyo&travelmode=transit"
+      },
+      {
+        "from": "Tokyo Station",
+        "to": "Kyoto Station",
+        "line": "Shinkansen Nozomi",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Tokyo+Station,+Tokyo&destination=Kyoto+Station,+Kyoto&travelmode=transit"
       }
     ],
     "keyPhrases": [
@@ -467,6 +531,20 @@
       }
     ],
     "rainyDayOption": "**Sanjusangen-do** (1001 Kannon Statues) is entirely indoors. **Kyoto National Museum** is across the street.",
+    "transit": [
+      {
+        "from": "Kyoto Station",
+        "to": "Kintetsu Nara Station",
+        "line": "Kintetsu Kyoto Line",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Kyoto+Station,+Kyoto&destination=Kintetsu+Nara+Station,+Nara&travelmode=transit"
+      },
+      {
+        "from": "Kintetsu Nara Station",
+        "to": "Kyoto Station",
+        "line": "Kintetsu Kyoto Line (return)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Kintetsu+Nara+Station,+Nara&destination=Kyoto+Station,+Kyoto&travelmode=transit"
+      }
+    ],
     "keyPhrases": [
       "\"Kintetsu Nara made onegaishimasu.\" (To Kintetsu Nara, please.)",
       "\"Shika senbei wa doko de kaemasu ka?\" (Where can I buy deer crackers?)",
@@ -548,6 +626,20 @@
       {
         "label": "Hozenji Yokocho",
         "url": "https://www.google.com/maps/search/HozenjiYokocho"
+      }
+    ],
+    "transit": [
+      {
+        "from": "Kyoto-Kawaramachi Station",
+        "to": "Osaka-Umeda Station",
+        "line": "Hankyu Kyoto Line (~43 min, ¥430)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Kyoto-Kawaramachi+Station,+Kyoto&destination=Osaka-Umeda+Station,+Osaka&travelmode=transit"
+      },
+      {
+        "from": "Osaka-Umeda Station",
+        "to": "Namba Station",
+        "line": "Osaka Metro (~5 min, ¥180)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Osaka-Umeda+Station,+Osaka&destination=Namba+Station,+Osaka&travelmode=transit"
       }
     ],
     "keyPhrases": [
@@ -703,6 +795,20 @@
         "url": "https://www.google.com/maps/search/HanedaOnsen"
       }
     ],
+    "transit": [
+      {
+        "from": "Namba Station",
+        "to": "Shin-Osaka Station",
+        "line": "Osaka Metro Midosuji Line (~12 min, ¥290)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Namba+Station,+Osaka&destination=Shin-Osaka+Station,+Osaka&travelmode=transit"
+      },
+      {
+        "from": "Shin-Osaka Station",
+        "to": "Shinagawa Station",
+        "line": "Shinkansen Nozomi (Res #2005, ~2h22m)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Shin-Osaka+Station,+Osaka&destination=Shinagawa+Station,+Tokyo&travelmode=transit"
+      }
+    ],
     "keyPhrases": [
       "\"Kuu-kou wa dochira desu ka?\" (Which way is the airport?)",
       "\"Saigo no ban-gohan.\" (Last dinner.)",
@@ -763,6 +869,14 @@
       {
         "label": "Duty Free Shops",
         "url": "https://tokyo-haneda.com/en/shop_and_dine/index.html"
+      }
+    ],
+    "transit": [
+      {
+        "from": "Shinagawa Station",
+        "to": "Haneda Airport Terminal 3",
+        "line": "Keikyu Line or Tokyo Monorail",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Shinagawa+Station,+Tokyo&destination=Haneda+Airport+Terminal+3,+Tokyo&travelmode=transit"
       }
     ],
     "keyPhrases": [
