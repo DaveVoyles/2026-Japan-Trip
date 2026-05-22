@@ -5,3 +5,4 @@
 2026-05-21: Added detailed city guide cards for 9 considering attractions (Skytree, Tokyo Tower, Sumo Tour, Nijo Castle, Tea Ceremony, Tsutenkaku, Abeno Harukas 300, Dotonbori Food Tour, Osaka Castle Klook update); removed Kawaguchiko (not in itinerary).
 - 2026-05-22: Added 🚇 Transit card section to day-view.html; added transit arrays with Google Maps transit direction links to Days 1–7, 9–10 in days.json.
 - 2026-05-22: Added emojis to morning/daytime/night and all timeline entries across all 10 days in days.json for better visual scannability.
+- 2026-05-22: Added emojis to routes.json stop labels and segment headers across all 9 route days so route-view.html matches the emoji style of day-view.html.
