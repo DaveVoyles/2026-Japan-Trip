@@ -64,7 +64,6 @@
       "onitsuka-tiger"
     ]
   },
-  "kawaguchiko": "Kawaguchiko",
   "gion": {
     "name": "Gion",
     "broad": true,
@@ -120,7 +119,8 @@
     "broad": true,
     "suppressedBy": [
       "den-den-town",
-      "shinsekai-abeno",
+      "tsutenkaku",
+      "abeno-harukas",
       "osaka-logistics"
     ],
     "aliases": [
@@ -330,7 +330,15 @@
   "nishiki-market": "Nishiki Market",
   "kuromon-market": "Kuromon Market",
   "acchichi-honpo": "Acchichi Honpo",
+  "abeno-harukas": {
+    "name": "Abeno Harukas 300",
+    "aliases": [
+      "Abeno Harukas"
+    ]
+  },
+  "dotonbori-food-tour": "Dotonbori Street Food Tour",
   "mizuno-okonomiyaki": "Mizuno Okonomiyaki",
+  "nijo-castle": "Nijo Castle",
   "rikuro-ojisan": "Rikuro Ojisan Cheesecake",
   "hozenji-yokocho": {
     "name": "Hozenji Yokocho",
@@ -338,13 +346,15 @@
       "Hozenji"
     ]
   },
-  "shinsekai-abeno": {
-    "name": "Shinsekai & Abeno Harukas",
+  "skytree": "Tokyo Skytree",
+  "sumo-tour": "Sumo Morning Practice Tour",
+  "tea-ceremony": "Tea Ceremony",
+  "tokyo-tower": "Tokyo Tower",
+  "tsutenkaku": {
+    "name": "Tsutenkaku Tower",
     "aliases": [
-      "Shinsekai",
-      "Abeno Harukas",
-      "Tsutenkaku Tower",
-      "Tsutenkaku"
+      "Tsutenkaku",
+      "Shinsekai"
     ]
   },
   "osaka-logistics": {
