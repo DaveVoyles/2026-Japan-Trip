@@ -653,6 +653,7 @@
 
         const embed = new URL("https://maps.google.com/maps");
         embed.searchParams.set("output", "embed");
+        embed.searchParams.set("dirflg", "r");
         embed.searchParams.set("saddr", origin);
         const waypoints = (source.searchParams.get("waypoints") || "")
           .split("|")
