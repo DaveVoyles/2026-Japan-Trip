@@ -747,18 +747,6 @@
     "goal": "Buy last-minute Duty Free. Go home.",
     "timeline": [
       {
-        "time": "09:00 AM",
-        "activity": "Wake up. Last morning in Japan."
-      },
-      {
-        "time": "11:00 AM",
-        "activity": "Check Out."
-      },
-      {
-        "time": "12:00 PM",
-        "activity": "Optional final shopping near Shinagawa before heading to Haneda."
-      },
-      {
         "time": "01:15 PM",
         "activity": "Hard deadline: leave Shinagawa / be en route to Haneda. Do not let shopping eat into the airport buffer."
       },
