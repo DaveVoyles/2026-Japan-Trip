@@ -9,7 +9,6 @@
   const rootAsset = (path) => new URL(path, rootUrl).toString();
   const links = [
     { name: "Home", href: "index.html" },
-    { name: "Visual Planner", href: "visual-schedule.html" },
     { name: "Apps", href: "essential-apps.html" },
     { name: "City Guide", href: "city-guide.html" },
     { name: "Bookings", href: "bookings-status.html" },
