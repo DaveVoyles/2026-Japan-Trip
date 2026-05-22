@@ -5,7 +5,6 @@ const fs = require("fs");
 const dataFiles = [
   "data/days.json",
   "data/routes.json",
-  "data/day-meta.json",
   "data/bookings.json",
   "data/city-guide-anchors.json",
 ];

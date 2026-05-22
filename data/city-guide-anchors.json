@@ -2,93 +2,172 @@
   "shinjuku": {
     "name": "Shinjuku",
     "broad": true,
-    "suppressedBy": ["tokyo-logistics", "omoide-yokocho", "cappiness"]
+    "suppressedBy": [
+      "tokyo-logistics",
+      "omoide-yokocho",
+      "cappiness"
+    ]
   },
   "shibuya": {
     "name": "Shibuya",
     "broad": true,
-    "suppressedBy": ["share-lounge", "shibuya-sky", "shibuya-crossing", "shibuya-shopping"]
+    "suppressedBy": [
+      "share-lounge",
+      "shibuya-sky",
+      "shibuya-crossing",
+      "shibuya-shopping"
+    ]
   },
   "harajuku": {
     "name": "Harajuku",
     "broad": true,
-    "suppressedBy": ["meiji-jingu", "cat-street", "takeshita-street"]
+    "suppressedBy": [
+      "meiji-jingu",
+      "cat-street",
+      "takeshita-street"
+    ]
   },
   "yanaka": {
     "name": "Yanaka",
     "broad": true,
-    "suppressedBy": ["yanaka-ginza", "senso-ji", "kappabashi"]
+    "suppressedBy": [
+      "yanaka-ginza",
+      "senso-ji",
+      "kappabashi"
+    ]
   },
   "roppongi": {
     "name": "Roppongi",
     "broad": true,
-    "suppressedBy": ["mori-art-museum"]
+    "suppressedBy": [
+      "mori-art-museum"
+    ]
   },
   "akihabara": {
     "name": "Akihabara",
     "broad": true,
-    "suppressedBy": ["super-potato", "taito-station", "beep-akihabara", "mandarake-complex", "kanda-myojin"]
+    "suppressedBy": [
+      "super-potato",
+      "taito-station",
+      "beep-akihabara",
+      "mandarake-complex",
+      "kanda-myojin"
+    ]
   },
   "ginza": {
     "name": "Ginza",
     "broad": true,
-    "suppressedBy": ["ginza-six", "itoya-ginza", "uniqlo-ginza", "onitsuka-tiger"]
+    "suppressedBy": [
+      "ginza-six",
+      "itoya-ginza",
+      "uniqlo-ginza",
+      "onitsuka-tiger"
+    ]
   },
   "kawaguchiko": "Kawaguchiko",
   "gion": {
     "name": "Gion",
     "broad": true,
-    "suppressedBy": ["pontocho-alley", "sannenzaka-ninenzaka", "kiyomizu-dera"]
+    "suppressedBy": [
+      "pontocho-alley",
+      "sannenzaka-ninenzaka",
+      "kiyomizu-dera"
+    ]
   },
   "kawaramachi": {
     "name": "Kawaramachi",
     "broad": true,
-    "suppressedBy": ["kyoto-logistics", "nishiki-market", "pontocho-alley"]
+    "suppressedBy": [
+      "kyoto-logistics",
+      "nishiki-market",
+      "pontocho-alley"
+    ]
   },
   "arashiyama": {
     "name": "Arashiyama",
     "broad": true,
-    "suppressedBy": ["arashiyama-bamboo", "kinkaku-ji"]
+    "suppressedBy": [
+      "arashiyama-bamboo",
+      "kinkaku-ji"
+    ]
   },
   "nara": {
     "name": "Nara Day Trip",
-    "aliases": ["Kintetsu Nara Station", "JR Nara"]
+    "aliases": [
+      "Kintetsu Nara Station",
+      "JR Nara"
+    ]
   },
   "dotonbori": {
     "name": "Dotonbori",
     "broad": true,
-    "suppressedBy": ["hozenji-yokocho", "acchichi-honpo", "mizuno-okonomiyaki", "rikuro-ojisan", "osaka-logistics"],
-    "aliases": ["Namba", "Glico Man Sign", "Glico Man", "Ebisubashi Bridge"]
+    "suppressedBy": [
+      "hozenji-yokocho",
+      "acchichi-honpo",
+      "mizuno-okonomiyaki",
+      "rikuro-ojisan",
+      "osaka-logistics"
+    ],
+    "aliases": [
+      "Namba",
+      "Glico Man Sign",
+      "Glico Man",
+      "Ebisubashi Bridge"
+    ]
   },
   "shinsaibashi": {
     "name": "Shinsaibashi",
     "broad": true,
-    "suppressedBy": ["den-den-town", "shinsekai-abeno", "osaka-logistics"],
-    "aliases": ["Shinsaibashi-suji", "Shinsaibashi-suji Shopping Street"]
+    "suppressedBy": [
+      "den-den-town",
+      "shinsekai-abeno",
+      "osaka-logistics"
+    ],
+    "aliases": [
+      "Shinsaibashi-suji",
+      "Shinsaibashi-suji Shopping Street"
+    ]
   },
   "den-den-town": {
     "name": "Den Den Town",
-    "aliases": ["Ota Road"]
+    "aliases": [
+      "Ota Road"
+    ]
   },
   "osaka-castle": "Osaka Castle",
   "meiji-jingu": {
     "name": "Meiji Jingu Shrine",
-    "aliases": ["Meiji Jingu"]
+    "aliases": [
+      "Meiji Jingu"
+    ]
   },
   "omoide-yokocho": "Omoide Yokocho",
   "senso-ji": {
     "name": "Senso-ji Temple",
-    "aliases": ["Asakusa", "Nakamise-dori"]
+    "aliases": [
+      "Asakusa",
+      "Nakamise-dori"
+    ]
   },
   "shibuya-sky": "Shibuya Sky",
   "shibuya-crossing": "Shibuya Crossing",
   "share-lounge": {
     "name": "SHARE LOUNGE",
-    "aliases": ["TSUTAYA Shibuya Sakura Stage", "Shibuya Sakura Stage", "Sakura Stage"]
+    "aliases": [
+      "TSUTAYA Shibuya Sakura Stage",
+      "Shibuya Sakura Stage",
+      "Sakura Stage"
+    ]
   },
   "shibuya-shopping": {
     "name": "Shibuya Shopping Cluster",
-    "aliases": ["@Cosme", "Tokyu Hands", "Loft", "Mag's Park", "Magnet"]
+    "aliases": [
+      "@Cosme",
+      "Tokyu Hands",
+      "Loft",
+      "Mag's Park",
+      "Magnet"
+    ]
   },
   "ichiran-shibuya": "Ichiran Ramen Shibuya",
   "nakano-broadway": "Nakano Broadway",
@@ -113,62 +192,105 @@
   },
   "shinkansen": {
     "name": "Shinkansen",
-    "aliases": ["Tokyo Station", "Tokaido Shinkansen", "SmartEX", "Smart EX", "Nozomi", "Gransta"]
+    "aliases": [
+      "Tokyo Station",
+      "Tokaido Shinkansen",
+      "SmartEX",
+      "Smart EX",
+      "Nozomi",
+      "Gransta"
+    ]
   },
   "toyosu-market": {
     "name": "Toyosu Market",
-    "aliases": ["Sushi Dai", "Sushidai", "Daiwa Sushi"]
+    "aliases": [
+      "Sushi Dai",
+      "Sushidai",
+      "Daiwa Sushi"
+    ]
   },
   "super-potato": {
     "name": "Super Potato",
-    "aliases": ["Super Potato Akiba"]
+    "aliases": [
+      "Super Potato Akiba"
+    ]
   },
   "taito-station": {
     "name": "Taito Station",
-    "aliases": ["Taito Station Akihabara", "Gachapon", "UFO catchers"]
+    "aliases": [
+      "Taito Station Akihabara",
+      "Gachapon",
+      "UFO catchers"
+    ]
   },
   "beep-akihabara": "BEEP Akihabara",
   "mandarake-complex": {
     "name": "Mandarake Complex",
-    "aliases": ["Mandarake"]
+    "aliases": [
+      "Mandarake"
+    ]
   },
   "kanda-myojin": {
     "name": "Kanda Myojin",
-    "aliases": ["Kanda Myojin Shrine"]
+    "aliases": [
+      "Kanda Myojin Shrine"
+    ]
   },
   "mori-art-museum": {
     "name": "Mori Art Museum",
-    "aliases": ["Roppongi Hills", "Tokyo City View", "Mori Tower", "Louise Bourgeois spider sculpture"]
+    "aliases": [
+      "Roppongi Hills",
+      "Tokyo City View",
+      "Mori Tower",
+      "Louise Bourgeois spider sculpture"
+    ]
   },
   "ginza-six": "Ginza Six",
   "itoya-ginza": {
     "name": "Itoya Ginza",
-    "aliases": ["Itoya"]
+    "aliases": [
+      "Itoya"
+    ]
   },
   "uniqlo-ginza": {
     "name": "Uniqlo Ginza",
-    "aliases": ["Uniqlo"]
+    "aliases": [
+      "Uniqlo"
+    ]
   },
   "onitsuka-tiger": "Onitsuka Tiger",
   "kappabashi": {
     "name": "Kappabashi Kitchen Town",
-    "aliases": ["Kappabashi Street", "Kama-Asa", "Kappabashi"]
+    "aliases": [
+      "Kappabashi Street",
+      "Kama-Asa",
+      "Kappabashi"
+    ]
   },
   "cappiness": {
     "name": "CAPPINESS Shinjuku",
-    "aliases": ["Cappiness"]
+    "aliases": [
+      "Cappiness"
+    ]
   },
   "yanaka-ginza": "Yanaka Ginza",
   "cat-street": "Cat Street",
   "takeshita-street": "Takeshita Street",
-  "marion-crepes": "Marion Crepes",
   "fushimi-inari": {
     "name": "Fushimi Inari Taisha",
-    "aliases": ["Fushimi Inari Station", "Yotsutsuji", "Fushimi Inari"]
+    "aliases": [
+      "Fushimi Inari Station",
+      "Yotsutsuji",
+      "Fushimi Inari"
+    ]
   },
   "kyoto-rain-backup": {
     "name": "Sanjusangendo & Kyoto National Museum",
-    "aliases": ["Sanjusangendo", "Kyoto National Museum", "Sanjusangen-do"]
+    "aliases": [
+      "Sanjusangendo",
+      "Kyoto National Museum",
+      "Sanjusangen-do"
+    ]
   },
   "kyoto-logistics": {
     "name": "Kyoto Hotel, Station & Transfer Logistics",
@@ -189,11 +311,17 @@
   "nakatanidou": "Nakatanidou",
   "pontocho-alley": {
     "name": "Pontocho Alley",
-    "aliases": ["Pontocho"]
+    "aliases": [
+      "Pontocho"
+    ]
   },
   "sannenzaka-ninenzaka": {
     "name": "Sannenzaka and Ninenzaka",
-    "aliases": ["Sannenzaka", "Ninenzaka", "Sannenzaka/Ninenzaka"]
+    "aliases": [
+      "Sannenzaka",
+      "Ninenzaka",
+      "Sannenzaka/Ninenzaka"
+    ]
   },
   "kinkaku-ji": "Kinkaku-ji",
   "kiyomizu-dera": "Kiyomizu-dera",
@@ -206,11 +334,18 @@
   "rikuro-ojisan": "Rikuro Ojisan Cheesecake",
   "hozenji-yokocho": {
     "name": "Hozenji Yokocho",
-    "aliases": ["Hozenji"]
+    "aliases": [
+      "Hozenji"
+    ]
   },
   "shinsekai-abeno": {
     "name": "Shinsekai & Abeno Harukas",
-    "aliases": ["Shinsekai", "Abeno Harukas", "Tsutenkaku Tower", "Tsutenkaku"]
+    "aliases": [
+      "Shinsekai",
+      "Abeno Harukas",
+      "Tsutenkaku Tower",
+      "Tsutenkaku"
+    ]
   },
   "osaka-logistics": {
     "name": "Osaka Hotel, Namba & Shin-Osaka Logistics",
