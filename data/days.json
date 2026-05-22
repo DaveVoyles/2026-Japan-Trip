@@ -491,7 +491,6 @@
     "details": [
       "🏨 Hotel shift: Cross Hotel Kyoto Kawaramachi → Cross Hotel Osaka Dotonbori.",
       "🚇 Transfer: Hankyu Kyoto Line from Kyoto-Kawaramachi → Osaka-Umeda (~43 min, ¥430), then Metro to Namba (~5 min, ¥180). Total ~50 min, ~¥610.",
-      "🧳 Luggage forwarding: request takkyubin at the hotel front desk the night before (~¥1,000–1,500/bag). Bags arrive at Cross Hotel Osaka by afternoon.",
       "⛩️ Treat Fushimi Inari as the morning highlight; shorten to lower torii loop if Day 6 ran long."
     ],
     "note": "Second city move with a high-energy Osaka arrival.",
@@ -499,7 +498,7 @@
       "today": "Fushimi Inari early",
       "next": "Kyoto to Osaka move",
       "backup": "Short Fushimi lower loop",
-      "ops": "Hankyu from Kyoto-Kawaramachi→Umeda (43 min, ¥430) + Metro to Namba (5 min, ¥180); takkyubin night before recommended; Cross Hotel Osaka check-in 3 PM"
+      "ops": "Hankyu from Kyoto-Kawaramachi→Umeda (43 min, ¥430) + Metro to Namba (5 min, ¥180); Cross Hotel Osaka check-in 3 PM"
     },
     "goal": "Fushimi Inari (The Red Gates) and Neon Dotonbori.",
     "timeline": [
@@ -557,7 +556,6 @@
     "keyPhrases": [
       "\"Takoyaki, hachi-ko kudasai.\" (8 pieces of Takoyaki please.)",
       "\"O-susume wa nan desu ka?\" (What do you recommend?)",
-      "\"Nimotsu wo okutte moraemasuka?\" (Can you arrange luggage forwarding? — ask hotel front desk)",
       "\"Hankyu Kyoto-sen wa doko desu ka?\" (Where is the Hankyu Kyoto Line?)"
     ]
   },
