@@ -7,3 +7,4 @@
 - 2026-05-22: Added emojis to morning/daytime/night and all timeline entries across all 10 days in days.json for better visual scannability.
 - 2026-05-22: Added emojis to routes.json stop labels and segment headers across all 9 route days so route-view.html matches the emoji style of day-view.html.
 - 2026-05-22: Replaced all neighborhood Google Maps links with YouTube 4K walking tour videos across tokyo/kyoto/osaka neighborhood guides and city-guide.html hood-card names
+2026-05-20: Replaced all Google Maps sub-item attraction links with YouTube videos across city-guide.html, neighborhood-guide-tokyo.html, neighborhood-guide-kyoto.html, and neighborhood-guide-osaka.html. Every named attraction in hood-bullets and highlight lists now links to a verified 4K YouTube video.
