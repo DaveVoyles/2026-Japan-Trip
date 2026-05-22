@@ -324,6 +324,69 @@
         }
       }
 
+      .trip-details {
+        display: flex;
+        gap: 14px;
+        margin-top: 14px;
+        flex-wrap: wrap;
+      }
+
+      .detail-item {
+        background: var(--cp-surface);
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        padding: 10px 14px;
+        font-size: 0.9rem;
+      }
+
+      .detail-label {
+        color: var(--cp-text-muted);
+        font-size: 0.8rem;
+        margin-bottom: 4px;
+      }
+
+      .detail-value {
+        font-weight: 600;
+        color: var(--cp-text);
+      }
+
+      .site-search {
+        border: 1px solid var(--cp-border);
+        border-radius: 16px;
+        background: var(--cp-panel-strong);
+        box-shadow: var(--cp-shadow);
+        padding: 16px;
+        margin-bottom: 20px;
+      }
+
+      .site-search label {
+        display: block;
+        margin-bottom: 8px;
+        color: var(--cp-text);
+        font-weight: 700;
+      }
+
+      .site-search input {
+        width: 100%;
+        border: 1px solid var(--cp-border-strong);
+        border-radius: 10px;
+        background: var(--cp-surface);
+        color: var(--cp-text);
+        font: inherit;
+        padding: 10px 12px;
+        box-sizing: border-box;
+      }
+
+      .search-empty {
+        display: none;
+        margin: 10px 0 0;
+        color: var(--cp-text-muted);
+      }
+
+      .search-empty.is-visible {
+        display: block;
+      }
+
       @media (max-width: 700px) {
         .wrap {
           padding: 14px;
@@ -331,6 +394,10 @@
 
         .title {
           font-size: 1.5rem;
+        }
+
+        .trip-details {
+          gap: 10px;
         }
       }
 
@@ -382,20 +449,42 @@
     <canvas id="scheduleWebglBg" class="webgl-bg" aria-hidden="true"></canvas>
     <main class="wrap">
       <section class="hero">
-        <h1 class="title">Japan 2026 Visual Day Planner</h1>
-        <p class="subtitle">
-          Fast visual scan of each day with start/end city and three time
-          blocks: Morning, Day, Night.
-        </p>
+        <h1 class="title">🗾 Japan Trip 2026</h1>
+        <p class="subtitle">Visual Day-by-Day Planner</p>
+        <div class="trip-details">
+          <div class="detail-item">
+            <div class="detail-label">Duration</div>
+            <div class="detail-value">10 Days</div>
+          </div>
+          <div class="detail-item">
+            <div class="detail-label">Dates</div>
+            <div class="detail-value">May 24 – Jun 3</div>
+          </div>
+          <div class="detail-item">
+            <div class="detail-label">Cities</div>
+            <div class="detail-value">Tokyo • Kyoto • Osaka</div>
+          </div>
+        </div>
         <div class="route">
           <span class="city-chip city-tokyo">Tokyo (Start)</span>
-          <span class="arrow">-></span>
+          <span class="arrow">→</span>
           <span class="city-chip city-kyoto">Kyoto</span>
-          <span class="arrow">-></span>
+          <span class="arrow">→</span>
           <span class="city-chip city-osaka">Osaka</span>
-          <span class="arrow">-></span>
+          <span class="arrow">→</span>
           <span class="city-chip city-tokyo">Tokyo (Departure)</span>
         </div>
+      </section>
+
+      <section class="site-search" aria-label="Filter trip days">
+        <label for="daySearch">Find trip info fast</label>
+        <input
+          id="daySearch"
+          type="search"
+          placeholder="Search Nara, Fushimi, Shibuya, Shinkansen, Haneda..."
+          autocomplete="off"
+        />
+        <p class="search-empty" id="searchEmpty">No matching days found.</p>
       </section>
 
       <section
@@ -709,6 +798,28 @@
         });
 
         cards.appendChild(card);
+      });
+
+      const daySearch = document.getElementById("daySearch");
+      const searchEmpty = document.getElementById("searchEmpty");
+
+      daySearch.addEventListener("input", (e) => {
+        const q = e.target.value.trim().toLowerCase();
+        let visible = 0;
+        document.querySelectorAll(".day-card").forEach((card, i) => {
+          const day = days[i];
+          const brief = dailyBriefs[i];
+          const text = [
+            day.dayLabel, day.title, day.date,
+            day.startCity, day.endCity,
+            day.morning, day.daytime, day.night, day.note,
+            brief.today, brief.next, brief.backup, brief.ops,
+          ].join(" ").toLowerCase();
+          const show = !q || text.includes(q);
+          card.style.display = show ? "" : "none";
+          if (show) visible++;
+        });
+        searchEmpty.classList.toggle("is-visible", visible === 0);
       });
 
     </script>
