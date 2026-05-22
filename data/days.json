@@ -16,7 +16,7 @@
       "🚗 Drive from Narberth PA to SNAP Parking: 1 hr 47 min (99.3 miles). SNAP valet transfer to EWR Terminal C: ~10 min.",
       "✈️ Flight: UA131 (EWR → HND), approx. 14 hours.",
       "🛂 Arrival flow: Visit Japan Web QR → ATM → bus ticket counter.",
-      "🚌 Limousine Bus (HND → Keio Plaza): Buy ticket at the Arrivals Lobby counter (look for 'Airport Limousine' signs). Cost ~¥1,300. Journey ~75 min to Keio Plaza Hotel Shinjuku stop. Buses run every 20–30 min. No reservation needed — pay at counter.",
+      "🚌 Limousine Bus (HND → Keio Plaza): ~¥1,300, ~75 min. Buy at Arrivals Lobby counter — no reservation needed.",
       "🏨 Hotel: Keio Plaza Hotel (Shinjuku).",
       "🎯 Goal: survive travel day and minimize decision fatigue."
     ],
@@ -396,8 +396,6 @@
     "startCityClass": "city-kyoto",
     "endCityClass": "city-kyoto",
     "transfer": "",
-    "splitDay": true,
-    "splitNote": "",
     "morning": "Make Nara the top priority: use Kyoto Station as the launch point, take Kintetsu to Nara, then focus on Nara Park and Todai-ji before crowds build.",
     "daytime": "Keep the Nara loop compact with deer, the Great Buddha, Nakatanidou mochi, and lunch before returning to Kyoto mid-afternoon.",
     "night": "Take the Kyoto evening slowly: Kiyomizu-dera, Sannenzaka and Ninenzaka, and golden-hour Gion.",
