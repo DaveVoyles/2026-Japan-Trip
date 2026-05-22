@@ -336,7 +336,12 @@
       "Abeno Harukas"
     ]
   },
-  "dotonbori-food-tour": "Dotonbori Street Food Tour",
+  "dotonbori-food-tour": {
+    "name": "Dotonbori Street Food Tour",
+    "aliases": [
+      "Dotonbori Street Food"
+    ]
+  },
   "mizuno-okonomiyaki": "Mizuno Okonomiyaki",
   "nijo-castle": "Nijo Castle",
   "rikuro-ojisan": "Rikuro Ojisan Cheesecake",

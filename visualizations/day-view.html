@@ -547,7 +547,6 @@
             }));
           })
           .sort((a, b) => b.name.length - a.name.length);
-        const linkedCityGuideIds = new Set();
 
         function escapeHtml(value) {
           return String(value).replace(
@@ -578,7 +577,6 @@
           let bestMatch = null;
 
           cityGuideLinks.forEach((link) => {
-            if (linkedCityGuideIds.has(link.id)) return;
             if (link.suppressedBy.some((id) => presentCityGuideIds.has(id))) return;
 
             let index = lowerText.indexOf(link.lowerName);
@@ -661,7 +659,6 @@
             );
             result += escapeHtml(remaining.slice(0, match.index));
             result += `<a href="../city-guide.html#${match.link.id}" class="guide-link">${escapeHtml(matchedText)}</a>`;
-            linkedCityGuideIds.add(match.link.id);
             remaining = remaining.slice(match.index + match.link.name.length);
           }
 
