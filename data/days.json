@@ -490,11 +490,9 @@
     "night": "Lean into Osaka's neon core: takoyaki, Glico sign photos, and Hozenji Yokocho for an older-lane contrast to the main strip.",
     "details": [
       "🏨 Hotel shift: Cross Hotel Kyoto Kawaramachi → Cross Hotel Osaka Dotonbori.",
-      "🚇 Best transfer: Hankyu Kyoto Line from Kyoto-Kawaramachi Station (3-min walk from hotel) to Osaka-Umeda (~43 min, ¥430), then Osaka Metro Midosuji Line to Namba (~5 min, ¥180). Total: ~50 min, ~¥610.",
-      "🧳 Luggage forwarding: request takkyubin at hotel front desk the night before (~¥1,000–1,500/bag). Bags arrive at Cross Hotel Osaka by afternoon — travel hands-free on the train.",
-      "🕒 Cross Hotel Osaka check-in is typically 3 PM; if arriving earlier, hotel holds bags. Dotonbori is a 5-min walk from the hotel.",
-      "⛩️ Treat morning (Fushimi Inari) as the highlight, but keep it shallow if Day 6 ran long.",
-      "✂️ First cut if tired: shorten Fushimi Inari to the lower torii loop and protect checkout/transfer timing."
+      "🚇 Transfer: Hankyu Kyoto Line from Kyoto-Kawaramachi → Osaka-Umeda (~43 min, ¥430), then Metro to Namba (~5 min, ¥180). Total ~50 min, ~¥610.",
+      "🧳 Luggage forwarding: request takkyubin at the hotel front desk the night before (~¥1,000–1,500/bag). Bags arrive at Cross Hotel Osaka by afternoon.",
+      "⛩️ Treat Fushimi Inari as the morning highlight; shorten to lower torii loop if Day 6 ran long."
     ],
     "note": "Second city move with a high-energy Osaka arrival.",
     "brief": {
@@ -515,11 +513,11 @@
       },
       {
         "time": "11:00 AM",
-        "activity": "Check out of Cross Hotel Kyoto. Luggage plan A (recommended): Request takkyubin pickup at the hotel desk the night before (~¥1,000–1,500/bag, same-chain delivery to Cross Hotel Osaka Dotonbori, arrives afternoon). Luggage plan B: Leave bags at front desk until checkout, then carry them to Osaka."
+        "activity": "Check out of Cross Hotel Kyoto."
       },
       {
         "time": "12:00 PM",
-        "activity": "Transfer: Kyoto → Osaka. Best route: Walk ~3 min to Kyoto-Kawaramachi Station → Hankyu Kyoto Line direct to Osaka-Umeda (~43 min, ¥430) → Osaka Metro Midosuji Line: Umeda → Namba (~5 min, ¥180). Total: ~50 min, ~¥610. Alt: JR from Kyoto Station to Osaka Station (~27 min, ¥570) — requires taxi/bus to Kyoto Station first. Luggage: If forwarded via takkyubin the night before, bags are waiting at Cross Hotel Osaka. Otherwise hotel can hold bags until check-in."
+        "activity": "Transfer to Osaka: Kyoto-Kawaramachi Station → Hankyu Kyoto Line → Osaka-Umeda (~43 min, ¥430) → Metro to Namba (~5 min, ¥180). Total: ~50 min, ~¥610."
       },
       {
         "time": "03:00 PM",
