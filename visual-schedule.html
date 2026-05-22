@@ -377,6 +377,40 @@
         box-sizing: border-box;
       }
 
+      .search-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 10px;
+      }
+
+      .search-link {
+        display: inline-flex;
+        flex-direction: column;
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        background: var(--cp-surface);
+        color: var(--cp-text);
+        padding: 8px 12px;
+        text-decoration: none;
+        font-size: 0.9rem;
+        transition: border-color 0.2s ease;
+      }
+
+      .search-link:hover {
+        border-color: var(--cp-accent);
+      }
+
+      .search-link strong {
+        display: block;
+        margin-bottom: 2px;
+      }
+
+      .search-link span {
+        color: var(--cp-text-muted);
+        font-size: 0.82rem;
+      }
+
       .search-empty {
         display: none;
         margin: 10px 0 0;
@@ -484,6 +518,7 @@
           placeholder="Search Nara, Fushimi, Shibuya, Shinkansen, Haneda..."
           autocomplete="off"
         />
+        <div class="search-links" id="searchLinks"></div>
         <p class="search-empty" id="searchEmpty">No matching days found.</p>
       </section>
 
@@ -802,6 +837,34 @@
 
       const daySearch = document.getElementById("daySearch");
       const searchEmpty = document.getElementById("searchEmpty");
+      const searchLinksEl = document.getElementById("searchLinks");
+
+      const pageLinks = [
+        {
+          title: "Bookings Status",
+          href: "bookings-status.html",
+          description: "Hotels, flights, trains, dining, attractions.",
+          keywords: "booking reservation hotel flight train smartex kichi shibuya sky confirmation nara haneda shinagawa keio plaza shinagawa prince",
+        },
+        {
+          title: "Essential Apps",
+          href: "essential-apps.html",
+          description: "Family phone setup, app links, eSIM, Translate.",
+          keywords: "apps phone esim ubigi google maps translate navitime line chargespot wallet paypay",
+        },
+        {
+          title: "City Guide",
+          href: "city-guide.html",
+          description: "Tokyo, Kyoto, Osaka neighborhoods and city planning.",
+          keywords: "city guide tokyo kyoto osaka nara neighborhood shopping shrine temple gion dotonbori shinjuku harajuku ginza",
+        },
+        {
+          title: "Transit Guide",
+          href: "transit-guide.html",
+          description: "IC cards, Shinkansen, subway, SmartEX.",
+          keywords: "transit train subway ic card suica pasmo shinkansen nozomi smartex jr tokaido",
+        },
+      ];
 
       daySearch.addEventListener("input", (e) => {
         const q = e.target.value.trim().toLowerCase();
@@ -819,7 +882,21 @@
           card.style.display = show ? "" : "none";
           if (show) visible++;
         });
-        searchEmpty.classList.toggle("is-visible", visible === 0);
+        searchEmpty.classList.toggle("is-visible", q && visible === 0);
+
+        searchLinksEl.replaceChildren();
+        if (q) {
+          const matches = pageLinks.filter((p) =>
+            `${p.title} ${p.description} ${p.keywords}`.toLowerCase().includes(q)
+          );
+          matches.forEach((p) => {
+            const a = document.createElement("a");
+            a.className = "search-link";
+            a.href = p.href;
+            a.innerHTML = `<strong>${p.title}</strong><span>${p.description}</span>`;
+            searchLinksEl.appendChild(a);
+          });
+        }
       });
 
     </script>
