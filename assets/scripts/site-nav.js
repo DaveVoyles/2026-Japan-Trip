@@ -11,6 +11,10 @@
     { name: "Home", href: "index.html" },
     { name: "Apps", href: "essential-apps.html" },
     { name: "City Guide", href: "city-guide.html" },
+    { name: "Transit", href: "transit-guide.html" },
+    { name: "Phrases", href: "phrases.html" },
+    { name: "Print", href: "print-itinerary.html" },
+    { name: "Packing", href: "packing-list.html" },
     { name: "Bookings", href: "bookings-status.html" },
   ];
   const githubUrl = "https://github.com/DaveVoyles/2026-Japan-Trip-site/tree/main";
@@ -111,7 +115,7 @@
   nav.innerHTML = `
     <div class="site-nav__inner">
       <div class="site-nav__brand">Japan Trip 2026</div>
-      <div class="site-nav__freshness" title="Reload once on Wi-Fi after itinerary changes so offline pages are current.">Updated May 21</div>
+      <div class="site-nav__freshness" title="Reload once on Wi-Fi after itinerary changes so offline pages are current.">Updated May 22</div>
       <button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-nav-links">
         Menu
       </button>

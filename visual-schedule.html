@@ -182,6 +182,43 @@
         border-width: 4px;
       }
 
+      .day-card[data-today="true"] {
+        border-color: var(--cp-success);
+        border-width: 3px;
+        box-shadow:
+          0 0 0 4px rgba(22, 163, 74, 0.15),
+          var(--cp-shadow);
+      }
+
+      .today-badge {
+        display: inline-block;
+        background: var(--cp-success);
+        color: #fff;
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        padding: 2px 7px;
+        border-radius: 4px;
+        margin-left: 8px;
+        vertical-align: middle;
+      }
+
+      .trip-status {
+        margin-top: 14px;
+        padding: 10px 16px;
+        background: var(--cp-surface);
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: var(--cp-text);
+        display: inline-block;
+      }
+
+      .trip-status.status-countdown { border-color: var(--cp-warning); color: var(--cp-warning); }
+      .trip-status.status-active    { border-color: var(--cp-success); color: var(--cp-success); }
+      .trip-status.status-done      { border-color: var(--cp-accent);  color: var(--cp-accent);  }
+
       .head {
         padding: 12px;
         border-bottom: 1px solid var(--cp-border);
@@ -421,6 +458,153 @@
         display: block;
       }
 
+      /* ── Trip Overview Map ── */
+      .trip-map {
+        border: 1px solid var(--cp-border);
+        border-radius: 16px;
+        background: var(--cp-panel-strong);
+        box-shadow: var(--cp-shadow);
+        margin-bottom: 20px;
+        overflow: hidden;
+      }
+
+      .trip-map summary {
+        padding: 12px 18px;
+        cursor: pointer;
+        font-weight: 700;
+        font-size: 0.9rem;
+        color: var(--cp-text-muted);
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        list-style: none;
+        user-select: none;
+      }
+
+      .trip-map summary::-webkit-details-marker { display: none; }
+
+      .trip-map summary::after {
+        content: "▸";
+        margin-left: auto;
+        font-size: 0.8rem;
+        transition: transform 0.2s;
+      }
+
+      .trip-map[open] summary::after { transform: rotate(90deg); }
+
+      .trip-map summary:hover { color: var(--cp-text); }
+
+      .map-body {
+        padding: 12px 18px 16px;
+        border-top: 1px solid var(--cp-border);
+        overflow-x: auto;
+      }
+
+      .route-map {
+        min-width: 600px;
+        display: flex;
+        align-items: center;
+        gap: 0;
+        padding: 8px 0;
+      }
+
+      .route-node {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 4px;
+        flex-shrink: 0;
+      }
+
+      .node-dot {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.1rem;
+        font-weight: 700;
+        border: 2px solid transparent;
+        flex-shrink: 0;
+      }
+
+      .node-dot.plane { background: #1a1a2e; color: #fff; border-color: #4f8ef7; }
+      .node-dot.tokyo { background: var(--cp-accent); color: var(--cp-accent-fg); }
+      .node-dot.kyoto { background: #8b6914; color: #fff; }
+      .node-dot.osaka { background: #c0392b; color: #fff; }
+
+      .node-label {
+        font-size: 0.7rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        color: var(--cp-text-muted);
+        text-align: center;
+        line-height: 1.2;
+      }
+
+      .node-date {
+        font-size: 0.68rem;
+        color: var(--cp-text-soft);
+        text-align: center;
+      }
+
+      .route-segment {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 4px;
+        padding: 0 4px;
+        flex-shrink: 1;
+        min-width: 60px;
+      }
+
+      .segment-line {
+        height: 2px;
+        width: 100%;
+        border-radius: 1px;
+      }
+
+      .segment-line.flight { background: #4f8ef7; }
+      .segment-line.shinkansen { background: #27ae60; }
+      .segment-line.local { background: var(--cp-text-muted); }
+
+      .segment-label {
+        font-size: 0.65rem;
+        color: var(--cp-text-soft);
+        text-align: center;
+        white-space: nowrap;
+      }
+
+      .map-legend {
+        display: flex;
+        gap: 14px;
+        margin-top: 12px;
+        font-size: 0.75rem;
+        color: var(--cp-text-muted);
+        flex-wrap: wrap;
+      }
+
+      .legend-item {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+
+      .legend-line {
+        width: 22px;
+        height: 2px;
+        border-radius: 1px;
+      }
+
+      @media (max-width: 700px) {
+        .trip-map { margin-bottom: 16px; }
+      }
+
+      /* ── end Trip Overview Map ── */
+
       @media (max-width: 700px) {
         .wrap {
           padding: 14px;
@@ -499,6 +683,7 @@
             <div class="detail-value">Tokyo • Kyoto • Osaka</div>
           </div>
         </div>
+        <div id="trip-status" class="trip-status" aria-live="polite"></div>
         <div class="route">
           <span class="city-chip city-tokyo">Tokyo (Start)</span>
           <span class="arrow">→</span>
@@ -509,6 +694,70 @@
           <span class="city-chip city-tokyo">Tokyo (Departure)</span>
         </div>
       </section>
+
+      <!-- Trip Overview Route Map -->
+      <details class="trip-map" id="routeMapPanel">
+        <summary>🗺️ Trip Overview Map</summary>
+        <div class="map-body">
+          <div class="route-map">
+            <div class="route-node">
+              <div class="node-dot plane">✈️</div>
+              <div class="node-label">Newark<br>EWR</div>
+              <div class="node-date">May 24</div>
+            </div>
+            <div class="route-segment">
+              <div class="segment-line flight"></div>
+              <div class="segment-label">✈️ EWR→NRT<br>~14h UA 79</div>
+            </div>
+            <div class="route-node">
+              <div class="node-dot tokyo">東</div>
+              <div class="node-label">Tokyo<br>Shinjuku</div>
+              <div class="node-date">May 25–29</div>
+            </div>
+            <div class="route-segment">
+              <div class="segment-line shinkansen"></div>
+              <div class="segment-label">🚅 Shinkansen<br>Hikari ~2h45</div>
+            </div>
+            <div class="route-node">
+              <div class="node-dot kyoto">京</div>
+              <div class="node-label">Kyoto<br>Cross Hotel</div>
+              <div class="node-date">May 29–31</div>
+            </div>
+            <div class="route-segment">
+              <div class="segment-line local"></div>
+              <div class="segment-label">🚃 JR/Hankyu<br>~30–40 min</div>
+            </div>
+            <div class="route-node">
+              <div class="node-dot osaka">浪</div>
+              <div class="node-label">Osaka<br>Dotonbori</div>
+              <div class="node-date">May 31–Jun 2</div>
+            </div>
+            <div class="route-segment">
+              <div class="segment-line shinkansen"></div>
+              <div class="segment-label">🚅 Shinkansen<br>~2h15</div>
+            </div>
+            <div class="route-node">
+              <div class="node-dot tokyo">東</div>
+              <div class="node-label">Tokyo<br>Shinagawa</div>
+              <div class="node-date">Jun 2–3</div>
+            </div>
+            <div class="route-segment">
+              <div class="segment-line flight"></div>
+              <div class="segment-label">✈️ NRT→EWR<br>~13h UA 78</div>
+            </div>
+            <div class="route-node">
+              <div class="node-dot plane">🏠</div>
+              <div class="node-label">Newark<br>Home</div>
+              <div class="node-date">Jun 3</div>
+            </div>
+          </div>
+          <div class="map-legend">
+            <div class="legend-item"><div class="legend-line" style="background:#4f8ef7"></div> International flight</div>
+            <div class="legend-item"><div class="legend-line" style="background:#27ae60"></div> Shinkansen (bullet train)</div>
+            <div class="legend-item"><div class="legend-line" style="background:var(--cp-text-muted)"></div> Local rail</div>
+          </div>
+        </div>
+      </details>
 
       <section class="site-search" aria-label="Filter trip days">
         <label for="daySearch">Find trip info fast</label>
@@ -835,6 +1084,53 @@
         cards.appendChild(card);
       });
 
+      // --- Countdown / Today Detection ---
+      (function () {
+        const TRIP_START = new Date("2026-05-24T00:00:00");
+        const TRIP_END   = new Date("2026-06-03T23:59:59");
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+
+        const statusEl = document.getElementById("trip-status");
+
+        function toISODate(d) {
+          return d.toISOString().slice(0, 10);
+        }
+        const todayStr = toISODate(today);
+
+        if (today < TRIP_START) {
+          const msLeft = TRIP_START - today;
+          const daysLeft = Math.ceil(msLeft / 86400000);
+          statusEl.textContent = daysLeft === 1
+            ? "✈️ Departure tomorrow!"
+            : `✈️ ${daysLeft} days until departure`;
+          statusEl.className = "trip-status status-countdown";
+        } else if (today <= TRIP_END) {
+          const todayIndex = days.findIndex(d => d.startDate === todayStr);
+          const card = todayIndex >= 0
+            ? document.querySelectorAll(".day-card")[todayIndex]
+            : null;
+
+          if (card) {
+            card.dataset.today = "true";
+            const dayNumEl = card.querySelector(".day-number");
+            if (dayNumEl) {
+              dayNumEl.insertAdjacentHTML("beforeend", '<span class="today-badge">TODAY</span>');
+            }
+            statusEl.textContent = `📍 Today: ${days[todayIndex].dayLabel} — ${days[todayIndex].title}`;
+            statusEl.className = "trip-status status-active";
+            // Scroll the today card into view after a brief delay
+            setTimeout(() => card.scrollIntoView({ behavior: "smooth", block: "center" }), 600);
+          } else {
+            statusEl.textContent = "📍 Trip is active — enjoy Japan!";
+            statusEl.className = "trip-status status-active";
+          }
+        } else {
+          statusEl.textContent = "🎌 Trip complete — welcome home!";
+          statusEl.className = "trip-status status-done";
+        }
+      })();
+
       const daySearch = document.getElementById("daySearch");
       const searchEmpty = document.getElementById("searchEmpty");
       const searchLinksEl = document.getElementById("searchLinks");
@@ -863,6 +1159,24 @@
           href: "transit-guide.html",
           description: "IC cards, Shinkansen, subway, SmartEX.",
           keywords: "transit train subway ic card suica pasmo shinkansen nozomi smartex jr tokaido",
+        },
+        {
+          title: "Japanese Phrases",
+          href: "phrases.html",
+          description: "Survival phrases: greetings, directions, food, shopping, emergencies.",
+          keywords: "phrases japanese language sumimasen arigatou konnichiwa directions food shopping emergency numbers signs",
+        },
+        {
+          title: "Print Itinerary",
+          href: "print-itinerary.html",
+          description: "Full 10-day itinerary — print or save as PDF.",
+          keywords: "print itinerary pdf full schedule timeline all days",
+        },
+        {
+          title: "Packing Checklist",
+          href: "packing-list.html",
+          description: "Interactive packing checklist with progress tracking.",
+          keywords: "packing checklist luggage documents clothes tech japan items",
         },
       ];
 

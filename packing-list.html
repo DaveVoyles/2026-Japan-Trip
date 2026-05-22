@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Packing Checklist — Japan 2026</title>
+    <script src="assets/scripts/theme.js?v=20260507d"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css?v=20260507d" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="assets/scripts/site-nav.js?v=20260521a"></script>
+    <style>
+      :root {
+        --guide-accent-border: var(--cp-accent);
+        --guide-accent-bg: var(--cp-accent-soft);
+        --guide-accent-text: var(--cp-accent);
+      }
+
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+        line-height: 1.5;
+        color: var(--cp-text);
+        background: var(--cp-bg);
+      }
+
+      .guide {
+        max-width: 700px;
+        margin: 20px auto;
+        background: var(--cp-surface);
+        padding: 24px;
+        border-radius: 8px;
+        border: 1px solid var(--cp-border);
+        box-shadow: var(--cp-shadow);
+      }
+
+      .header {
+        border-bottom: 3px solid var(--guide-accent-border);
+        padding-bottom: 12px;
+        margin-bottom: 18px;
+      }
+
+      h1 { font-size: 1.5rem; margin-bottom: 4px; color: var(--guide-accent-text); }
+      .subtitle { font-size: 0.85rem; color: var(--cp-text-muted); }
+
+      h2 {
+        font-size: 1rem;
+        margin: 20px 0 8px;
+        color: var(--cp-text);
+        border-left: 3px solid var(--guide-accent-border);
+        padding-left: 10px;
+      }
+
+      .tip {
+        background: var(--guide-accent-bg);
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 0.85rem;
+        margin: 10px 0 14px;
+        border-left: 3px solid var(--guide-accent-border);
+      }
+
+      .checklist {
+        list-style: none;
+        margin-bottom: 6px;
+      }
+
+      .checklist li {
+        display: flex;
+        align-items: flex-start;
+        gap: 10px;
+        padding: 6px 0;
+        border-bottom: 1px solid var(--cp-border);
+        font-size: 0.9rem;
+        cursor: pointer;
+        user-select: none;
+      }
+
+      .checklist li:last-child { border-bottom: none; }
+
+      .checklist input[type="checkbox"] {
+        margin-top: 2px;
+        width: 16px;
+        height: 16px;
+        flex-shrink: 0;
+        accent-color: var(--cp-accent);
+        cursor: pointer;
+      }
+
+      .checklist li.checked {
+        color: var(--cp-text-muted);
+        text-decoration: line-through;
+      }
+
+      .item-label { flex: 1; }
+
+      .item-note {
+        font-size: 0.78rem;
+        color: var(--cp-text-soft);
+        font-style: italic;
+        display: block;
+        margin-top: 1px;
+      }
+
+      .progress-bar-wrap {
+        background: var(--cp-border);
+        border-radius: 6px;
+        height: 8px;
+        margin: 14px 0 4px;
+        overflow: hidden;
+      }
+
+      .progress-bar {
+        height: 100%;
+        background: var(--cp-success);
+        border-radius: 6px;
+        transition: width 0.3s ease;
+      }
+
+      .progress-label {
+        font-size: 0.82rem;
+        color: var(--cp-text-muted);
+        margin-bottom: 16px;
+      }
+
+      .reset-btn {
+        background: none;
+        border: 1px solid var(--cp-border-strong);
+        border-radius: 6px;
+        padding: 5px 12px;
+        font: inherit;
+        font-size: 0.82rem;
+        color: var(--cp-text-muted);
+        cursor: pointer;
+        margin-top: 16px;
+      }
+
+      .reset-btn:hover { border-color: var(--cp-accent); color: var(--cp-accent); }
+
+      a { color: var(--cp-link); }
+      a:hover { color: var(--cp-accent-hover); }
+
+      .divider { border-bottom: 1px solid var(--cp-border); margin: 18px 0; }
+
+      .back-link { display: inline-block; margin-top: 18px; font-size: 0.85rem; }
+
+      @media (max-width: 700px) { .guide { margin: 12px auto; padding: 16px; } }
+
+      @media print {
+        body { background: var(--cp-surface); }
+        .guide { box-shadow: none; max-width: 100%; margin: 0; }
+        .reset-btn, .progress-bar-wrap, .progress-label { display: none; }
+        input[type="checkbox"] { -webkit-print-color-adjust: exact; }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <div class="guide">
+      <div class="header">
+        <h1>🧳 Japan Trip — Packing Checklist</h1>
+        <p class="subtitle">Check items as you pack. Progress is saved in your browser.</p>
+      </div>
+
+      <div class="progress-bar-wrap" aria-hidden="true">
+        <div class="progress-bar" id="progressBar" style="width:0%"></div>
+      </div>
+      <p class="progress-label" id="progressLabel">0 of 0 items packed</p>
+
+      <div class="tip">
+        💡 <strong>Japan-specific notes:</strong> Leave room for souvenirs — Japan vacuum bags work well. Many stores don't bag purchases by default anymore. Bring cash for small shrines and markets. Keep passport accessible for tax-free shopping.
+      </div>
+
+      <section>
+        <h2>🛂 Documents & Money</h2>
+        <ul class="checklist" id="list-documents">
+          <li><input type="checkbox"><span class="item-label">Passport <span class="item-note">Valid for 6+ months past departure; needed for tax-free shopping</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Credit / debit cards <span class="item-note">Visa/Mastercard work widely; notify your bank before you go</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Cash in JPY <span class="item-note">¥50,000–¥70,000 is a reasonable starting amount; ATMs at 7-Eleven and Japan Post accept foreign cards</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Travel insurance info / card</span></li>
+          <li><input type="checkbox"><span class="item-label">Klook bookings printed or downloaded offline</span></li>
+          <li><input type="checkbox"><span class="item-label">Visit Japan Web QR code saved/printed <span class="item-note">Pre-register customs/immigration declaration</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Hotel confirmation numbers saved offline</span></li>
+          <li><input type="checkbox"><span class="item-label">Flight ticket / boarding pass</span></li>
+          <li><input type="checkbox"><span class="item-label">SmartEX / Shinkansen reservations</span></li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section>
+        <h2>📱 Tech & Connectivity</h2>
+        <ul class="checklist" id="list-tech">
+          <li><input type="checkbox"><span class="item-label">Ubigi eSIM activated and tested <span class="item-note">Activate before departure; needs WiFi at first connection</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Phone charger(s)</span></li>
+          <li><input type="checkbox"><span class="item-label">Portable battery pack (power bank) <span class="item-note">Long temple/park days drain battery fast; 10,000mAh minimum</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Universal adapter / Type A plug <span class="item-note">Japan uses Type A (same as US) — no adapter needed if traveling from US, but check all gear</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Earbuds or headphones</span></li>
+          <li><input type="checkbox"><span class="item-label">Camera or extra phone lens</span></li>
+          <li><input type="checkbox"><span class="item-label">Extra USB cables</span></li>
+          <li><input type="checkbox"><span class="item-label">Google Translate downloaded for offline Japanese <span class="item-note">Download Japanese language pack before flying</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Google Maps offline areas downloaded <span class="item-note">Download Tokyo, Kyoto, and Osaka before flying</span></span></li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section>
+        <h2>👗 Clothing</h2>
+        <div class="tip">🌡️ Late May is warm (22–28°C / 72–82°F) and occasionally rainy. Light layers are key. Temples/shrines may require covered shoulders or removing shoes.</div>
+        <ul class="checklist" id="list-clothing">
+          <li><input type="checkbox"><span class="item-label">T-shirts (light, moisture-wicking) <span class="item-note">5–7 depending on laundry access; coin laundry is everywhere in Japan</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Pants/shorts (2–3 pairs)</span></li>
+          <li><input type="checkbox"><span class="item-label">One smart/semi-formal outfit <span class="item-note">For nicer restaurants, kaiseki, or Pontocho</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Light rain jacket / compact umbrella <span class="item-note">Konbini (convenience stores) sell cheap umbrellas if you forget</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Comfortable walking shoes <span class="item-note">You will walk 15,000–25,000 steps a day; break them in beforehand</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Slip-on shoes or sandals <span class="item-note">Many temples require removing shoes; slip-ons save time</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Socks (plenty) <span class="item-note">Removed at many temple interiors; clean socks required</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Underwear</span></li>
+          <li><input type="checkbox"><span class="item-label">Sleepwear / loungewear</span></li>
+          <li><input type="checkbox"><span class="item-label">Small daypack or fanny pack <span class="item-note">Leave luggage at hotel coin lockers; carry only what you need daily</span></span></li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section>
+        <h2>💊 Health & Toiletries</h2>
+        <div class="tip">🏥 Japan's pharmacies (Matsumoto Kiyoshi, etc.) sell most Western equivalents. Bring prescription meds from home — foreign prescriptions are not filled in Japan.</div>
+        <ul class="checklist" id="list-health">
+          <li><input type="checkbox"><span class="item-label">Prescription medications (full supply + a few extra days)</span></li>
+          <li><input type="checkbox"><span class="item-label">Ibuprofen / pain relief</span></li>
+          <li><input type="checkbox"><span class="item-label">Antidiarrheal / stomach medication</span></li>
+          <li><input type="checkbox"><span class="item-label">Motion sickness tablets <span class="item-note">For winding bus roads in Arashiyama, etc.</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Sunscreen SPF 50+ <span class="item-note">Sold in Japan but buy before leaving; easier and cheaper</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Insect repellent</span></li>
+          <li><input type="checkbox"><span class="item-label">Toothbrush + toothpaste</span></li>
+          <li><input type="checkbox"><span class="item-label">Deodorant <span class="item-note">Western strength deodorant is hard to find in Japan; bring your own</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Shampoo / conditioner (or plan to buy at konbini)</span></li>
+          <li><input type="checkbox"><span class="item-label">Razor</span></li>
+          <li><input type="checkbox"><span class="item-label">Hand sanitizer + travel wipes</span></li>
+          <li><input type="checkbox"><span class="item-label">Small pack of pocket tissues <span class="item-note">Many Japanese public restrooms don't have paper towels</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Lip balm</span></li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section>
+        <h2>🎒 Day-Trip Essentials</h2>
+        <ul class="checklist" id="list-day">
+          <li><input type="checkbox"><span class="item-label">Reusable tote bag <span class="item-note">Japan charges for plastic bags; a compact tote saves ¥5 per shop</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Reusable water bottle <span class="item-note">Water fountains are common at shrines and parks; vending machines are everywhere for ¥150</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Small umbrella <span class="item-note">Compressible travel umbrella — late May can be rainy</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Neck pouch / passport holder <span class="item-note">For passport (needed for tax-free shopping) and IC card</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Suica / IC card set up on phone (or physical card)</span></li>
+          <li><input type="checkbox"><span class="item-label">Coin purse <span class="item-note">Japan uses coins heavily — ¥100 and ¥500 coins add up fast at vending machines and shrines</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Snacks for travel days</span></li>
+        </ul>
+      </section>
+
+      <div class="divider"></div>
+
+      <section>
+        <h2>📦 Luggage & Organization</h2>
+        <ul class="checklist" id="list-luggage">
+          <li><input type="checkbox"><span class="item-label">Main suitcase / checked bag</span></li>
+          <li><input type="checkbox"><span class="item-label">Carry-on bag</span></li>
+          <li><input type="checkbox"><span class="item-label">Luggage lock (TSA-approved)</span></li>
+          <li><input type="checkbox"><span class="item-label">Luggage tag with contact info</span></li>
+          <li><input type="checkbox"><span class="item-label">Compression/vacuum bags for souvenirs <span class="item-note">Japan purchases will add volume; vacuum bags on the return are very useful</span></span></li>
+          <li><input type="checkbox"><span class="item-label">Packing cubes or zip-lock bags for organization</span></li>
+          <li><input type="checkbox"><span class="item-label">Separate bag for dirty laundry</span></li>
+        </ul>
+      </section>
+
+      <button class="reset-btn" id="resetBtn">↺ Reset all checkboxes</button>
+      <br>
+      <a class="back-link" href="visual-schedule.html">← Back to Visual Planner</a>
+    </div>
+
+    <script>
+      const STORAGE_KEY = "japan2026_packing";
+
+      function getState() {
+        try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
+        catch { return {}; }
+      }
+
+      function saveState(state) {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+      }
+
+      function updateProgress() {
+        const all = document.querySelectorAll(".checklist input[type='checkbox']");
+        const checked = document.querySelectorAll(".checklist input[type='checkbox']:checked");
+        const pct = all.length ? Math.round((checked.length / all.length) * 100) : 0;
+        document.getElementById("progressBar").style.width = pct + "%";
+        document.getElementById("progressLabel").textContent =
+          `${checked.length} of ${all.length} items packed (${pct}%)`;
+      }
+
+      // Load saved state
+      const saved = getState();
+      document.querySelectorAll(".checklist").forEach(list => {
+        const listId = list.id;
+        list.querySelectorAll("input[type='checkbox']").forEach((cb, i) => {
+          const key = `${listId}-${i}`;
+          if (saved[key]) {
+            cb.checked = true;
+            cb.closest("li").classList.add("checked");
+          }
+          cb.addEventListener("change", () => {
+            const state = getState();
+            state[key] = cb.checked;
+            saveState(state);
+            cb.closest("li").classList.toggle("checked", cb.checked);
+            updateProgress();
+          });
+          // Allow clicking anywhere on the row to toggle
+          cb.closest("li").addEventListener("click", (e) => {
+            if (e.target !== cb) cb.click();
+          });
+        });
+      });
+
+      document.getElementById("resetBtn").addEventListener("click", () => {
+        if (!confirm("Reset all checkboxes?")) return;
+        localStorage.removeItem(STORAGE_KEY);
+        document.querySelectorAll(".checklist input[type='checkbox']").forEach(cb => {
+          cb.checked = false;
+          cb.closest("li").classList.remove("checked");
+        });
+        updateProgress();
+      });
+
+      updateProgress();
+    </script>
+  </body>
+</html>

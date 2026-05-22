@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Print Itinerary — Japan 2026</title>
+    <script src="assets/scripts/theme.js?v=20260507d"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css?v=20260507d" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="assets/scripts/site-nav.js?v=20260521a"></script>
+    <style>
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+        line-height: 1.5;
+        color: var(--cp-text);
+        background: var(--cp-bg);
+        font-size: 0.9rem;
+      }
+
+      .wrap {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 0 16px 40px;
+      }
+
+      .page-header {
+        border-bottom: 3px solid var(--cp-accent);
+        padding-bottom: 14px;
+        margin-bottom: 24px;
+      }
+
+      .page-header h1 {
+        font-size: 1.6rem;
+        color: var(--cp-accent);
+        margin-bottom: 4px;
+      }
+
+      .page-header p {
+        color: var(--cp-text-muted);
+        font-size: 0.85rem;
+      }
+
+      .print-btn {
+        margin-top: 10px;
+        display: inline-block;
+        background: var(--cp-accent);
+        color: var(--cp-accent-fg);
+        border: none;
+        border-radius: 8px;
+        padding: 8px 18px;
+        font: inherit;
+        font-weight: 600;
+        font-size: 0.9rem;
+        cursor: pointer;
+        text-decoration: none;
+      }
+
+      .print-btn:hover { background: var(--cp-accent-hover); }
+
+      .day-block {
+        margin-bottom: 32px;
+        background: var(--cp-surface);
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        overflow: hidden;
+      }
+
+      .day-head {
+        background: var(--cp-bg-elevated);
+        padding: 12px 16px;
+        border-bottom: 2px solid var(--cp-accent);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 6px;
+      }
+
+      .day-label {
+        font-size: 0.8rem;
+        color: var(--cp-text-muted);
+        font-weight: 600;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+      }
+
+      .day-title {
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: var(--cp-text);
+      }
+
+      .day-date {
+        font-size: 0.85rem;
+        color: var(--cp-text-muted);
+      }
+
+      .day-body {
+        padding: 14px 16px;
+      }
+
+      .section-label {
+        font-size: 0.8rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: var(--cp-accent);
+        margin-bottom: 4px;
+        margin-top: 12px;
+      }
+
+      .section-label:first-child { margin-top: 0; }
+
+      .section-text {
+        color: var(--cp-text);
+        margin-bottom: 6px;
+      }
+
+      .timeline-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 6px 0;
+        font-size: 0.85rem;
+      }
+
+      .timeline-table td {
+        padding: 5px 8px;
+        vertical-align: top;
+        border-bottom: 1px solid var(--cp-border);
+      }
+
+      .timeline-table tr:last-child td { border-bottom: none; }
+
+      .timeline-table .time-col {
+        white-space: nowrap;
+        color: var(--cp-text-muted);
+        font-weight: 600;
+        width: 130px;
+      }
+
+      .details-list {
+        list-style: none;
+        margin: 4px 0 6px;
+      }
+
+      .details-list li {
+        padding: 3px 0;
+        border-bottom: 1px solid var(--cp-border);
+        font-size: 0.85rem;
+      }
+
+      .details-list li:last-child { border-bottom: none; }
+
+      .brief-row {
+        display: flex;
+        gap: 8px;
+        font-size: 0.82rem;
+        padding: 3px 0;
+        border-bottom: 1px solid var(--cp-border);
+      }
+
+      .brief-row:last-child { border-bottom: none; }
+
+      .brief-label {
+        font-weight: 700;
+        color: var(--cp-accent);
+        min-width: 55px;
+      }
+
+      .note-box {
+        background: var(--cp-accent-soft);
+        border-left: 3px solid var(--cp-accent);
+        padding: 6px 10px;
+        border-radius: 0 6px 6px 0;
+        font-size: 0.82rem;
+        margin-top: 8px;
+        color: var(--cp-text-muted);
+        font-style: italic;
+      }
+
+      .loading {
+        text-align: center;
+        padding: 40px;
+        color: var(--cp-text-muted);
+        font-size: 1rem;
+      }
+
+      .back-link {
+        display: inline-block;
+        margin-bottom: 16px;
+        font-size: 0.85rem;
+        color: var(--cp-link);
+      }
+
+      @media print {
+        body { background: #fff; color: #000; font-size: 9pt; }
+        .wrap { max-width: 100%; margin: 0; padding: 0 0 0; }
+        .page-header { page-break-after: avoid; }
+        .print-btn, .back-link, #site-nav, .skip-link { display: none !important; }
+        .day-block { break-inside: avoid; page-break-inside: avoid; margin-bottom: 18pt; border: 1px solid #ccc; }
+        .day-head { background: #f0f0f0 !important; -webkit-print-color-adjust: exact; }
+        .section-label { color: #b11f4b !important; -webkit-print-color-adjust: exact; }
+        .brief-label { color: #b11f4b !important; -webkit-print-color-adjust: exact; }
+        .note-box { background: #f9f0f3 !important; -webkit-print-color-adjust: exact; }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <div class="wrap" id="main-content">
+      <div class="page-header">
+        <h1>🗾 Japan 2026 — Full Itinerary</h1>
+        <p>10 days · May 24 – Jun 3 · Tokyo → Kyoto → Osaka → Tokyo</p>
+        <button class="print-btn" onclick="window.print()">🖨️ Print / Save as PDF</button>
+      </div>
+
+      <a class="back-link" href="visual-schedule.html">← Back to Visual Planner</a>
+
+      <div id="itinerary">
+        <div class="loading">⏳ Loading itinerary…</div>
+      </div>
+    </div>
+
+    <script>
+      fetch("data/days.json")
+        .then(r => r.json())
+        .then(days => {
+          const container = document.getElementById("itinerary");
+          container.innerHTML = days.map(day => {
+            const brief = day.brief || {};
+            const timeline = (day.timeline || []).map(t =>
+              `<tr><td class="time-col">${t.time}</td><td>${t.activity}</td></tr>`
+            ).join("");
+            const details = (day.details || []).map(d =>
+              `<li>${d}</li>`
+            ).join("");
+            return `
+              <div class="day-block">
+                <div class="day-head">
+                  <div>
+                    <div class="day-label">${day.dayLabel}</div>
+                    <div class="day-title">${day.title}</div>
+                  </div>
+                  <div class="day-date">${day.date}</div>
+                </div>
+                <div class="day-body">
+                  <div class="section-label">Morning</div>
+                  <p class="section-text">${day.morning || ''}</p>
+
+                  <div class="section-label">Daytime</div>
+                  <p class="section-text">${day.daytime || ''}</p>
+
+                  <div class="section-label">Night</div>
+                  <p class="section-text">${day.night || ''}</p>
+
+                  ${timeline ? `
+                  <div class="section-label">Timeline</div>
+                  <table class="timeline-table"><tbody>${timeline}</tbody></table>
+                  ` : ''}
+
+                  ${details ? `
+                  <div class="section-label">Logistics</div>
+                  <ul class="details-list">${details}</ul>
+                  ` : ''}
+
+                  <div class="section-label">Traveler Brief</div>
+                  <div>
+                    <div class="brief-row"><span class="brief-label">Today</span><span>${brief.today || ''}</span></div>
+                    <div class="brief-row"><span class="brief-label">Next</span><span>${brief.next || ''}</span></div>
+                    <div class="brief-row"><span class="brief-label">Backup</span><span>${brief.backup || ''}</span></div>
+                    <div class="brief-row"><span class="brief-label">Ops</span><span>${brief.ops || ''}</span></div>
+                  </div>
+
+                  ${day.note ? `<div class="note-box">${day.note}</div>` : ''}
+                </div>
+              </div>`;
+          }).join('');
+        })
+        .catch(err => {
+          document.getElementById("itinerary").innerHTML =
+            `<p style="color:var(--cp-danger);padding:20px">Failed to load itinerary: ${err.message}</p>`;
+        });
+    </script>
+  </body>
+</html>

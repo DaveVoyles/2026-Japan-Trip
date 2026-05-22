@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Japanese Phrases — Japan 2026</title>
+    <script src="assets/scripts/theme.js?v=20260507d"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css?v=20260507d" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="assets/scripts/site-nav.js?v=20260521a"></script>
+    <style>
+      :root {
+        --guide-accent-border: var(--cp-accent);
+        --guide-accent-bg: var(--cp-accent-soft);
+        --guide-accent-text: var(--cp-accent);
+      }
+
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+        line-height: 1.5;
+        color: var(--cp-text);
+        background: var(--cp-bg);
+      }
+
+      .guide {
+        max-width: 700px;
+        margin: 20px auto;
+        background: var(--cp-surface);
+        padding: 24px;
+        border-radius: 8px;
+        border: 1px solid var(--cp-border);
+        box-shadow: var(--cp-shadow);
+      }
+
+      .header {
+        border-bottom: 3px solid var(--guide-accent-border);
+        padding-bottom: 12px;
+        margin-bottom: 18px;
+      }
+
+      h1 { font-size: 1.5rem; margin-bottom: 4px; color: var(--guide-accent-text); }
+      .subtitle { font-size: 0.85rem; color: var(--cp-text-muted); }
+
+      h2 {
+        font-size: 1rem;
+        margin: 22px 0 10px;
+        color: var(--cp-text);
+        border-left: 3px solid var(--guide-accent-border);
+        padding-left: 10px;
+      }
+
+      .tip {
+        background: var(--guide-accent-bg);
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 0.85rem;
+        margin: 10px 0 16px;
+        border-left: 3px solid var(--guide-accent-border);
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 6px;
+        font-size: 0.88rem;
+      }
+
+      th {
+        text-align: left;
+        padding: 6px 10px;
+        background: var(--guide-accent-bg);
+        color: var(--guide-accent-text);
+        font-weight: 700;
+        border-bottom: 2px solid var(--guide-accent-border);
+      }
+
+      td {
+        padding: 7px 10px;
+        border-bottom: 1px solid var(--cp-border);
+        vertical-align: top;
+      }
+
+      tr:last-child td { border-bottom: none; }
+
+      .jp {
+        font-size: 1.05em;
+        font-weight: 600;
+        color: var(--cp-text);
+      }
+
+      .romaji {
+        font-style: italic;
+        color: var(--cp-text-muted);
+        font-size: 0.85em;
+      }
+
+      .meaning {
+        color: var(--cp-text);
+      }
+
+      .note {
+        font-size: 0.8em;
+        color: var(--cp-text-soft);
+        margin-top: 2px;
+      }
+
+      .divider {
+        border-bottom: 1px solid var(--cp-border);
+        margin: 20px 0;
+      }
+
+      .back-link {
+        display: inline-block;
+        margin-top: 18px;
+        font-size: 0.85rem;
+      }
+
+      .jump-list {
+        font-size: 0.85rem;
+        margin: 8px 0 14px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px 14px;
+      }
+
+      a { color: var(--cp-link); }
+      a:hover { color: var(--cp-accent-hover); }
+
+      @media (max-width: 700px) {
+        .guide { margin: 12px auto; padding: 16px; }
+        table { font-size: 0.82rem; }
+      }
+
+      @media print {
+        body { background: var(--cp-surface); }
+        .guide { box-shadow: none; max-width: 100%; margin: 0; }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <div class="guide">
+      <div class="header">
+        <h1>🗣️ Japanese Phrases — Quick Reference</h1>
+        <p class="subtitle">Survival phrases for Tokyo · Kyoto · Osaka · trains · restaurants · shopping</p>
+      </div>
+
+      <div class="tip">
+        💡 <strong>Pronunciation tip:</strong> Japanese vowels are consistent: A = "ah", I = "ee", U = "oo", E = "eh", O = "oh". Stress is mostly flat — don't over-emphasize any syllable.
+      </div>
+
+      <div class="jump-list">
+        <a href="#basics">Basics</a>
+        <a href="#greetings">Greetings</a>
+        <a href="#directions">Directions & Transit</a>
+        <a href="#restaurant">Restaurant & Food</a>
+        <a href="#shopping">Shopping</a>
+        <a href="#hotel">Hotel</a>
+        <a href="#emergencies">Emergencies</a>
+        <a href="#numbers">Numbers</a>
+        <a href="#signs">Signs to Know</a>
+      </div>
+
+      <div class="divider"></div>
+
+      <section id="basics">
+        <h2>🙏 Essential Basics</h2>
+        <table>
+          <thead>
+            <tr><th>Japanese</th><th>Romaji</th><th>Meaning / When to Use</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="jp">ありがとうございます</td><td class="romaji">Arigatou gozaimasu</td><td class="meaning">Thank you (polite)<div class="note">Use this everywhere — people appreciate it</div></td></tr>
+            <tr><td class="jp">すみません</td><td class="romaji">Sumimasen</td><td class="meaning">Excuse me / Sorry<div class="note">Works as "excuse me to get attention" AND "I'm sorry" — most useful word in Japan</div></td></tr>
+            <tr><td class="jp">はい</td><td class="romaji">Hai</td><td class="meaning">Yes</td></tr>
+            <tr><td class="jp">いいえ</td><td class="romaji">Iie</td><td class="meaning">No (rarely needed — Japanese rarely say this directly)</td></tr>
+            <tr><td class="jp">わかりません</td><td class="romaji">Wakarimasen</td><td class="meaning">I don't understand<div class="note">Say this clearly and most staff will switch to gestures or a phone</div></td></tr>
+            <tr><td class="jp">英語が話せますか？</td><td class="romaji">Eigo ga hanasemasu ka?</td><td class="meaning">Do you speak English?</td></tr>
+            <tr><td class="jp">もう一度お願いします</td><td class="romaji">Mou ichido onegaishimasu</td><td class="meaning">Please say that again</td></tr>
+            <tr><td class="jp">これをください</td><td class="romaji">Kore wo kudasai</td><td class="meaning">I'll have this / Please give me this<div class="note">Point at the item — works in any shop or restaurant</div></td></tr>
+            <tr><td class="jp">〜はどこですか？</td><td class="romaji">[place] wa doko desu ka?</td><td class="meaning">Where is [place]?<div class="note">e.g. "Toire wa doko desu ka?" = Where is the toilet?</div></td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="greetings">
+        <h2>👋 Greetings & Social</h2>
+        <table>
+          <thead>
+            <tr><th>Japanese</th><th>Romaji</th><th>Meaning</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="jp">おはようございます</td><td class="romaji">Ohayou gozaimasu</td><td class="meaning">Good morning (until ~10 AM)</td></tr>
+            <tr><td class="jp">こんにちは</td><td class="romaji">Konnichiwa</td><td class="meaning">Good afternoon / Hello (10 AM – 6 PM)</td></tr>
+            <tr><td class="jp">こんばんは</td><td class="romaji">Konbanwa</td><td class="meaning">Good evening (after 6 PM)</td></tr>
+            <tr><td class="jp">いただきます</td><td class="romaji">Itadakimasu</td><td class="meaning">Said before eating — "I humbly receive this"<div class="note">Say it every time before a meal; locals will smile</div></td></tr>
+            <tr><td class="jp">ごちそうさまでした</td><td class="romaji">Gochisousama deshita</td><td class="meaning">Said after eating — "Thank you for the feast"<div class="note">Say this when leaving a restaurant or finishing a meal</div></td></tr>
+            <tr><td class="jp">よろしくお願いします</td><td class="romaji">Yoroshiku onegaishimasu</td><td class="meaning">Nice to meet you / I'm counting on you<div class="note">Used at first meetings and when asking for a favor</div></td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="directions">
+        <h2>🚇 Directions & Transit</h2>
+        <div class="tip">🚉 Most station staff have a "Tourist Helpline" phone or can show a map. Showing Google Maps with a pin is often faster than speaking.</div>
+        <table>
+          <thead>
+            <tr><th>Japanese</th><th>Romaji</th><th>Meaning</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="jp">〜駅はどこですか？</td><td class="romaji">[Station] eki wa doko desu ka?</td><td class="meaning">Where is [Station] station?</td></tr>
+            <tr><td class="jp">〜行きはどこですか？</td><td class="romaji">[Place] yuki wa doko desu ka?</td><td class="meaning">Where is the train going to [place]?</td></tr>
+            <tr><td class="jp">〜まで一枚ください</td><td class="romaji">[Place] made ichimai kudasai</td><td class="meaning">One ticket to [place] please</td></tr>
+            <tr><td class="jp">右</td><td class="romaji">Migi</td><td class="meaning">Right</td></tr>
+            <tr><td class="jp">左</td><td class="romaji">Hidari</td><td class="meaning">Left</td></tr>
+            <tr><td class="jp">まっすぐ</td><td class="romaji">Massugu</td><td class="meaning">Straight ahead</td></tr>
+            <tr><td class="jp">近い</td><td class="romaji">Chikai</td><td class="meaning">Close / Nearby</td></tr>
+            <tr><td class="jp">遠い</td><td class="romaji">Tooi</td><td class="meaning">Far</td></tr>
+            <tr><td class="jp">出口</td><td class="romaji">Deguchi</td><td class="meaning">Exit<div class="note">Look for this on signs at every station</div></td></tr>
+            <tr><td class="jp">入口</td><td class="romaji">Iriguchi</td><td class="meaning">Entrance</td></tr>
+            <tr><td class="jp">乗り換え</td><td class="romaji">Norikae</td><td class="meaning">Transfer (change trains)</td></tr>
+            <tr><td class="jp">ICカードが使えますか？</td><td class="romaji">IC kaado ga tsukaemasu ka?</td><td class="meaning">Can I use an IC card (Suica)?</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="restaurant">
+        <h2>🍜 Restaurant & Food</h2>
+        <div class="tip">🍣 Pointing at pictures or a plastic food display always works. Many restaurants have picture menus — ask "shashin ga arimasu ka?" (do you have a photo menu?).</div>
+        <table>
+          <thead>
+            <tr><th>Japanese</th><th>Romaji</th><th>Meaning</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="jp">〜人です</td><td class="romaji">[number]-nin desu</td><td class="meaning">We are [number] people<div class="note">e.g. "futari desu" = two people</div></td></tr>
+            <tr><td class="jp">予約しました</td><td class="romaji">Yoyaku shimashita</td><td class="meaning">I have a reservation</td></tr>
+            <tr><td class="jp">席はありますか？</td><td class="romaji">Seki wa arimasu ka?</td><td class="meaning">Do you have a table?</td></tr>
+            <tr><td class="jp">おすすめは何ですか？</td><td class="romaji">Osusume wa nan desu ka?</td><td class="meaning">What do you recommend?</td></tr>
+            <tr><td class="jp">これはなんですか？</td><td class="romaji">Kore wa nan desu ka?</td><td class="meaning">What is this?</td></tr>
+            <tr><td class="jp">〜アレルギーがあります</td><td class="romaji">[food] arerugii ga arimasu</td><td class="meaning">I'm allergic to [food]</td></tr>
+            <tr><td class="jp">辛くないもの</td><td class="romaji">Karakunai mono</td><td class="meaning">Something not spicy</td></tr>
+            <tr><td class="jp">お水ください</td><td class="romaji">Omizu kudasai</td><td class="meaning">Water please<div class="note">Water is usually free and will be brought automatically</div></td></tr>
+            <tr><td class="jp">お会計お願いします</td><td class="romaji">Okaikei onegaishimasu</td><td class="meaning">Check / Bill please<div class="note">Usually you pay at the register, not the table</div></td></tr>
+            <tr><td class="jp">カードで払えますか？</td><td class="romaji">Kaado de haraemasu ka?</td><td class="meaning">Can I pay by card?</td></tr>
+            <tr><td class="jp">おいしい！</td><td class="romaji">Oishii!</td><td class="meaning">Delicious!<div class="note">Say this and the kitchen staff will love you</div></td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="shopping">
+        <h2>🛍️ Shopping</h2>
+        <table>
+          <thead>
+            <tr><th>Japanese</th><th>Romaji</th><th>Meaning</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="jp">いくらですか？</td><td class="romaji">Ikura desu ka?</td><td class="meaning">How much is this?</td></tr>
+            <tr><td class="jp">高すぎます</td><td class="romaji">Takasugi masu</td><td class="meaning">That's too expensive<div class="note">Bargaining is not common in Japan — use politely only at markets</div></td></tr>
+            <tr><td class="jp">これをください</td><td class="romaji">Kore wo kudasai</td><td class="meaning">I'll take this / Give me this</td></tr>
+            <tr><td class="jp">袋は要りません</td><td class="romaji">Fukuro wa irimasen</td><td class="meaning">No bag needed<div class="note">Japan now charges for plastic bags; say this if you have a tote</div></td></tr>
+            <tr><td class="jp">税抜き価格ですか？</td><td class="romaji">Zeinuki kakaku desu ka?</td><td class="meaning">Is this the pre-tax price?<div class="note">10% consumption tax applies; posted prices are sometimes pre-tax</div></td></tr>
+            <tr><td class="jp">免税できますか？</td><td class="romaji">Menzei dekimasu ka?</td><td class="meaning">Can I get tax-free (duty-free)?<div class="note">Passport required; minimum spend ~¥5,500 at most stores</div></td></tr>
+            <tr><td class="jp">試着できますか？</td><td class="romaji">Shichaku dekimasu ka?</td><td class="meaning">Can I try this on?</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="hotel">
+        <h2>🏨 Hotel</h2>
+        <table>
+          <thead>
+            <tr><th>Japanese</th><th>Romaji</th><th>Meaning</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="jp">チェックインお願いします</td><td class="romaji">Chekkuin onegaishimasu</td><td class="meaning">Check-in please</td></tr>
+            <tr><td class="jp">チェックアウトお願いします</td><td class="romaji">Chekkauto onegaishimasu</td><td class="meaning">Check-out please</td></tr>
+            <tr><td class="jp">荷物を預けられますか？</td><td class="romaji">Nimotsu wo azukeraremasu ka?</td><td class="meaning">Can I store my luggage?<div class="note">Most hotels hold bags before check-in and after check-out</div></td></tr>
+            <tr><td class="jp">WiFiのパスワードは？</td><td class="romaji">WiFi no pasuwaado wa?</td><td class="meaning">What's the WiFi password?</td></tr>
+            <tr><td class="jp">枕をもう一つください</td><td class="romaji">Makura wo mou hitotsu kudasai</td><td class="meaning">One more pillow please</td></tr>
+            <tr><td class="jp">エアコンはどう使いますか？</td><td class="romaji">Eakon wa dou tsukaimasu ka?</td><td class="meaning">How do I use the air conditioner?</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="emergencies">
+        <h2>🆘 Emergencies</h2>
+        <div class="tip">📞 Japan emergency numbers: <strong>Police: 110</strong> · <strong>Fire/Ambulance: 119</strong>. Both have English operator options.</div>
+        <table>
+          <thead>
+            <tr><th>Japanese</th><th>Romaji</th><th>Meaning</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="jp">助けてください！</td><td class="romaji">Tasukete kudasai!</td><td class="meaning">Help me please!</td></tr>
+            <tr><td class="jp">警察を呼んでください</td><td class="romaji">Keisatsu wo yonde kudasai</td><td class="meaning">Please call the police</td></tr>
+            <tr><td class="jp">救急車を呼んでください</td><td class="romaji">Kyuukyuusha wo yonde kudasai</td><td class="meaning">Please call an ambulance</td></tr>
+            <tr><td class="jp">病院はどこですか？</td><td class="romaji">Byouin wa doko desu ka?</td><td class="meaning">Where is the hospital?</td></tr>
+            <tr><td class="jp">具合が悪いです</td><td class="romaji">Guai ga warui desu</td><td class="meaning">I feel sick / I'm not well</td></tr>
+            <tr><td class="jp">財布を盗まれました</td><td class="romaji">Saifu wo nusumaremashita</td><td class="meaning">My wallet was stolen</td></tr>
+            <tr><td class="jp">パスポートをなくしました</td><td class="romaji">Pasupooto wo nakushimashita</td><td class="meaning">I lost my passport</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="numbers">
+        <h2>🔢 Numbers (Quick Reference)</h2>
+        <table>
+          <thead>
+            <tr><th>Number</th><th>Japanese</th><th>Romaji</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>1</td><td class="jp">一</td><td class="romaji">Ichi</td></tr>
+            <tr><td>2</td><td class="jp">二</td><td class="romaji">Ni</td></tr>
+            <tr><td>3</td><td class="jp">三</td><td class="romaji">San</td></tr>
+            <tr><td>4</td><td class="jp">四</td><td class="romaji">Shi / Yon</td></tr>
+            <tr><td>5</td><td class="jp">五</td><td class="romaji">Go</td></tr>
+            <tr><td>6</td><td class="jp">六</td><td class="romaji">Roku</td></tr>
+            <tr><td>7</td><td class="jp">七</td><td class="romaji">Nana / Shichi</td></tr>
+            <tr><td>8</td><td class="jp">八</td><td class="romaji">Hachi</td></tr>
+            <tr><td>9</td><td class="jp">九</td><td class="romaji">Kyuu / Ku</td></tr>
+            <tr><td>10</td><td class="jp">十</td><td class="romaji">Juu</td></tr>
+            <tr><td>100</td><td class="jp">百</td><td class="romaji">Hyaku</td></tr>
+            <tr><td>1,000</td><td class="jp">千</td><td class="romaji">Sen</td></tr>
+            <tr><td>10,000</td><td class="jp">万</td><td class="romaji">Man<div class="note">¥10,000 = ichi-man yen; prices often given in units of "man"</div></td></tr>
+          </tbody>
+        </table>
+        <div class="tip">🔢 For people: use <em>hitori</em> (1), <em>futari</em> (2), <em>san-nin</em> (3), <em>yo-nin</em> (4). "Futari desu" is what you'll say most at restaurants.</div>
+      </section>
+
+      <div class="divider"></div>
+
+      <section id="signs">
+        <h2>📋 Signs You'll See</h2>
+        <table>
+          <thead>
+            <tr><th>Japanese</th><th>Romaji</th><th>Meaning</th></tr>
+          </thead>
+          <tbody>
+            <tr><td class="jp">トイレ</td><td class="romaji">Toire</td><td class="meaning">Toilet / Restroom</td></tr>
+            <tr><td class="jp">出口</td><td class="romaji">Deguchi</td><td class="meaning">Exit</td></tr>
+            <tr><td class="jp">入口</td><td class="romaji">Iriguchi</td><td class="meaning">Entrance</td></tr>
+            <tr><td class="jp">禁煙</td><td class="romaji">Kin-en</td><td class="meaning">No smoking</td></tr>
+            <tr><td class="jp">飲食禁止</td><td class="romaji">Inshoku kinshi</td><td class="meaning">No eating or drinking</td></tr>
+            <tr><td class="jp">撮影禁止</td><td class="romaji">Satsuei kinshi</td><td class="meaning">No photography</td></tr>
+            <tr><td class="jp">営業中</td><td class="romaji">Eigyouchuu</td><td class="meaning">Open (for business)</td></tr>
+            <tr><td class="jp">準備中</td><td class="romaji">Junbichuu</td><td class="meaning">Preparing / Closed<div class="note">Seen on restaurant doors — means not open yet or temporarily closed</div></td></tr>
+            <tr><td class="jp">定休日</td><td class="romaji">Teikyuubi</td><td class="meaning">Regular closing day<div class="note">Posted at shops — means their weekly day off</div></td></tr>
+            <tr><td class="jp">無料</td><td class="romaji">Muryou</td><td class="meaning">Free (no charge)</td></tr>
+            <tr><td class="jp">有料</td><td class="romaji">Yuryou</td><td class="meaning">Paid / Fee required</td></tr>
+            <tr><td class="jp">両替</td><td class="romaji">Ryougae</td><td class="meaning">Currency exchange</td></tr>
+            <tr><td class="jp">案内所</td><td class="romaji">Annaijo</td><td class="meaning">Information / Tourist office</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <a class="back-link" href="visual-schedule.html">← Back to Visual Planner</a>
+    </div>
+  </body>
+</html>
