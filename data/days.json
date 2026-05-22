@@ -666,7 +666,6 @@
       "🚇 Cross Hotel Osaka → Shin-Osaka: walk ~5 min to Namba Station, take Osaka Metro Midosuji Line to Shin-Osaka (~12 min, ¥290). Allow 25 min total.",
       "🎫 Reservation #2005 is already booked for Nozomi at 2:15 PM from Shin-Osaka. Journey to Shinagawa ~2h22m.",
       "🗻 Mt Fuji visible on the left (A seat side) approximately 40 min after Shin-Osaka departure.",
-      "🧳 Luggage forwarding option: ask Cross Hotel Osaka desk the night before to send bags to Shinagawa Prince Hotel (~¥1,500–2,000/bag via Yamato). Bags arrive Day 10 morning.",
       "🏨 Shinagawa Prince Hotel: 3-min walk from Shinagawa Station Central Exit (west gates), easy to spot."
     ],
     "note": "Return logistics day with comfort-first decisions.",
@@ -674,7 +673,7 @@
       "today": "Osaka to Tokyo transfer",
       "next": "Haneda-area check-in",
       "backup": "Shinagawa fallback",
-      "ops": "Namba→Shin-Osaka: Metro Midosuji (12 min, ¥290); Nozomi Res #2005 at 14:15; Shinagawa Prince 3-min walk from station; takkyubin night before optional"
+      "ops": "Namba→Shin-Osaka: Metro Midosuji (12 min, ¥290); Nozomi Res #2005 at 14:15; Shinagawa Prince 3-min walk from station"
     },
     "goal": "Last Osaka bites, Shinkansen to Shinagawa, and final hotel buffer.",
     "timeline": [
@@ -720,8 +719,7 @@
     "keyPhrases": [
       "\"Kuu-kou wa dochira desu ka?\" (Which way is the airport?)",
       "\"Saigo no ban-gohan.\" (Last dinner.)",
-      "\"Shin-Osaka eki wa doko desu ka?\" (Where is Shin-Osaka Station?)",
-      "\"Nimotsu wo okutte moraemasuka?\" (Can you arrange luggage forwarding? — ask hotel front desk night before)"
+      "\"Shin-Osaka eki wa doko desu ka?\" (Where is Shin-Osaka Station?)"
     ]
   },
   {
