@@ -18,3 +18,4 @@
 - 2026-05-23: Round 7: fixed Day 3 ops wrong transit line, added 4 missing nav links (CAPPINESS/Kanda Myojin/Gion/Kyoto-Kawaramachi), expanded Day 8 ops, bumped SW cache to v20260524200000
 - 2026-05-23: Round 8: added Japanese hotel addresses to check-in days (taxi show-card), fixed Keio/Cross Kyoto missing check-in times, corrected UA130 class, added keyPhrases to Days 1/2/10, bumped SW cache
 - 2026-05-23: Round 9 final pass: added Day 1 optional evening walk, Day 9 dinner TBD, Days 3/4 3rd keyPhrase — all 10 days now have 3 phrases and evening coverage
+- 2026-05-23: Round 10 — fixed 13 remaining bad nav map URLs, added Fushimi Inari shrine link (Day 7), expanded Day 10 to 6 detail bullets
