@@ -178,6 +178,10 @@
       {
         "label": "Ichiran Ramen Shibuya",
         "url": "https://www.google.com/maps/search/?q=Ichiran+Ramen+Shibuya+Tokyo"
+      },
+      {
+        "label": "CAPPINESS Shinjuku (capybara café)",
+        "url": "https://www.google.com/maps/search/?q=CAPPINESS+Shinjuku+capybara+cafe+Tokyo"
       }
     ],
     "rainyDayOption": "Go straight to **Nakano Broadway** (Indoor Otaku Mall) instead of Harajuku. See: [Rainy Day Options](../Reference/rainy-day-options.md)",
@@ -223,7 +227,7 @@
       "today": "Toyosu + Ginza + Roppongi",
       "next": "Mori Art Museum evening",
       "backup": "Odaiba or extra Ginza/Roppongi time",
-      "ops": "Tsukiji Line to Shijo-mae for Toyosu"
+      "ops": "Yurikamome Line from Shimbashi to Shijo-mae for Toyosu Market; then Tokyo Metro Hibiya Line for Roppongi"
     },
     "goal": "Fresh fish, Ginza luxury, and an evening art hit in Roppongi.",
     "timeline": [
@@ -362,6 +366,10 @@
       {
         "label": "Mandarake Complex",
         "url": "https://www.google.com/maps/search/?q=Mandarake+Complex+Akihabara+Tokyo"
+      },
+      {
+        "label": "Kanda Myojin Shrine",
+        "url": "https://www.google.com/maps/search/?q=Kanda+Myojin+Shrine+Chiyoda+Tokyo"
       }
     ],
     "rainyDayOption": "**Akihabara** is surprisingly rain-friendly (big buildings). **Asakusa** has a covered arcade (Nakamise-dori), but the temple grounds are exposed.",
@@ -458,6 +466,10 @@
       {
         "label": "Nishiki Market",
         "url": "https://www.google.com/maps/search/?q=Nishiki+Market+Kyoto"
+      },
+      {
+        "label": "Gion District (Hanamikoji Street)",
+        "url": "https://www.google.com/maps/search/?q=Gion+Hanamikoji+Street+Kyoto+Japan"
       },
       {
         "label": "Pontocho Alley",
@@ -643,6 +655,10 @@
     ],
     "navigation": [
       {
+        "label": "Kyoto-Kawaramachi Station (Hankyu departure)",
+        "url": "https://www.google.com/maps/search/?q=Kyoto-Kawaramachi+Station+Hankyu+Line+Kyoto"
+      },
+      {
         "label": "Fushimi Inari Station",
         "url": "https://www.google.com/maps/search/?q=Fushimi+Inari+Station+Kyoto"
       },
@@ -706,7 +722,7 @@
       "today": "Osaka Castle + Kuromon",
       "next": "Den Den Town / Shinsaibashi",
       "backup": "Short Namba loop",
-      "ops": "Split-day plan, regroup at Hozenji"
+      "ops": "Osaka Metro Tanimachi Line to Osaka Castle; walk/Metro between Kuromon, Den Den Town, Shinsaibashi; regroup by 5:30 PM at Hozenji Yokocho"
     },
     "goal": "Flexible Osaka day with a shared morning, split afternoon, and shared dinner.",
     "timeline": [
