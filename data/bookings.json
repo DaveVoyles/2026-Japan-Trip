@@ -57,7 +57,9 @@
         "Cost": "$218.67 (paid with points)",
         "Booked": "May 5, 2026 (Chase Travel)"
       },
-      "conf": "2453539268"
+      "conf": "2453539268",
+      "checkin": "Check-in: 3 PM",
+      "checkout": "Check-out: 11 AM"
     }
   ],
   "flights": [
