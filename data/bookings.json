@@ -114,7 +114,8 @@
         "Cost": "56,520 JPY",
         "Res #": "2003",
         "Booked": "May 5, 2026"
-      }
+      },
+      "conf": "2003"
     },
     {
       "name": "Osaka → Tokyo Shinkansen",
@@ -128,7 +129,8 @@
         "Payment": "SmartEx",
         "Res #": "2005",
         "Booked": "May 5, 2026"
-      }
+      },
+      "conf": "2005"
     },
     {
       "name": "Kintetsu Train (Day 6 Nara)",
