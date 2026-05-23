@@ -60,6 +60,9 @@
       "status": "confirmed",
       "details": {
         "Flight": "UA131",
+        "Gate Departure": "10:30 AM EDT",
+        "Scheduled Takeoff": "10:40 AM EDT",
+        "Gate Arrival HND": "1:35 PM JST (+1)",
         "Class": "Premium Economy",
         "Duration": "~14 hours",
         "Confirmation": "See booking confirmation email"
@@ -84,7 +87,7 @@
         "Provider": "SpotHero",
         "Facility": "SNAP Parking - Covered Valet",
         "Rental ID": "123520709",
-        "Window": "Sun May 24, 8:00 AM - Thu Jun 4, 8:00 AM",
+        "Window": "Sun May 24, 7:15 AM - Thu Jun 4, 8:00 AM",
         "Cost": "$281.20",
         "Payment": "Paid via SpotHero"
       }

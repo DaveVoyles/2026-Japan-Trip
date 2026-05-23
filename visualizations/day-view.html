@@ -358,6 +358,67 @@
         white-space: nowrap;
       }
 
+      .bookings-card {
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        padding: 10px;
+        background: var(--cp-surface-soft);
+        border-left: 3px solid var(--cp-success, #27ae60);
+      }
+
+      .bookings-card h3 {
+        margin: 0 0 8px;
+        color: var(--cp-success, #27ae60);
+        font-size: 0.95rem;
+      }
+
+      .booking-item {
+        display: flex;
+        align-items: baseline;
+        gap: 8px;
+        padding: 6px 4px;
+        border-bottom: 1px solid var(--cp-border);
+        flex-wrap: wrap;
+        font-size: 0.88rem;
+      }
+
+      .booking-item:last-child { border-bottom: none; }
+
+      .booking-name {
+        font-weight: 600;
+        color: var(--cp-text);
+        flex: 1;
+        min-width: 120px;
+      }
+
+      .booking-meta {
+        font-size: 0.8rem;
+        color: var(--cp-text-muted);
+        white-space: nowrap;
+      }
+
+      .booking-conf {
+        font-size: 0.78rem;
+        font-family: monospace;
+        background: var(--cp-bg-elevated);
+        border: 1px solid var(--cp-border-strong);
+        border-radius: 6px;
+        padding: 1px 7px;
+        color: var(--cp-text-muted);
+        white-space: nowrap;
+      }
+
+      .booking-badge {
+        font-size: 0.7rem;
+        border-radius: 999px;
+        padding: 1px 7px;
+        font-weight: 600;
+        white-space: nowrap;
+      }
+
+      .booking-badge.confirmed { background: #d4edda; color: #155724; }
+      .booking-badge.walk-up   { background: #d1ecf1; color: #0c5460; }
+
       .foot {
         padding: 10px 14px 14px;
         color: var(--cp-text-soft);
@@ -516,6 +577,14 @@
           console.warn("routes.json load failed:", e);
         }
 
+        let allBookings = {};
+        try {
+          const bookingsRes = await fetch("../data/bookings.json");
+          if (bookingsRes.ok) allBookings = await bookingsRes.json();
+        } catch (e) {
+          console.warn("bookings.json load failed:", e);
+        }
+
         const params = new URLSearchParams(window.location.search);
         const requestedDay = Number(params.get("day") || 1);
         const dayCount = days.length;
@@ -524,6 +593,78 @@
           : Math.min(dayCount, Math.max(1, requestedDay));
         const item = days[dayNumber - 1];
         const brief = item.brief || {};
+
+        // ── Booking date matching ──────────────────────────────────────
+        const MONTH_NUM = {Jan:1,Feb:2,Mar:3,Apr:4,May:5,Jun:6,Jul:7,Aug:8,Sep:9,Oct:10,Nov:11,Dec:12};
+
+        function dateToOrdinal(s) {
+          // "May 26" → 526, "Jun 1" → 601
+          const m = s.match(/([A-Z][a-z]{2})\s+(\d+)/);
+          return m ? (MONTH_NUM[m[1]] || 0) * 100 + parseInt(m[2], 10) : 0;
+        }
+
+        function parsePrimaryDate(rawDate) {
+          // "Sun May 24 – Mon May 25" → "May 24"; "Tue May 26" → "May 26"
+          const m = rawDate.match(/[A-Z][a-z]{2}\s+(\d+)/g);
+          return m ? m[0] : rawDate.trim();
+        }
+
+        function bookingMatchesDate(booking, dateKey, category) {
+          const dates = booking.dates || "";
+          if (!dates) return false;
+          const dn = dateToOrdinal(dateKey);
+          if (!dn) return false;
+          // Exact substring match (e.g. "May 26" in "May 26")
+          if (dates.includes(dateKey)) return true;
+          // For hotels: match check-in day only (start of range)
+          if (category === "hotels") {
+            const start = dates.match(/([A-Z][a-z]{2})\s+(\d+)/);
+            return start ? dateToOrdinal(start[0]) === dn : false;
+          }
+          // For other categories: check if date falls within range
+          const rangeMatch = dates.match(/([A-Z][a-z]{2})\s+(\d+)\s*[-–]\s*(?:([A-Z][a-z]{2})\s+)?(\d+)/);
+          if (rangeMatch) {
+            const startN = dateToOrdinal(`${rangeMatch[1]} ${rangeMatch[2]}`);
+            const endMonth = rangeMatch[3] || rangeMatch[1];
+            const endN = dateToOrdinal(`${endMonth} ${rangeMatch[4]}`);
+            return dn >= startN && dn <= endN;
+          }
+          return false;
+        }
+
+        const itemDateKey = parsePrimaryDate(item.date);
+        const relevantStatuses = new Set(["confirmed", "walk-up"]);
+        const todayBookings = [];
+        Object.entries(allBookings).forEach(([cat, items]) => {
+          if (!Array.isArray(items)) return;
+          items.forEach(b => {
+            if (!relevantStatuses.has(b.status)) return;
+            if (bookingMatchesDate(b, itemDateKey, cat)) {
+              todayBookings.push({ ...b, _cat: cat });
+            }
+          });
+        });
+
+        function renderTodayBookings() {
+          if (!todayBookings.length) return "";
+          const rows = todayBookings.map(b => {
+            const d = b.details || {};
+            const confKey = ["Conf #","Res #","Booking ID","Rental ID"].find(k => d[k]);
+            const timeKey = ["Time","Gate Departure","Depart","Depart Tokyo","Depart Shin-Osaka"].find(k => d[k]);
+            const badge = `<span class="booking-badge ${b.status}">${b.status === "walk-up" ? "Walk-up" : "Confirmed"}</span>`;
+            return `<div class="booking-item">
+              <span class="booking-name">${escapeHtml(b.name)}</span>
+              ${timeKey ? `<span class="booking-meta">🕐 ${escapeHtml(d[timeKey])}</span>` : ""}
+              ${confKey ? `<span class="booking-conf">#&nbsp;${escapeHtml(d[confKey])}</span>` : ""}
+              ${badge}
+            </div>`;
+          }).join("");
+          return `<section class="bookings-card">
+            <h3>📋 Today's Bookings</h3>
+            <div class="bookings-list">${rows}</div>
+          </section>`;
+        }
+        // ──────────────────────────────────────────────────────────────
 
         document.getElementById("pageTitle").textContent =
           `${item.dayLabel} Visualization`;
@@ -692,6 +833,7 @@
             : ""
         }
         <div class="parts">
+          ${renderTodayBookings()}
           <section class="traveler-brief">
             <h3>Today / Next / Backup</h3>
             <div class="brief-grid">

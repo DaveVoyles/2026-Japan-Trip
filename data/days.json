@@ -726,6 +726,32 @@
       "\"Koko de shashin o totte moraemasu ka?\" (Could you take a photo for us here?)",
       "\"Osusume wa nan desu ka?\" (What do you recommend?)",
       "\"Kore wa o-mochikaeri dekimasu ka?\" (Can this be taken to go?)"
+    ],
+    "transit": [
+      {
+        "from": "Cross Hotel Osaka (Namba area)",
+        "to": "Osaka Castle Park",
+        "line": "Osaka Metro Tanimachi 4-chome (~12 min, ¥240)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Cross+Hotel+Osaka,+Shinsaibashisuji,+Osaka&destination=Osaka+Castle+Park,+Osaka&travelmode=transit"
+      },
+      {
+        "from": "Osaka Castle Park",
+        "to": "Kuromon Ichiba Market",
+        "line": "Walk ~15 min or Osaka Metro (~5 min, ¥180)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Osaka+Castle+Park,+Osaka&destination=Kuromon+Ichiba+Market,+Osaka&travelmode=transit"
+      },
+      {
+        "from": "Kuromon Market",
+        "to": "Den Den Town (Nipponbashi)",
+        "line": "Walk ~10 min south or Osaka Metro (~3 min, ¥180)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Kuromon+Ichiba+Market,+Osaka&destination=Den+Den+Town,+Nipponbashi,+Osaka&travelmode=transit"
+      },
+      {
+        "from": "Kuromon Market",
+        "to": "Shinsaibashi-suji Shopping Street",
+        "line": "Walk ~10 min north or Osaka Metro (~3 min, ¥180)",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=Kuromon+Ichiba+Market,+Osaka&destination=Shinsaibashi-suji+Shopping+Street,+Osaka&travelmode=transit"
+      }
     ]
   },
   {
@@ -832,6 +858,22 @@
     },
     "goal": "Buy last-minute Duty Free. Go home.",
     "timeline": [
+      {
+        "time": "08:00 AM",
+        "activity": "☀️ Wake up at Shinagawa Prince Hotel. Pack remaining items and do a final room check — passport, IC card, power bank, carry-on. Leave checked bags at bell desk if checking out before noon."
+      },
+      {
+        "time": "09:00 AM",
+        "activity": "☕ Breakfast near Shinagawa Station. Options: hotel restaurant or Family Mart / 7-Eleven in the station concourse. Light meal — long flight ahead."
+      },
+      {
+        "time": "10:30 AM",
+        "activity": "🛍️ Optional last Tokyo walk: Shinagawa station area konbini run for snacks, onigiri, or any last-minute Japan-only purchases (Tokyo Banana, KitKat, Calbee). Keep it short and low-stakes."
+      },
+      {
+        "time": "12:00 PM",
+        "activity": "🏨 Check out of Shinagawa Prince Hotel. Store any remaining bags at bell desk if needed. Confirm carry-on has essentials accessible for flight."
+      },
       {
         "time": "01:15 PM",
         "activity": "⏰ Hard deadline: leave Shinagawa / be en route to Haneda. Do not let shopping eat into the airport buffer."
