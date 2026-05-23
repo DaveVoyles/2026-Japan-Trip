@@ -1,4 +1,4 @@
-const CACHE_NAME = "japan-trip-2026-v20260524120000";
+const CACHE_NAME = "japan-trip-2026-v20260524180000";
 const PRECACHE_PATHS = [
   "./",
   "./index.html",

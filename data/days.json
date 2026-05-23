@@ -73,11 +73,11 @@
       },
       {
         "label": "Keio Plaza Hotel Location",
-        "url": "https://www.google.com/maps/search/KeioPlazaShinjuku"
+        "url": "https://www.google.com/maps/search/?q=Keio+Plaza+Hotel+Shinjuku+Tokyo"
       },
       {
         "label": "Omoide Yokocho",
-        "url": "https://www.google.com/maps/search/OmoideYokocho"
+        "url": "https://www.google.com/maps/search/?q=Omoide+Yokocho+Memory+Lane+Shinjuku+Tokyo"
       }
     ],
     "transit": [
@@ -157,11 +157,11 @@
     "navigation": [
       {
         "label": "Meiji Jingu Entrance",
-        "url": "https://www.google.com/maps/search/MeijiJingu"
+        "url": "https://www.google.com/maps/search/?q=Meiji+Jingu+Shrine+Tokyo"
       },
       {
         "label": "Takeshita Street",
-        "url": "https://www.google.com/maps/search/TakeshitaStreet"
+        "url": "https://www.google.com/maps/search/?q=Takeshita+Street+Harajuku+Tokyo"
       },
       {
         "label": "Cat Street (Harajuku-Shibuya)",
@@ -169,7 +169,7 @@
       },
       {
         "label": "Shibuya Sky Entrance",
-        "url": "https://www.google.com/maps/search/ShibuyaSky"
+        "url": "https://www.google.com/maps/search/?q=Shibuya+Sky+Observation+Deck+Tokyo"
       },
       {
         "label": "SHARE LOUNGE Shibuya Sakura Stage",
@@ -177,7 +177,7 @@
       },
       {
         "label": "Ichiran Ramen Shibuya",
-        "url": "https://www.google.com/maps/search/IchiranShibuya"
+        "url": "https://www.google.com/maps/search/?q=Ichiran+Ramen+Shibuya+Tokyo"
       }
     ],
     "rainyDayOption": "Go straight to **Nakano Broadway** (Indoor Otaku Mall) instead of Harajuku. See: [Rainy Day Options](../Reference/rainy-day-options.md)",
@@ -259,11 +259,11 @@
     "navigation": [
       {
         "label": "Toyosu Market (Sushi Dai)",
-        "url": "https://www.google.com/maps/search/ToyosuSushi"
+        "url": "https://www.google.com/maps/search/?q=Toyosu+Market+Tokyo"
       },
       {
         "label": "Itoya Ginza",
-        "url": "https://www.google.com/maps/search/ItoyaGinza"
+        "url": "https://www.google.com/maps/search/?q=Itoya+Stationery+Store+Ginza+Tokyo"
       },
       {
         "label": "Mori Art Museum (Roppongi Hills)",
@@ -349,19 +349,19 @@
       },
       {
         "label": "Senso-ji Temple",
-        "url": "https://www.google.com/maps/search/Sensoji"
+        "url": "https://www.google.com/maps/search/?q=Senso-ji+Temple+Asakusa+Tokyo"
       },
       {
         "label": "Kappabashi Street",
-        "url": "https://www.google.com/maps/search/Kappabashi"
+        "url": "https://www.google.com/maps/search/?q=Kappabashi+Kitchen+Town+Tokyo"
       },
       {
         "label": "Super Potato Akiba",
-        "url": "https://www.google.com/maps/search/SuperPotatoAkiba"
+        "url": "https://www.google.com/maps/search/?q=Super+Potato+Retro+Game+Store+Akihabara+Tokyo"
       },
       {
         "label": "Mandarake Complex",
-        "url": "https://www.google.com/maps/search/MandarakeAkiba"
+        "url": "https://www.google.com/maps/search/?q=Mandarake+Complex+Akihabara+Tokyo"
       }
     ],
     "rainyDayOption": "**Akihabara** is surprisingly rain-friendly (big buildings). **Asakusa** has a covered arcade (Nakamise-dori), but the temple grounds are exposed.",
@@ -449,19 +449,19 @@
     "navigation": [
       {
         "label": "Tokyo Station (Yaesu Entrance)",
-        "url": "https://www.google.com/maps/search/TokyoStation"
+        "url": "https://www.google.com/maps/search/?q=Tokyo+Station+Yaesu+Entrance"
       },
       {
         "label": "Cross Hotel Kyoto",
-        "url": "https://www.google.com/maps/search/CrossHotelKyoto"
+        "url": "https://www.google.com/maps/search/?q=Cross+Hotel+Kyoto+Kawaramachi"
       },
       {
         "label": "Nishiki Market",
-        "url": "https://www.google.com/maps/search/NishikiMarket"
+        "url": "https://www.google.com/maps/search/?q=Nishiki+Market+Kyoto"
       },
       {
         "label": "Pontocho Alley",
-        "url": "https://www.google.com/maps/search/Pontocho"
+        "url": "https://www.google.com/maps/search/?q=Pontocho+Alley+Kyoto"
       }
     ],
     "transit": [
@@ -548,19 +548,19 @@
     "navigation": [
       {
         "label": "Kintetsu Nara Station",
-        "url": "https://www.google.com/maps/search/KintetsuNaraStation"
+        "url": "https://www.google.com/maps/search/?q=Kintetsu+Nara+Station+Japan"
       },
       {
         "label": "Nara Park",
-        "url": "https://www.google.com/maps/search/NaraPark"
+        "url": "https://www.google.com/maps/search/?q=Nara+Park+Japan"
       },
       {
         "label": "Todai-ji",
-        "url": "https://www.google.com/maps/search/Todai-ji"
+        "url": "https://www.google.com/maps/search/?q=Todaiji+Temple+Nara+Japan"
       },
       {
         "label": "Kiyomizu-dera",
-        "url": "https://www.google.com/maps/search/Kiyomizudera"
+        "url": "https://www.google.com/maps/search/?q=Kiyomizudera+Temple+Kyoto+Japan"
       },
       {
         "label": "Sannenzaka & Ninenzaka",
@@ -644,19 +644,19 @@
     "navigation": [
       {
         "label": "Fushimi Inari Station",
-        "url": "https://www.google.com/maps/search/FushimiInariStation"
+        "url": "https://www.google.com/maps/search/?q=Fushimi+Inari+Station+Kyoto"
       },
       {
         "label": "Cross Hotel Osaka",
-        "url": "https://www.google.com/maps/search/CrossHotelOsaka"
+        "url": "https://www.google.com/maps/search/?q=Cross+Hotel+Osaka+Dotonbori"
       },
       {
         "label": "Acchichi Honpo (Takoyaki)",
-        "url": "https://www.google.com/maps/search/AcchichiHonpo"
+        "url": "https://www.google.com/maps/search/?q=Acchichi+Honpo+Takoyaki+Dotonbori+Osaka"
       },
       {
         "label": "Hozenji Yokocho",
-        "url": "https://www.google.com/maps/search/HozenjiYokocho"
+        "url": "https://www.google.com/maps/search/?q=Hozenji+Yokocho+Osaka+Japan"
       }
     ],
     "transit": [
@@ -861,11 +861,11 @@
       },
       {
         "label": "Shin-Osaka Station",
-        "url": "https://www.google.com/maps/search/ShinOsaka"
+        "url": "https://www.google.com/maps/search/?q=Shin-Osaka+Station+Japan"
       },
       {
         "label": "Onsen at Haneda",
-        "url": "https://www.google.com/maps/search/HanedaOnsen"
+        "url": "https://www.google.com/maps/search/?q=Izumi+Tenku+no+Yu+Haneda+Airport+Onsen"
       }
     ],
     "transit": [
@@ -951,11 +951,11 @@
     "navigation": [
       {
         "label": "Haneda Airport Garden Map",
-        "url": "https://www.google.com/maps/search/HanedaGarden"
+        "url": "https://www.google.com/maps/search/?q=Haneda+Airport+Garden+Terminal+3"
       },
       {
         "label": "United Check-in Counter",
-        "url": "https://www.google.com/maps/search/HanedaUA"
+        "url": "https://www.google.com/maps/search/?q=United+Airlines+Check-in+Haneda+Airport+Terminal+3"
       },
       {
         "label": "Duty Free Shops",

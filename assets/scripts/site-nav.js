@@ -115,7 +115,7 @@
   nav.innerHTML = `
     <div class="site-nav__inner">
       <div class="site-nav__brand">Japan Trip 2026</div>
-      <div class="site-nav__freshness" title="Reload once on Wi-Fi after itinerary changes so offline pages are current.">Updated May 22</div>
+      <div class="site-nav__freshness" title="Reload once on Wi-Fi after itinerary changes so offline pages are current.">Updated May 23</div>
       <button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-nav-links">
         Menu
       </button>
