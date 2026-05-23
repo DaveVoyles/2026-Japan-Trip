@@ -10,7 +10,8 @@
         "Room": "Premier Grand Two Queens",
         "Floor": "35th",
         "Amenities": "Breakfast + Club Lounge",
-        "Booked": "Feb 4, 2026"
+        "Booked": "Feb 4, 2026",
+        "Check-in": "3:00 PM / Check-out: 12:00 PM (noon)"
       }
     },
     {
@@ -23,7 +24,8 @@
         "Room": "Superior Twin & Sofa Bed",
         "Breakfast": "Included",
         "Payment": "Pay on-site",
-        "Booked": "Feb 4, 2026"
+        "Booked": "Feb 4, 2026",
+        "Check-in": "3:00 PM / Check-out: 11:00 AM"
       }
     },
     {
@@ -75,7 +77,7 @@
       "details": {
         "Flight": "UA130",
         "Depart": "5:45 PM",
-        "Class": "Economy (assumed)",
+        "Class": "Premium Economy",
         "Confirmation": "See booking confirmation email"
       }
     },
