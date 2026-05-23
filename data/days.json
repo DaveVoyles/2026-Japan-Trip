@@ -26,7 +26,7 @@
       "today": "Fly EWR to HND",
       "next": "Immigration + Keio Plaza check-in",
       "backup": "Sleep/reset on arrival",
-      "ops": "UA131, eSIM, cash, bus to Keio Plaza"
+      "ops": "UA131 (PNR: DXKFPQ), eSIM, cash, bus to Keio Plaza"
     },
     "goal": "Survive the flight. Hydrate. Sleep.",
     "timeline": [
@@ -426,7 +426,7 @@
       "today": "Tokyo to Kyoto bullet train",
       "next": "Nishiki Market + Gion stroll",
       "backup": "Kyoto Station area shopping if tired",
-      "ops": "JR Shinjuku→Tokyo Stn (25 min, ¥220); ekiben at Gransta before gates; Nozomi ~10 AM; Mt Fuji ~40 min in on Seat E/right side"
+      "ops": "JR Shinjuku→Tokyo Stn (25 min, ¥220); ekiben at Gransta before gates; Nozomi Res #2003 ~10 AM; Mt Fuji ~40 min in on Seat E/right side"
     },
     "goal": "Bullet train, Gion, and Pontocho Alley.",
     "timeline": [
@@ -949,7 +949,7 @@
       "today": "Haneda breakfast + checkout",
       "next": "Duty free + UA130",
       "backup": "Skip shopping if slow",
-      "ops": "Leave Shinagawa by 1:15 PM; keep carry-on essentials ready"
+      "ops": "UA130 (PNR: DXKFPQ) 17:45; Leave Shinagawa by 13:15; keep carry-on essentials ready"
     },
     "goal": "Buy last-minute Duty Free. Go home.",
     "timeline": [

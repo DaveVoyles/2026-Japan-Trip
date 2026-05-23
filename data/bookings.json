@@ -76,7 +76,7 @@
         "Gate Arrival HND": "1:35 PM JST (+1)",
         "Class": "Premium Economy",
         "Duration": "~14 hours",
-        "Confirmation": "See booking confirmation email"
+        "Conf #": "DXKFPQ"
       },
       "conf": "DXKFPQ"
     },
@@ -88,7 +88,7 @@
         "Flight": "UA130",
         "Depart": "5:45 PM",
         "Class": "Premium Economy",
-        "Confirmation": "See booking confirmation email"
+        "Conf #": "DXKFPQ"
       },
       "conf": "DXKFPQ"
     },
@@ -192,11 +192,11 @@
       "status": "confirmed",
       "details": {
         "Time": "2:00 PM JST",
-        "Confirmation #": "QSJ919058",
         "Tickets": "3 x Adult (Aged 12+)",
         "Booking Platform": "Klook",
         "Note": "Sunset/golden-hour slots were sold out; itinerary now anchors around the 2:00 PM entry.",
-        "Cost": "~¥3,200-4,500 per person"
+        "Cost": "~¥3,200-4,500 per person",
+        "Conf #": "QSJ919058"
       },
       "conf": "QSJ919058"
     },

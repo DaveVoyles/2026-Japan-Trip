@@ -419,6 +419,17 @@
       .booking-badge.confirmed { background: #d4edda; color: #155724; }
       .booking-badge.walk-up   { background: #d1ecf1; color: #0c5460; }
 
+      .booking-note {
+        font-size: 0.78rem;
+        color: #856404;
+        background: #fff3cd;
+        border: 1px solid #ffc107;
+        border-radius: 6px;
+        padding: 3px 8px;
+        margin-top: 4px;
+        width: 100%;
+      }
+
       .foot {
         padding: 10px 14px 14px;
         color: var(--cp-text-soft);
@@ -657,6 +668,7 @@
               ${timeKey ? `<span class="booking-meta">🕐 ${escapeHtml(d[timeKey])}</span>` : ""}
               ${confKey ? `<span class="booking-conf">#&nbsp;${escapeHtml(d[confKey])}</span>` : ""}
               ${badge}
+              ${b.notes ? `<span class="booking-note">⚠️ ${escapeHtml(b.notes)}</span>` : ""}
             </div>`;
           }).join("");
           return `<section class="bookings-card">
