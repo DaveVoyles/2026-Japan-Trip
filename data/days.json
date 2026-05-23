@@ -171,7 +171,7 @@
       },
       {
         "label": "Cat Street (Harajuku-Shibuya)",
-        "url": "https://www.google.com/maps/search/Cat+Street+Harajuku+Shibuya"
+        "url": "https://www.google.com/maps/search/?q=Cat+Street+Harajuku+Shibuya+Tokyo"
       },
       {
         "label": "Shibuya Sky Entrance",
@@ -278,11 +278,11 @@
       },
       {
         "label": "Mori Art Museum (Roppongi Hills)",
-        "url": "https://www.google.com/maps/search/Mori+Art+Museum+Roppongi+Hills"
+        "url": "https://www.google.com/maps/search/?q=Mori+Art+Museum+Roppongi+Hills+Tokyo"
       },
       {
         "label": "Ginza Six",
-        "url": "https://www.google.com/maps/search/Ginza+Six"
+        "url": "https://www.google.com/maps/search/?q=Ginza+Six+Tokyo"
       }
     ],
     "transit": [
@@ -357,7 +357,7 @@
     "navigation": [
       {
         "label": "Yanaka Ginza",
-        "url": "https://www.google.com/maps/search/Yanaka+Ginza"
+        "url": "https://www.google.com/maps/search/?q=Yanaka+Ginza+Tokyo"
       },
       {
         "label": "Senso-ji Temple",
@@ -674,6 +674,10 @@
         "url": "https://www.google.com/maps/search/?q=Fushimi+Inari+Station+Kyoto"
       },
       {
+        "label": "Fushimi Inari Taisha (shrine entrance)",
+        "url": "https://www.google.com/maps/search/?q=Fushimi+Inari+Taisha+Kyoto+Japan"
+      },
+      {
         "label": "Cross Hotel Osaka",
         "url": "https://www.google.com/maps/search/?q=Cross+Hotel+Osaka+Dotonbori"
       },
@@ -765,27 +769,27 @@
     "navigation": [
       {
         "label": "Osaka Castle",
-        "url": "https://www.google.com/maps/search/Osaka+Castle,+Osaka,+Japan"
+        "url": "https://www.google.com/maps/search/?q=Osaka+Castle+Japan"
       },
       {
         "label": "Kuromon Market",
-        "url": "https://www.google.com/maps/search/Kuromon+Market,+Osaka,+Japan"
+        "url": "https://www.google.com/maps/search/?q=Kuromon+Market+Osaka+Japan"
       },
       {
         "label": "Den Den Town",
-        "url": "https://www.google.com/maps/search/Den+Den+Town,+Osaka,+Japan"
+        "url": "https://www.google.com/maps/search/?q=Den+Den+Town+Nipponbashi+Osaka"
       },
       {
         "label": "Shinsaibashi-suji Shopping Street",
-        "url": "https://www.google.com/maps/search/Shinsaibashi-suji+Shopping+Street,+Osaka,+Japan"
+        "url": "https://www.google.com/maps/search/?q=Shinsaibashi-suji+Shopping+Street+Osaka"
       },
       {
         "label": "Hozenji Yokocho",
-        "url": "https://www.google.com/maps/search/Hozenji+Yokocho,+Osaka,+Japan"
+        "url": "https://www.google.com/maps/search/?q=Hozenji+Yokocho+Osaka+Japan"
       },
       {
         "label": "Dotonbori",
-        "url": "https://www.google.com/maps/search/Dotonbori,+Osaka,+Japan"
+        "url": "https://www.google.com/maps/search/?q=Dotonbori+Osaka+Japan"
       }
     ],
     "keyPhrases": [
@@ -885,11 +889,11 @@
     "navigation": [
       {
         "label": "Cross Hotel Osaka (exit & baggage)",
-        "url": "https://www.google.com/maps/search/Cross+Hotel+Osaka,+Shinsaibashisuji,+Chuo+Ward,+Osaka"
+        "url": "https://www.google.com/maps/search/?q=Cross+Hotel+Osaka+Shinsaibashi+Japan"
       },
       {
         "label": "Namba Station (Osaka Metro)",
-        "url": "https://www.google.com/maps/search/Namba+Station+Osaka+Metro"
+        "url": "https://www.google.com/maps/search/?q=Namba+Station+Osaka+Metro+Japan"
       },
       {
         "label": "Shin-Osaka Station",
@@ -936,7 +940,9 @@
       "🚃 Best route to Haneda: Keikyu Line from Shinagawa Station (International Terminal, T3). About 18 min, ¥310. Follow 'Keikyu' signs from central concourse.",
       "✈️ UA130 Terminal: Haneda T3. United check-in counters typically K/L rows — look for the United Airlines signage in the check-in hall.",
       "🛍️ Duty-free timing: Best to clear security first, then shop in the airside duty-free area. Tokyo Banana and Royce Chocolates are both post-security.",
-      "⏰ Target airport arrival: 2:30 PM for 5:45 PM departure gives 3h15m — enough for check-in, immigration, security, and a sit-down meal airside."
+      "⏰ Target airport arrival: 2:30 PM for 5:45 PM departure gives 3h15m — enough for check-in, immigration, security, and a sit-down meal airside.",
+      "🧳 Keikyu to Haneda is a regular commuter train — no luggage car. Keep bags manageable enough for overhead rack or between seats.",
+      "🍜 Grab a meal at Haneda T3 food court (Ippudo or similar) before clearing to airside — in-flight meal service starts ~2 hrs after takeoff."
     ],
     "note": "Departure day with intentional buffer and low complexity.",
     "brief": {
