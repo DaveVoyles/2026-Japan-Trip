@@ -12,7 +12,8 @@
         "Amenities": "Breakfast + Club Lounge",
         "Booked": "Feb 4, 2026",
         "Check-in": "3:00 PM / Check-out: 12:00 PM (noon)"
-      }
+      },
+      "conf": "27044SG326462"
     },
     {
       "name": "Cross Hotel Kyoto Kawaramachi (Leg 2)",
@@ -52,7 +53,8 @@
         "Check-in": "3:00 PM / Check-out: 11:00 AM",
         "Cost": "$218.67 (paid with points)",
         "Booked": "May 5, 2026 (Chase Travel)"
-      }
+      },
+      "conf": "2453539268"
     }
   ],
   "flights": [
@@ -68,7 +70,8 @@
         "Class": "Premium Economy",
         "Duration": "~14 hours",
         "Confirmation": "See booking confirmation email"
-      }
+      },
+      "conf": "DXKFPQ"
     },
     {
       "name": "Return: Haneda → EWR",
@@ -79,7 +82,8 @@
         "Depart": "5:45 PM",
         "Class": "Premium Economy",
         "Confirmation": "See booking confirmation email"
-      }
+      },
+      "conf": "DXKFPQ"
     },
     {
       "name": "EWR Airport Parking",
@@ -92,7 +96,8 @@
         "Window": "Sun May 24, 7:15 AM - Thu Jun 4, 8:00 AM",
         "Cost": "$281.20",
         "Payment": "Paid via SpotHero"
-      }
+      },
+      "conf": "123520709"
     }
   ],
   "trains": [
@@ -183,7 +188,8 @@
         "Booking Platform": "Klook",
         "Note": "Sunset/golden-hour slots were sold out; itinerary now anchors around the 2:00 PM entry.",
         "Cost": "~¥3,200-4,500 per person"
-      }
+      },
+      "conf": "QSJ919058"
     },
     {
       "name": "🦙 CAPPINESS Shinjuku (Capybara Café)",
@@ -195,7 +201,8 @@
         "Booking Platform": "TableCheck",
         "Payment": "Credit card registered at booking — charged on day of visit",
         "Note": "Yamanote Line from Shibuya ~10 min. If capybaras are unwell, café may close — they will notify via TableCheck."
-      }
+      },
+      "conf": "5JFRH9B"
     },
     {
       "name": "Studio Ghibli Museum",
