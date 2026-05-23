@@ -1,4 +1,4 @@
-const CACHE_NAME = "japan-trip-2026-v20260523163000";
+const CACHE_NAME = "japan-trip-2026-v20260523164000";
 const PRECACHE_PATHS = [
   "./",
   "./index.html",
@@ -11,8 +11,7 @@ const PRECACHE_PATHS = [
   "./neighborhood-guide-osaka.html",
   "./transit-guide.html",
   "./phrases.html",
-
-
+  "./offline.html",
   "./visual-schedule.html",
   "./visualizations/day-01.html",
   "./visualizations/day-02.html",
@@ -33,6 +32,14 @@ const PRECACHE_PATHS = [
   "./data/days.json",
   "./data/routes.json",
   "./assets/icons/icon.svg",
+  "./assets/images/buy/gba-gamecube-cable.jpg",
+  "./assets/images/buy/gbm-famicom-faceplate-club.jpg",
+  "./assets/images/buy/gbm-famicom-faceplate-oem.jpg",
+  "./assets/images/buy/manga-negative-happy-vol1.jpg",
+  "./assets/images/buy/manga-negative-happy-vol2.jpg",
+  "./assets/images/buy/nintendo-dsi-red.jpg",
+  "./assets/images/buy/sega-saturn-3d-controller.jpg",
+  "./assets/images/buy/super-famicom-jr-console.jpg",
   "./assets/scripts/site-nav.js",
   "./assets/scripts/theme.js",
   "./assets/styles/site-nav.css",
