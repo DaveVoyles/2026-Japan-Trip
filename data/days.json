@@ -61,6 +61,10 @@
       {
         "time": "03:30 PM",
         "activity": "🏨 Arrive Keio Plaza Hotel Shinjuku and check in. Keep bags/simple reset first; do not add sightseeing if energy is low."
+      },
+      {
+        "time": "08:00 PM",
+        "activity": "🌙 Optional: short evening walk if energy allows. Omoide Yokocho (Memory Lane) is a 5-min walk from the hotel — small yakitori stalls, very atmospheric. Skip entirely if jet lag wins; rest is the right call on arrival night."
       }
     ],
     "navigation": [
@@ -297,7 +301,8 @@
     ],
     "keyPhrases": [
       "\"Omakase de onegaishimasu.\" (I'll leave it to you / Chef's choice.)",
-      "\"Kore wa nan desu ka?\" (What is this?)"
+      "\"Kore wa nan desu ka?\" (What is this?)",
+      "\"Tenrankai wa nan-ji made desu ka?\" (What time does the exhibition close? — useful at Mori Art Museum)"
     ]
   },
   {
@@ -392,7 +397,8 @@
     ],
     "keyPhrases": [
       "\"Menzei dekimazu ka?\" (Can I do tax-free?)",
-      "\"Sumimasen, kore wa doko desu ka?\" (Excuse me, where is this? _Show picture of game_)"
+      "\"Sumimasen, kore wa doko desu ka?\" (Excuse me, where is this? _Show picture of game_)",
+      "\"Furui geemu wa arimasu ka?\" (Do you have retro/old games? — for Super Potato and game shops)"
     ]
   },
   {
@@ -870,6 +876,10 @@
       {
         "time": "07:00 PM",
         "activity": "🏨 Check in: Shinagawa Prince Hotel (walk from station). Location: Main Tower, across from Shinagawa Station gates."
+      },
+      {
+        "time": "08:30 PM",
+        "activity": "🍽️ Dinner TBD — Shinagawa area. Shinagawa Station ecute has a food hall with many options, or ask the hotel front desk for nearby recommendations."
       }
     ],
     "navigation": [
