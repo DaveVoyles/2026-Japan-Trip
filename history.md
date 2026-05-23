@@ -22,3 +22,4 @@
 - 2026-05-23: Round 11 — fixed conf rendering for UA flights + Shibuya Sky, added Kyoto tax warning display, added PNR/res# to Days 1/5/10 brief.ops
 - 2026-05-23: Round 12 — fixed UA131 departure time (11:35→10:30 AM), added PNR to transit guide, removed redundant bookings fields, Day 3 to 5 detail bullets
 - 2026-05-23: Round 13 — Kyoto tax warning now shows on bookings-status page, stale key cleanup, Day 10 brief.today corrected
+- 2026-05-23: Round 14 — Fixed Keio Plaza dates (May 25-29 → May 24-29) so hotel appears on Day 1 booking card; updated visual-schedule.html Day 1 ops with PNR; bumped SW cache
