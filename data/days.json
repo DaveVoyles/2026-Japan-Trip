@@ -947,7 +947,7 @@
     ],
     "note": "Departure day with intentional buffer and low complexity.",
     "brief": {
-      "today": "Haneda breakfast + checkout",
+      "today": "Shinagawa checkout + Haneda departure",
       "next": "Duty free + UA130",
       "backup": "Skip shopping if slow",
       "ops": "UA130 (PNR: DXKFPQ) 17:45; Leave Shinagawa by 13:15; keep carry-on essentials ready"

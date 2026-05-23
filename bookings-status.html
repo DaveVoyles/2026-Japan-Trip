@@ -167,6 +167,16 @@
         color: var(--cp-text-muted);
       }
 
+      .booking-note {
+        font-size: 0.82rem;
+        color: #856404;
+        background: #fff3cd;
+        border: 1px solid #ffc107;
+        border-radius: 6px;
+        padding: 5px 10px;
+        margin-top: 8px;
+      }
+
       .booking-details {
         display: grid;
         gap: 8px;
@@ -654,7 +664,7 @@
 
               const valueDiv = document.createElement("div");
               valueDiv.className = "detail-value";
-              if (label === "Conf #" || label === "Res #" || label === "Booking ID" || label === "Confirmation #") {
+              if (label === "Conf #" || label === "Res #" || label === "Booking ID") {
                 const code = document.createElement("code");
                 code.className = "conf-number";
                 code.textContent = value;
@@ -669,6 +679,14 @@
             });
 
             card.appendChild(details);
+
+            if (booking.notes) {
+              const noteDiv = document.createElement("div");
+              noteDiv.className = "booking-note";
+              noteDiv.textContent = "⚠️ " + booking.notes;
+              card.appendChild(noteDiv);
+            }
+
             sectionDiv.appendChild(card);
           });
 
