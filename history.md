@@ -17,3 +17,4 @@
 - 2026-05-23: Round 6: fixed 28 camelCase Google Maps nav URLs to proper ?q= format, updated nav freshness to May 23, bumped SW cache to v20260524180000
 - 2026-05-23: Round 7: fixed Day 3 ops wrong transit line, added 4 missing nav links (CAPPINESS/Kanda Myojin/Gion/Kyoto-Kawaramachi), expanded Day 8 ops, bumped SW cache to v20260524200000
 - 2026-05-23: Round 8: added Japanese hotel addresses to check-in days (taxi show-card), fixed Keio/Cross Kyoto missing check-in times, corrected UA130 class, added keyPhrases to Days 1/2/10, bumped SW cache
+- 2026-05-23: Round 9 final pass: added Day 1 optional evening walk, Day 9 dinner TBD, Days 3/4 3rd keyPhrase — all 10 days now have 3 phrases and evening coverage
