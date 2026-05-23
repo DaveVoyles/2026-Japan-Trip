@@ -21,3 +21,4 @@
 - 2026-05-23: Round 10 — fixed 13 remaining bad nav map URLs, added Fushimi Inari shrine link (Day 7), expanded Day 10 to 6 detail bullets
 - 2026-05-23: Round 11 — fixed conf rendering for UA flights + Shibuya Sky, added Kyoto tax warning display, added PNR/res# to Days 1/5/10 brief.ops
 - 2026-05-23: Round 12 — fixed UA131 departure time (11:35→10:30 AM), added PNR to transit guide, removed redundant bookings fields, Day 3 to 5 detail bullets
+- 2026-05-23: Round 13 — Kyoto tax warning now shows on bookings-status page, stale key cleanup, Day 10 brief.today corrected
