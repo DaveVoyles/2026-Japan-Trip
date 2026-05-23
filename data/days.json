@@ -148,6 +148,10 @@
         "time": "05:15 PM",
         "activity": "🦙 CAPPINESS Shinjuku — capybara café (Booking ID: 5JFRH9B). Yamanote Line from Shibuya ~10 min. See bookings page for full details.",
         "url": "https://www.tablecheck.com/en/shops/cappiness/reserve"
+      },
+      {
+        "time": "07:30 PM",
+        "activity": "🍽️ Dinner TBD — explore Shinjuku area restaurants at your own pace."
       }
     ],
     "navigation": [
@@ -209,8 +213,10 @@
     "daytime": "🛍️ Structured Ginza shopping block: Itoya Ginza, Uniqlo Ginza, Onitsuka Tiger.",
     "night": "🎨 Roppongi art stop at Mori Art Museum (open late).",
     "details": [
-      "☔ Rain resilience: Toyosu + Ginza + Mori Art Museum are all indoors.",
-      "🕙 Mori Art Museum stays open until 10 PM — no rush on timing."
+      "☔ Rain-resilient day: Toyosu outer market has covered stalls, Ginza is shopping arcade + department stores, Mori Art Museum is fully indoor.",
+      "🚃 Transit for Toyosu: Yurikamome Line from Shimbashi (ride JR/subway to Shimbashi first). Buy IC card ticket — Yurikamome is driverless and scenic.",
+      "🎨 Mori Art Museum hours: Open until 10 PM (last entry 9:30 PM). Tokyo City View outdoor deck closes earlier if windy — check at the door.",
+      "🍽️ No dinner reservations — Roppongi Hills complex has multiple casual restaurants; pick by vibe once you arrive."
     ],
     "note": "Balanced day: food market, Ginza shopping, and a flexible evening art stop.",
     "brief": {
@@ -240,6 +246,14 @@
       {
         "time": "04:00 PM",
         "activity": "🎨 Roppongi Hills. See: Mori Art Museum (top floor, city views), Louise Bourgeois spider sculpture in the courtyard. Skip: Mori Tower observation deck (overpriced, city guide alternatives are better)."
+      },
+      {
+        "time": "06:00 PM",
+        "activity": "🎨 Mori Art Museum + Tokyo City View (52nd floor). Open until 10 PM. Buy combo ticket at entrance (~¥2,500). City View has an outdoor Sky Deck if weather permits."
+      },
+      {
+        "time": "08:00 PM",
+        "activity": "🍽️ Dinner TBD — Roppongi / Azabu area. Walk around and choose on the spot."
       }
     ],
     "navigation": [
@@ -322,6 +336,10 @@
       {
         "time": "06:00 PM",
         "activity": "⛩️ Kanda Myojin Shrine (Anime shrine)."
+      },
+      {
+        "time": "07:30 PM",
+        "activity": "🍽️ Dinner TBD — Akihabara area or near Shinjuku hotel. Akihabara has convenience options and casual restaurants near Electric Town exit."
       }
     ],
     "navigation": [
@@ -821,6 +839,14 @@
     ],
     "navigation": [
       {
+        "label": "Cross Hotel Osaka (exit & baggage)",
+        "url": "https://www.google.com/maps/search/Cross+Hotel+Osaka,+Shinsaibashisuji,+Chuo+Ward,+Osaka"
+      },
+      {
+        "label": "Namba Station (Osaka Metro)",
+        "url": "https://www.google.com/maps/search/Namba+Station+Osaka+Metro"
+      },
+      {
         "label": "Shin-Osaka Station",
         "url": "https://www.google.com/maps/search/ShinOsaka"
       },
@@ -862,8 +888,10 @@
     "daytime": "🚌 Complete checkout, leave Shinagawa by a hard airport-transfer time, and arrive at Haneda with enough margin for check-in, security, and stress-free gate pacing.",
     "night": "✈️ Board UA130 and begin return to EWR; keep comfort and hydration prioritized for landing recovery.",
     "details": [
-      "🛫 Terminal: Haneda T3 (United check-in area typically K/L rows).",
-      "⏰ Target airport arrival: around 2:30 PM for a 5:45 PM departure."
+      "🚃 Best route to Haneda: Keikyu Line from Shinagawa Station (International Terminal, T3). About 18 min, ¥310. Follow 'Keikyu' signs from central concourse.",
+      "✈️ UA130 Terminal: Haneda T3. United check-in counters typically K/L rows — look for the United Airlines signage in the check-in hall.",
+      "🛍️ Duty-free timing: Best to clear security first, then shop in the airside duty-free area. Tokyo Banana and Royce Chocolates are both post-security.",
+      "⏰ Target airport arrival: 2:30 PM for 5:45 PM departure gives 3h15m — enough for check-in, immigration, security, and a sit-down meal airside."
     ],
     "note": "Departure day with intentional buffer and low complexity.",
     "brief": {
