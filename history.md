@@ -24,3 +24,4 @@
 - 2026-05-23: Round 13 — Kyoto tax warning now shows on bookings-status page, stale key cleanup, Day 10 brief.today corrected
 - 2026-05-23: Round 14 — Fixed Keio Plaza dates (May 25-29 → May 24-29) so hotel appears on Day 1 booking card; updated visual-schedule.html Day 1 ops with PNR; bumped SW cache
 - 2026-05-23: Added Buy for Friends page (buy.html) with gallery of 8 items, status badges, lightbox, and nav link
+- 2026-05-23: Round 15 — Fixed broken quick-links in visual-schedule (removed deleted pages, added buy.html); fixed offline.html missing from SW precache; added buy/ images to SW cache
