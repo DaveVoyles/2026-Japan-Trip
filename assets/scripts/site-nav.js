@@ -13,7 +13,6 @@
     { name: "City Guide", href: "city-guide.html" },
     { name: "Transit", href: "transit-guide.html" },
     { name: "Phrases", href: "phrases.html" },
-    { name: "Print", href: "print-itinerary.html" },
     { name: "Bookings", href: "bookings-status.html" },
     { name: "Buy", href: "buy.html" },
   ];
