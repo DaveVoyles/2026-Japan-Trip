@@ -13,3 +13,4 @@
 - 2026-05-23: Pre-trip polish: fixed bookings.json UA131 times + SNAP window, added Day 8 transit entries, filled Day 10 morning timeline, added Today's Bookings confirmation card to day-view.html
 - 2026-05-23: Round 3 pre-departure polish: bumped SW cache version, fixed Day 3 timeline gap, added Day 9 checkout + last lunch, corrected Day 10 checkout from 12 PM to 11 AM
 - 2026-05-23: Round 4 polish: filled evening timeline gaps on Days 2/3/4, expanded Day 3 and Day 10 ops details, added Day 9 nav links, bumped SW cache to v20260524000000
+- 2026-05-23: Round 5: added Dinner TBD entries for Days 5 and 6 (Kyoto nights), expanded Day 5 details (SmartEX, ekiben, luggage), expanded Day 7 details (Fushimi Inari tip, hotel walk)
