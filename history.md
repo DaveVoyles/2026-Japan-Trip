@@ -16,3 +16,4 @@
 - 2026-05-23: Round 5: added Dinner TBD entries for Days 5 and 6 (Kyoto nights), expanded Day 5 details (SmartEX, ekiben, luggage), expanded Day 7 details (Fushimi Inari tip, hotel walk)
 - 2026-05-23: Round 6: fixed 28 camelCase Google Maps nav URLs to proper ?q= format, updated nav freshness to May 23, bumped SW cache to v20260524180000
 - 2026-05-23: Round 7: fixed Day 3 ops wrong transit line, added 4 missing nav links (CAPPINESS/Kanda Myojin/Gion/Kyoto-Kawaramachi), expanded Day 8 ops, bumped SW cache to v20260524200000
+- 2026-05-23: Round 8: added Japanese hotel addresses to check-in days (taxi show-card), fixed Keio/Cross Kyoto missing check-in times, corrected UA130 class, added keyPhrases to Days 1/2/10, bumped SW cache
