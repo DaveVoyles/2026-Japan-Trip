@@ -27,7 +27,9 @@
         "Payment": "Pay on-site",
         "Booked": "Feb 4, 2026",
         "Check-in": "3:00 PM / Check-out: 11:00 AM"
-      }
+      },
+      "checkin": "Check-in: 3 PM",
+      "checkout": "Check-out: 11 AM"
     },
     {
       "name": "Cross Hotel Osaka Dotonbori (Leg 3)",
