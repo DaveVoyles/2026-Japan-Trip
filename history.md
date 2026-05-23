@@ -14,3 +14,4 @@
 - 2026-05-23: Round 3 pre-departure polish: bumped SW cache version, fixed Day 3 timeline gap, added Day 9 checkout + last lunch, corrected Day 10 checkout from 12 PM to 11 AM
 - 2026-05-23: Round 4 polish: filled evening timeline gaps on Days 2/3/4, expanded Day 3 and Day 10 ops details, added Day 9 nav links, bumped SW cache to v20260524000000
 - 2026-05-23: Round 5: added Dinner TBD entries for Days 5 and 6 (Kyoto nights), expanded Day 5 details (SmartEX, ekiben, luggage), expanded Day 7 details (Fushimi Inari tip, hotel walk)
+- 2026-05-23: Round 6: fixed 28 camelCase Google Maps nav URLs to proper ?q= format, updated nav freshness to May 23, bumped SW cache to v20260524180000
