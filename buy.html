@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buy for Friends — Japan 2026</title>
+    <script src="assets/scripts/theme.js?v=20260507d"></script>
+    <link rel="stylesheet" href="assets/styles/theme.css?v=20260507d" />
+    <link rel="stylesheet" href="assets/styles/site-nav.css?v=20260507d" />
+    <script defer src="assets/scripts/site-nav.js?v=20260521a"></script>
+    <style>
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+
+      body {
+        font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+        line-height: 1.5;
+        color: var(--cp-text);
+        background: var(--cp-bg);
+      }
+
+      .guide {
+        max-width: 900px;
+        margin: 20px auto;
+        background: var(--cp-surface);
+        padding: 24px;
+        border-radius: 8px;
+        border: 1px solid var(--cp-border);
+        box-shadow: var(--cp-shadow);
+      }
+
+      .header {
+        border-bottom: 3px solid var(--cp-accent);
+        padding-bottom: 12px;
+        margin-bottom: 18px;
+      }
+
+      h1 { font-size: 1.5rem; margin-bottom: 4px; color: var(--cp-accent); }
+      .subtitle { font-size: 0.85rem; color: var(--cp-text-muted); }
+
+      .tip {
+        background: var(--cp-accent-soft);
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 0.85rem;
+        margin-bottom: 20px;
+        border-left: 3px solid var(--cp-accent);
+      }
+
+      /* Gallery grid */
+      .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 16px;
+      }
+
+      .item-card {
+        background: var(--cp-bg);
+        border: 1px solid var(--cp-border);
+        border-radius: 10px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        transition: box-shadow 0.15s;
+      }
+
+      .item-card:hover {
+        box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+      }
+
+      .item-card__img-wrap {
+        width: 100%;
+        aspect-ratio: 3 / 4;
+        overflow: hidden;
+        background: var(--cp-border);
+        cursor: zoom-in;
+      }
+
+      .item-card__img-wrap img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: top center;
+        display: block;
+        transition: transform 0.2s;
+      }
+
+      .item-card__img-wrap img:hover {
+        transform: scale(1.04);
+      }
+
+      .item-card__body {
+        padding: 12px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        flex: 1;
+      }
+
+      .item-card__name {
+        font-size: 0.88rem;
+        font-weight: 600;
+        line-height: 1.35;
+        color: var(--cp-text);
+      }
+
+      .item-card__meta {
+        font-size: 0.78rem;
+        color: var(--cp-text-muted);
+      }
+
+      /* Status badge — clickable cycle */
+      .status-badge {
+        display: inline-block;
+        padding: 3px 10px;
+        border-radius: 12px;
+        font-size: 0.75rem;
+        font-weight: 700;
+        cursor: pointer;
+        user-select: none;
+        border: none;
+        letter-spacing: 0.03em;
+        transition: opacity 0.1s;
+        align-self: flex-start;
+      }
+
+      .status-badge:hover { opacity: 0.85; }
+      .status-badge:active { opacity: 0.7; }
+
+      .status--hunting {
+        background: #fef3c7;
+        color: #92400e;
+      }
+      .status--found {
+        background: #dbeafe;
+        color: #1e40af;
+      }
+      .status--bought {
+        background: #d1fae5;
+        color: #065f46;
+      }
+      .status--packed {
+        background: #ede9fe;
+        color: #4c1d95;
+      }
+
+      /* Dark mode overrides */
+      @media (prefers-color-scheme: dark) {
+        .status--hunting { background: #78350f; color: #fde68a; }
+        .status--found    { background: #1e3a5f; color: #bfdbfe; }
+        .status--bought   { background: #064e3b; color: #a7f3d0; }
+        .status--packed   { background: #2e1065; color: #ddd6fe; }
+      }
+
+      /* Lightbox */
+      .lightbox {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.85);
+        z-index: 1000;
+        align-items: center;
+        justify-content: center;
+        cursor: zoom-out;
+      }
+
+      .lightbox.open { display: flex; }
+
+      .lightbox img {
+        max-width: 92vw;
+        max-height: 92vh;
+        object-fit: contain;
+        border-radius: 6px;
+        box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+      }
+
+      .lightbox__close {
+        position: absolute;
+        top: 16px;
+        right: 20px;
+        color: #fff;
+        font-size: 2rem;
+        cursor: pointer;
+        line-height: 1;
+        background: none;
+        border: none;
+        opacity: 0.8;
+      }
+
+      .lightbox__close:hover { opacity: 1; }
+
+      /* Progress summary */
+      .progress-bar-wrap {
+        margin-bottom: 20px;
+      }
+
+      .progress-label {
+        font-size: 0.82rem;
+        color: var(--cp-text-muted);
+        margin-bottom: 6px;
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .progress-bar {
+        height: 8px;
+        background: var(--cp-border);
+        border-radius: 4px;
+        overflow: hidden;
+      }
+
+      .progress-bar__fill {
+        height: 100%;
+        background: var(--cp-accent);
+        border-radius: 4px;
+        transition: width 0.4s ease;
+      }
+
+      @media (max-width: 480px) {
+        .gallery { grid-template-columns: repeat(2, 1fr); }
+        .guide { padding: 16px; margin: 12px; }
+      }
+    </style>
+  </head>
+  <body data-nav-root=".">
+    <main class="guide">
+      <div class="header">
+        <h1>🛍️ Buy for Friends</h1>
+        <p class="subtitle">Items people have asked me to look for in Japan</p>
+      </div>
+
+      <div class="tip">
+        💡 Tap a status badge to cycle through: <strong>Hunting → Found → Bought → Packed</strong>. Status is saved locally on this device.
+      </div>
+
+      <div class="progress-bar-wrap">
+        <div class="progress-label">
+          <span id="progress-text">0 of 8 complete</span>
+          <span id="progress-pct">0%</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-bar__fill" id="progress-fill" style="width:0%"></div>
+        </div>
+      </div>
+
+      <div class="gallery" id="gallery"></div>
+    </main>
+
+    <!-- Lightbox -->
+    <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Image preview">
+      <button class="lightbox__close" id="lightbox-close" aria-label="Close">✕</button>
+      <img id="lightbox-img" src="" alt="" />
+    </div>
+
+    <script>
+      const STATUSES = ["hunting", "found", "bought", "packed"];
+      const STATUS_LABELS = { hunting: "🔍 Hunting", found: "✅ Found", bought: "💰 Bought", packed: "📦 Packed" };
+      const STORAGE_KEY = "buy-statuses-v1";
+
+      const items = [
+        {
+          id: "super-famicom-jr",
+          name: "Nintendo Super Famicom Jr. Console + Controller Set",
+          meta: "NTSC-J · Tested working · eBay listing",
+          img: "assets/images/buy/super-famicom-jr-console.jpg",
+        },
+        {
+          id: "sega-saturn-3d-controller",
+          name: "Sega Saturn 3D Multi Controller Pad HSS-0137",
+          meta: "Japan · Tested working",
+          img: "assets/images/buy/sega-saturn-3d-controller.jpg",
+        },
+        {
+          id: "gbm-faceplate-club-nintendo",
+          name: "Club Nintendo Game Boy Micro Famicom II Faceplate",
+          meta: "With box · Excellent condition",
+          img: "assets/images/buy/gbm-famicom-faceplate-club.jpg",
+        },
+        {
+          id: "gbm-faceplate-oem",
+          name: "Nintendo Game Boy Micro Famicom Faceplate (Genuine OEM)",
+          meta: "Authentic Nintendo spare part · New",
+          img: "assets/images/buy/gbm-famicom-faceplate-oem.jpg",
+        },
+        {
+          id: "nintendo-dsi-red",
+          name: "Nintendo DSi JP Red Handheld System",
+          meta: "Japanese import · Red",
+          img: "assets/images/buy/nintendo-dsi-red.jpg",
+        },
+        {
+          id: "manga-nhcse-vol1",
+          name: "Negative Happy Chainsaw Edge — Vol. 1",
+          meta: "Manga · Japanese · Kadokawa Comics A",
+          img: "assets/images/buy/manga-negative-happy-vol1.jpg",
+        },
+        {
+          id: "manga-nhcse-vol2",
+          name: "Negative Happy Chainsaw Edge — Vol. 2",
+          meta: "Manga · Japanese · Kadokawa Comics A",
+          img: "assets/images/buy/manga-negative-happy-vol2.jpg",
+        },
+        {
+          id: "gba-gamecube-cable",
+          name: "GBA to GameCube Link Cable Adapter DOL-011",
+          meta: "Nintendo · Untested",
+          img: "assets/images/buy/gba-gamecube-cable.jpg",
+        },
+      ];
+
+      // Load saved statuses
+      let saved = {};
+      try { saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); } catch {}
+
+      function getStatus(id) { return saved[id] || "hunting"; }
+      function saveStatus(id, status) {
+        saved[id] = status;
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
+      }
+
+      function updateProgress() {
+        const done = items.filter(i => getStatus(i.id) === "packed").length;
+        const pct = Math.round((done / items.length) * 100);
+        document.getElementById("progress-text").textContent = `${done} of ${items.length} packed`;
+        document.getElementById("progress-pct").textContent = `${pct}%`;
+        document.getElementById("progress-fill").style.width = `${pct}%`;
+      }
+
+      function cycleBadge(id, badgeEl) {
+        const cur = getStatus(id);
+        const next = STATUSES[(STATUSES.indexOf(cur) + 1) % STATUSES.length];
+        saveStatus(id, next);
+        badgeEl.className = `status-badge status--${next}`;
+        badgeEl.textContent = STATUS_LABELS[next];
+        updateProgress();
+      }
+
+      function buildGallery() {
+        const gallery = document.getElementById("gallery");
+        items.forEach(item => {
+          const status = getStatus(item.id);
+          const card = document.createElement("div");
+          card.className = "item-card";
+          card.innerHTML = `
+            <div class="item-card__img-wrap" data-img="${item.img}" data-alt="${item.name}">
+              <img src="${item.img}" alt="${item.name}" loading="lazy" />
+            </div>
+            <div class="item-card__body">
+              <div class="item-card__name">${item.name}</div>
+              <div class="item-card__meta">${item.meta}</div>
+              <button class="status-badge status--${status}" data-id="${item.id}" aria-label="Toggle status for ${item.name}">
+                ${STATUS_LABELS[status]}
+              </button>
+            </div>
+          `;
+          gallery.appendChild(card);
+        });
+      }
+
+      // Event delegation for badges + lightbox triggers
+      document.getElementById("gallery").addEventListener("click", e => {
+        const badge = e.target.closest(".status-badge");
+        if (badge) {
+          cycleBadge(badge.dataset.id, badge);
+          return;
+        }
+        const wrap = e.target.closest(".item-card__img-wrap");
+        if (wrap) {
+          document.getElementById("lightbox-img").src = wrap.dataset.img;
+          document.getElementById("lightbox-img").alt = wrap.dataset.alt;
+          document.getElementById("lightbox").classList.add("open");
+        }
+      });
+
+      // Close lightbox
+      document.getElementById("lightbox").addEventListener("click", e => {
+        if (e.target === e.currentTarget || e.target.id === "lightbox-close") {
+          document.getElementById("lightbox").classList.remove("open");
+        }
+      });
+      document.addEventListener("keydown", e => {
+        if (e.key === "Escape") document.getElementById("lightbox").classList.remove("open");
+      });
+
+      buildGallery();
+      updateProgress();
+    </script>
+  </body>
+</html>

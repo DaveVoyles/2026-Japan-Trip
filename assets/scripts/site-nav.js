@@ -16,6 +16,7 @@
     { name: "Print", href: "print-itinerary.html" },
     { name: "Packing", href: "packing-list.html" },
     { name: "Bookings", href: "bookings-status.html" },
+    { name: "Buy", href: "buy.html" },
   ];
   const githubUrl = "https://github.com/DaveVoyles/2026-Japan-Trip-site/tree/main";
 
