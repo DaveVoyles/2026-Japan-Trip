@@ -8,12 +8,12 @@
     "startCityClass": "city-tokyo",
     "endCityClass": "city-tokyo",
     "transfer": "Flight UA131",
-    "morning": "🚗 Leave Narberth PA at 6:30 AM to arrive at SNAP Parking by 8:30 AM (1 hr 47 min drive, 99.3 miles). Drop off car at valet, then 10-minute ride to Newark (EWR Terminal C). Check bags and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
+    "morning": "🚗 Leave Narberth PA at 5:30 AM to arrive at SNAP Parking by 7:15 AM (1 hr 47 min drive, 99.3 miles). Drop off car at valet, then 10-minute ride to Newark (EWR Terminal C) by ~7:30 AM — 3 hours before gate departure. Check bags and board UA131 in Premium Economy. Hydrate early and stay on destination time as much as possible.",
     "daytime": "✈️ In transit across the Pacific, prioritize rest blocks, water, and light movement every few hours so arrival day is manageable.",
     "night": "🛬 Land at Haneda, clear immigration/customs, withdraw startup cash, and take Limousine Bus to Keio Plaza.",
     "details": [
       "🅿️ Parking: SNAP Parking (Covered Valet) — Rental ID 123520709. Cost $281.20 (paid via SpotHero).",
-      "🚗 Drive from Narberth PA to SNAP Parking: 1 hr 47 min (99.3 miles). SNAP valet transfer to EWR Terminal C: ~10 min.",
+      "🚗 Drive from Narberth PA to SNAP Parking: 1 hr 47 min (99.3 miles). Leave by 5:30 AM to reach EWR Terminal C by ~7:30 AM (3 hrs before gate). SNAP valet transfer to EWR Terminal C: ~10 min.",
       "✈️ Flight: UA131 (EWR → HND), approx. 14 hours.",
       "🛂 Arrival flow: Visit Japan Web QR → ATM → bus ticket counter.",
       "🚌 Limousine Bus (HND → Keio Plaza): ~¥1,300, ~75 min. Buy at Arrivals Lobby counter — no reservation needed.",
@@ -30,19 +30,19 @@
     "goal": "Survive the flight. Hydrate. Sleep.",
     "timeline": [
       {
-        "time": "06:30 AM",
+        "time": "05:30 AM",
         "activity": "🚗 Leave Narberth PA for SNAP Parking."
       },
       {
-        "time": "08:30 AM",
+        "time": "07:15 AM",
         "activity": "🅿️ Arrive at SNAP Parking (Covered Valet). Travel time: 1 hr 47 min (99.3 miles)."
       },
       {
-        "time": "08:30 AM - 08:40 AM",
+        "time": "07:15 AM - 07:25 AM",
         "activity": "🚗 Drop off car at SNAP Parking — Rental ID 123520709. Reserved through May 24 - June 4."
       },
       {
-        "time": "09:00 AM - 10:00 AM",
+        "time": "07:30 AM - 10:00 AM",
         "activity": "🧳 Check in, check bags, and proceed through security at EWR Terminal C."
       },
       {
