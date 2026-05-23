@@ -11,3 +11,4 @@
 - 2026-05-22: Added plain-English parenthetical clarifiers to ~40 Japanese proper nouns and cultural terms across all three neighborhood guides (Tokyo, Kyoto, Osaka)
 - 2026-05-22: Completed all 6 app improvements: SW cache fix, countdown/today detection, Japanese phrases page, print itinerary, packing checklist, trip overview map — all committed and pushed (f233d21)
 - 2026-05-23: Pre-trip polish: fixed bookings.json UA131 times + SNAP window, added Day 8 transit entries, filled Day 10 morning timeline, added Today's Bookings confirmation card to day-view.html
+- 2026-05-23: Round 3 pre-departure polish: bumped SW cache version, fixed Day 3 timeline gap, added Day 9 checkout + last lunch, corrected Day 10 checkout from 12 PM to 11 AM
