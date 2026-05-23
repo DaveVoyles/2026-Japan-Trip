@@ -398,7 +398,10 @@
     "night": "🏮 Use golden hour in Gion, respect no-photo private lanes, and finish with a stroll through Pontocho Alley.",
     "details": [
       "🚄 Major transfer day — protect buffer time around station logistics.",
-      "🏨 Hotel shift: Keio Plaza Hotel Shinjuku → Cross Hotel Kyoto Kawaramachi."
+      "🏨 Hotel shift: Keio Plaza Hotel Shinjuku → Cross Hotel Kyoto Kawaramachi.",
+      "📱 Before leaving: open SmartEX app and confirm seat/car numbers for the Nozomi. Screenshot in case of no signal underground.",
+      "🍱 Ekiben tip: buy a bento at Gransta (inside Tokyo Station concourse, before the Shinkansen gates) — station bentos are much better than onboard snacks.",
+      "🧳 Luggage note: Large bags (suitcases) cannot go in the overhead rack on Nozomi — use the luggage space behind the last row of seats or book an in-seat luggage spot via SmartEX."
     ],
     "note": "First intercity rail day. Keep schedule disciplined but calm.",
     "brief": {
@@ -437,6 +440,10 @@
       {
         "time": "05:00 PM",
         "activity": "🏮 Gion District (Geisha Spotting). Note: Stay on main streets. Private alleys are \"No Photo\" zones ($100 fine)."
+      },
+      {
+        "time": "07:30 PM",
+        "activity": "🍽️ Dinner TBD — Kyoto area. Nishiki Market side streets and Kiyamachi have many casual options; walk and pick by look."
       }
     ],
     "navigation": [
@@ -532,6 +539,10 @@
       {
         "time": "06:00 PM",
         "activity": "🌅 Golden-hour Gion walk. Stay on main streets and respect no-photo private lanes."
+      },
+      {
+        "time": "07:30 PM",
+        "activity": "🍽️ Dinner TBD — Gion / Shijo area. Many small restaurants along Hanamikoji and the Kamo River side streets."
       }
     ],
     "navigation": [
@@ -591,8 +602,10 @@
     "night": "🌃 Lean into Osaka's neon core: takoyaki, Glico sign photos, and Hozenji Yokocho for an older-lane contrast to the main strip.",
     "details": [
       "🏨 Hotel shift: Cross Hotel Kyoto Kawaramachi → Cross Hotel Osaka Dotonbori.",
-      "🚇 Transfer: Hankyu Kyoto Line from Kyoto-Kawaramachi → Osaka-Umeda (~43 min, ¥430), then Metro to Namba (~5 min, ¥180). Total ~50 min, ~¥610.",
-      "⛩️ Treat Fushimi Inari as the morning highlight; shorten to lower torii loop if Day 6 ran long."
+      "🚇 Transfer: Hankyu Kyoto Line from Kyoto-Kawaramachi → Osaka-Umeda (~43 min, ¥430), then Metro to Shinsaibashi.",
+      "⛩️ Treat Fushimi Inari as the morning highlight; shorten to lower torii loop if Day 6 ran long.",
+      "🌅 Fushimi Inari early-start tip: The main lower torii gate (Senbon Torii) is beautiful at 7–8 AM with almost no crowds. Later in the day it gets packed with tour groups.",
+      "🏨 Cross Hotel Osaka is a 3-min walk from Shinsaibashi Station (Osaka Metro Midosuji Line), Exit 7. Dotonbori canal is literally across the street."
     ],
     "note": "Second city move with a high-energy Osaka arrival.",
     "brief": {
