@@ -2,12 +2,10 @@
 
 Interactive travel guide and day-by-day itinerary site for Dave & Debbie's May 24–June 3, 2026 trip to Tokyo, Kyoto, and Osaka. Hosted on GitHub Pages.
 
-> The old `DaveVoyles/2026-Japan-Trip` repo has been archived and is no longer used. This repo is the source of truth.
-
 ## Live Site
 
 ```
-https://davevoyles.github.io/2026-Japan-Trip-site/
+https://davevoyles.github.io/2026-Japan-Trip/
 ```
 
 ---
